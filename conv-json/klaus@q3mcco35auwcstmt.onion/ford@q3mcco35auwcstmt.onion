@@ -1,0 +1,47 @@
+{
+    "2021-10-04T15:38:42.580753": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "ford@q3mcco35auwcstmt.onion",
+        "body": "Hi"
+    },
+    "2021-10-04T15:39:02.839267": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "ford@q3mcco35auwcstmt.onion",
+        "body": "Привет еще раз"
+    },
+    "2021-10-04T15:40:02.587913": {
+        "src": "ford@q3mcco35auwcstmt.onion",
+        "dst": "klaus@q3mcco35auwcstmt.onion",
+        "body": "зайди в настройки"
+    },
+    "2021-10-04T15:40:03.679339": {
+        "src": "ford@q3mcco35auwcstmt.onion",
+        "dst": "klaus@q3mcco35auwcstmt.onion",
+        "body": "плагины"
+    },
+    "2021-10-04T15:40:09.699432": {
+        "src": "ford@q3mcco35auwcstmt.onion",
+        "dst": "klaus@q3mcco35auwcstmt.onion",
+        "body": "OTR gkfuby"
+    },
+    "2021-10-04T15:40:14.151467": {
+        "src": "ford@q3mcco35auwcstmt.onion",
+        "dst": "klaus@q3mcco35auwcstmt.onion",
+        "body": "плагин"
+    },
+    "2021-10-04T15:40:14.152422": {
+        "src": "ford@q3mcco35auwcstmt.onion",
+        "dst": "klaus@q3mcco35auwcstmt.onion",
+        "body": "включить"
+    },
+    "2021-10-04T15:40:52.116691": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "ford@q3mcco35auwcstmt.onion",
+        "body": "хорошо, минутку"
+    },
+    "2021-10-04T15:42:25.202709": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "ford@q3mcco35auwcstmt.onion",
+        "body": "я включил это"
+    }
+}

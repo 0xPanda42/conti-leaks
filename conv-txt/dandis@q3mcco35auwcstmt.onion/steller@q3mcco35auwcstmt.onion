@@ -1,0 +1,109 @@
+##################################################
+Conversation between:
+	- dandis@q3mcco35auwcstmt.onion
+	- steller@q3mcco35auwcstmt.onion
+20 messages
+first: 2021-05-20T16:55:32.369352
+last:  2021-05-20T17:01:57.778689
+##################################################
+
+2021-05-20T16:55:32.369352  steller@q3mcco35auwcstmt.onion
+	[ru] сюда
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:56:11.080514  dandis@q3mcco35auwcstmt.onion
+	[ru] Скорее всего уже готово
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:56:13.610560  dandis@q3mcco35auwcstmt.onion
+	[ru] 5 мин
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:58:28.492480  dandis@q3mcco35auwcstmt.onion
+	[ru] 33201
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:58:31.171827  dandis@q3mcco35auwcstmt.onion
+	[ru] Этот порт
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:59:28.907105  steller@q3mcco35auwcstmt.onion
+	[ru] Это внутренний?
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:59:36.208213  dandis@q3mcco35auwcstmt.onion
+	[ru] Внешний
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:59:38.702596  dandis@q3mcco35auwcstmt.onion
+	[ru] Для подключения
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:59:47.347548  dandis@q3mcco35auwcstmt.onion
+	[ru] Идет на 4022 внутри
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:59:50.859792  steller@q3mcco35auwcstmt.onion
+	[ru] Нужен 4022
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T16:59:54.334657  steller@q3mcco35auwcstmt.onion
+	[ru] внешний
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:00:11.213356  dandis@q3mcco35auwcstmt.onion
+	[ru] Так он будет пустой
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:00:43.645144  steller@q3mcco35auwcstmt.onion
+	[ru] Почему? Внутренний любой, внешний 4022
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:01:14.347745  dandis@q3mcco35auwcstmt.onion
+	[ru] Это не так работает
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:01:22.802888  dandis@q3mcco35auwcstmt.onion
+	[ru] Входной ип это большой сервер с внутренней виртуализацией
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:01:29.473965  dandis@q3mcco35auwcstmt.onion
+	[ru] Я тебе открою порт на нем - 4022
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:01:40.152411  dandis@q3mcco35auwcstmt.onion
+	[ru] Но к нему не будет прописано правил взаимодействия с виртуалкой
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:01:57.777533  steller@q3mcco35auwcstmt.onion
+	[ru] Входной ип это большой сервер с внутренней виртуализацией
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:01:57.778117  steller@q3mcco35auwcstmt.onion
+	[ru] Я тебе открою порт на нем - 4022
+	[en] <?>
+	[fr] <?>
+
+2021-05-20T17:01:57.778689  steller@q3mcco35auwcstmt.onion
+	[ru] Но к нему не будет прописано правил взаимодействия с виртуалкой
+	[en] <?>
+	[fr] <?>
+

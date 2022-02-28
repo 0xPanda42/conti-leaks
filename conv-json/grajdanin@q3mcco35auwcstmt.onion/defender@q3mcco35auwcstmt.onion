@@ -1,0 +1,21 @@
+{
+    "2021-02-08T16:10:12.871040": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "grajdanin@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-08T16:13:03.084240": {
+        "src": "grajdanin@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-10-22T14:15:37.417825": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "grajdanin@q3mcco35auwcstmt.onion",
+        "body": "ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать\n\nновый домен жабы версии 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nего прописываем в настройках аккаунта - соединение - сервер\nперед этим на это вкладке ставим галку Вручную указать адрес сервера и порт\n\nпорт стандартный 5222 \n\nВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения \n\n!!! Как сделаете, отпишите мне что все ОК"
+    }
+}

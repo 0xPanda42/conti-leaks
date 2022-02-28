@@ -1,0 +1,22 @@
+{
+    "2021-11-02T12:00:35.963300": {
+        "src": "ford@q3mcco35auwcstmt.onion",
+        "dst": "master@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-11-02T12:01:07.094912": {
+        "src": "master@q3mcco35auwcstmt.onion",
+        "dst": "ford@q3mcco35auwcstmt.onion",
+        "body": "Вижу"
+    },
+    "2021-11-12T12:38:15.655708": {
+        "src": "master@q3mcco35auwcstmt.onion",
+        "dst": "ford@q3mcco35auwcstmt.onion",
+        "body": "Привет, рокет не работает?"
+    },
+    "2021-11-12T12:39:30.951037": {
+        "src": "master@q3mcco35auwcstmt.onion",
+        "dst": "ford@q3mcco35auwcstmt.onion",
+        "body": "У меня есть что вам отправить\nСделал и протестил 6 писем"
+    }
+}

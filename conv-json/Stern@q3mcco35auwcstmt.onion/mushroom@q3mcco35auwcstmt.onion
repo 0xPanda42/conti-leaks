@@ -1,0 +1,198 @@
+{
+    "2021-02-02T15:26:30.672479": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-02T15:37:19.333832": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.",
+        "body_fr": "Salut.",
+        "body_en": "Hello."
+    },
+    "2021-02-02T15:44:01.753064": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "как у тебя с бк ?",
+        "body_fr": "Comment allez-vous de la BC?",
+        "body_en": "How are you from the BC?"
+    },
+    "2021-02-02T15:45:27.501488": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Для первого и второго протокола работает.",
+        "body_fr": "Pour le premier et le deuxième protocole fonctionne.",
+        "body_en": "For the first and second protocol works."
+    },
+    "2021-02-02T15:45:50.346398": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Адреса ждём.",
+        "body_fr": "Adresses en attente.",
+        "body_en": "Addresses waiting."
+    },
+    "2021-02-02T15:45:54.568581": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "какие адреса ?",
+        "body_fr": "Quelles sont les adresses?",
+        "body_en": "What are the addresses?"
+    },
+    "2021-02-02T15:46:23.048421": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Чтобы прошить их в программе, на них запросы посылаются из бк.",
+        "body_fr": "Pour les classer dans le programme, les demandes leur sont envoyées de la BC.",
+        "body_en": "To flash them in the program, requests are sent to them from BC."
+    },
+    "2021-02-02T15:46:34.786087": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Они каждый раз разные.",
+        "body_fr": "Ils sont différents à chaque fois.",
+        "body_en": "They are different every time."
+    },
+    "2021-02-02T15:47:48.267700": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Их Green выдаёт.",
+        "body_fr": "Leur vert donne.",
+        "body_en": "Their Green gives."
+    },
+    "2021-02-03T15:54:21.130622": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-24T16:29:36.600032": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-02-25T07:09:34.422869": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-12T15:17:24.802756": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-12T15:58:40.861288": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "привет принял",
+        "body_fr": "Bonjour accepté",
+        "body_en": "Hello accepted"
+    },
+    "2021-03-15T07:20:48.862560": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "привет принял",
+        "body_fr": "Bonjour accepté",
+        "body_en": "Hello accepted"
+    },
+    "2021-04-01T14:39:52.038798": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "как дела",
+        "body_fr": "Comment vas-tu",
+        "body_en": "how are you"
+    },
+    "2021-04-01T15:53:19.935277": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "как дела",
+        "body_fr": "Comment vas-tu",
+        "body_en": "how are you"
+    },
+    "2021-04-01T15:54:09.786158": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Чищу сейчас загрузчики для спам админки по первому и второму протоколу.",
+        "body_fr": "Je nettoie maintenant les chargeurs pour les administrateurs de spam sur le premier et le deuxième protocole.",
+        "body_en": "I now clean the loaders for spam admins on the first and second protocol."
+    },
+    "2021-06-07T12:49:39.305870": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-07T12:58:11.373595": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Я делаю каждый день сборки загрузчик/бот. Чищу их периодически. Периодически улучшаю/изменяю их. Когда не занимаюсь БК, занимаюсь доработкой крипта своего, чтобы его можно было использовать на сервере для автоматических сборок."
+    },
+    "2021-06-07T13:10:33.275761": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-07T13:10:34.183711": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "как дела"
+    },
+    "2021-06-07T13:10:36.324544": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "с бк у тебя"
+    },
+    "2021-06-07T13:10:40.487849": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "их кто нибудь польззуется"
+    },
+    "2021-06-07T13:13:48.969640": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Этим Kaktus заведует. Кому какой БК отдавать."
+    },
+    "2021-06-07T13:14:35.887877": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "У него надо узнавать."
+    },
+    "2021-06-08T09:30:24.295387": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-28T08:05:57.540547": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T11:37:21.799792": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-09-13T07:59:59.794685": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    },
+    "2021-09-13T08:31:40.345322": {
+        "src": "mushroom@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Сейчас делаю каждый день по несколько сборок загрузчик/бот чищу их по необходимости, дорабатываю."
+    },
+    "2021-09-13T08:32:30.012060": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "mushroom@q3mcco35auwcstmt.onion",
+        "body": "Привет понял"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "2022-02-03T13:50:20.164072": {
+        "src": "grand@q3mcco35auwcstmt.onion",
+        "dst": "derekson@q3mcco35auwcstmt.onion",
+        "body": "бро привет, я от грина"
+    },
+    "2022-02-03T13:57:57.633726": {
+        "src": "derekson@q3mcco35auwcstmt.onion",
+        "dst": "grand@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2022-02-22T08:45:35.394457": {
+        "src": "derekson@q3mcco35auwcstmt.onion",
+        "dst": "grand@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

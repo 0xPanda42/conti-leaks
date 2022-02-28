@@ -1,0 +1,91 @@
+{
+    "2021-04-02T12:21:39.297852": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "привет как дела",
+        "body_fr": "Bonjour comment vas-tu",
+        "body_en": "Hello how are you"
+    },
+    "2021-04-02T12:21:41.558013": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "ты чем занят?",
+        "body_fr": "Tu fais quoi maintenant?",
+        "body_en": "What are you doing now?"
+    },
+    "2021-06-05T20:50:16.724822": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "Ghbdtn"
+    },
+    "2021-06-05T20:50:17.668162": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-07T13:38:18.484048": {
+        "src": "spider@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет. искал меня?"
+    },
+    "2021-06-07T19:48:39.708574": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-06-07T19:48:41.157376": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "как дела"
+    },
+    "2021-06-07T19:48:42.399800": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "чем занят"
+    },
+    "2021-06-08T08:56:20.567415": {
+        "src": "spider@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет. все норм. тружусь )"
+    },
+    "2021-06-08T09:18:37.978657": {
+        "src": "spider@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет. все норм. тружусь )"
+    },
+    "2021-06-08T09:20:24.121722": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "чем занимаешься"
+    },
+    "2021-06-08T09:20:26.694735": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "какие проекты у тебя"
+    },
+    "2021-06-08T09:31:51.558259": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-08T14:36:59.498045": {
+        "src": "spider@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "шифрование/дешифрование, из последнего - отправка файлов. сейчас разбираюсь с llvm. если ты про крипту - в ней практического опыта нет, могу только принимать."
+    },
+    "2021-06-09T10:32:46.281768": {
+        "src": "spider@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "шифрование/дешифрование, из последнего - отправка файлов. сейчас разбираюсь с llvm. если ты про крипту - в ней практического опыта нет, могу только принимать."
+    },
+    "2021-06-28T08:04:55.640693": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T08:05:17.076687": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spider@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    }
+}

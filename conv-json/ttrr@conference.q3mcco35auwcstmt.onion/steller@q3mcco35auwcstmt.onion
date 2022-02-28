@@ -1,0 +1,872 @@
+{
+    "2021-08-27T13:15:46.094948": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "defender@q3mcco35auwcstmt.onion/Psi+ приглашает вас в комнату ttrr@conference.q3mcco35auwcstmt.onion"
+    },
+    "2021-08-27T13:33:53.539107": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "test"
+    },
+    "2021-08-27T13:33:53.540190": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "test"
+    },
+    "2021-08-30T14:53:48.796627": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "defender@q3mcco35auwcstmt.onion/Psi+ приглашает вас в комнату ttrr@conference.q3mcco35auwcstmt.onion"
+    },
+    "2021-08-30T14:58:12.337869": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "test"
+    },
+    "2021-08-30T14:58:12.358219": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "test"
+    },
+    "2021-08-30T14:58:30.430926": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "test"
+    },
+    "2021-08-30T14:58:30.432457": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "test"
+    },
+    "2021-08-30T15:01:00.270830": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-08-30T15:01:00.271762": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-08-30T15:01:18.328350": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-08-30T15:01:18.331105": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-08-30T15:09:12.726044": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "ога"
+    },
+    "2021-08-30T15:09:12.726605": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "чтобы сюда кодера модуля подтянуть к этому времени"
+    },
+    "2021-08-30T15:09:12.727460": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "еще надо в лог писать длину пост данных .. потому что у меня лимит 64 кб"
+    },
+    "2021-08-30T15:09:12.728210": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "[19:43:23] <dgh> Там надо посмотреть весь лог, суть в том что должно быть по 8 полей \n[19:43:39] <dgh> И точно такую же ошибку нам выдавало когда их было больше или меньше \n[19:43:52] <dgh> И возвращало типа что то Missmatch parametr count \n[19:43:55] <dgh> В ответе"
+    },
+    "2021-08-30T15:09:12.728715": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "таймаут по чтению - 50 секунд"
+    },
+    "2021-08-30T15:09:12.728908": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Это еще можно проверить"
+    },
+    "2021-08-30T15:09:12.729247": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "да .. надо логировать ответ сервера .. там 403 может быть с пояснением"
+    },
+    "2021-08-30T15:09:12.729654": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]\nтакие колонки должны быть"
+    },
+    "2021-08-30T15:09:12.729949": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "у меня может в глазах двоится .. но я насчитал в запросе 15 колонов в пост-дата"
+    },
+    "2021-08-30T15:09:12.730415": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "колонок"
+    },
+    "2021-08-30T15:09:12.730827": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Я по этому куску разбил по 8 везде"
+    },
+    "2021-08-30T15:09:12.731399": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Или ты полный лог глядишь"
+    },
+    "2021-08-30T15:09:12.731873": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "?"
+    },
+    "2021-08-30T15:09:12.732430": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "хотя нет .. 8 )"
+    },
+    "2021-08-30T15:09:12.733122": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "То что в лимит уперлось кстати вероятно."
+    },
+    "2021-08-30T15:09:12.733885": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "короче надо ответ сервера логировать . будет понятнее . .есть такая возможсность ? )"
+    },
+    "2021-08-30T15:09:12.734107": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Тоже"
+    },
+    "2021-08-30T15:09:12.734683": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "и размер запроса"
+    },
+    "2021-08-30T15:09:12.735307": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "свалил )"
+    },
+    "2021-08-30T15:09:12.735805": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "сейчас автор модуля должен зайти"
+    },
+    "2021-08-30T15:09:35.350028": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Готово"
+    },
+    "2021-08-30T15:09:35.353552": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Готово"
+    },
+    "2021-08-30T15:15:06.286263": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "\n» [ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]\nРазработчик админки ещё планирует 2 поля в конец добавить: Secure, HttpOnly"
+    },
+    "2021-08-30T15:15:06.291437": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "\n» [ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]\nРазработчик админки ещё планирует 2 поля в конец добавить: Secure, HttpOnly"
+    },
+    "2021-08-31T08:22:38.433141": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "ну и ?"
+    },
+    "2021-08-31T08:22:38.434105": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "одному мне больше всез надо ?"
+    },
+    "2021-08-31T08:22:38.434949": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "со вчера вечера что-то писали тут?"
+    },
+    "2021-08-31T08:23:54.170050": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "zulas: скинь еще раз кусок того POSTа, который был отвергнут бэком"
+    },
+    "2021-08-31T08:24:17.348182": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "А тут истории нет?\nПисал по поводу новых полей в записи куки"
+    },
+    "2021-08-31T08:24:17.352436": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "А тут истории нет?\nПисал по поводу новых полей в записи куки"
+    },
+    "2021-08-31T08:24:26.070109": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "нету истории"
+    },
+    "2021-08-31T08:26:45.180535": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "ну так на чем остановились?"
+    },
+    "2021-08-31T08:27:19.304152": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "я остановился на этом: вот был POST, с виду нормальный, бэк на него 403 сказал. Я попросил зуласа сказать что в нем не так"
+    },
+    "2021-08-31T08:27:38.957615": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "а я попросил расширить лог . чтобы логировало ответ"
+    },
+    "2021-08-31T08:27:51.223612": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "и размер запроса"
+    },
+    "2021-08-31T08:29:36.044035": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "а ты steller ?"
+    },
+    "2021-08-31T08:31:18.947529": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Писал по поводу новых полей в записи куки"
+    },
+    "2021-08-31T08:31:18.950254": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Писал по поводу новых полей в записи куки"
+    },
+    "2021-08-31T08:33:03.543013": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "что именно?"
+    },
+    "2021-08-31T08:33:15.472946": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "403 встречалась раньше ошибка\n-----------CJLVIYOINTQPMYSU\nContent-Disposition: form-data; name=\"data\"\n\nuser|Chrome|.google.com|ANID|\tdjEw171ep2SDF+UMAcWRRWBcsbp5H34/V0frREuTTKAE2F3BXw3fVVHhgYgcKidlSSPxtTs32WPiqcV/p021G67RLpNXgRDrMqljrJ16Ml1Ckwz2a2URAQ==|1588241125|1651313125|/\nuser|Chrome|.register.com|__utma|\tdjEwnpzEp2a3+eOKByaEj0nLtLL7HGvIusWq1obAuia9wTCz3pPEUF6A+gFpZ3LHPf2GSueVelCwgrXMR96kV8MmLcClokQ=|1588241143|1651313173|/\n\n-----------CJLVIYOINTQPMYSU\nContent-Disposition: form-data; name=\"source\"\n\nChrome cookies\n-----------CJLVIYOINTQPMYSU--\n\n403\nMismatch parameters count!"
+    },
+    "2021-08-31T08:33:15.477059": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "403 встречалась раньше ошибка\n-----------CJLVIYOINTQPMYSU\nContent-Disposition: form-data; name=\"data\"\n\nuser|Chrome|.google.com|ANID|\tdjEw171ep2SDF+UMAcWRRWBcsbp5H34/V0frREuTTKAE2F3BXw3fVVHhgYgcKidlSSPxtTs32WPiqcV/p021G67RLpNXgRDrMqljrJ16Ml1Ckwz2a2URAQ==|1588241125|1651313125|/\nuser|Chrome|.register.com|__utma|\tdjEwnpzEp2a3+eOKByaEj0nLtLL7HGvIusWq1obAuia9wTCz3pPEUF6A+gFpZ3LHPf2GSueVelCwgrXMR96kV8MmLcClokQ=|1588241143|1651313173|/\n\n-----------CJLVIYOINTQPMYSU\nContent-Disposition: form-data; name=\"source\"\n\nChrome cookies\n-----------CJLVIYOINTQPMYSU--\n\n403\nMismatch parameters count!"
+    },
+    "2021-08-31T08:33:43.140664": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "zulas: сколько полей в куки у тебя сейчас?\nsteller: а у тебя?"
+    },
+    "2021-08-31T08:34:59.534959": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]"
+    },
+    "2021-08-31T08:35:00.850965": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "вот поля"
+    },
+    "2021-08-31T08:35:14.269229": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "разделитель |"
+    },
+    "2021-08-31T08:35:28.659241": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Разработчик админки планирует добавить 2 поля secure, httponly в конец записи.\nСейчас:\nUsername, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path"
+    },
+    "2021-08-31T08:35:28.667394": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Разработчик админки планирует добавить 2 поля secure, httponly в конец записи.\nСейчас:\nUsername, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path"
+    },
+    "2021-08-31T08:35:46.677128": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "разделители строк: [ <<10>>, <<13,10>>]"
+    },
+    "2021-08-31T08:37:31.163509": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "403 была, когда некоторые поля не кодировались в В64. В отстойнике они безусловно декодировались."
+    },
+    "2021-08-31T08:37:31.168880": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "403 была, когда некоторые поля не кодировались в В64. В отстойнике они безусловно декодировались."
+    },
+    "2021-08-31T08:38:28.741350": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "А что по поводу максимального размера данных, он ограничен 64КБ будет?"
+    },
+    "2021-08-31T08:38:28.754283": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "А что по поводу максимального размера данных, он ограничен 64КБ будет?"
+    },
+    "2021-08-31T08:39:10.942106": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "{read_length, 64000},\n{read_timeout, 50000}\nя могу и больше сделать"
+    },
+    "2021-08-31T08:39:15.179828": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "таковы требоания были"
+    },
+    "2021-08-31T08:40:40.546258": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "50000 это в миллисекундах"
+    },
+    "2021-08-31T08:43:47.765856": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "В модуле нет такого ограничения. Можно разбить на несколько запросов, в принципе.\nА какие ошибки отстойник может отдавать? Их желательно как-то обрабатывать.\n403 добавил в обработку. На модуль приходили ещё 404 и 500. 500, видимо, от прокладки."
+    },
+    "2021-08-31T08:43:47.770832": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "В модуле нет такого ограничения. Можно разбить на несколько запросов, в принципе.\nА какие ошибки отстойник может отдавать? Их желательно как-то обрабатывать.\n403 добавил в обработку. На модуль приходили ещё 404 и 500. 500, видимо, от прокладки."
+    },
+    "2021-08-31T08:45:02.925652": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "при успешном приеме и добавлении в базу dero всегда выдает 200 и /1/ ?"
+    },
+    "2021-08-31T08:45:20.941876": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "403 ошибка формата данных?"
+    },
+    "2021-08-31T08:45:42.351035": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "просо 200 бывает без /1/ ?"
+    },
+    "2021-08-31T08:45:46.772014": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "просто"
+    },
+    "2021-08-31T08:46:17.062726": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas:"
+    },
+    "2021-08-31T08:46:17.066281": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "zulas:"
+    },
+    "2021-08-31T08:47:07.171079": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "зачем этот /1/ ?"
+    },
+    "2021-08-31T08:47:10.011646": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "reply(not_found, Req) ->\n { ok, Req1 } = cowboy_req:reply(404, [], <<\"Not found\">>, Req),\n Req1;\n\nreply(forbidden, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [], <<\"Forbidden\">>, Req),\n Req1;\n\nreply(missing_data, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Missing data field!\">>, Req),\n Req1;\n\nreply(missing_keys, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Missing keys field!\">>,  Req),\n Req1;\n\nreply(missing_parameters, Req) ->\n {ok,Req1} = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Mismatch parameters count!\">>,  Req),\n Req1;\n\nreply(request_timeout, Req) ->\n {ok,Req1} = cowboy_req:reply(408, [{<<\"Request Timeout\">>, <<\"text/plain\">>}], <<\"Request Timeout\">>,  Req),\n Req1;"
+    },
+    "2021-08-31T08:47:16.137269": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "вот такие ошибки бывают"
+    },
+    "2021-08-31T08:47:22.019182": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "текст у вас отобразился ?"
+    },
+    "2021-08-31T08:47:26.446357": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "зачем этот /1/ ?"
+    },
+    "2021-08-31T08:47:26.450862": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "reply(not_found, Req) ->\n { ok, Req1 } = cowboy_req:reply(404, [], <<\"Not found\">>, Req),\n Req1;\n\nreply(forbidden, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [], <<\"Forbidden\">>, Req),\n Req1;\n\nreply(missing_data, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Missing data field!\">>, Req),\n Req1;\n\nreply(missing_keys, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Missing keys field!\">>,  Req),\n Req1;\n\nreply(missing_parameters, Req) ->\n {ok,Req1} = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Mismatch parameters count!\">>,  Req),\n Req1;\n\nreply(request_timeout, Req) ->\n {ok,Req1} = cowboy_req:reply(408, [{<<\"Request Timeout\">>, <<\"text/plain\">>}], <<\"Request Timeout\">>,  Req),\n Req1;"
+    },
+    "2021-08-31T08:47:26.451645": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "вот такие ошибки бывают"
+    },
+    "2021-08-31T08:47:26.452167": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "текст у вас отобразился ?"
+    },
+    "2021-08-31T08:47:31.374804": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "а то у меня пиджин -- и нифига"
+    },
+    "2021-08-31T08:47:40.869820": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "отразился"
+    },
+    "2021-08-31T08:48:11.907950": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "200 бывает без /1/ ?"
+    },
+    "2021-08-31T08:48:50.546255": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "по коду вроде не бывает"
+    },
+    "2021-08-31T08:48:57.443844": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "почуму спрашиваю - нужно ли в модуле проверять получение /1/ или достаточно получить статус 200 ?"
+    },
+    "2021-08-31T08:49:06.640957": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "[11:47:07] <hof> зачем этот /1/ ?\nтак по тз"
+    },
+    "2021-08-31T08:49:25.812565": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "это типа следующая команда для клиента"
+    },
+    "2021-08-31T08:49:29.557836": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "т.е. 200 без /1/ не бывает?"
+    },
+    "2021-08-31T08:49:55.934733": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "не бывает"
+    },
+    "2021-08-31T08:50:06.570101": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "ок, отлично"
+    },
+    "2021-08-31T08:50:53.717108": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas: А сейчас логирование запросов http есть, их можно проверить?"
+    },
+    "2021-08-31T08:50:53.720196": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "zulas: А сейчас логирование запросов http есть, их можно проверить?"
+    },
+    "2021-08-31T08:51:29.472149": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "есть"
+    },
+    "2021-08-31T08:52:48.113808": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Скинь тогда проблемные запросы."
+    },
+    "2021-08-31T08:52:48.119344": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Скинь тогда проблемные запросы."
+    },
+    "2021-08-31T08:58:25.520820": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "2021-08-31 11:52:22.415 [info] <0.6857.3> Data: <<\"POST /tot57/WIN-U4U2CDE99LP_W617601.8C95D48B33FF1976677889D52ABB8859/84/ HTTP/1.0\\r\\nHost: 203.76.105.227\\r\\nX-Real-IP: 203.76.105.227\\r\\nX-Forwarded-For: 203.76.105.227\\r\\nConnection: close\\r\\nContent-Length: 11059\\r\\nAccept: */*\\r\\nContent-Type: multipart/form-data; boundary=---------MOBMWAMXGTKVMATK\\r\\nUser-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729)\\r\\nCache-Control: no-cache\\r\\n\\r\\n-----------MOBMWAMXGTKVMATK\\r\\nContent-Disposition: form-data; name=\\\"data\\\"\\r\\n\\r\\nAdministrador|Chrome|Lmdvb2dsZS5jb20=|Q0dJQw==|RWhReFF6RkRTRUpFWDJWelRWZzVOakZOV0RrMk1TS0hBWFJsZUhRdmFIUnRiQ3hoY0hCc2FXTmhkR2x2Ymk5NGFIUnRiQ3Q0Yld3c1lYQndiR2xqWVhScGIyNHZlRzFzTzNFOU1DNDVMR2x0WVdkbEwyRjJhV1lzYVcxaFoyVXZkMlZpY0N4cGJXRm5aUzloY0c1bkxDb3ZLanR4UFRBdU9DeGhjSEJzYVdOaGRHbHZiaTl6YVdkdVpXUXRaWGhqYUdGdVoyVTdkajFpTXp0eFBUQXVPUQ==|1625670207|1641222207|L2NvbXBsZXRlL3NlYXJjaA==\\r\\nAdministrador|Chrome|Lmdvb2dsZS5jb20=|Q0dJQw==|RWhReFF6RkRTRUpFWDJWelRWZzVOakZOV0RrMk1TS0hBWFJsZUhRdmFIUnRiQ3hoY0hCc2FXTmhkR2x2Ymk5NGFIUnRiQ3Q0Yld3c1lYQndiR2xqWVhScGIyNHZlRzFzTzNFOU1DNDVMR2x0WVdkbEwyRjJhV1lzYVcxaFoyVXZkMlZpY0N4cGJXRm5aUzloY0c1bkxDb3ZLanR4UFRBdU9DeGhjSEJzYVdOaGRHbHZiaTl6YVdkdVpXUXRaWGhqYUdGdVoyVTdkajFpTXp0eFBUQXVPUQ==|1625670207|1641222207|L3NlYXJjaA==\\r\\nAdministrador|C...\">>\n State: {state,#Port<0.108426>,ranch_tcp,[cowboy_router,cowboy_handler],false,[{listener,http},{dispatch,[{'_',[],[{['...'],[],http_handler,[{limits,32768,1024,4096,102400,8529920,8388608,1024}]}]}]}],undefined,undefined,5,1,100,4096,64,4096,100,5000,1630399947415}\n ReqEmpty 0\n2021-08-31 11:52:22.416 [critical] <0.6857.3>@http_handler:handle:33 Error {badmatch,false} [{base64,decode_binary,2,[{file,\"base64.erl\"},{line,212}]},{http_handler,'-save84/3-fun-4-',5,[{file,\"src/http_handler.erl\"},{line,329}]},{lists,foreach,2,[{file,\"lists.erl\"},{line,1338}]},{http_handler,save84,3,[{file,\"src/http_handler.erl\"},{line,325}]},{http_handler,handle,2,[{file,\"src/http_handler.erl\"},{line,30}]},{cowboy_handler,handler_handle,4,[{file,\"src/cowboy_handler.erl\"},{line,111}]},{cowboy_protocol,execute,4,[{file,\"src/cowboy_protocol.erl\"},{line,443}]}]"
+    },
+    "2021-08-31T08:58:38.142764": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "вот . не может басе64 декодировать"
+    },
+    "2021-08-31T08:58:42.754132": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "не знаю какое поле"
+    },
+    "2021-08-31T08:59:10.717203": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "крашей больше нет"
+    },
+    "2021-08-31T08:59:29.608597": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "всмысли тех что хттп2"
+    },
+    "2021-08-31T09:05:10.041653": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Это старые данные. Сейчас модуль отправляет Username, Domain, Cookie_name, Cookie_value, Path  в В64"
+    },
+    "2021-08-31T09:05:10.044616": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Это старые данные. Сейчас модуль отправляет Username, Domain, Cookie_name, Cookie_value, Path  в В64"
+    },
+    "2021-08-31T09:05:45.411661": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "[ Group, IdLow, IdHigh, base64:decode(Username), Browser, Domain, base64:decode(Cookie_name), base64:decode(Cookie_value), Created, Expires, base64:decode(Path) ]);\n\nвот 4 поля декодируются только"
+    },
+    "2021-08-31T09:05:49.216827": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "надо все ?"
+    },
+    "2021-08-31T09:07:35.424938": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Нужно домен ещё декодировать"
+    },
+    "2021-08-31T09:07:35.427984": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Нужно домен ещё декодировать"
+    },
+    "2021-08-31T09:08:11.259343": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "ок .. добавил в новых версиях ."
+    },
+    "2021-08-31T09:09:24.731328": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "<<\"INSERT INTO data84 (created_at, \\\"group\\\", id_low, id_high, username, browser, \\\"domain\\\", cookie_name, cookie_value, created, expires, path ) VALUES ( now(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11 )\">> [<<\"tot138\">>,4268354464764256071,-5531770838041019469,<<149,166,247>>,<<\"Firefox\">>,<<\".mail.ru\">>,<<\"mrcu\">>,<<\"14B45890605336B122FB29388502\">>,<<\"1399543312\">>,<<\"1714903312\">>,<<\"/\">>]\n2021-08-31 11:52:59.108 [error] <0.6879.3>@db:transform:58 Error {error,error,<<\"22021\">>,<<\"invalid byte sequence for encoding \\\"UTF8\\\": 0x95\">>,[]} with query {<<\"INSERT INTO data84 (created_at, \\\"group\\\", id_low, id_high, username, browser, \\\"domain\\\", cookie_name, cookie_value, created, expires, path ) VALUES ( now(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11 )\">>,[<<\"tot138\">>,4268354464764256071,-5531770838041019469,<<149,166,247>>,<<\"Firefox\">>,<<\".mail.ru\">>,<<\"mrcu\">>,<<\"14B45890605336B122FB29388502\">>,<<\"1399543312\">>,<<\"1714903312\">>,<<\"/\">>]}\n\nесть еще такое"
+    },
+    "2021-08-31T09:09:32.432761": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "на УТФ-8 не походит кодировка"
+    },
+    "2021-08-31T09:09:59.452667": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "И ещё нужно 2 поля добавить в конец записи.\nsecure, httponly\nЗначения: 0 & 1"
+    },
+    "2021-08-31T09:09:59.455285": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "И ещё нужно 2 поля добавить в конец записи.\nsecure, httponly\nЗначения: 0 & 1"
+    },
+    "2021-08-31T09:10:00.430154": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "насколько я понимаю это про <<149,166,247>>"
+    },
+    "2021-08-31T09:10:26.179486": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "в таблицу колонки ?"
+    },
+    "2021-08-31T09:10:55.305491": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Да, в запись поле, в таблицу колонки."
+    },
+    "2021-08-31T09:10:55.306197": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Да, в запись поле, в таблицу колонки."
+    },
+    "2021-08-31T09:11:43.254940": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "А юникод в каком поле не проходит?"
+    },
+    "2021-08-31T09:11:43.258138": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "А юникод в каком поле не проходит?"
+    },
+    "2021-08-31T09:20:09.638982": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": ",<<149,166,247>> я думаю вот это не может быть юникодом"
+    },
+    "2021-08-31T09:20:45.227130": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "юзернейм"
+    },
+    "2021-08-31T09:22:08.340946": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Похоже, пользователь. Скорее всего модуль не отправляет UTF8. Нужно проверить.\nА ты можешь в readme этот формат добавить + описание ошибок?\nМы уже много времени потратили на поиск этих ошибок из-за отсутствия описания протокола обмена."
+    },
+    "2021-08-31T09:22:08.346737": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Похоже, пользователь. Скорее всего модуль не отправляет UTF8. Нужно проверить.\nА ты можешь в readme этот формат добавить + описание ошибок?\nМы уже много времени потратили на поиск этих ошибок из-за отсутствия описания протокола обмена."
+    },
+    "2021-08-31T09:23:06.134832": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "формат чего ?"
+    },
+    "2021-08-31T09:23:49.263222": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "в каталог doc есть некоторое описалово"
+    },
+    "2021-08-31T09:23:54.882664": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Кукисов, например. Ещё бы хорошо остальные данные проверить."
+    },
+    "2021-08-31T09:23:54.886365": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Кукисов, например. Ещё бы хорошо остальные данные проверить."
+    },
+    "2021-08-31T09:24:07.883915": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Там кукисы описаны?"
+    },
+    "2021-08-31T09:24:07.889070": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Там кукисы описаны?"
+    },
+    "2021-08-31T09:24:16.335967": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "какие кукисы ?"
+    },
+    "2021-08-31T09:24:39.283767": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Куки, печенюшки"
+    },
+    "2021-08-31T09:24:39.286371": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Куки, печенюшки"
+    },
+    "2021-08-31T09:24:57.066231": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "я понял что такое куки, но к чему ты это говоришь ?"
+    },
+    "2021-08-31T09:25:05.867647": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "1. Создать новую команду для получения данных куки. Например, код команды 84\n\n2. Создать таблицу для хранения данных (псевдокод SQL):\nCREATE TABLE cookies (\n  id SERIAL,\n  username VARCHAR(255),\n  browser VARCHAR(255)\n  domain VARCHAR(255)\n  cookie_name VARCHAR(255)\n  cookie_value VARCHAR(255)\n  created DATETIME,\n  expires DATETIME,\n  path VARCHAR(255)\n);\n\n3. Обеспечить прием данных в следующем формате:\n- простой текст, разделенный на строки.\nРазделитель строк - может быть как UNIX, так и DOS.\nОдна строка - одна запись.\nРазделитель полей в записи - вертикальная черта |\nФормат записи:\n\nusername|browser|domain|cookie_name|cookie_value|created|expires|path\\r\\n\n\nгде\n\nusername     - имя пользователя\nbrowser      - код броузера (enum = chrome|ff|ie|edge)\ndomain       - домен куки\ncookie_name  - имя куки\ncookie_value - значение куки\ncreated      - дата-время создания, Unix time\nexpires      - дата-время истечения, Unix time\npath         - путь URI"
+    },
+    "2021-08-31T09:26:49.562426": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "К тому, что у меня не было этого дока. Где описание В64? Это часть формата."
+    },
+    "2021-08-31T09:26:49.564843": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "К тому, что у меня не было этого дока. Где описание В64? Это часть формата."
+    },
+    "2021-08-31T09:28:37.290590": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "нету про базе64 .. сами добавили очевидно"
+    },
+    "2021-08-31T09:28:51.260588": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "чтобы экранировать символы"
+    },
+    "2021-08-31T09:29:50.573071": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Ну, вот это и нужно в доку добавить.\ncreated у нас в секундах?"
+    },
+    "2021-08-31T09:29:50.579209": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Ну, вот это и нужно в доку добавить.\ncreated у нас в секундах?"
+    },
+    "2021-08-31T09:30:27.365537": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "created_at я ставлю сам как NOW()"
+    },
+    "2021-08-31T09:30:36.629816": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Не догадываться же, как там отстойник обрабатывает, верно?"
+    },
+    "2021-08-31T09:30:36.635220": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Не догадываться же, как там отстойник обрабатывает, верно?"
+    },
+    "2021-08-31T09:31:00.362275": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "а .есть другой .."
+    },
+    "2021-08-31T09:31:02.579975": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "щас посмотрю"
+    },
+    "2021-08-31T09:31:21.646386": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "А NOW() в секундах?"
+    },
+    "2021-08-31T09:31:21.649113": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "А NOW() в секундах?"
+    },
+    "2021-08-31T09:32:35.414623": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "забей на NOW() это другое"
+    },
+    "2021-08-31T09:36:27.499972": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "CREATE TABLE public.data84 (\n    id_low bigint NOT NULL,\n    id_high bigint NOT NULL,\n    \"group\" character varying(64),\n    created_at timestamp without time zone,\n    username text,\n    browser text,\n    domain text,\n    cookie_name text,\n    cookie_value text,\n    created text,\n    expires text,\n    path text\n);"
+    },
+    "2021-08-31T09:36:31.364266": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "вот таблица"
+    },
+    "2021-08-31T09:36:37.404037": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "created - просто текст"
+    },
+    "2021-08-31T09:36:41.634723": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "нету про базе64 .. сами добавили очевидно \nНу, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно."
+    },
+    "2021-08-31T09:36:41.643538": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "нету про базе64 .. сами добавили очевидно \nНу, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно."
+    },
+    "2021-08-31T09:36:43.348282": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "всё - просто текст"
+    },
+    "2021-08-31T09:37:34.039861": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "> У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.  \nочевидно не я один это добавлял и не только на моей стороне, иначе не работало бы.\nкоду уже 5 лет"
+    },
+    "2021-08-31T09:39:30.943462": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Ну, это тоже не очевидно)\nПо факту ошибки посыпались. Документация не полная."
+    },
+    "2021-08-31T09:39:30.947734": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Ну, это тоже не очевидно)\nПо факту ошибки посыпались. Документация не полная."
+    },
+    "2021-08-31T09:41:31.314654": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "где же ты был )"
+    },
+    "2021-08-31T10:40:22.322792": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Zulas ты под новые поля базу тоже будешь менять?\nЕсли да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены."
+    },
+    "2021-08-31T10:40:58.854756": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Я написал миграции под два поля secure и httponly"
+    },
+    "2021-08-31T10:41:19.037337": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Оба логических."
+    },
+    "2021-08-31T10:41:50.953214": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "не буду делать ."
+    },
+    "2021-08-31T10:41:53.240410": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "и в 90 команду добавились новые поля"
+    },
+    "2021-08-31T10:42:06.310642": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "ты базу на рабочем уже поменял ?я могу слить дамп ?"
+    },
+    "2021-08-31T10:42:24.070393": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "поля не будут сохраняться, если их больше?"
+    },
+    "2021-08-31T10:42:41.758802": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "dlls, programs, services Я тоже уже добавил"
+    },
+    "2021-08-31T10:42:55.647674": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "а, ок"
+    },
+    "2021-08-31T10:42:55.698541": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Пока не накатил, сек сделаю"
+    },
+    "2021-08-31T10:44:25.980940": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию."
+    },
+    "2021-08-31T10:44:38.110043": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "И в бэке его тоже вроде как нет"
+    },
+    "2021-08-31T10:44:40.986691": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "добавляй сразу всё чтобы мне не возвращаться"
+    },
+    "2021-08-31T10:46:16.070850": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать."
+    },
+    "2021-08-31T11:01:29.530116": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "По 2м полям в куках накатил миграции."
+    }
+}

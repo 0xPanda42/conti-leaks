@@ -1,0 +1,213 @@
+{
+    "2021-02-03T00:20:03.027425": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "тут?",
+        "body_fr": "ici?",
+        "body_en": "here?"
+    },
+    "2021-02-05T19:19:33.760108": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "тут?",
+        "body_fr": "ici?",
+        "body_en": "here?"
+    },
+    "2021-02-18T22:33:16.894003": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "привет мне flawless нужен",
+        "body_fr": "Salut impeccable besoin de moi",
+        "body_en": "Hi Flawless need me"
+    },
+    "2021-02-21T14:44:17.553538": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "привет мне flawless нужен",
+        "body_fr": "Salut impeccable besoin de moi",
+        "body_en": "Hi Flawless need me"
+    },
+    "2021-02-24T16:29:36.581282": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-08T08:15:14.477072": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-12T15:17:24.793643": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-12T15:28:39.944068": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-04-15T11:40:26.096075": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[00:34:01] <Stern> Привет как у тебя дела? чем занят? как твои загрузки с траффа ? \n[00:34:05] <Stern> они актуальны сейчас \n\nПривет, да сейчас грузить нечего, приходится под сбор карт пускать трафф, потому что на фиолетовом хвнц не работает, антидетекта нет уже",
+        "body_fr": "[00:34:01] <Stern> Salut comment vas-tu?Qu'est-ce que tu fais?Comment sont tes téléchargements de Treff?\n[00:34:05] <Stern> Ils sont pertinents maintenant\n\nBonjour, oui maintenant il n'y a rien à expédier, il tombe sous la collection de cartes pour laisser Fourf, car le violet aide ne fonctionne pas, il n'y a pas d'antitect",
+        "body_en": "[00:34:01] <Stern> Hi how are you?What are you doing?How are your downloads from Treff?\n[00:34:05] <stern> they are relevant now\n\nHello, yes now there is nothing to ship, it falls under the collection of cards to let Fourf, because the purple helps does not work, there is no antitect"
+    },
+    "2021-04-15T11:40:40.603493": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "если заработает - опять продолжу",
+        "body_fr": "Si cela fonctionne, je continuerai à nouveau",
+        "body_en": "If it works, I will continue again"
+    },
+    "2021-04-15T20:37:11.073092": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[00:34:01] <Stern> Привет как у тебя дела? чем занят? как твои загрузки с траффа ? \n[00:34:05] <Stern> они актуальны сейчас \n\nПривет, да сейчас грузить нечего, приходится под сбор карт пускать трафф, потому что на фиолетовом хвнц не работает, антидетекта нет уже",
+        "body_fr": "[00:34:01] <Stern> Salut comment vas-tu?Qu'est-ce que tu fais?Comment sont tes téléchargements de Treff?\n[00:34:05] <Stern> ils sont pertinents maintenant\n\nBonjour, oui maintenant il n'y a rien à expédier, il tombe sous la collection de cartes pour laisser Fourf, car le violet aide ne fonctionne pas, il n'y a pas d'antitect",
+        "body_en": "[00:34:01] <Stern> Hi how are you?What are you doing?How are your downloads from Treff?\n[00:34:05] <stern> they are relevant now\n\nHello, yes now there is nothing to ship, it falls under the collection of cards to let Fourf, because the purple helps does not work, there is no antitect"
+    },
+    "2021-04-15T20:37:11.073584": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "если заработает - опять продолжу",
+        "body_fr": "Si cela fonctionne, je continuerai à nouveau",
+        "body_en": "If it works, I will continue again"
+    },
+    "2021-04-15T20:38:45.256120": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "а сколько у тебя загрузок сейчас?",
+        "body_fr": "Et combien de téléchargements avez-vous maintenant?",
+        "body_en": "And how many downloads do you have now?"
+    },
+    "2021-04-15T22:59:01.744418": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "а сколько у тебя загрузок сейчас?"
+    },
+    "2021-04-15T23:07:53.371096": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "сейчас акцент на спам сделал, под сбор цц с фейка эпла шлю,  вот сейчас письмо свое переделал под инсталлы и на контрольки разослал:\n\n1.https://prnt.sc/11h4w3v - outlook\n2.https://prnt.sc/11h4zwh - yahoo\n3.https://prnt.sc/11h58ex - mail\n4.https://prnt.sc/11h59lg - aol\n5.https://prnt.sc/11h5bqx -gmail\n\nшлю с гмейл акков с историей и старой регой, могу сейчас делать из гмейла смтп гугловские, скоро получится биз смтп с лимитами 10-12к делать\n\n\nесли есть предлы - с радостью выслушаю"
+    },
+    "2021-04-15T23:08:27.925430": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "везде инбоксит"
+    },
+    "2021-04-15T23:12:07.814355": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "а если с траффа - то будет много, но качество не всегда радует"
+    },
+    "2021-04-16T07:49:52.914802": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "сейчас акцент на спам сделал, под сбор цц с фейка эпла шлю,  вот сейчас письмо свое переделал под инсталлы и на контрольки разослал:\n\n1.https://prnt.sc/11h4w3v - outlook\n2.https://prnt.sc/11h4zwh - yahoo\n3.https://prnt.sc/11h58ex - mail\n4.https://prnt.sc/11h59lg - aol\n5.https://prnt.sc/11h5bqx -gmail\n\nшлю с гмейл акков с историей и старой регой, могу сейчас делать из гмейла смтп гугловские, скоро получится биз смтп с лимитами 10-12к делать\n\n\nесли есть предлы - с радостью выслушаю"
+    },
+    "2021-04-16T07:49:52.916386": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "везде инбоксит"
+    },
+    "2021-04-16T07:49:52.918876": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "а если с траффа - то будет много, но качество не всегда радует"
+    },
+    "2021-04-17T03:29:22.631545": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[10:55:12] <Stern> в логах собирать citrix и другие впн доступы \nа что грузить ? фиолетового ?\nя могу проспамить по бигам - только нужно, чтобы мне готовый док дали с лоадером и тд"
+    },
+    "2021-04-17T03:30:32.141153": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "или трафф пустить, но интересней еще самому отрабатывать тоже что-то"
+    },
+    "2021-04-17T17:34:38.907246": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[10:55:12] <Stern> в логах собирать citrix и другие впн доступы \nа что грузить ? фиолетового ?\nя могу проспамить по бигам - только нужно, чтобы мне готовый док дали с лоадером и тд"
+    },
+    "2021-04-17T17:34:38.908761": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "или трафф пустить, но интересней еще самому отрабатывать тоже что-то"
+    },
+    "2021-04-19T15:19:31.333765": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "ты не пробовал запускать малварь под видом обновления браузеров?"
+    },
+    "2021-04-19T18:10:45.668146": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет, пробовал, проблема в виндефе"
+    },
+    "2021-04-19T18:11:00.696370": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "если файл без проблем будет запускаться - тогда и результат будет положительный"
+    },
+    "2021-04-19T18:18:00.751206": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет, пробовал, проблема в виндефе"
+    },
+    "2021-04-19T18:18:00.754365": {
+        "src": "nevada@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "если файл без проблем будет запускаться - тогда и результат будет положительный"
+    },
+    "2021-06-07T12:49:47.342076": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-08T09:30:24.305719": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-28T08:05:41.148480": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-09-13T07:59:59.795770": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    },
+    "2021-09-15T11:34:38.973887": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-09-15T11:34:38.974455": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-09-15T11:34:38.975538": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-09-15T11:34:38.976133": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "nevada@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    }
+}

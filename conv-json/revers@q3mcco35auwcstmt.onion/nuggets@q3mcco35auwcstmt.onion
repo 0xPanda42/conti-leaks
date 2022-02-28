@@ -1,0 +1,57 @@
+{
+    "2021-05-27T11:55:05.595277": {
+        "src": "nuggets@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "test"
+    },
+    "2021-05-27T17:27:07.908047": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "nuggets@q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-05-28T06:01:48.932814": {
+        "src": "nuggets@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "> [Системное сообщение]\n> Вы получили подписку.\n>"
+    },
+    "2021-06-01T06:09:34.776704": {
+        "src": "nuggets@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-06-17T14:35:09.887469": {
+        "src": "nuggets@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет. Задач сейчас вообщеэ"
+    },
+    "2021-06-17T14:35:12.138015": {
+        "src": "nuggets@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-06-17T14:36:00.828377": {
+        "src": "nuggets@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Мне сказали связаться с вами и всё, 3-4 дня не видел в онлайне и потом уже не стал ждать. Сейчас зашёл чисто проверить что как."
+    },
+    "2021-06-17T15:21:05.153278": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "nuggets@q3mcco35auwcstmt.onion",
+        "body": "ага ок"
+    },
+    "2021-06-17T15:21:15.446369": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "nuggets@q3mcco35auwcstmt.onion",
+        "body": "30 минут сделаю учетку"
+    },
+    "2021-06-17T19:41:53.445034": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "nuggets@q3mcco35auwcstmt.onion",
+        "body": "https://privnote.com/Q3ZJG0fc#u8tjV53u7"
+    },
+    "2021-06-17T19:42:12.220197": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "nuggets@q3mcco35auwcstmt.onion",
+        "body": "сорян замотался"
+    }
+}

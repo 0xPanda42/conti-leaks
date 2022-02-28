@@ -1,0 +1,12 @@
+{
+    "2021-09-27T13:51:50.484174": {
+        "src": "salamandra@q3mcco35auwcstmt.onion",
+        "dst": "doomsday@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-27T13:51:50.485244": {
+        "src": "doomsday@q3mcco35auwcstmt.onion",
+        "dst": "salamandra@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

@@ -1,0 +1,365 @@
+##################################################
+Conversation between:
+	- bentley@q3mcco35auwcstmt.onion
+	- driver@q3mcco35auwcstmt.onion
+62 messages
+first: 2021-03-11T16:16:20.439301
+last:  2021-10-22T16:57:15.287544
+##################################################
+
+2021-03-11T16:16:20.439301  driver@q3mcco35auwcstmt.onion
+	[ru] Привет, ты по поводу поиска?
+	[en] Hi, are you about searching?
+	[fr] Salut, tu cherches à chercher?
+
+2021-03-11T16:16:26.559135  bentley@q3mcco35auwcstmt.onion
+	[ru] Да
+	[en] Yes
+	[fr] Oui
+
+2021-03-11T16:16:58.542461  bentley@q3mcco35auwcstmt.onion
+	[ru]  теперь в этой админке в которой вчера поиск барахлил https://auk64p35qeb пропало половину логов
+я не обращал внимание какие группы, но например вчера ботов по одному линку было 375, сегодня их 45 по тому же линку
+1758BB12FF990BBF3878132B2BB0FF77 вот бот для примера
+на нем было много линков, а сейчас он пустой
+не вижу какой ботнет у него
+3:54 PM
+может  пересобирает индексы, спроси у него
+	[en] Now in this administrator in which yesterday, the search for the flight https: // AUK64P35QEB was gone half of the logs
+I did not pay attention to which groups, but for example yesterday bots on one line was 375, today they are 45 on the same line
+1758BB12FF990BBF3878132B2BB0FF77 Here is a bot for example
+there were a lot of links on it, and now it is empty
+I do not see what botnet has him
+3:54 Pm.
+can rebuild indexes, ask him
+	[fr] Maintenant, dans cet administrateur dans lequel hier, la recherche du vol HTTPS: // AUK64P35QEB était partie la moitié des journaux
+Je n'ai pas fait attention aux groupes, mais par exemple, les bots hier sur une ligne étaient de 375 ans, ils sont aujourd'hui sur la même ligne
+1758BB12FF990BBF3878132B2BBB0FF77 Voici un bot par exemple
+Il y avait beaucoup de liens dessus, et maintenant il est vide
+Je ne vois pas ce que Botnet l'a
+15h54.
+peut reconstruire des index, lui demander
+
+2021-03-11T16:17:06.769744  bentley@q3mcco35auwcstmt.onion
+	[ru] Вот еще проблема возникла
+	[en] Here's another problem
+	[fr] Voici un autre problème
+
+2021-03-11T16:21:23.116340  driver@q3mcco35auwcstmt.onion
+	[ru] Ок. Смотрю.
+	[en] OK.Look.
+	[fr] D'ACCORD.Voir.
+
+2021-03-11T17:02:09.298325  driver@q3mcco35auwcstmt.onion
+	[ru] Скинь плиз пример бота на котором есть линки.
+И в какой графе ботнет пытаешься увидеть?
+	[en] Throwing pliz an example of a bot on which there are links.
+And in what column botnet try to see?
+	[fr] Lancer PLIZ un exemple de bot sur lequel il y a des liens.
+Et dans quelle colonne botnet essaie de voir?
+
+2021-03-11T17:08:56.128138  driver@q3mcco35auwcstmt.onion
+	[ru] И под линками понимается именно на странице клиента инфа, или при нажатии на Brow Access инфа?
+	[en] And under the links is understood exactly on the infa client page, or when you click on Brow Access Infa?
+	[fr] Et sous les liens se compriment exactement sur la page du client Infa, ou lorsque vous cliquez sur l'accès au front Infa?
+
+2021-03-11T17:09:29.823641  bentley@q3mcco35auwcstmt.onion
+	[ru] да вроде как
+	[en] Yes, it seems like
+	[fr] Oui, ça dirait que
+
+2021-03-11T17:09:33.942337  bentley@q3mcco35auwcstmt.onion
+	[ru] спросил у чела
+	[en] asked Chela
+	[fr] demanda chela
+
+2021-03-11T17:15:08.832388  bentley@q3mcco35auwcstmt.onion
+	[ru]  при нажатии на Brow Access
+PINC-D003_W10018362.1758BB12FF990BBF3878132B2BB0FF77
+бот для примера. ботнет NET: mor9
+на это боте пропали все доступы из Brow Access
+	[en] Pressing Brow Access
+PINC-D003_W10018362.1758BB12FF990BBF3878132B2BB0FF77.
+Bot for example.Net: Mor9 botnet
+All accesss from Brow Access disappeared on this bot
+	[fr] Appuyez sur le front d'accès
+Pinc-D003_W10018362.1758BB12FF990BBF3878132B2BB0FF77.
+Bot par exemple.NET: MOR9 Botnet
+Tous les accès de l'accès au front ont disparu sur ce bot
+
+2021-03-11T17:16:38.571787  driver@q3mcco35auwcstmt.onion
+	[ru] Да чекнул в базе есть на сайте нет попробую переиндексировать
+	[en] Yes he jumped in the database there is no no i try to reinperse
+	[fr] Oui il a sauté dans la base de données il n'y a pas non j'essaye de reinler
+
+2021-03-11T17:18:15.252624  bentley@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] OK
+	[fr] d'accord
+
+2021-03-11T17:21:13.919288  driver@q3mcco35auwcstmt.onion
+	[ru] Там пока мало линков будет, я сейчас пойму в чем дело, обратно верну
+	[en] There for so far there will be few links, I will now understand what the matter is back to return
+	[fr] Là pour jusqu'à présent, il y aura peu de liens, je comprendrai maintenant ce que la question est de retour au retour
+
+2021-03-11T17:21:26.133447  bentley@q3mcco35auwcstmt.onion
+	[ru] понял
+	[en] understood
+	[fr] compris
+
+2021-03-11T18:20:10.309112  driver@q3mcco35auwcstmt.onion
+	[ru] Я переиндексировал. 
+Вижу что проблему это не решило
+	[en] I reinpeded.
+I see that it did not solve it
+	[fr] J'ai réoré.
+Je vois que ça ne l'a pas résolu
+
+2021-03-11T18:20:23.568652  bentley@q3mcco35auwcstmt.onion
+	[ru] хмм
+	[en] hmm.
+	[fr] Hmm.
+
+2021-03-11T18:21:16.815325  driver@q3mcco35auwcstmt.onion
+	[ru] Я думаю что завтра обмозгую на свежую голову, по сути в базе эти логи есть нужно понять почему они в индекс не попадают, займусь в приоритете этим.
+	[en] I think that tomorrow I brag about a fresh head, in fact in the base of these logs there is necessary to understand why they do not fall into the index, do in priority to this.
+	[fr] Je pense que demain je me vaincre une tête fraîche, en fait à la base de ces journaux, il est nécessaire de comprendre pourquoi ils ne tombent pas dans l'indice, font en priorité à cela.
+
+2021-03-11T18:21:31.149355  bentley@q3mcco35auwcstmt.onion
+	[ru] понял спасибо
+	[en] understood thanks
+	[fr] compris, merci
+
+2021-03-11T18:21:46.175009  driver@q3mcco35auwcstmt.onion
+	[ru] Отпишусь по итогам завтра до вечера тебе.
+	[en] I will unsubscribe from tomorrow until the evening to you.
+	[fr] Je vais me désabonner de demain jusqu'au soir à vous.
+
+2021-03-11T18:21:55.797956  bentley@q3mcco35auwcstmt.onion
+	[ru] хорошо
+	[en] Okay
+	[fr] D'accord
+
+2021-03-12T12:50:18.080565  bentley@q3mcco35auwcstmt.onion
+	[ru] Првиет, бро. Тебе можно писать если не работает розовая админка?
+	[en] Hi, bro.Can you write if the Pink Administ does not work?
+	[fr] Salut frère.Pouvez-vous écrire si l'administrateur rose ne fonctionne pas?
+
+2021-03-12T12:50:37.857419  bentley@q3mcco35auwcstmt.onion
+	[ru] auk64p35...
+	[en] AUK64P35 ...
+	[fr] AUK64P35 ...
+
+2021-03-12T12:52:20.447767  driver@q3mcco35auwcstmt.onion
+	[ru] Привет, да ,что именно не работает?
+	[en] Hello, yes, what exactly does not work?
+	[fr] Bonjour, oui, qu'est-ce qui ne fonctionne pas exactement?
+
+2021-03-12T12:52:31.000707  driver@q3mcco35auwcstmt.onion
+	[ru] Ага вижу кажется
+	[en] Yeah see it seems
+	[fr] Ouais vois ça semble
+
+2021-03-12T12:54:44.541429  bentley@q3mcco35auwcstmt.onion
+	[ru] ага говорят "ей пизда" видимо войти не может
+	[en] yeah say "her pussy" apparently fit can not
+	[fr] ouais dit "sa chatte" apparemment en forme ne peut pas
+
+2021-03-12T12:55:13.417540  driver@q3mcco35auwcstmt.onion
+	[ru] Вход работает, поиск нет
+	[en] Logo works, no search
+	[fr] Logo fonctionne, pas de recherche
+
+2021-03-12T12:55:28.705097  bentley@q3mcco35auwcstmt.onion
+	[ru] совчерашнего тянется да?
+	[en] Sovica stretches yes?
+	[fr] Sovica s'étire oui?
+
+2021-03-12T12:57:40.133569  driver@q3mcco35auwcstmt.onion
+	[ru] Вчера ещё работало когда я уходил.
+	[en] Yesterday I also worked when I left.
+	[fr] Hier, j'ai aussi travaillé quand je suis parti.
+
+2021-03-12T12:57:53.497632  bentley@q3mcco35auwcstmt.onion
+	[ru] понял. Да говрят поиск не работает
+	[en] understood.Yes glow Search doesn't work
+	[fr] compris.Oui la recherche de lueur ne fonctionne pas
+
+2021-03-12T15:11:39.103853  driver@q3mcco35auwcstmt.onion
+	[ru] Починил вроде
+	[en] Repaired like
+	[fr] Réparé comme
+
+2021-03-12T15:12:51.401415  driver@q3mcco35auwcstmt.onion
+	[ru] В общем скорее всего такой хард реиндекс нагружает систему сильно. Нужно другой способ искать, я сейчас буду разбираться с логами, которые пропали. Напишу либо когда решу, либо если вдруг затянется перед уходом отпишу какой прогресс.
+	[en] In general, most likely such a hard reindex loads the system strongly.You need another way to search, I will now deal with the logs that disappeared.I will write either when I decide, or if it suddenly pulls out before leaving I write off what progress.
+	[fr] En général, il est fort probable qu'un tel reindex charte fortement le système.Vous avez besoin d'une autre façon de rechercher, je vais maintenant traiter avec les journaux qui ont disparu.Je vais écrire soit quand je déciderai, ou s'il tire soudainement avant de quitter, j'écris quelles progrès.
+
+2021-03-12T15:19:57.702181  bentley@q3mcco35auwcstmt.onion
+	[ru] Спасибо. Жду
+	[en] Thanks.I'm waiting
+	[fr] Merci.J'attends
+
+2021-03-12T19:34:34.965049  driver@q3mcco35auwcstmt.onion
+	[ru] Получилось
+	[en] Happened
+	[fr] Arrivé
+
+2021-03-12T19:34:39.839555  driver@q3mcco35auwcstmt.onion
+	[ru] Все логи появились
+	[en] All logs appeared
+	[fr] Tous les journaux sont apparus
+
+2021-03-15T07:00:15.263900  driver@q3mcco35auwcstmt.onion
+	[ru] Получилось
+	[en] Happened
+	[fr] Arrivé
+
+2021-03-15T07:00:15.265712  driver@q3mcco35auwcstmt.onion
+	[ru] Все логи появились
+	[en] All logs appeared
+	[fr] Tous les journaux sont apparus
+
+2021-03-15T07:00:46.318906  bentley@q3mcco35auwcstmt.onion
+	[ru] Jnkbxyj!
+	[en] JNKBXYJ!
+	[fr] Jnkbxyj!
+
+2021-03-15T07:00:50.765828  bentley@q3mcco35auwcstmt.onion
+	[ru] Отлично!
+	[en] Fine!
+	[fr] Amende!
+
+2021-03-15T19:38:00.282503  driver@q3mcco35auwcstmt.onion
+	[ru] Как в итоге, заработало?
+	[en] As in the end, earned?
+	[fr] Comme à la fin, gagné?
+
+2021-03-16T07:16:41.611902  driver@q3mcco35auwcstmt.onion
+	[ru] Как в итоге, заработало?
+	[en] As in the end, earned?
+	[fr] Comme à la fin, gagné?
+
+2021-03-16T07:26:38.473929  bentley@q3mcco35auwcstmt.onion
+	[ru] Да говорят
+	[en] Yes say
+	[fr] Oui dire
+
+2021-03-16T09:06:31.534618  bentley@q3mcco35auwcstmt.onion
+	[ru] Да говорят
+	[en] Yes say
+	[fr] Oui dire
+
+2021-03-16T09:06:47.506084  driver@q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] OK
+	[fr] d'accord
+
+2021-03-24T16:38:48.286494  bentley@q3mcco35auwcstmt.onion
+	[ru] Првиет
+	[en] Hey
+	[fr] Hé
+
+2021-03-24T16:38:52.724953  bentley@q3mcco35auwcstmt.onion
+	[ru] Можешь помочь?
+	[en] Can you help me?
+	[fr] Pouvez-vous m'aider?
+
+2021-03-24T16:39:06.757013  bentley@q3mcco35auwcstmt.onion
+	[ru]  <balzak-Grant> [19:10:06] <balzak> привет чет rob36 все красные как буд-то в оффе 
+[23:37:02] <bentley> + 
+[23:37:12] <bentley> в какой админке? 
+[23:37:29] <balzak-Grant> новой 
+[23:37:31] <balzak-Grant> gnog
+	[en] <BALZAK-GRANT> [19:10:06] <Balzak> Hi High Rob36 All Red Like Buds in Offe
+[23:37:02] <Bentley> +
+[23:37:12] <Bentley> In what admin date?
+[23:37:29] <BALZAK-GRANT> new
+[23:37:31] <Balzak-Grant> Gnog
+	[fr] <Balzak-Grant> [19:10:06] <BALZAK> HI HIGH ROB36 Tout rouge comme des bourgeons à office
+[23:37:02] <Bentley> +
+[23:37:12] <Bentley> Dans quelle date d'administration?
+[23:37:29] <Balzak-Grant> Nouveau
+[23:37:31] <Balzak-Grant> Gnog
+
+2021-03-25T10:52:00.409340  driver@q3mcco35auwcstmt.onion
+	[ru] Првет
+	[en] Hey
+	[fr] Hé
+
+2021-03-25T10:52:10.512741  bentley@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-03-25T10:52:22.725971  driver@q3mcco35auwcstmt.onion
+	[ru] А dnog b gnog это разные админки?
+	[en] And Dnog B Gnog is different admins?
+	[fr] Et DNog B Gnog est des administrateurs différents?
+
+2021-03-25T10:52:27.025909  driver@q3mcco35auwcstmt.onion
+	[ru] и*
+	[en] And*
+	[fr] Et*
+
+2021-03-25T10:52:36.059411  bentley@q3mcco35auwcstmt.onion
+	[ru] да вроде как
+	[en] Yes, it seems like
+	[fr] Oui, ça dirait que
+
+2021-03-25T10:52:43.084508  driver@q3mcco35auwcstmt.onion
+	[ru] Проблема актуальна?
+	[en] The problem is relevant?
+	[fr] Le problème est pertinent?
+
+2021-03-25T10:52:52.735943  bentley@q3mcco35auwcstmt.onion
+	[ru] Щас уточню.
+	[en] Right now I will clarify.
+	[fr] À l'heure actuelle, je vais clarifier.
+
+2021-03-25T10:52:59.454420  driver@q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] OK
+	[fr] d'accord
+
+2021-03-25T10:53:25.451882  bentley@q3mcco35auwcstmt.onion
+	[ru] Все работает
+	[en] Everything works
+	[fr] Tout fonctionne
+
+2021-03-25T10:53:27.798793  bentley@q3mcco35auwcstmt.onion
+	[ru] Спс )
+	[en] THX )
+	[fr] THX )
+
+2021-03-25T10:53:37.231050  driver@q3mcco35auwcstmt.onion
+	[ru] Понятно ок.
+	[en] It is clear.
+	[fr] C'est clair.
+
+2021-03-25T14:12:30.215470  driver@q3mcco35auwcstmt.onion
+	[ru] Внесли небольшие изменения, если начнет аук тормозить пиши сразу.
+	[en] Made small changes if the AUC starts to slow down the write immediately.
+	[fr] Fait de petits changements si l'AUC commence à ralentir l'écriture immédiatement.
+
+2021-03-25T14:13:08.578084  bentley@q3mcco35auwcstmt.onion
+	[ru] понял
+	[en] understood
+	[fr] compris
+
+2021-03-29T12:57:25.574271  driver@q3mcco35auwcstmt.onion
+	[ru] Привет. Сказали у тебя можно бота попросить для проверки, нужно функционал протестить на странице бота там где EXECUTE. Сможешь подсказать, какого можно использовать?
+	[en] Hello.You have said you can ask you to ask for check, you need to test the functional on the bot page there where Execute.Can you suggest what you can use?
+	[fr] Salut.Vous avez dit que vous pouvez vous demander de demander un chèque, vous devez tester le fonctionnement de la page de bot où exécuter l'exécution.Pouvez-vous suggérer ce que vous pouvez utiliser?
+
+2021-03-30T17:40:26.797020  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+По дногу все ок, старый функционла по линкам работает?
+	[en] <?>
+	[fr] <?>
+
+2021-10-22T16:57:15.287544  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+	[en] <?>
+	[fr] <?>
+

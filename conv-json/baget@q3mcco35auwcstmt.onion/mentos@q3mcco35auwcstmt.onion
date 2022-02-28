@@ -1,0 +1,27 @@
+{
+    "2021-06-07T06:16:36.779140": {
+        "src": "mentos@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "привет рчат работает?"
+    },
+    "2021-06-07T06:17:12.733918": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "mentos@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-06-07T06:17:16.223025": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "mentos@q3mcco35auwcstmt.onion",
+        "body": "секунду."
+    },
+    "2021-06-07T06:18:23.123760": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "mentos@q3mcco35auwcstmt.onion",
+        "body": "Нет. Не работает."
+    },
+    "2021-06-07T06:18:53.342899": {
+        "src": "mentos@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "ждем Адама)"
+    }
+}

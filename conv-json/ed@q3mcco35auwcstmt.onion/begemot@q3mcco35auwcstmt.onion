@@ -1,0 +1,12 @@
+{
+    "2021-11-08T19:03:50.252116": {
+        "src": "begemot@q3mcco35auwcstmt.onion",
+        "dst": "ed@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-11-08T19:03:50.253785": {
+        "src": "ed@q3mcco35auwcstmt.onion",
+        "dst": "begemot@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    }
+}

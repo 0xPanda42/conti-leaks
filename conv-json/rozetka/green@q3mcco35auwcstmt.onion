@@ -1,0 +1,12 @@
+{
+    "2021-10-18T08:08:24.600534": {
+        "src": "green@q3mcco35auwcstmt.onion",
+        "dst": "rozetka",
+        "body": "привет"
+    },
+    "2021-10-18T08:08:24.611465": {
+        "src": "rozetka",
+        "dst": "green@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

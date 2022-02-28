@@ -1,0 +1,27 @@
+{
+    "2021-06-28T14:24:58.220700": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "git@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-28T14:25:01.819839": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "git@q3mcco35auwcstmt.onion",
+        "body": "что у тебя по крипте"
+    },
+    "2021-06-28T14:25:03.181897": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "git@q3mcco35auwcstmt.onion",
+        "body": "какие наработки"
+    },
+    "2021-06-28T14:34:10.715401": {
+        "src": "git@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-13T08:00:07.976150": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "git@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    }
+}

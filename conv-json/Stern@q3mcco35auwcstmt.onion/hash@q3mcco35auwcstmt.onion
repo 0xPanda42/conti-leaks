@@ -1,0 +1,72 @@
+{
+    "2021-06-01T16:32:16.324649": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hash@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-01T16:32:17.572563": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hash@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-06-07T13:06:23.656118": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hash@q3mcco35auwcstmt.onion",
+        "body": "Привет как у тебя дела"
+    },
+    "2021-06-08T09:32:10.215492": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hash@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-09T19:02:29.934363": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Начал"
+    },
+    "2021-06-10T14:41:17.021878": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-10T14:41:17.027295": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Начал"
+    },
+    "2021-06-10T15:17:56.547907": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hash@q3mcco35auwcstmt.onion",
+        "body": "ага гуд"
+    },
+    "2021-06-11T07:26:26.552137": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В общем, не все так плохо. Боты идут, 4 сетки вчера забрал хорс :)"
+    },
+    "2021-06-11T08:44:50.720604": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В общем, не все так плохо. Боты идут, 4 сетки вчера забрал хорс :)"
+    },
+    "2021-06-22T21:02:47.933455": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hash@q3mcco35auwcstmt.onion",
+        "body": "а кто кодер спамилки напомни"
+    },
+    "2021-06-28T08:05:33.327952": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hash@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-08-19T09:50:39.759162": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Нашелся gm, уезжал куда-то. Планирует на днях старт"
+    },
+    "2021-08-23T18:56:40.648034": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Нашелся gm, уезжал куда-то. Планирует на днях старт"
+    }
+}

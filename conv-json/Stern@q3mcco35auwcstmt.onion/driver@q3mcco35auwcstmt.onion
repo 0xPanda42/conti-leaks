@@ -1,0 +1,749 @@
+{
+    "2021-02-24T16:29:36.566878": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-02-25T13:35:36.361978": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-09T18:32:11.595149": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-09T18:32:16.709062": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "что там за ситуация с хранилищем",
+        "body_fr": "Qu'y a-t-il pour la situation avec le référentiel",
+        "body_en": "What is there for the situation with the repository"
+    },
+    "2021-03-09T18:32:18.680612": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "почему не работает",
+        "body_fr": "pourquoi ça ne marche pas",
+        "body_en": "why does not it work"
+    },
+    "2021-03-09T18:32:25.048381": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ты куда пропал???",
+        "body_fr": "Où étais-tu???",
+        "body_en": "Where have you been???"
+    },
+    "2021-03-09T23:33:17.969054": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-09T23:33:17.969870": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "что там за ситуация с хранилищем",
+        "body_fr": "Qu'y a-t-il pour la situation avec le référentiel",
+        "body_en": "What is there for the situation with the repository"
+    },
+    "2021-03-09T23:33:17.970461": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "почему не работает",
+        "body_fr": "pourquoi ça ne marche pas",
+        "body_en": "why does not it work"
+    },
+    "2021-03-09T23:33:17.973695": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ты куда пропал???",
+        "body_fr": "Où étais-tu???",
+        "body_en": "Where have you been???"
+    },
+    "2021-03-09T23:45:16.573271": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nЯ бузе все рассказал про ситуацию с хранилищем.\nНасчет того, что не работал, не совсем понимаю вопрос. В какой именно день.\nНасчет пропал тоже не понимаю. Есть 8 часов рабочего времени на котороые я изначально договорился. Я вчера больше отработал, завершил работу и ушел.",
+        "body_fr": "Salut.\nJ'ai tout apporté sur la situation avec le référentiel.\nEn ce qui concerne le fait que je n'ai pas travaillé, je ne comprends pas bien la question.Quel jour est exactement quel jour.\nJe n'ai pas non plus compris.Il y a 8 heures de temps de travail au cours de laquelle j'ai initialement accepté.Hier, j'ai travaillé plus, achevé le travail et partit.",
+        "body_en": "Hello.\nI brought everything about the situation with the repository.\nAs for the fact that I did not work, I do not quite understand the question.What day is exactly what day.\nI also did not understand.There are 8 hours of working time at which I initially agreed.Yesterday I worked more, completed the work and left."
+    },
+    "2021-03-10T01:46:26.788655": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nЯ бузе все рассказал про ситуацию с хранилищем.\nНасчет того, что не работал, не совсем понимаю вопрос. В какой именно день.\nНасчет пропал тоже не понимаю. Есть 8 часов рабочего времени на котороые я изначально договорился. Я вчера больше отработал, завершил работу и ушел.",
+        "body_fr": "Salut.\nJ'ai tout apporté sur la situation avec le référentiel.\nEn ce qui concerne le fait que je n'ai pas travaillé, je ne comprends pas bien la question.Quel jour est exactement quel jour.\nJe n'ai pas non plus compris.Il y a 8 heures de temps de travail au cours de laquelle j'ai initialement accepté.Hier, j'ai travaillé plus, achevé le travail et partit.",
+        "body_en": "Hello.\nI brought everything about the situation with the repository.\nAs for the fact that I did not work, I do not quite understand the question.What day is exactly what day.\nI also did not understand.There are 8 hours of working time at which I initially agreed.Yesterday I worked more, completed the work and left."
+    },
+    "2021-03-11T15:38:02.828610": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nВот моё сообщение адаму, по поводу всей ситуации с хранилищем т.к. ты писал я хочу прояснить вопрос с ожиданиями, ответственностью, границами и приоритетами.",
+        "body_fr": "Salut.\nVoici mon message à Adam, sur toute la situation avec l'installation de stockage.Vous avez écrit que je souhaite clarifier la question avec des attentes, des responsabilités, des frontières et des priorités.",
+        "body_en": "Hello.\nHere is my message to Adam, about the whole situation with the storage facility.You wrote I want to clarify the question with expectations, responsibility, borders and priorities."
+    },
+    "2021-03-11T15:38:10.629007": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "По поводу всей истории с хранилищем вот моя позиция.\n1. Я со своей стороны не согласен с идеей, что я должен быть на связи 24 часа, я продал 8 часов своего времени, и иногда по своему желанию задерживаюсь на работе, но это моя свободная воля, не захочу - не буду. Я согласен с тобой, что мне нужно скорректировать своё время, я этим занимаюсь постараюсь решить и быть в рабочее время мск на связи, у меня в целом сложности со сном. Это не твоя проблема, но думаю, что тебе полезно знать.",
+        "body_fr": "En ce qui concerne toute l'histoire avec le référentiel, voici ma position.\n1. Je ne suis pas d'accord avec l'idée que je devrais être en contact 24 heures sur 24, j'ai vendu 8 heures de mon temps, et parfois à ma demande, je tardais au travail, mais c'est mon libre arbitre, je ne veux pas - je Ne fera pas.Je suis d'accord avec vous que je dois ajuster mon temps, je fais cela essayer de décider et d'être au temps de travail MSC en contact, j'ai toute une difficulté avec un rêve.Ce n'est pas votre problème, mais je pense qu'il est utile que vous sachiez.",
+        "body_en": "Regarding the whole story with the repository, here is my position.\n1. I do not agree with the idea that I should be in touch 24 hours, I sold 8 hours of my time, and sometimes at my request I delay at work, but this is my free will, I won't want - I will not.I agree with you that I need to adjust my time, I do this try to decide and be at working time MSC in touch, I have a whole difficulty with a dream.This is not your problem, but I think it is useful for you to know."
+    },
+    "2021-03-11T15:38:17.792434": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "2. Я получил часть с индексацией насколько помню примерно неделю назад это репозиторий storage_ex. Не думаю, что моя ответственность - знать все репозитории, которые мне нужно изучить, если бы он был у меня раньше то ситуация, когда я смотрю на код, и не понимаю как с ним работать скорее всего была бы не такой фатальной. \nЯ думаю - моя ответственность разобраться, и решать задачи, и я в силу своих способностей и скорости считаю, что справляюсь с этим.\nТвоя задача и других заинтирисованных лиц, выдать мне доступы, код, сервера и всё что нужно для эффективной работы, я не думаю, что с этим всё идеально, поэтому ответственность конкретно здесь ваша.\nЯ считаю, что ситуация, когда я не могу быстро решить вопрос нормальная с учетом условий в которых я оказался. Я - не Мав, я другой человек, я стараюсь делать свою работу и прикладываю достаточно усилий.\nРаботать на износ я не собираюсь, работа \"до результата\" и круглыми сутками - прямой путь к выгоранию, если ты считаешь, что я - функция, то я с таким подходом не согласен и буду дальше на этом настаивать.",
+        "body_fr": "2. J'ai eu une partie avec l'indexation aussi loin que je me souviens d'il y a environ une semaine, il s'agit d'un référentiel de stockage_ex. Je ne pense pas que ma responsabilité consiste à connaître tous les référentiels que je dois apprendre s'il avait été avec moi avant la situation lorsque je regarde le code, et je ne comprends pas comment cela travaillerait probablement avec lui.\nJe pense que ma responsabilité de comprendre et de résoudre les tâches et je pense que je ne m'en souciais pas.\nVotre tâche et d'autres personnes pressées, donnez-moi accès, code, serveur et tout ce dont vous avez besoin pour un travail efficace, je ne pense pas que tout est parfait avec cela, par conséquent, la responsabilité spécifiquement ici est la vôtre.\nJe crois que la situation lorsque je ne peux pas résoudre rapidement la question est normale avec les conditions dans lesquelles j'étais. Je ne suis pas une maw, je suis une autre personne, j'essaie de faire mon travail et de faire suffisamment d'efforts.\nJe ne vais pas travailler sur l'usure, le travail \"vers le résultat\" et les jours ronds - une voie directe à une épuisement professionnelle, si vous pensez que je suis une fonction, alors je ne suis pas d'accord avec cette approche et continuera d'insister à ce sujet.",
+        "body_en": "2. I got a part with the indexation as far as I remember about a week ago, this is a storage_ex repository. I do not think that my responsibility is to know all the repositories that I need to learn if he had been with me before the situation when I look at the code, and I do not understand how it would most likely work with him.\nI think my responsibility to figure out, and solve the tasks, and I think that I do not care about it.\nYour task and other squeezed persons, give me access, code, server and everything you need for efficient work, I do not think that everything is perfect with that, therefore, the responsibility specifically here is yours.\nI believe that the situation when I cannot quickly resolve the question is normal with the conditions in which I was. I am not a maw, I am another person, I try to do my job and make enough effort.\nI am not going to work on wear, work \"to the result\" and round days - a direct path to burnout, if you think that I am a function, then I do not agree with this approach and will continue to insist on this."
+    },
+    "2021-03-11T15:38:25.659362": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "3. Любые угрозы в духе - найду другого кодера, или навешивание обязательств, которые я не брал - не ведет к эффективной работе, скорее наоборот. Есть договоренности, и есть диалог как способ решать проблемы.\nЗ.Ы. Мне как и любому кодеру, наверное спокойней работать в своём темпе, и когда меня гонят куда-то, или не дают времени, я не могу качественно решать свои задачи, понятно что особых условий мне никто не обещал, но если есть такая возможность я за планирование и обсуждение. Продублирую это сообщение Стерну и Сильверу, иначе как-то не понятно всё..",
+        "body_fr": "3. Toute menace dans l'Esprit - Trouvez un autre codeur ou suspendre les obligations que je n'ai pas prises - ne conduit pas à un travail efficace, plutôt au contraire. Il y a un accord et il y a un dialogue comme moyen de résoudre des problèmes.\nZy J'aime tout encodeur, probablement plus calme de travailler dans mon rythme, et quand ils me conduisent quelque part ou ne donnent pas de temps, je ne peux pas résoudre qualitativement mes tâches, il est clair que personne n'a promis de conditions spéciales, mais s'il y a tellement Une opportunité, je prévois et discussion. Je déplique ce message à Stern et Silveliver, sinon ce n'est pas clair ..",
+        "body_en": "3. Any threats in the Spirit - find another encoder, or hanging the obligations that I did not take - does not lead to effective work, rather, on the contrary. There is an agreement, and there is a dialogue as a way to solve problems.\nZY I like any encoder, probably calmer to work in my pace, and when they drive me somewhere, or do not give time, I can not qualitatively solve my tasks, it is clear that no one has promised special conditions, but if there is such an opportunity, I am Planning and discussion. I duplicate this message to Stern and Silveliver, otherwise it's not clear everything .."
+    },
+    "2021-03-11T15:38:54.125241": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Готов обсудить ситуацию.",
+        "body_fr": "Prêt à discuter de la situation.",
+        "body_en": "Ready to discuss the situation."
+    },
+    "2021-03-11T20:19:00.327513": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nВот моё сообщение адаму, по поводу всей ситуации с хранилищем т.к. ты писал я хочу прояснить вопрос с ожиданиями, ответственностью, границами и приоритетами.",
+        "body_fr": "Salut.\nVoici mon message à Adam, sur toute la situation avec l'installation de stockage.Vous avez écrit que je souhaite clarifier la question avec des attentes, des responsabilités, des frontières et des priorités.",
+        "body_en": "Hello.\nHere is my message to Adam, about the whole situation with the storage facility.You wrote I want to clarify the question with expectations, responsibility, borders and priorities."
+    },
+    "2021-03-11T20:19:00.328515": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "По поводу всей истории с хранилищем вот моя позиция.\n1. Я со своей стороны не согласен с идеей, что я должен быть на связи 24 часа, я продал 8 часов своего времени, и иногда по своему желанию задерживаюсь на работе, но это моя свободная воля, не захочу - не буду. Я согласен с тобой, что мне нужно скорректировать своё время, я этим занимаюсь постараюсь решить и быть в рабочее время мск на связи, у меня в целом сложности со сном. Это не твоя проблема, но думаю, что тебе полезно знать.",
+        "body_fr": "En ce qui concerne toute l'histoire avec le référentiel, voici ma position.\n1. Je ne suis pas d'accord avec l'idée que je devrais être en contact 24 heures sur 24, j'ai vendu 8 heures de mon temps, et parfois à ma demande, je tardais au travail, mais c'est mon libre arbitre, je ne veux pas - je Ne fera pas.Je suis d'accord avec vous que je dois ajuster mon temps, je fais cela essayer de décider et d'être au temps de travail MSC en contact, j'ai toute une difficulté avec un rêve.Ce n'est pas votre problème, mais je pense qu'il est utile que vous sachiez.",
+        "body_en": "Regarding the whole story with the repository, here is my position.\n1. I do not agree with the idea that I should be in touch 24 hours, I sold 8 hours of my time, and sometimes at my request I delay at work, but this is my free will, I won't want - I will not.I agree with you that I need to adjust my time, I do this try to decide and be at working time MSC in touch, I have a whole difficulty with a dream.This is not your problem, but I think it is useful for you to know."
+    },
+    "2021-03-11T20:19:00.333674": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "2. Я получил часть с индексацией насколько помню примерно неделю назад это репозиторий storage_ex. Не думаю, что моя ответственность - знать все репозитории, которые мне нужно изучить, если бы он был у меня раньше то ситуация, когда я смотрю на код, и не понимаю как с ним работать скорее всего была бы не такой фатальной. \nЯ думаю - моя ответственность разобраться, и решать задачи, и я в силу своих способностей и скорости считаю, что справляюсь с этим.\nТвоя задача и других заинтирисованных лиц, выдать мне доступы, код, сервера и всё что нужно для эффективной работы, я не думаю, что с этим всё идеально, поэтому ответственность конкретно здесь ваша.\nЯ считаю, что ситуация, когда я не могу быстро решить вопрос нормальная с учетом условий в которых я оказался. Я - не Мав, я другой человек, я стараюсь делать свою работу и прикладываю достаточно усилий.\nРаботать на износ я не собираюсь, работа \"до результата\" и круглыми сутками - прямой путь к выгоранию, если ты считаешь, что я - функция, то я с таким подходом не согласен и буду дальше на этом настаивать.",
+        "body_fr": "2. J'ai eu une partie avec l'indexation aussi loin que je me souviens d'il y a environ une semaine, il s'agit d'un référentiel de stockage_ex. Je ne pense pas que ma responsabilité consiste à connaître tous les référentiels que je dois apprendre s'il avait été avec moi avant la situation lorsque je regarde le code, et je ne comprends pas comment cela travaillerait probablement avec lui.\nJe pense que ma responsabilité de comprendre et de résoudre les tâches et je pense que je ne m'en souciais pas.\nVotre tâche et d'autres personnes pressées, donnez-moi accès, code, serveur et tout ce dont vous avez besoin pour un travail efficace, je ne pense pas que tout est parfait avec cela, par conséquent, la responsabilité spécifiquement ici est la vôtre.\nJe crois que la situation lorsque je ne peux pas résoudre rapidement la question est normale avec les conditions dans lesquelles j'étais. Je ne suis pas une maw, je suis une autre personne, j'essaie de faire mon travail et de faire suffisamment d'efforts.\nJe ne vais pas travailler sur l'usure, le travail \"vers le résultat\" et les jours ronds - une voie directe à une épuisement professionnelle, si vous pensez que je suis une fonction, alors je ne suis pas d'accord avec cette approche et continuera d'insister à ce sujet.",
+        "body_en": "2. I got a part with the indexation as far as I remember about a week ago, this is a storage_ex repository. I do not think that my responsibility is to know all the repositories that I need to learn if he had been with me before the situation when I look at the code, and I do not understand how it would most likely work with him.\nI think my responsibility to figure out, and solve the tasks, and I think that I do not care about it.\nYour task and other squeezed persons, give me access, code, server and everything you need for efficient work, I do not think that everything is perfect with that, therefore, the responsibility specifically here is yours.\nI believe that the situation when I cannot quickly resolve the question is normal with the conditions in which I was. I am not a maw, I am another person, I try to do my job and make enough effort.\nI am not going to work on wear, work \"to the result\" and round days - a direct path to burnout, if you think that I am a function, then I do not agree with this approach and will continue to insist on this."
+    },
+    "2021-03-11T20:19:00.343156": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "3. Любые угрозы в духе - найду другого кодера, или навешивание обязательств, которые я не брал - не ведет к эффективной работе, скорее наоборот. Есть договоренности, и есть диалог как способ решать проблемы.\nЗ.Ы. Мне как и любому кодеру, наверное спокойней работать в своём темпе, и когда меня гонят куда-то, или не дают времени, я не могу качественно решать свои задачи, понятно что особых условий мне никто не обещал, но если есть такая возможность я за планирование и обсуждение. Продублирую это сообщение Стерну и Сильверу, иначе как-то не понятно всё..",
+        "body_fr": "3. Toute menace dans l'Esprit - Trouvez un autre codeur ou suspendre les obligations que je n'ai pas prises - ne conduit pas à un travail efficace, plutôt au contraire. Il y a un accord et il y a un dialogue comme moyen de résoudre des problèmes.\nZy J'aime tout encodeur, probablement plus calme de travailler dans mon rythme, et quand ils me conduisent quelque part ou ne donnent pas de temps, je ne peux pas résoudre qualitativement mes tâches, il est clair que personne n'a promis de conditions spéciales, mais s'il y a tellement Une opportunité, je prévois et discussion. Je déplique ce message à Stern et Silveliver, sinon ce n'est pas clair ..",
+        "body_en": "3. Any threats in the Spirit - find another encoder, or hanging the obligations that I did not take - does not lead to effective work, rather, on the contrary. There is an agreement, and there is a dialogue as a way to solve problems.\nZY I like any encoder, probably calmer to work in my pace, and when they drive me somewhere, or do not give time, I can not qualitatively solve my tasks, it is clear that no one has promised special conditions, but if there is such an opportunity, I am Planning and discussion. I duplicate this message to Stern and Silveliver, otherwise it's not clear everything .."
+    },
+    "2021-03-11T20:19:00.344083": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Готов обсудить ситуацию.",
+        "body_fr": "Prêt à discuter de la situation.",
+        "body_en": "Ready to discuss the situation."
+    },
+    "2021-03-12T02:20:59.483118": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я тебя понял",
+        "body_fr": "Je vous ai compris",
+        "body_en": "I understood you"
+    },
+    "2021-03-12T12:37:45.995154": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я тебя понял",
+        "body_fr": "Je vous ai compris",
+        "body_en": "I understood you"
+    },
+    "2021-03-12T15:17:24.792572": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-12T15:18:03.083646": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nЯ поднял дног и аук",
+        "body_fr": "Salut.\nJ'ai soulevé DNog et Auk",
+        "body_en": "Hello.\nI raised Dnog and Auk"
+    },
+    "2021-03-12T15:19:01.086669": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ага отлично",
+        "body_fr": "Ouais excellent",
+        "body_en": "Yeah Excellent"
+    },
+    "2021-03-12T15:19:01.750970": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Решаю вопрос с пропавшими логами, нужно сделать чекер который проверяет что лог попал в админку из базы и если не попал его записывать. Сегодня доделаю ,если не успею в выхи сидеть буду",
+        "body_fr": "Je décide des journaux manquants, vous devez créer un vérificateur qui vérifie que le journal a frappé l'administrateur de la base et s'il ne l'a pas frappé.Aujourd'hui, je vais finir, si je n'ai pas le temps de m'asseoir à Vykhi",
+        "body_en": "I decide with the missing logs, you need to make a checker who checks that the log hit the admin from the base and if he did not hit it.Today I will finish, if I do not have time to sit in Vykhi"
+    },
+    "2021-03-12T15:23:44.681960": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хорошо",
+        "body_fr": "D'accord",
+        "body_en": "Okay"
+    },
+    "2021-03-12T16:02:08.764384": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ау",
+        "body_fr": "Autant",
+        "body_en": "AU"
+    },
+    "2021-03-12T16:02:15.645308": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "поиск в хранилище не работает",
+        "body_fr": "La recherche dans le référentiel ne fonctionne pas",
+        "body_en": "The search in the repository does not work"
+    },
+    "2021-03-12T16:02:17.291942": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "пишут юзеры",
+        "body_fr": "Soutenir les utilisateurs",
+        "body_en": "Support users"
+    },
+    "2021-03-12T16:07:22.222336": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "аук?",
+        "body_fr": "AUC?",
+        "body_en": "AUC?"
+    },
+    "2021-03-12T16:07:59.084741": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сейчас посмотрю.",
+        "body_fr": "Maintenant, je vais voir.",
+        "body_en": "Now I'll see."
+    },
+    "2021-03-12T16:09:33.666400": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Есть какой то пример, чтобы воспроизвести проблему?",
+        "body_fr": "Y a-t-il un exemple pour reproduire le problème?",
+        "body_en": "Is there any example to reproduce the problem?"
+    },
+    "2021-03-12T16:10:50.946777": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ботлист вижу - чиню.",
+        "body_fr": "Botfist Voir - Chiny.",
+        "body_en": "Botfist see - Chiny."
+    },
+    "2021-03-12T16:23:06.222543": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Реиндекс сделал, всё ок, работает как должно?",
+        "body_fr": "Reindex a fait, tout va bien, comment devrait-il?",
+        "body_en": "Reindex did, everything is ok, how should it?"
+    },
+    "2021-03-12T16:33:50.522676": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хз",
+        "body_fr": "xs.",
+        "body_en": "xs."
+    },
+    "2021-03-12T16:33:53.002107": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ща проверю",
+        "body_fr": "Che chèque scha",
+        "body_en": "SchA check"
+    },
+    "2021-03-12T19:39:11.868205": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Логи появились потерянные, завтра ещё раз зайду, проверю как работает всё",
+        "body_fr": "Les journaux sont apparus perdus, demain je reviendrai, je vais vérifier comment tout fonctionne",
+        "body_en": "Logs appeared lost, tomorrow I will come again, I will check how everything works"
+    },
+    "2021-03-15T20:15:29.485956": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Логи появились потерянные, завтра ещё раз зайду, проверю как работает всё",
+        "body_fr": "Les journaux sont apparus perdus, demain je reviendrai, je vais vérifier comment tout fonctionne",
+        "body_en": "Logs appeared lost, tomorrow I will come again, I will check how everything works"
+    },
+    "2021-05-06T06:49:06.365831": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "1"
+    },
+    "2021-05-06T06:49:10.977336": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-06T06:49:16.627322": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ты черную админку тоже поддерживаешь?"
+    },
+    "2021-05-06T18:32:14.679077": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "1"
+    },
+    "2021-05-06T18:32:14.679805": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-06T18:32:14.680969": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ты черную админку тоже поддерживаешь?"
+    },
+    "2021-05-06T18:42:43.911578": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет, да"
+    },
+    "2021-05-07T12:54:34.687556": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет, да"
+    },
+    "2021-05-07T12:57:14.825629": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "стукни хофу там надо тоже по апи шифровать линк"
+    },
+    "2021-05-07T14:06:07.770056": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ок. Адам скинул таск, в процессе."
+    },
+    "2021-06-07T12:49:39.275122": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-07T13:05:13.512741": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет, двигаюсь потихоньку.\nЯ работаю с админками ботов и умею их настраивать, пока что настраивал импорт и черную.\nЯ сейчас разбираюсь с супервизором и документирую его.\nЗадача настроить тестовый сервер и сделать колонку нгетворк из одной одминки в другой\nВообще есть тасклист, там много всего\nЕсть задача сделать типа статы по данным какие и куда пришли, куда ушли"
+    },
+    "2021-06-07T13:05:34.084164": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "нетворк*"
+    },
+    "2021-06-07T14:01:27.703623": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "По поводу улучшений, я думаю до этого далеко, но идеи есть я буде их описывал"
+    },
+    "2021-06-07T14:01:31.939644": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "бузе*"
+    },
+    "2021-06-08T09:30:16.509239": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-08T13:24:57.249575": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-28T08:05:49.343096": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T10:59:03.114431": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-07-05T14:03:23.074469": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-07-05T14:03:39.244461": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "отпиши мне"
+    },
+    "2021-07-05T14:03:46.931139": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нужна твоя работа срочная по хранилищу"
+    },
+    "2021-07-05T14:19:20.847492": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-07-05T14:19:27.090596": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я на связи"
+    },
+    "2021-07-05T14:19:35.089720": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Что нужно сделать?"
+    },
+    "2021-07-05T14:20:11.205140": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ты разобрался с хранилищем как оттуда данные вытаскивать?"
+    },
+    "2021-07-05T14:20:19.781678": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "мне нужно в тхт двух файлах, с каждой админки"
+    },
+    "2021-07-05T14:20:24.177494": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "такие данные выкачать"
+    },
+    "2021-07-05T14:21:11.727532": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Country\nBot ID\nlink: etrade.com\nlogin\npass"
+    },
+    "2021-07-05T14:21:21.862539": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "два тхт надо"
+    },
+    "2021-07-05T14:21:26.326721": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "по каждой админке"
+    },
+    "2021-07-05T14:21:28.994105": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "все акки выкачай"
+    },
+    "2021-07-05T14:21:40.572742": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сейчас и залей мне в зип архиве с паролем на sendspace.com"
+    },
+    "2021-07-05T14:22:03.686730": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "в зип архиве повторюсь должно быть два тхт. каждая тхт это админка. и акки идут все сверху вниз"
+    },
+    "2021-07-05T14:22:08.936798": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "по определенному линку etrade.com"
+    },
+    "2021-07-05T14:22:17.683025": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "выкачать надо из Browser Access"
+    },
+    "2021-07-05T14:22:30.190957": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "без пароля не выкачивай, только если есть и логин и пароль"
+    },
+    "2021-07-05T14:23:33.267078": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "По сути тебе нужны ацессы с логином-паролем по конкретной ссылке etrade.com? \nСкачать по обоим админкам и скинуть через sendspace.com\nвсё верно?"
+    },
+    "2021-07-05T14:24:39.856883": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-07-05T14:24:44.928501": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ок"
+    },
+    "2021-07-05T14:24:46.157954": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "в таком порядке как я написал"
+    },
+    "2021-07-05T17:52:46.522310": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Такое дело.\nВ общем я нашел код который отвечает за выгрузку, судя по всему он заточен был немного на другой формат. Там ссылки типа rackspace и формат краткий\nПолучилось выгрузить в формате link:login:pass. Настройка формата, который ты просишь там тоже есть, но я пока не смог сделать по нему.\nВ связи с этим 3 вопроса.\n1. Насколько критично будет если я это завтра завершу эту выгрузку?\n2. Это должно быть точное совпадение ссылки или юрлы вида app.servisetrade.com тоже должны быть в выборке?\n3. Бот ид, это его дентификатор вида 971BB5287788095B1DBBCCA9B8CA3BB2 или внутренний ид в админке типа 156789678?"
+    },
+    "2021-07-06T05:15:46.433062": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://www.sendspace.com/file/kudycc\nhttps://www.sendspace.com/delete/kudycc/a01ad286ab470a7215e9a193821f1a54"
+    },
+    "2021-07-06T05:16:27.361207": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://privnote.com/wbfGCALc#SrS6tpv09"
+    },
+    "2021-07-06T13:38:33.574885": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Напиши как будешь там не точное совподение.\nВ общем там есть только ссылки вида \nhttps://us.etrade.com/e/t/user/login"
+    },
+    "2021-07-06T13:38:58.646020": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "вида\nhttps://etrade.com нет"
+    },
+    "2021-07-06T13:40:23.343014": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "А так я разобрался то что скинул с не верными ссылками, вот этот момент уточнить и сразу могу отправить. там не особо их много"
+    },
+    "2021-07-06T13:40:34.862345": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "будет"
+    },
+    "2021-07-06T18:59:45.715651": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://www.sendspace.com/file/kudycc\nhttps://www.sendspace.com/delete/kudycc/a01ad286ab470a7215e9a193821f1a54"
+    },
+    "2021-07-06T18:59:45.724500": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://privnote.com/wbfGCALc#SrS6tpv09"
+    },
+    "2021-07-06T18:59:45.898916": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Напиши как будешь там не точное совподение.\nВ общем там есть только ссылки вида \nhttps://us.etrade.com/e/t/user/login"
+    },
+    "2021-07-06T18:59:45.901079": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "вида\nhttps://etrade.com нет"
+    },
+    "2021-07-06T18:59:45.903277": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "А так я разобрался то что скинул с не верными ссылками, вот этот момент уточнить и сразу могу отправить. там не особо их много"
+    },
+    "2021-07-06T18:59:45.907120": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "будет"
+    },
+    "2021-07-06T19:01:46.330355": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "\nВ общем там есть только ссылки вида \nhttps://us.etrade.com/e/t/user/login\n\n\nну да, такая и нужна"
+    },
+    "2021-07-06T21:35:10.511748": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "\nВ общем там есть только ссылки вида \nhttps://us.etrade.com/e/t/user/login\n\n\nну да, такая и нужна"
+    },
+    "2021-07-07T09:35:33.165198": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://www.sendspace.com/file/lfxsm9\nhttps://www.sendspace.com/delete/lfxsm9/485974225c75226b4ab1206cd7777080"
+    },
+    "2021-07-07T09:35:38.980599": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Готово."
+    },
+    "2021-07-07T09:36:34.354605": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://privnote.com/Hmchrcaz#KY9q2VTat"
+    },
+    "2021-07-07T09:37:46.069311": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "05b.. - с админки аук\nВторой с дног7"
+    },
+    "2021-07-07T09:38:19.807070": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Если будут еще такие задачи будет быстрей."
+    },
+    "2021-07-07T14:31:55.210923": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://www.sendspace.com/file/lfxsm9\nhttps://www.sendspace.com/delete/lfxsm9/485974225c75226b4ab1206cd7777080"
+    },
+    "2021-07-07T14:31:55.218050": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Готово."
+    },
+    "2021-07-07T14:31:55.220331": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://privnote.com/Hmchrcaz#KY9q2VTat"
+    },
+    "2021-07-07T14:31:55.224894": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "05b.. - с админки аук\nВторой с дног7"
+    },
+    "2021-07-07T14:31:55.227035": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Если будут еще такие задачи будет быстрей."
+    },
+    "2021-07-19T18:56:26.334631": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "там три срочных заданий"
+    },
+    "2021-07-19T18:56:28.464415": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "определение ав"
+    },
+    "2021-07-19T18:56:37.730181": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "оно уже есть надо перенести и показывать с botlist"
+    },
+    "2021-07-19T18:56:55.464572": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потом сделать как-то чтобы боты с однго и того же ip показвыались где-то в одном месте и было видно  с других ip удобно"
+    },
+    "2021-07-19T18:57:02.078029": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и чтобы свежие новые боты как-то сверху рисовались"
+    },
+    "2021-07-19T19:02:06.531996": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nНасколько срочно, если завтра до вечера срок возьму, нормалньо будет?"
+    },
+    "2021-07-19T19:02:56.599316": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Край, среда первая половина дня, я если вдруг что то не по плану пойдет."
+    },
+    "2021-07-19T19:26:53.654889": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-08-05T17:38:48.817874": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nСделал в обоих хранилищах галочку группировки по ip и возможность сортировки по Created At.\nЧек АВ на след неделе допилю."
+    },
+    "2021-08-06T14:10:52.727633": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nСделал в обоих хранилищах галочку группировки по ip и возможность сортировки по Created At.\nЧек АВ на след неделе допилю."
+    },
+    "2021-08-10T11:03:46.072481": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "поторопись с внц"
+    },
+    "2021-08-10T11:03:46.909666": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "новым"
+    },
+    "2021-08-10T12:42:52.574263": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "поторопись с внц"
+    },
+    "2021-08-10T12:42:52.579251": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "новым"
+    },
+    "2021-08-10T12:44:50.616549": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет\nУточню у грема ,что с ним."
+    },
+    "2021-08-10T15:07:35.796527": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет\nУточню у грема ,что с ним."
+    },
+    "2021-08-16T13:58:56.872603": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет\nЯ тут наблюдаю что новые фичи появляются, и беспокоится начинаю. Тут такая история что я планировал в отпуск уйти.\nХочется отдохнуть успеть, лето уже заканчивается я год без отдыха.\nВ связи с этим хочу попросить не закидывать новыми тасками близжайшие 3-4 недели на функционал. Я постараюсь сегодня, максимум завтра по чеку АВ доделать, у меня данные есть, но с регулярками нужно доделать.\n\nЯ сделаю выгрузку по такс, и поправлю логпост, допилю с николасом куки и передам систему на поддержку, пока точно не знаю кому, но обсуждаем.\nЯ вернусь с отпуска и будем спокойно дальше разрабатывать систему. Сейчас я вижу, что приоритетны баги чтобы спокойно работать 3 таска (1 от тебя и 2 от робина).\nЯ вернусь с отпуска и буду готов дальше заняться разработкой систему и фич в ней уже.\nКак думаешь есть возможность ограничить пока запросы на новые функции?"
+    },
+    "2021-08-16T14:00:04.392602": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Привет ок"
+    },
+    "2021-08-16T14:00:07.232651": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а что еще добавили ?"
+    },
+    "2021-08-16T14:01:36.663323": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я писал, поле Created с возможностью сортировки сейчас есть ,Можно самых новых ботов сделать.\nИ галочка Group IPs дает нам по 1 ипу 1 бота, самого свежего, вывает что дает оффлайн бота, но можно сделать фильтр по статусу и все ок тогда."
+    },
+    "2021-08-16T14:02:44.754184": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Поле и галочка в разделе ботлист, поле Check AV я доделываю, нужен будет наверное фильтр какой-то, чтобы можно было только ботов с\\без АВ получить в ботлисте?"
+    },
+    "2021-08-16T14:03:10.859792": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Или достаточно поля, и фильтр не нужен?"
+    },
+    "2021-08-16T14:04:42.020348": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я думаю пока только поля, чтобы было видно какие ав стоят на боте"
+    },
+    "2021-08-16T14:05:56.131374": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ок, я Не думаю что больше 2х кто то ставит, выведу в этой графе название(я) АВ просто пока."
+    },
+    "2021-09-13T07:59:59.788150": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    },
+    "2021-09-13T11:39:08.038748": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    }
+}

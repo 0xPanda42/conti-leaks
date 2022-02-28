@@ -1,0 +1,194 @@
+##################################################
+Conversation between:
+	- bill@q3mcco35auwcstmt.onion
+	- stern@q3mcco35auwcstmt.onion
+34 messages
+first: 2021-02-01T18:49:05.744109
+last:  2021-11-02T08:45:27.012058
+##################################################
+
+2021-02-01T18:49:05.744109  stern@q3mcco35auwcstmt.onion
+	[ru] rfr ltkf
+	[en] RFR LTKF.
+	[fr] RFR LTKF.
+
+2021-02-01T18:49:09.296512  stern@q3mcco35auwcstmt.onion
+	[ru] какдела, ты свободен?
+	[en] How are you, are you free?
+	[fr] Comment allez-vous, êtes-vous libre?
+
+2021-02-01T22:26:19.611820  stern@q3mcco35auwcstmt.onion
+	[ru] lf
+	[en] LF.
+	[fr] Lf.
+
+2021-02-01T22:26:20.493016  stern@q3mcco35auwcstmt.onion
+	[ru] да
+	[en] Yes
+	[fr] Oui
+
+2021-02-02T14:36:16.984158  stern@q3mcco35auwcstmt.onion
+	[ru] lf
+	[en] LF.
+	[fr] Lf.
+
+2021-02-02T14:36:16.985027  stern@q3mcco35auwcstmt.onion
+	[ru] да
+	[en] Yes
+	[fr] Oui
+
+2021-02-02T14:36:36.339444  bill@q3mcco35auwcstmt.onion
+	[ru] что нужно делать?
+	[en] What do we have to do?
+	[fr] Qu'avons nous à faire?
+
+2021-02-02T15:13:14.973725  bill@q3mcco35auwcstmt.onion
+	[ru] что нужно делать?
+	[en] What do we have to do?
+	[fr] Qu'avons nous à faire?
+
+2021-03-23T20:23:59.939080  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-03-23T20:24:03.446889  stern@q3mcco35auwcstmt.onion
+	[ru] как дела
+	[en] how are you
+	[fr] Comment vas-tu
+
+2021-03-24T03:33:14.325045  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-03-24T03:33:14.325813  stern@q3mcco35auwcstmt.onion
+	[ru] как дела
+	[en] how are you
+	[fr] Comment vas-tu
+
+2021-03-24T07:10:42.783046  bill@q3mcco35auwcstmt.onion
+	[ru] привет, я уже боюсь что-либо писать без ОТР
+	[en] Hi, I'm already afraid to write something without
+	[fr] Salut, j'ai déjà peur d'écrire quelque chose sans
+
+2021-03-24T07:11:48.707850  bill@q3mcco35auwcstmt.onion
+	[ru] ща занимаюсь импортдлл и чищу шеллстартер (придумываю, как изменить код до неузнаваемости), уж больно быстро его пачкают :(
+	[en] schi I am doing imported and clean the Shellstarter (inventing how to change the code beyond recognition), it hurts him quickly :(
+	[fr] Schi je fais de l'importation et nettoie le shellstarter (inventant comment changer le code au-delà de la reconnaissance), ça le fait mal vite :(
+
+2021-03-24T10:12:40.336538  bill@q3mcco35auwcstmt.onion
+	[ru] привет, я уже боюсь что-либо писать без ОТР
+	[en] Hi, I'm already afraid to write something without
+	[fr] Salut, j'ai déjà peur d'écrire quelque chose sans
+
+2021-03-24T10:12:40.337091  bill@q3mcco35auwcstmt.onion
+	[ru] ща занимаюсь импортдлл и чищу шеллстартер (придумываю, как изменить код до неузнаваемости), уж больно быстро его пачкают :(
+	[en] schi I am doing imported and clean the Shellstarter (inventing how to change the code beyond recognition), it hurts him quickly :(
+	[fr] Schi je fais de l'importation et nettoie le shellstarter (inventant comment changer le code au-delà de la reconnaissance), ça le fait mal vite :(
+
+2021-03-24T10:13:32.390723  stern@q3mcco35auwcstmt.onion
+	[ru] понял, а там новых уязвимостей не было по размножению?
+	[en] I understood, and there were no new vulnerabilities in reproduction?
+	[fr] J'ai compris et il n'y avait pas de nouvelles vulnérabilités dans la reproduction?
+
+2021-03-31T18:07:33.352567  stern@q3mcco35auwcstmt.onion
+	[ru] Привет как у тебя дела?
+	[en] Hi how are you doing?
+	[fr] Salut comment vas-tu?
+
+2021-06-08T09:31:51.578193  stern@q3mcco35auwcstmt.onion
+	[ru] У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?
+	[en] <?>
+	[fr] <?>
+
+2021-06-27T11:26:41.874138  stern@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] <?>
+	[fr] <?>
+
+2021-06-27T11:26:46.265714  stern@q3mcco35auwcstmt.onion
+	[ru] тысячу лет не общалис
+	[en] <?>
+	[fr] <?>
+
+2021-06-27T11:26:47.730354  stern@q3mcco35auwcstmt.onion
+	[ru] как дела
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T08:04:55.632208  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T08:05:17.062463  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T09:55:56.996953  stern@q3mcco35auwcstmt.onion
+	[ru] У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T09:55:56.998285  stern@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T09:55:57.011438  stern@q3mcco35auwcstmt.onion
+	[ru] тысячу лет не общалис
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T09:55:57.011823  stern@q3mcco35auwcstmt.onion
+	[ru] как дела
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T09:55:57.012762  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-08-05T09:02:37.494565  stern@q3mcco35auwcstmt.onion
+	[ru] ты тут?
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T11:50:44.164150  stern@q3mcco35auwcstmt.onion
+	[ru] ты тут?
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T11:51:43.179501  bill@q3mcco35auwcstmt.onion
+	[ru] привет, я в чате постоянно обитаю, здесь не очень  появляюсь
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T15:37:05.874145  bill@q3mcco35auwcstmt.onion
+	[ru] привет, я в чате постоянно обитаю, здесь не очень  появляюсь
+	[en] <?>
+	[fr] <?>
+
+2021-11-02T08:45:27.012058  stern@q3mcco35auwcstmt.onion
+	[ru] куда ты уходить собрался ?
+	[en] <?>
+	[fr] <?>
+

@@ -1,0 +1,180 @@
+##################################################
+Conversation between:
+	- defender@q3mcco35auwcstmt.onion
+	- ghost@q3mcco35auwcstmt.onion
+29 messages
+first: 2021-06-17T09:29:13.001049
+last:  2021-12-13T12:10:10.277313
+##################################################
+
+2021-06-17T09:29:13.001049  ghost@q3mcco35auwcstmt.onion
+	[ru] привет! Админка Трика так и не встаёт?
+	[en] <?>
+	[fr] <?>
+
+2021-06-17T10:56:11.454147  defender@q3mcco35auwcstmt.onion
+	[ru] привет, сейчас гляну
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:37:41.003570  ghost@q3mcco35auwcstmt.onion
+	[ru] привет!
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:52:18.799589  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:52:39.631675  ghost@q3mcco35auwcstmt.onion
+	[ru] о
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:52:56.652186  ghost@q3mcco35auwcstmt.onion
+	[ru] скажи мне пожалуйста следующее
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:53:26.884455  ghost@q3mcco35auwcstmt.onion
+	[ru] у меня в ТЗ на загрузчик написано, что он должен уметь работать через прокси-сервер
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:53:53.638628  ghost@q3mcco35auwcstmt.onion
+	[ru] вы на сервере можете прописать прокси-сервер?
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:55:06.734622  defender@q3mcco35auwcstmt.onion
+	[ru] какой сервер?
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:55:16.262903  ghost@q3mcco35auwcstmt.onion
+	[ru] хз?
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:56:12.671943  ghost@q3mcco35auwcstmt.onion
+	[ru] в ТЗ написано. Я недоумеваю, а мой тимлид уклоняется от разговоров, сказал - надо тестировать к админам обращайся они пропишут прокси сервер
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:56:38.344359  ghost@q3mcco35auwcstmt.onion
+	[ru] видимо это на тестовых надо машинах писать
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:56:57.678411  ghost@q3mcco35auwcstmt.onion
+	[ru] админка то к загрузчику вообще никак не относиится в плане среды исполнения
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:57:13.384776  defender@q3mcco35auwcstmt.onion
+	[ru] скинь тз
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:57:43.210352  ghost@q3mcco35auwcstmt.onion
+	[ru] я только фразу сейчас скопирую, там одно предложение
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:58:05.253943  ghost@q3mcco35auwcstmt.onion
+	[ru] на эту тему
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:58:07.763049  ghost@q3mcco35auwcstmt.onion
+	[ru] 
+Загрузчик должен поддерживать работу через прокси, если он указан в настройках операционной системы (inetcpl.cpl -> Подключение -> Настройки прокси-сервера).
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T17:59:29.249179  ghost@q3mcco35auwcstmt.onion
+	[ru] видимо предполагается, что загрузчик попадает в систему, где выход в инет идет через прокси сервер, и должен не растеряться. Но как?
+	[en] <?>
+	[fr] <?>
+
+2021-07-09T18:02:39.160724  ghost@q3mcco35auwcstmt.onion
+	[ru] ты прогеров с загрузчиком не можешь мне назвать, чтобы я к ним обратился по этой теме?
+	[en] <?>
+	[fr] <?>
+
+2021-10-13T17:03:05.110014  ghost@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-10-13T17:04:07.293365  defender@q3mcco35auwcstmt.onion
+	[ru] +
+	[en] <?>
+	[fr] <?>
+
+2021-10-13T17:04:24.444063  ghost@q3mcco35auwcstmt.onion
+	[ru] +
+	[en] <?>
+	[fr] <?>
+
+2021-10-13T17:04:34.429410  ghost@q3mcco35auwcstmt.onion
+	[ru] цезарь завтра будет с утра тестить
+	[en] <?>
+	[fr] <?>
+
+2021-10-13T17:04:55.444502  ghost@q3mcco35auwcstmt.onion
+	[ru] сейчас вроде норм стоит ждёт команд
+	[en] <?>
+	[fr] <?>
+
+2021-10-13T17:04:56.393188  ghost@q3mcco35auwcstmt.onion
+	[ru] cmd /1/ ok
+/1/
+AdmProcessInputCmd_1(): number of fields != 7
+BT_MOD_STORAGE_STRUCT::TestGetListName():
+ModTestGetListTask():
+cmd /1/: request 95 from 100
+AdmGetFile2() url = https://128.201.76.252:443/trk2/WINDOWS-PC_W10019042.1cfda14ed4ac5d7173424be5036d5bdd/1/fgts62mkaqe1Vz7s/
+ConnectGet(): isSend =1 LastErrorCode 0 error
+HTTP/1.1 200 OK
+Server: nginx/1.14.2
+Date: Wed, 13 Oct 2021 17:03:18 GMT
+Content-Type: text/plain
+Content-Length: 3
+Connection: keep-alive
+	[en] <?>
+	[fr] <?>
+
+2021-10-22T14:17:45.058992  defender@q3mcco35auwcstmt.onion
+	[ru] ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК
+	[en] <?>
+	[fr] <?>
+
+2021-10-22T14:23:34.011050  ghost@q3mcco35auwcstmt.onion
+	[ru] Я переподключился!
+	[en] <?>
+	[fr] <?>
+
+2021-10-22T14:24:00.024600  ghost@q3mcco35auwcstmt.onion
+	[ru] Я переподключился!
+	[en] <?>
+	[fr] <?>
+
+2021-12-13T12:10:10.277313  ghost@q3mcco35auwcstmt.onion
+	[ru] привет!
+	[en] <?>
+	[fr] <?>
+

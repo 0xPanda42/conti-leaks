@@ -1,0 +1,59 @@
+##################################################
+Conversation between:
+	- taker@q3mcco35auwcstmt.onion
+	- veron@q3mcco35auwcstmt.onion
+10 messages
+first: 2021-02-11T21:08:33.576226
+last:  2021-03-09T11:05:39.726602
+##################################################
+
+2021-02-11T21:08:33.576226  taker@q3mcco35auwcstmt.onion
+	[ru]  ку)
+	[en] ku)
+	[fr] ku)
+
+2021-02-12T14:30:35.435609  taker@q3mcco35auwcstmt.onion
+	[ru] привет, думал вчера по поводу серверов, такие мысли - все удобные с точки зрения безопасности сервера имеют или лимит по каналу или там нет дедиков) возможно ли рассмотреть след решения - вместо одного сервера взять 2+ или сколько надо чтоб лимиты канала обойти (там кажись 15 тб на коробку) и сделать лоад балансер на взломанных хостах, или же смотреть в сторону впсок, но вместо крипты всего диска закриптовать один раздел и там хранить все файлы
+	[en] Hello, I thought yesterday about the servers, such thoughts - all servers comfortable from the point of view of the server have or a limit on the channel or there are no Dedikov) Is it possible to consider the track of the solution - instead of a single server to take 2+ or how much can channel limits come around (it seems15 TB per box) and make a load balancer on hacked hosts, or look in the direction of the height, but instead of the crypt of the entire disk, it is to scorch one section and store all files there
+	[fr] Bonjour, j'ai pensé hier sur les serveurs, de telles pensées - tous les serveurs confortables du point de vue du serveur ont ou une limite sur le canal ou qu'il n'y a pas de Dedikov) est-il possible de considérer la piste de la solution - au lieu d'un Le serveur unique de prendre 2+ ou de la quantité de canaux de canal viennent autour (il semble 15 tb par boîte) et faire un équilibreur de charge sur des hôtes piratés ou regarder dans la direction de la hauteur, mais au lieu de la crypte de l'ensemble du disque, Il s'agit de brûler une section et de stocker tous les fichiers là-bas
+
+2021-02-12T14:31:02.819229  taker@q3mcco35auwcstmt.onion
+	[ru] как я понял большинство операций все равно происходят в памяти, на диске только кастомных nginx и т.п.
+	[en] As I understand it, most of the operations still occur in memory, on the disk only custom NGINX, etc.
+	[fr] Si je comprends bien, la plupart des opérations se produisent toujours en mémoire, sur le disque uniquement NGinx, etc.
+
+2021-02-12T14:31:02.983555  veron@q3mcco35auwcstmt.onion
+	[ru] привет, думал вчера по поводу серверов, такие мысли - все удобные с точки зрения безопасности сервера имеют или лимит по каналу или там нет дедиков) возможно ли рассмотреть след решения - вместо одного сервера взять 2+ или сколько надо чтоб лимиты канала обойти (там кажись 15 тб на коробку) и сделать лоад балансер на взломанных хостах, или же смотреть в сторону впсок, но вместо крипты всего диска закриптовать один раздел и там хранить все файлы
+	[en] Hello, I thought yesterday about the servers, such thoughts - all servers comfortable from the point of view of the server have or a limit on the channel or there are no Dedikov) Is it possible to consider the track of the solution - instead of a single server to take 2+ or how much can channel limits come around (it seems15 TB per box) and make a load balancer on hacked hosts, or look in the direction of the height, but instead of the crypt of the entire disk, it is to scorch one section and store all files there
+	[fr] Bonjour, j'ai pensé hier sur les serveurs, de telles pensées - tous les serveurs confortables du point de vue du serveur ont ou une limite sur le canal ou qu'il n'y a pas de Dedikov) est-il possible de considérer la piste de la solution - au lieu d'un Le serveur unique de prendre 2+ ou de la quantité de canaux de canal viennent autour (il semble 15 tb par boîte) et faire un équilibreur de charge sur des hôtes piratés ou regarder dans la direction de la hauteur, mais au lieu de la crypte de l'ensemble du disque, Il s'agit de brûler une section et de stocker tous les fichiers là-bas
+
+2021-02-12T14:31:02.984356  veron@q3mcco35auwcstmt.onion
+	[ru] как я понял большинство операций все равно происходят в памяти, на диске только кастомных nginx и т.п.
+	[en] As I understand it, most of the operations still occur in memory, on the disk only custom NGINX, etc.
+	[fr] Si je comprends bien, la plupart des opérations se produisent toujours en mémoire, sur le disque uniquement NGinx, etc.
+
+2021-02-15T15:22:13.215834  taker@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-02-25T20:52:18.239156  veron@q3mcco35auwcstmt.onion
+	[ru] [Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+	[en] [Error: The message is encrypted, and it is impossible to decrypt it.]
+	[fr] [Erreur: le message est crypté et il est impossible de le déchiffrer.]
+
+2021-02-25T21:07:15.565873  taker@q3mcco35auwcstmt.onion
+	[ru] [Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+	[en] [Error: The message is encrypted, and it is impossible to decrypt it.]
+	[fr] [Erreur: le message est crypté et il est impossible de le déchiffrer.]
+
+2021-02-25T21:07:18.967990  veron@q3mcco35auwcstmt.onion
+	[ru] [Ошибка: сообщение зашифровано, и невозможно его расшифровать.]
+	[en] [Error: The message is encrypted, and it is impossible to decrypt it.]
+	[fr] [Erreur: le message est crypté et il est impossible de le déchiffrer.]
+
+2021-03-09T11:05:39.726602  veron@q3mcco35auwcstmt.onion
+	[ru] напиши как будешь
+	[en] Write like you
+	[fr] Écris comme toi
+

@@ -1,0 +1,336 @@
+##################################################
+Conversation between:
+	- hof@q3mcco35auwcstmt.onion
+	- zulas@q3mcco35auwcstmt.onion
+47 messages
+first: 2021-06-08T09:56:25.543650
+last:  2021-06-08T10:33:29.624774
+##################################################
+
+2021-06-08T09:56:25.543650  zulas@q3mcco35auwcstmt.onion
+	[ru] я ничего не понял
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:56:36.699428  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:56:55.974661  hof@q3mcco35auwcstmt.onion
+	[ru] что то отр не включается
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:57:29.288845  hof@q3mcco35auwcstmt.onion
+	[ru] ладно, без отр
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:57:45.905588  hof@q3mcco35auwcstmt.onion
+	[ru] скидывали тебе тз на фильтр
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:58:11.245932  hof@q3mcco35auwcstmt.onion
+	[ru] не готово пока?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:58:45.851655  zulas@q3mcco35auwcstmt.onion
+	[ru] привет . ничего не помню чтобы скидывали и когда ?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:59:09.941388  hof@q3mcco35auwcstmt.onion
+	[ru] давно уже
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:59:17.017847  zulas@q3mcco35auwcstmt.onion
+	[ru] блин . я хз
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:59:28.326425  zulas@q3mcco35auwcstmt.onion
+	[ru] наверное забыл даже ... а напомни ?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:00:01.529691  hof@q3mcco35auwcstmt.onion
+	[ru] В админку стучатся непонятные боты,
+ нужно добавить фильтр, чтобы отсеивать таких ботов, не выдавать им конфиги (команды 23, 5) и
+ команды на запуск модулей и файлов (команды 42, 43, 44, 45, 46, 47, 48, 50, 62):
+ 1) по ip (можно указать конкретные ip, так и целый диапазон)
+ 2) по id:
+  Kevin_W617601* - все боты, id которых начинающиеся с Kevin_W617601
+  *Kevin* - все боты, содержащие в id Kevin
+  можно указать список таких фильтров
+ 3) по Version:
+ 	 Version < 1080
+ 	 Version == 1027
+ 	 Version != 1089
+ 	 Version > 1099
+ 4) по Group:
+ 	aver*
+ 5) по System:
+ 	Microsoft Windows 10 Pro
+	Microsoft Windows 7 Professional
+	Microsoft*
+	*Microsoft*
+ Данные фильтры можно группировать, например:
+  Version < 1080
+  System: *Microsoft*
+	и т.д.
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:00:17.707299  zulas@q3mcco35auwcstmt.onion
+	[ru] это про леро?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:00:25.944167  hof@q3mcco35auwcstmt.onion
+	[ru] наверное
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:01:02.292858  zulas@q3mcco35auwcstmt.onion
+	[ru] ну фильтры какие-то есть там вроде
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:01:27.527631  hof@q3mcco35auwcstmt.onion
+	[ru] ок, уточню у админа
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:01:36.319109  zulas@q3mcco35auwcstmt.onion
+	[ru] у дефа лучше
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:01:46.705915  hof@q3mcco35auwcstmt.onion
+	[ru] да, у него
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:01:54.978365  zulas@q3mcco35auwcstmt.onion
+	[ru] ладно .
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:03:22.201524  zulas@q3mcco35auwcstmt.onion
+	[ru] (18:31:06) zulas@q3mcco35auwcstmt.onion/26301035891621258353120741: привет тут
+(18:42:20) defender: ага, тебе напишет драйвер, пояснишь ему как работает блокировка ок, хотим наконец то затестить
+(18:46:09) zulas@q3mcco35auwcstmt.onion/26301035891621258353120741: да хз  ) ты бы еще проснулся через 5 лет 
+(18:47:59) defender: ну по коду посмотришь, тебе 5 мин вспомнить)
+(18:51:55) zulas@q3mcco35auwcstmt.onion/26301035891621258353120741: придется видимА
+ 
+вот 17 мая был разговор
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:03:53.556156  hof@q3mcco35auwcstmt.onion
+	[ru] ок, понял, спс
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:22:18.416343  hof@q3mcco35auwcstmt.onion
+	[ru] подскажи плиз как пользоваться этими фильтрами, деф только с ip разобрался
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:27:16.424154  zulas@q3mcco35auwcstmt.onion
+	[ru] пойдет ?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:27:37.774967  hof@q3mcco35auwcstmt.onion
+	[ru] похоже, только вот как с этим разобраться
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:27:47.912390  zulas@q3mcco35auwcstmt.onion
+	[ru] а что там непонятно ?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:28:05.063211  zulas@q3mcco35auwcstmt.onion
+	[ru] клиент у меня съел какие-то символы
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:28:16.863192  zulas@q3mcco35auwcstmt.onion
+	[ru] в репе полное описание это есть
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:28:26.923157  hof@q3mcco35auwcstmt.onion
+	[ru] можно прау примеров именно по тз
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:28:27.926630  hof@q3mcco35auwcstmt.onion
+	[ru] 1) по ip (можно указать конкретные ip, так и целый диапазон)
+2) по id:
+ Kevin_W617601* - все боты, id которых начинающиеся с Kevin_W617601
+ *Kevin* - все боты, содержащие в id Kevin
+ можно указать список таких фильтров
+3) по Version:
+       Version < 1080
+       Version == 1027
+       Version != 1089
+       Version > 1099
+4) по Group:
+      aver*
+5) по System:
+      Microsoft Windows 10 Pro
+      Microsoft Windows 7 Professional
+      Microsoft*
+      *Microsoft*
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:28:29.156173  zulas@q3mcco35auwcstmt.onion
+	[ru] #{
+  <<"x">> => 1,
+  <<"y">> => <<"hello">>,
+  <<"ip">> => { ip, <<"162.76.2.1">> },
+  <<"true">> => true
+}
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:28:45.836722  zulas@q3mcco35auwcstmt.onion
+	[ru] тогда:
+
+* 1 > 2 -> false
+* x =< 2 -> true
+* 1 ++ 2 = 12 -> true
+* x ++ 2 = 12 -> true
+* x ++ 2 = 2 ++ x -> false
+* x ++ 1 = 1 ++ x -> true
+* y = "*lo" -> true
+* y = "*lo*" -> true
+* y = "lo*" -> false
+* !(x>1)&y=\"hello\" -> true
+* y =& [ "*lo", "hel*"] -> true
+* y =|[ \"lo*\", \"(hel*\"] -> false
+* ip ~ \"162.76.0.0/16\" -> true
+* ip !~ \"161.76.0.0/16\" -> true
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:28:49.320965  zulas@q3mcco35auwcstmt.onion
+	[ru] вот все примеры
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:29:02.002369  zulas@q3mcco35auwcstmt.onion
+	[ru] т.е. каждый клиент это какие-то свойства .. см выше ..
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:29:36.761159  hof@q3mcco35auwcstmt.onion
+	[ru] все равно не понятно
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:29:40.421959  zulas@q3mcco35auwcstmt.onion
+	[ru] и ты можешь определить правила .. если правило дает true -- то это гуд клиент, если false -- то бот. Если хотябы одно из примененных правил false - то клиент отметается
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:29:49.408625  zulas@q3mcco35auwcstmt.onion
+	[ru] ну ты для начала прочитай
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:29:53.892160  zulas@q3mcco35auwcstmt.onion
+	[ru] а что непонятно ) ?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:30:11.026195  hof@q3mcco35auwcstmt.onion
+	[ru] сделай плиз неасколько примеров именно по тз
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:30:26.645897  hof@q3mcco35auwcstmt.onion
+	[ru] например Kevin_W617601* - все боты, id которых начинающиеся с Kevin_W617601
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:30:46.178358  hof@q3mcco35auwcstmt.onion
+	[ru] как это записать в твоем варианте?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:31:19.734481  zulas@q3mcco35auwcstmt.onion
+	[ru] id != "Kevin_W617601*"
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:32:03.417071  zulas@q3mcco35auwcstmt.onion
+	[ru] <<"true">> => true,
+<<"false">> => false,
+<<"id">> => Client#client.client_id,
+<<"client_ver">> => Client#client.client_ver,
+<<"name">> => Client#client.name,
+<<"group">> => Client#client.group,
+<<"ip">> => Client#client.ip_parsed,
+<<"country">> => Client#client.country,
+<<"sys_ver">> => Client#client.sys_ver,
+<<"importance">> => Client#client.importance,
+<<"userdefined">> => Client#client.userdefined
+
+вот доступные идентификаторы колонок
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:32:38.469354  hof@q3mcco35auwcstmt.onion
+	[ru] так нужно писать <<"id">> != "Kevin_W617601*"
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:32:42.805559  hof@q3mcco35auwcstmt.onion
+	[ru] ?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:32:54.370642  hof@q3mcco35auwcstmt.onion
+	[ru] для чего <<"id">> ?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:33:04.208299  zulas@q3mcco35auwcstmt.onion
+	[ru] это из исходников .. просто пиши id != " ... "
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:33:26.076046  zulas@q3mcco35auwcstmt.onion
+	[ru] ## Доступные идентификаторы
+
+В настоящий момент поддерживается следующие идентификаторы полей клиента, которые могут быть вставлены в код выражения:
+
+* ```true``` - всегда ИСТИНА
+* ```false``` - всегда ЛОЖЬ
+* ```ip``` - специальный тип IP, можно матчить с помощью ~
+* ```id``` - id-клиента как текст
+* ```client_ver``` - версия клиента 
+* ```name``` - имя клиента (строка)
+* ```group``` - группа клиента (строка)
+* ```ip``` - ip клиента, который был передан по команде /0/
+* ```country``` - страна клиента (строка)
+* ```sys_ver``` - версия системы (строка)
+* ```importance``` - число
+* ```userdefined``` - число
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T10:33:29.624774  hof@q3mcco35auwcstmt.onion
+	[ru] ок, теперь вроде понятно
+	[en] <?>
+	[fr] <?>
+

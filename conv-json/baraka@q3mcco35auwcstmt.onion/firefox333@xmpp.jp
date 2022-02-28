@@ -1,0 +1,42 @@
+{
+    "2021-05-27T14:53:04.563525": {
+        "src": "baraka@q3mcco35auwcstmt.onion",
+        "dst": "firefox333@xmpp.jp",
+        "body": "11"
+    },
+    "2021-05-27T14:53:07.769610": {
+        "src": "firefox333@xmpp.jp",
+        "dst": "baraka@q3mcco35auwcstmt.onion",
+        "body": "11"
+    },
+    "2021-05-27T19:51:52.712840": {
+        "src": "baraka@q3mcco35auwcstmt.onion",
+        "dst": "firefox333@xmpp.jp",
+        "body": "это Влад"
+    },
+    "2021-05-27T19:51:55.822165": {
+        "src": "firefox333@xmpp.jp",
+        "dst": "baraka@q3mcco35auwcstmt.onion",
+        "body": "это Влад"
+    },
+    "2021-05-27T22:25:28.173220": {
+        "src": "baraka@q3mcco35auwcstmt.onion",
+        "dst": "firefox333@xmpp.jp",
+        "body": "ау"
+    },
+    "2021-05-27T22:25:31.487571": {
+        "src": "firefox333@xmpp.jp",
+        "dst": "baraka@q3mcco35auwcstmt.onion",
+        "body": "ау"
+    },
+    "2021-05-28T11:58:09.332753": {
+        "src": "baraka@q3mcco35auwcstmt.onion",
+        "dst": "firefox333@xmpp.jp",
+        "body": "11"
+    },
+    "2021-05-28T11:58:12.669719": {
+        "src": "firefox333@xmpp.jp",
+        "dst": "baraka@q3mcco35auwcstmt.onion",
+        "body": "11"
+    }
+}

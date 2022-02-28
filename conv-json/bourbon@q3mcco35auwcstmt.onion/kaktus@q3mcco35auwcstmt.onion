@@ -1,0 +1,41 @@
+{
+    "2021-04-11T14:18:05.529129": {
+        "src": "bourbon@q3mcco35auwcstmt.onion",
+        "dst": "kaktus@q3mcco35auwcstmt.onion",
+        "body": "Привет! В понедельник с утра я не смогу появиться. Буду в 14:00-15:00 по мск",
+        "body_fr": "Hé!Lundi le matin, je ne peux pas comparaître.Je serai de 14h à 15h00 sur MSK",
+        "body_en": "Hey!On Monday in the morning I can not appear.I will be at 14: 00-15: 00 on MSK"
+    },
+    "2021-04-12T06:51:42.034395": {
+        "src": "bourbon@q3mcco35auwcstmt.onion",
+        "dst": "kaktus@q3mcco35auwcstmt.onion",
+        "body": "Привет! В понедельник с утра я не смогу появиться. Буду в 14:00-15:00 по мск",
+        "body_fr": "Hé!Lundi le matin, je ne peux pas comparaître.Je serai de 14h à 15h00 sur MSK",
+        "body_en": "Hey!On Monday in the morning I can not appear.I will be at 14: 00-15: 00 on MSK"
+    },
+    "2021-10-22T14:26:21.185670": {
+        "src": "bourbon@q3mcco35auwcstmt.onion",
+        "dst": "kaktus@q3mcco35auwcstmt.onion",
+        "body": "можешь подсказать, кому, нужно отписаться, что с версией 3 все ОК? А то я диалог закрыл, а аккаунт, от которого пришло сообщение, не записал"
+    },
+    "2021-11-24T09:56:16.416161": {
+        "src": "bourbon@q3mcco35auwcstmt.onion",
+        "dst": "kaktus@q3mcco35auwcstmt.onion",
+        "body": "У меня опять беда с детектами АВ. generic - чистый, а rundll32 - грязный"
+    },
+    "2021-11-24T09:56:24.429160": {
+        "src": "bourbon@q3mcco35auwcstmt.onion",
+        "dst": "kaktus@q3mcco35auwcstmt.onion",
+        "body": "Пока собрать только generic?"
+    },
+    "2022-01-20T10:25:03.227197": {
+        "src": "bourbon@q3mcco35auwcstmt.onion",
+        "dst": "kaktus@q3mcco35auwcstmt.onion",
+        "body": "На сборке лоадера вылез детект на нескольких АВ. Но все эти АВ на одном движке"
+    },
+    "2022-01-20T10:25:07.721971": {
+        "src": "bourbon@q3mcco35auwcstmt.onion",
+        "dst": "kaktus@q3mcco35auwcstmt.onion",
+        "body": "Попробую почистить"
+    }
+}

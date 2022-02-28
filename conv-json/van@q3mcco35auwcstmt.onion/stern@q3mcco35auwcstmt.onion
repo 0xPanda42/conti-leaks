@@ -1,0 +1,318 @@
+{
+    "2021-02-03T15:50:49.511831": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-04T15:42:28.481293": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!\nТаргет не появлялся. Я здесь был в течении 12 часов.",
+        "body_fr": "Hé!\nLa cible n'a pas apparu.J'étais ici pendant 12 heures.",
+        "body_en": "Hey!\nTarget did not appear.I was here for 12 hours."
+    },
+    "2021-02-04T17:20:20.245192": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!\nТаргет не появлялся. Я здесь был в течении 12 часов.",
+        "body_fr": "Hé!\nLa cible n'a pas apparu.J'étais ici pendant 12 heures.",
+        "body_en": "Hey!\nTarget did not appear.I was here for 12 hours."
+    },
+    "2021-02-05T11:29:15.719009": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-05T11:29:20.949901": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ты помимо бк чем нибудь еще занимаешься ?",
+        "body_fr": "Vous faites toujours autre chose que BK?",
+        "body_en": "Are you still doing anything other than BK?"
+    },
+    "2021-02-24T16:29:36.590523": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-02-25T04:06:47.519826": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-12T15:17:24.839169": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-15T03:04:26.411083": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-15T04:28:54.930704": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!\nЗанимаюсь криптованием.Успешно криптую почти всё, что дают. Постоянные проблемы только с криптованием  exe x86. Снова вот переделал стаб, в выходные не палился, сегодня Бентли проверит.\nНе готов еще стаб для запуска шеллкода. Сегодня-завтра сделаю.",
+        "body_fr": "Hé!\nJe vais pleurer.Les problèmes permanents ne sont qu'avec la cryptage de l'EXE X86.Je refaire à nouveau le talon, ne tomba pas le week-end, aujourd'hui Bentley vérifiera.\nPas prêt plus de stubs à lancer du shellcode.Aujourd'hui, je ferai demain.",
+        "body_en": "Hey!\nI am going to cry.Permanent problems are only with the crypticing of EXE X86.I again redid the stub, did not fall on the weekend, today Bentley will check.\nNot ready more stubs to launch Shellcode.Today I will do tomorrow."
+    },
+    "2021-03-15T04:42:01.452275": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В пятницу, например, сделал 24 крипта, все одобрили и взяли в работу.",
+        "body_fr": "Vendredi, par exemple, j'ai fait 24 crypte, tous approuvés et l'ont pris au travail.",
+        "body_en": "On Friday, for example, I made 24 crypt, all approved and took it to work."
+    },
+    "2021-03-15T20:15:29.456741": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!\nЗанимаюсь криптованием.Успешно криптую почти всё, что дают. Постоянные проблемы только с криптованием  exe x86. Снова вот переделал стаб, в выходные не палился, сегодня Бентли проверит.\nНе готов еще стаб для запуска шеллкода. Сегодня-завтра сделаю.",
+        "body_fr": "Hé!\nJe vais pleurer.Les problèmes permanents ne sont qu'avec la cryptage de l'EXE X86.Je refaire à nouveau le talon, ne tomba pas le week-end, aujourd'hui Bentley vérifiera.\nPas prêt plus de stubs à lancer du shellcode.Aujourd'hui, je ferai demain.",
+        "body_en": "Hey!\nI am going to cry.Permanent problems are only with the crypticing of EXE X86.I again redid the stub, did not fall on the weekend, today Bentley will check.\nNot ready more stubs to launch Shellcode.Today I will do tomorrow."
+    },
+    "2021-03-15T20:15:29.458861": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В пятницу, например, сделал 24 крипта, все одобрили и взяли в работу.",
+        "body_fr": "Vendredi, par exemple, j'ai fait 24 crypte, tous approuvés et l'ont pris au travail.",
+        "body_en": "On Friday, for example, I made 24 crypt, all approved and took it to work."
+    },
+    "2021-05-06T07:35:33.883769": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет ты бк занимаешься ?"
+    },
+    "2021-06-07T12:49:39.307298": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-08T04:13:04.659646": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-08T04:40:32.086478": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!\nКриптую, как обычно. Тестеры говорят, что получается.\nНесколько дней занимался подключением одного своего стаба к билдмашине.\nГлобальных идей нет пока ))) А по мелочи, так каждый день что-то думать приходится, - криптование тяжелая работа,\nкак выяснилось.\nДва года уже работаю здесь. С 14 июня первый раз пойду в двухнедельный отпуск."
+    },
+    "2021-06-08T09:18:37.972499": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!\nКриптую, как обычно. Тестеры говорят, что получается.\nНесколько дней занимался подключением одного своего стаба к билдмашине.\nГлобальных идей нет пока ))) А по мелочи, так каждый день что-то думать приходится, - криптование тяжелая работа,\nкак выяснилось.\nДва года уже работаю здесь. С 14 июня первый раз пойду в двухнедельный отпуск."
+    },
+    "2021-06-08T09:19:34.122109": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-08T09:19:41.151498": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ничего себе два года )"
+    },
+    "2021-06-08T09:30:24.304564": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-08T09:31:01.179750": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ага"
+    },
+    "2021-06-08T09:40:44.791136": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "я тебе бонус закину перед отпуском"
+    },
+    "2021-06-08T09:40:45.744757": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "скинь кош"
+    },
+    "2021-06-08T09:41:26.274595": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "кстате ты с atlas@ общался?"
+    },
+    "2021-06-08T09:42:04.356370": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "нет, с ним не общался"
+    },
+    "2021-06-08T09:42:21.777826": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "он хороший старый криптор"
+    },
+    "2021-06-08T09:42:32.190080": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "а-а-а"
+    },
+    "2021-06-08T09:42:43.365189": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "да, мне говорил Буза"
+    },
+    "2021-06-08T09:43:14.960230": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "да, в планах есть поговорить с ним"
+    },
+    "2021-06-08T09:43:22.821961": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "очень интересно"
+    },
+    "2021-06-08T09:43:53.988122": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "платеж на сколько рублей сделать? Я про бонус... ))"
+    },
+    "2021-06-08T09:44:22.685814": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ну на 200к сделай"
+    },
+    "2021-06-08T09:44:39.549651": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "я хочу чтобы ты с атласом пообщался, и показал ему свои крипты"
+    },
+    "2021-06-08T09:44:56.551581": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "хорошо, пообщаюсь"
+    },
+    "2021-06-08T09:44:59.606136": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "покажу"
+    },
+    "2021-06-08T09:45:27.587568": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "сейчас сделаю платеж на две карты"
+    },
+    "2021-06-08T09:46:11.551758": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-06-08T09:50:36.114785": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "396PgCGZf7FAK5Sxmxa9NhGRZECddT2mMv\n0.03086953\n\n3HqUAxCJ3yv2WNQE3MQSjRKGLAQqGRA4rq\n0.05726887"
+    },
+    "2021-06-22T10:52:46.910678": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-22T10:52:47.879476": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ты тут ?"
+    },
+    "2021-06-25T11:56:12.984827": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-25T11:56:12.991672": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ты тут ?"
+    },
+    "2021-06-25T11:57:10.885470": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет! я в отпуске, выхожу на работу 28 июня."
+    },
+    "2021-06-25T13:02:39.107510": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет! я в отпуске, выхожу на работу 28 июня."
+    },
+    "2021-06-25T13:52:44.639933": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "привет окей"
+    },
+    "2021-06-25T13:52:47.280426": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ты мне нужен будешь"
+    },
+    "2021-06-28T03:15:08.763333": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "привет окей"
+    },
+    "2021-06-28T03:15:08.764526": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ты мне нужен будешь"
+    },
+    "2021-06-28T03:16:49.986007": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет! Понял."
+    },
+    "2021-06-28T07:39:52.548735": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет! Понял."
+    },
+    "2021-09-13T08:00:07.965029": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    },
+    "2021-09-13T08:12:18.327765": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет! Нового ничего нет. Криптуем. Нагрузка большая, хотя билдмашина и выручает, но чистки, конечно, остались.\nМоей работой вроде довольны, я постоянно слежу за тем, чтобы быстро реагировать на замечания тестировщиков.\nСложился хороший коллектив криптеров. Работаем."
+    },
+    "2021-09-13T08:15:49.249717": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "привет ага понял"
+    },
+    "2021-09-13T08:15:54.709562": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "по работе все ок? в целом нравится ?"
+    },
+    "2021-09-13T08:17:44.862197": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "По работе все ОК. Мне очень нравится. Спасибо за возможность работать с Вами!"
+    },
+    "2021-09-13T08:18:20.629410": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "отлично и тебе спс"
+    },
+    "2021-09-13T08:18:24.455824": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "ты талант"
+    }
+}

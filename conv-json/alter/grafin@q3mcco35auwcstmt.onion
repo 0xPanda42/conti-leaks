@@ -1,0 +1,22 @@
+{
+    "2021-07-02T18:10:44.098005": {
+        "src": "grafin@q3mcco35auwcstmt.onion",
+        "dst": "alter",
+        "body": "привет"
+    },
+    "2021-07-02T18:10:44.111604": {
+        "src": "alter",
+        "dst": "grafin@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-07-02T18:10:47.362972": {
+        "src": "grafin@q3mcco35auwcstmt.onion",
+        "dst": "alter",
+        "body": "ты тут?"
+    },
+    "2021-07-02T18:10:47.363988": {
+        "src": "alter",
+        "dst": "grafin@q3mcco35auwcstmt.onion",
+        "body": "ты тут?"
+    }
+}

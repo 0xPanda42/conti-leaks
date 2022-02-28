@@ -1,0 +1,12 @@
+{
+    "2021-07-20T06:03:22.093215": {
+        "src": "golova@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-07-26T12:35:59.400719": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "golova@q3mcco35auwcstmt.onion",
+        "body": "привет как успехи?"
+    }
+}

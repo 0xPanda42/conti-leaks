@@ -1,0 +1,28 @@
+{
+    "2021-03-10T11:21:33.912405": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "green@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-10T11:21:37.896354": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "green@q3mcco35auwcstmt.onion",
+        "body": "Чет рокетчат не пускает, причем даже просит не залогиниться, а зарегить новый аккаунт. Форма логина недоступна. Это так и должно быть?",
+        "body_fr": "Cela ne permet pas une rochete, et il demande même de ne pas se déconnecter, mais d'enregistrer un nouveau compte.Le formulaire de connexion n'est pas disponible.Ça devrait être tellement?",
+        "body_en": "It does not allow a rockety, and it even asks not to log out, but to register a new account.Login form is not available.It should be so?"
+    },
+    "2021-03-10T11:37:22.989025": {
+        "src": "green@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "привет почисти кеш который там называется чтото про заполение форм\\",
+        "body_fr": "Bonjour Nettoyer le cache qui est appelé quelque chose sur le remplissage des formes \\",
+        "body_en": "Hello to clean the cache which is called there something about filling forms \\"
+    },
+    "2021-09-03T13:45:22.428327": {
+        "src": "green@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "стрикс привет"
+    }
+}

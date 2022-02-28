@@ -1,0 +1,240 @@
+{
+    "2021-02-18T21:51:49.916494": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "ты как",
+        "body_fr": "Comment vas-tu",
+        "body_en": "how are you"
+    },
+    "2021-02-24T16:29:36.611693": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-02-26T00:09:13.479583": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-26T00:09:16.128716": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "твой софт готов ?",
+        "body_fr": "Votre logiciel est-il prêt?",
+        "body_en": "Is your software ready?"
+    },
+    "2021-02-26T00:09:39.379922": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "по впн",
+        "body_fr": "sur npn",
+        "body_en": "on npn"
+    },
+    "2021-02-26T03:10:01.053587": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Напишу ему днем как вернусь",
+        "body_fr": "Salut.Je vais l'écrire dans l'après-midi alors que je reviens",
+        "body_en": "Hello.I will write him in the afternoon as I come back"
+    },
+    "2021-02-26T11:14:01.022583": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Напишу ему днем как вернусь",
+        "body_fr": "Salut.Je vais l'écrire dans l'après-midi alors que je reviens",
+        "body_en": "Hello.I will write him in the afternoon as I come back"
+    },
+    "2021-02-26T14:40:59.113242": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "yellow вышел",
+        "body_fr": "Jaune est sorti",
+        "body_en": "Yellow came out"
+    },
+    "2021-02-26T16:05:57.570034": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Пытался с ним еще ночью сконнектиться, но он не принял авторизацию. Не получилось наладить связь.",
+        "body_fr": "J'ai essayé de la portée avec lui même la nuit, mais il n'a pas accepté l'autorisation.Il n'a pas réussi à établir une connexion.",
+        "body_en": "I tried to scope with him even at night, but he did not accept authorization.It did not manage to establish a connection."
+    },
+    "2021-02-26T16:06:13.821669": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "отр от этого у меня не поднимался",
+        "body_fr": "Je n'ai pas atteint de ça",
+        "body_en": "I did not rise from this"
+    },
+    "2021-02-26T16:23:21.472892": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "списался ?",
+        "body_fr": "Il a listé?",
+        "body_en": "He listed?"
+    },
+    "2021-02-26T16:32:12.606815": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все еще не поднимается отр. Активно пытаюсь выйти на связь",
+        "body_fr": "Toujours pas ressuscité.Essayer activement de communiquer",
+        "body_en": "Still not risen.Actively trying to communicate"
+    },
+    "2021-02-26T16:47:25.075459": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "дай свой джаббер",
+        "body_fr": "Donner à votre jabber",
+        "body_en": "Give your jabber"
+    },
+    "2021-02-26T16:50:23.651141": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Есть контакт",
+        "body_fr": "Il y a contact",
+        "body_en": "There is contact"
+    },
+    "2021-02-26T16:50:35.327829": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "списался ?",
+        "body_fr": "Il a listé?",
+        "body_en": "He listed?"
+    },
+    "2021-02-26T16:51:12.618593": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Угу, получилось",
+        "body_fr": "Oui, ça s'est avéré",
+        "body_en": "Yeah, it turned out"
+    },
+    "2021-02-26T16:54:10.483168": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "На всякий случай. 21yelow21@jabb.im верно же?",
+        "body_fr": "Au cas où.21Yelow21@jabb.im est juste?",
+        "body_en": "Just in case.21yelow21@jabb.im is right?"
+    },
+    "2021-02-26T16:54:32.523031": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Просто походу он был не в курсе что я с мостом",
+        "body_fr": "Juste campagne, il ne savait pas que je suis avec le pont",
+        "body_en": "Just campaign he was not aware that I am with the bridge"
+    },
+    "2021-03-03T00:07:01.248842": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-03T00:07:04.452811": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "как дела у тебя с yellow?",
+        "body_fr": "Comment allez-vous de jaune?",
+        "body_en": "How are you with Yellow?"
+    },
+    "2021-03-12T15:17:24.808820": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-17T10:06:47.179660": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-24T10:13:42.083189": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Привет как дела?",
+        "body_fr": "Bonjour comment vas-tu?",
+        "body_en": "Hello how are you?"
+    },
+    "2021-03-24T10:13:42.083639": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "ты сдал впн?",
+        "body_fr": "Avez-vous passé VPN?",
+        "body_en": "Did you pass VPN?"
+    },
+    "2021-03-24T13:11:02.611186": {
+        "src": "gus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[15:59:22] *** Получено зашифрованное сообщение, но оно не может быть расшифровано, поскольку частная беседа еще не начата.",
+        "body_fr": "[15:59:22] *** Un message crypté a été reçu, mais il ne peut être déchiffré parce que la conversation privée n'a pas encore commencé.",
+        "body_en": "[15:59:22] *** An encrypted message was received, but it cannot be decrypted because the private conversation has not yet begun."
+    },
+    "2021-03-24T22:36:27.774754": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "РПивет",
+        "body_fr": "Sévir",
+        "body_en": "RPIVIVE"
+    },
+    "2021-03-29T13:52:20.650733": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Привет как у тебя дела",
+        "body_fr": "salut comment vas-tu",
+        "body_en": "Hi how are you doing"
+    },
+    "2021-04-13T12:45:20.821084": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Привет как у тебя дела",
+        "body_fr": "salut comment vas-tu",
+        "body_en": "Hi how are you doing"
+    },
+    "2021-04-14T16:57:23.715852": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-28T14:33:31.836902": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-04-28T14:33:32.577560": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "как дела"
+    },
+    "2021-06-07T12:47:34.979261": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "привет как дела"
+    },
+    "2021-06-07T12:49:39.293066": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-08T09:30:16.540057": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-28T08:05:57.550730": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-09-13T07:59:59.781758": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "gus@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    }
+}

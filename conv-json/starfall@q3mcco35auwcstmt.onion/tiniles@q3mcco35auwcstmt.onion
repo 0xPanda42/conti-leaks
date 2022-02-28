@@ -1,0 +1,12 @@
+{
+    "2021-12-15T12:52:35.025518": {
+        "src": "tiniles@q3mcco35auwcstmt.onion",
+        "dst": "starfall@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-12-15T12:52:37.945302": {
+        "src": "starfall@q3mcco35auwcstmt.onion",
+        "dst": "tiniles@q3mcco35auwcstmt.onion",
+        "body": "Привет, писал?"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2021-12-16T14:02:32.158935": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "ghost@q3mcco35auwcstmt.onion",
+        "body": "Ну и что Франц?"
+    },
+    "2021-12-16T14:02:52.851413": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "я думал это он ответил"
+    },
+    "2021-12-16T14:03:03.851175": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "пока молчит"
+    },
+    "2021-12-16T14:03:05.485172": {
+        "src": "van@q3mcco35auwcstmt.onion",
+        "dst": "ghost@q3mcco35auwcstmt.onion",
+        "body": "не, это я"
+    },
+    "2021-12-16T14:03:20.787664": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "van@q3mcco35auwcstmt.onion",
+        "body": "да, теперь я убедился что это ты"
+    }
+}

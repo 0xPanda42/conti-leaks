@@ -1,0 +1,180 @@
+##################################################
+Conversation between:
+	- ghost@q3mcco35auwcstmt.onion
+	- stern@q3mcco35auwcstmt.onion
+29 messages
+first: 2021-02-24T16:29:36.564834
+last:  2021-09-14T06:05:11.907102
+##################################################
+
+2021-02-24T16:29:36.564834  stern@q3mcco35auwcstmt.onion
+	[ru] Кто сможет разобраться по уязвимости sonicwall
+И сделать рабочий сканер
+	[en] Who can figure out the SonicWall vulnerability
+And make a working scanner
+	[fr] Qui peut comprendre la vulnérabilité de SonicWall
+Et faire un scanner de travail
+
+2021-02-25T04:13:25.022752  stern@q3mcco35auwcstmt.onion
+	[ru] Кто сможет разобраться по уязвимости sonicwall
+И сделать рабочий сканер
+	[en] Who can figure out the SonicWall vulnerability
+And make a working scanner
+	[fr] Qui peut comprendre la vulnérabilité de SonicWall
+Et faire un scanner de travail
+
+2021-02-25T04:19:09.863125  ghost@q3mcco35auwcstmt.onion
+	[ru] Вот это, 
+CVE-2020-5135: Critical SonicWall VPN Portal Stack-based Buffer Overflow Vulnerability
+да?
+	[en] This,
+CVE-2020-5135: Critical Sonicwall VPN Portal Stack-Based Buffer Overflow Vulnerability
+Yes?
+	[fr] Ce,
+CVE-2020-5135: Vulnérabilité de tampon de tampon Sonicwall VPN Critique SonicWall VPN
+Oui?
+
+2021-02-25T12:02:25.586542  ghost@q3mcco35auwcstmt.onion
+	[ru] Вот это, 
+CVE-2020-5135: Critical SonicWall VPN Portal Stack-based Buffer Overflow Vulnerability
+да?
+	[en] This,
+CVE-2020-5135: Critical Sonicwall VPN Portal Stack-Based Buffer Overflow Vulnerability
+Yes?
+	[fr] Ce,
+CVE-2020-5135: Vulnérabilité de tampon de tampon Sonicwall VPN Critique SonicWall VPN
+Oui?
+
+2021-03-12T15:17:24.822455  stern@q3mcco35auwcstmt.onion
+	[ru] Привет, как у кого дела, пишите результаты, успехи или неудачи
+	[en] Hello, how are you doing, write results, successes or failures
+	[fr] Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs
+
+2021-04-22T04:59:31.755505  ghost@q3mcco35auwcstmt.onion
+	[ru] Привет. Я кодирую сборку.
+	[en] <?>
+	[fr] <?>
+
+2021-04-22T16:17:16.030569  ghost@q3mcco35auwcstmt.onion
+	[ru] Привет. Я кодирую сборку.
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:49:39.268787  stern@q3mcco35auwcstmt.onion
+	[ru] Привет. Как дела? 
+какие результаты у тебя? 
+Какие задачи стоят?
+Какие идеи есть что можно добавить и улучшить?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:30:16.504808  stern@q3mcco35auwcstmt.onion
+	[ru] Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T12:24:28.665114  stern@q3mcco35auwcstmt.onion
+	[ru] Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T12:32:06.481900  ghost@q3mcco35auwcstmt.onion
+	[ru] Привет! Работаю над сборкой "загрузчик+бот". Упрощаю и оптимизирую сопровождение, чистку от АВ детектов.
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T12:36:21.635023  ghost@q3mcco35auwcstmt.onion
+	[ru] На блокчейнах не специализировался, хотя и интересно. Есть хобби в изучении процессов Пампа/дампа/листингов и взлёта стоимости монет на криптобирже Бинансе. На горизонте  применение автоматизированного бота в этих процессах.
+	[en] <?>
+	[fr] <?>
+
+2021-06-09T10:32:46.277754  ghost@q3mcco35auwcstmt.onion
+	[ru] На блокчейнах не специализировался, хотя и интересно. Есть хобби в изучении процессов Пампа/дампа/листингов и взлёта стоимости монет на криптобирже Бинансе. На горизонте  применение автоматизированного бота в этих процессах.
+	[en] <?>
+	[fr] <?>
+
+2021-06-09T10:32:46.307784  ghost@q3mcco35auwcstmt.onion
+	[ru] Привет! Работаю над сборкой "загрузчик+бот". Упрощаю и оптимизирую сопровождение, чистку от АВ детектов.
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T08:05:41.144273  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T08:10:07.365786  ghost@q3mcco35auwcstmt.onion
+	[ru] Очень интересная тема
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T11:00:18.372790  stern@q3mcco35auwcstmt.onion
+	[ru] привет да
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T11:25:33.057881  ghost@q3mcco35auwcstmt.onion
+	[ru] привет. есть лидеры-идеологи? Язык выбрали? Я посмотрел блокчейнстроение, там много вариантов на основных языках с++,с#, python, golang, javascript etc.
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T12:25:36.061040  stern@q3mcco35auwcstmt.onion
+	[ru] привет да
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T12:25:36.404895  stern@q3mcco35auwcstmt.onion
+	[ru] я
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T12:25:55.984387  stern@q3mcco35auwcstmt.onion
+	[ru] изучи плиз каким образом сейчас на polkadot etherium и bsm и других системах
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T12:26:06.842808  stern@q3mcco35auwcstmt.onion
+	[ru] осуществляется
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T12:26:17.756188  stern@q3mcco35auwcstmt.onion
+	[ru] майнинг валют
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T12:26:26.215517  stern@q3mcco35auwcstmt.onion
+	[ru] и что будет в etherium 2.0
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T13:21:46.616435  ghost@q3mcco35auwcstmt.onion
+	[ru] ok
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T13:39:28.697053  ghost@q3mcco35auwcstmt.onion
+	[ru] ok
+	[en] <?>
+	[fr] <?>
+
+2021-07-16T16:30:11.067960  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T07:59:59.798357  stern@q3mcco35auwcstmt.onion
+	[ru] Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+	[en] <?>
+	[fr] <?>
+
+2021-09-14T06:05:11.907102  stern@q3mcco35auwcstmt.onion
+	[ru] Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+	[en] <?>
+	[fr] <?>
+

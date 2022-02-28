@@ -1,0 +1,164 @@
+{
+    "2021-02-19T13:45:09.612681": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "ghbdtn",
+        "body_fr": "ghbdtn.",
+        "body_en": "ghbdtn."
+    },
+    "2021-02-19T13:45:10.305834": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-19T13:45:12.077987": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "как дела у тебя?",
+        "body_fr": "Comment vas-tu?",
+        "body_en": "how are you?"
+    },
+    "2021-02-19T13:45:14.953082": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "поднатаскался ?",
+        "body_fr": "Avez-vous darqué?",
+        "body_en": "Did you darnate?"
+    },
+    "2021-02-19T13:45:41.892540": {
+        "src": "spoon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Здравствуй,дела отлично",
+        "body_fr": "Bonjour, les choses sont excellentes",
+        "body_en": "Hello, things are excellent"
+    },
+    "2021-02-19T13:45:58.200576": {
+        "src": "spoon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "да,научился многому",
+        "body_fr": "Oui, beaucoup appris",
+        "body_en": "Yes, learned a lot"
+    },
+    "2021-02-19T13:46:09.394260": {
+        "src": "spoon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "но есть чему учится)",
+        "body_fr": "Mais il y a quelque chose d'étude)",
+        "body_en": "But there is something studying)"
+    },
+    "2021-02-19T13:46:35.803859": {
+        "src": "spoon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "недавно залочили сеть",
+        "body_fr": "Réseau récemment fondu",
+        "body_en": "Network recently melted"
+    },
+    "2021-02-19T13:50:05.479900": {
+        "src": "spoon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "в декабре лочили сеть,даже выплату получил,все ок) все нравится",
+        "body_fr": "En décembre, le réseau a été tiré, même payé, tout va bien) j'aime tout",
+        "body_en": "In December, the network was pulled, even paid, everything is OK) I like everything"
+    },
+    "2021-02-24T16:29:36.569950": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-12T15:17:24.799003": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-04-06T00:43:21.770695": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-06T00:43:22.495449": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "ты как",
+        "body_fr": "Comment vas-tu",
+        "body_en": "how are you"
+    },
+    "2021-04-06T00:43:24.136591": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "хакер)",
+        "body_fr": "pirate)",
+        "body_en": "hacker)"
+    },
+    "2021-04-06T00:44:07.579910": {
+        "src": "spoon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-06T00:44:13.851357": {
+        "src": "spoon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "все отлично",
+        "body_fr": "Tout va bien",
+        "body_en": "Everything is fine"
+    },
+    "2021-04-06T00:46:37.798641": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "красава",
+        "body_fr": "Krasava",
+        "body_en": "Krasava"
+    },
+    "2021-04-06T00:46:47.215672": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "а ты откуда знания черпаешь помимо рокета ?",
+        "body_fr": "Et où voulez-vous dessiner vos connaissances en plus de Rockat?",
+        "body_en": "And where do you want to draw your knowledge in addition to Rockat?"
+    },
+    "2021-04-06T00:47:28.383208": {
+        "src": "spoon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "рокет рулит) у парней спрашиваю",
+        "body_fr": "Rouleaux rocheux) dans les gars je demande",
+        "body_en": "Rocky rolls) in guys I ask"
+    },
+    "2021-04-06T00:48:39.325990": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "))))",
+        "body_fr": "))))))",
+        "body_en": "))))"
+    },
+    "2021-04-14T21:18:55.424883": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "Как дела у тебя по знаниям ? ты новичков каких нибудь подтягиваешь ? или сам пока новичек ?",
+        "body_fr": "Comment faites-vous pour la connaissance?Êtes-vous les nouveaux arrivants serrer?Ou est le nouveau venu lui-même?",
+        "body_en": "How are you doing for knowledge?Are you newcomers tighten?Or is the newcomer itself?"
+    },
+    "2021-06-07T12:49:39.281669": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-08T09:30:16.517084": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-28T08:06:08.554190": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "spoon@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    }
+}

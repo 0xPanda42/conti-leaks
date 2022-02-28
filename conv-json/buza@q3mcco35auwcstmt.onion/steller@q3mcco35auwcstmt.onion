@@ -1,0 +1,22 @@
+{
+    "2021-04-28T13:58:28.564932": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-08-26T12:57:37.451653": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Привет. Дошло сообщение в рокете?"
+    },
+    "2021-08-30T14:49:37.984395": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Привет. Тут."
+    },
+    "2021-10-08T13:14:17.034996": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Привет. Кстати, Ману отправил скрипт с инжектором, он уже давно шаманит с ним)"
+    }
+}

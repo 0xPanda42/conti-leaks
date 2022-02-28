@@ -1,0 +1,37 @@
+{
+    "2021-07-05T15:25:06.189917": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "stakan@q3mcco35auwcstmt.onion",
+        "body": "!"
+    },
+    "2021-07-27T09:30:48.599320": {
+        "src": "stakan@q3mcco35auwcstmt.onion",
+        "dst": "viper@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-07-27T09:31:07.214146": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "stakan@q3mcco35auwcstmt.onion",
+        "body": "хай"
+    },
+    "2021-07-27T09:31:47.320872": {
+        "src": "stakan@q3mcco35auwcstmt.onion",
+        "dst": "viper@q3mcco35auwcstmt.onion",
+        "body": "проверка связи"
+    },
+    "2021-07-27T09:36:25.234947": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "stakan@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-07-27T09:43:36.797220": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "stakan@q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-09-29T18:14:27.219788": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "stakan@q3mcco35auwcstmt.onion",
+        "body": "6а"
+    }
+}

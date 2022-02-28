@@ -1,0 +1,22 @@
+{
+    "2021-10-13T15:56:03.502046": {
+        "src": "love@q3mcco35auwcstmt.onion",
+        "dst": "bullet@q3mcco35auwcstmt.onion",
+        "body": "123"
+    },
+    "2021-10-13T15:56:04.748605": {
+        "src": "love@q3mcco35auwcstmt.onion",
+        "dst": "bullet@q3mcco35auwcstmt.onion",
+        "body": "321"
+    },
+    "2021-10-22T12:34:43.251040": {
+        "src": "love@q3mcco35auwcstmt.onion",
+        "dst": "bullet@q3mcco35auwcstmt.onion",
+        "body": "???"
+    },
+    "2021-10-22T12:35:05.875984": {
+        "src": "bullet@q3mcco35auwcstmt.onion",
+        "dst": "love@q3mcco35auwcstmt.onion",
+        "body": "на связи"
+    }
+}

@@ -1,0 +1,837 @@
+{
+    "2021-02-03T16:18:41.104012": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Привет, как дела, чем занимаешься, какие планы на пол года в работе",
+        "body_fr": "Bonjour, comment vas-tu, que fais-tu, quels plans pour une demi-année de travail",
+        "body_en": "Hi, how are you doing, what are you doing, what plans for half a year in work"
+    },
+    "2021-02-03T17:31:55.575282": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "ау",
+        "body_fr": "Autant",
+        "body_en": "AU"
+    },
+    "2021-02-03T17:32:27.885531": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "О! Привет.",
+        "body_fr": "SUR!Salut.",
+        "body_en": "ABOUT!Hello."
+    },
+    "2021-02-09T16:39:13.207379": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Добрый вечер.",
+        "body_fr": "Bonsoir.",
+        "body_en": "Good evening."
+    },
+    "2021-04-05T21:18:57.324178": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "ты как?? ))",
+        "body_fr": "Comment vas-tu??)))",
+        "body_en": "how are you??))"
+    },
+    "2021-04-05T21:18:58.792816": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-05T21:19:38.958080": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!",
+        "body_fr": "Hé!",
+        "body_en": "Hey!"
+    },
+    "2021-04-05T21:19:49.676792": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Задремал...",
+        "body_fr": "Dessiné ...",
+        "body_en": "Drawn ..."
+    },
+    "2021-04-05T21:20:12.545244": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Но, уже проснулся.",
+        "body_fr": "Mais, s'est déjà réveillé.",
+        "body_en": "But, already woke up."
+    },
+    "2021-04-05T21:21:50.131402": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Друже?",
+        "body_fr": "Ami?",
+        "body_en": "Friend?"
+    },
+    "2021-04-05T21:22:41.450967": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я всегда тебе рад, но зачем будил?",
+        "body_fr": "Je suis toujours heureux de toi, mais pourquoi serais-tu?",
+        "body_en": "I'm always glad you, but why would you be?"
+    },
+    "2021-04-05T21:23:35.712096": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "как спалось ? )",
+        "body_fr": "as-tu bien dormi ?)",
+        "body_en": "how did you sleep ?)"
+    },
+    "2021-04-05T21:23:41.693609": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "что снится в этой время сна",
+        "body_fr": "Quels rêves en ce moment de sommeil",
+        "body_en": "what dreams at this time of sleep"
+    },
+    "2021-04-05T21:23:48.240201": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Тревожно.",
+        "body_fr": "Alarmant",
+        "body_en": "Alarming"
+    },
+    "2021-04-05T21:24:12.798569": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Снилось, что сейчас поднимут по тревоге.",
+        "body_fr": "J'ai rêvé que maintenant soulever l'anxiété.",
+        "body_en": "I dreamed that now raise anxiety."
+    },
+    "2021-04-05T21:24:22.122753": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "))))",
+        "body_fr": "))))))",
+        "body_en": "))))"
+    },
+    "2021-04-05T21:24:22.766943": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "хаха",
+        "body_fr": "haha",
+        "body_en": "haha"
+    },
+    "2021-04-05T21:24:26.402611": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "что там с локером у нас",
+        "body_fr": "Qu'est-ce qu'il y a avec un casier avec nous",
+        "body_en": "what's there with a locker with us"
+    },
+    "2021-04-05T21:24:41.198826": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В лучшем виде.",
+        "body_fr": "Au mieux.",
+        "body_en": "At best."
+    },
+    "2021-04-05T21:25:01.368533": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все АВ обошли, все пожелания выполнили.",
+        "body_fr": "Tous avancés, tous les souhaits ont été effectués.",
+        "body_en": "All avaged, all the wishes were performed."
+    },
+    "2021-04-05T21:25:35.710341": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "К слову - очень неплохой образчик кода.",
+        "body_fr": "Au fait - un très bon code d'échantillon.",
+        "body_en": "By the way - a very good sample code."
+    },
+    "2021-04-05T21:25:55.429951": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все выложили на Гит.",
+        "body_fr": "Tout affiché sur Git.",
+        "body_en": "All posted on Git."
+    },
+    "2021-04-05T21:25:59.095551": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "ага",
+        "body_fr": "Ouais",
+        "body_en": "yeah"
+    },
+    "2021-04-05T21:26:01.526919": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "ну и отлично",
+        "body_fr": "C'est donc génial",
+        "body_en": "So that's great"
+    },
+    "2021-04-05T21:26:01.956850": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": ")",
+        "body_fr": ")",
+        "body_en": ")"
+    },
+    "2021-04-05T21:26:03.794755": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "молодцы",
+        "body_fr": "Bien joué",
+        "body_en": "Well done"
+    },
+    "2021-04-05T21:26:24.452176": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Погоди с похвалами...",
+        "body_fr": "Attendez avec des louanges ...",
+        "body_en": "Wait with praises ..."
+    },
+    "2021-04-05T21:26:57.085707": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Посмотрим, как в бою отработает.",
+        "body_fr": "Voyons comment au combat ça marchera.",
+        "body_en": "Let's see how in battle it will work."
+    },
+    "2021-04-05T21:27:27.193397": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хотя знаешь, я спокоен. Отлично отработает.",
+        "body_fr": "Bien que vous sachiez, je suis calme.Excellent va travailler.",
+        "body_en": "Although you know, I am calm.Excellent will work out."
+    },
+    "2021-04-05T21:27:36.921130": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Как ты, друже?",
+        "body_fr": "Comment allez vous mes amis?",
+        "body_en": "How are you friends?"
+    },
+    "2021-04-05T21:27:42.457898": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "))))",
+        "body_fr": "))))))",
+        "body_en": "))))"
+    },
+    "2021-04-05T21:27:54.247505": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "да я всем подряд уже занимаюсь тут в сети)",
+        "body_fr": "Oui, je fais déjà tout dans une rangée ici)",
+        "body_en": "Yes, I'm already doing everything in a row here)"
+    },
+    "2021-04-05T21:28:00.394609": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "такое ощущение что больше никого нет",
+        "body_fr": "un tel sentiment que personne personne personne",
+        "body_en": "such a feeling that no one no one"
+    },
+    "2021-04-05T21:28:32.526471": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ну, батенька, претензия на величие!!!",
+        "body_fr": "Eh bien, mon garçon, une réclamation de grandeur !!!",
+        "body_en": "Well, my boy, a claim for greatness !!!"
+    },
+    "2021-04-05T21:28:57.626735": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Или сеть не та...))))",
+        "body_fr": "Ou le réseau n'est pas si ...))))",
+        "body_en": "Or the network is not that ...))))"
+    },
+    "2021-04-05T21:31:30.015942": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Дорогой друг Штерн, прости меня ради Бога, но я с половины седьмого за монитором. Я тебя очень люблю, но можно я уйду в царство Мофея?",
+        "body_fr": "Cher ami Stern, pardonne-moi pour Dieu, mais je suis la moitié du septième moniteur.Je t'aime beaucoup, mais puis-je partir dans le royaume du moffey?",
+        "body_en": "Dear friend Stern, forgive me for God, but I am half the seventh monitor.I love you very much, but can I leave in the realm of the Mofey?"
+    },
+    "2021-04-05T21:31:58.462688": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Спать хочу - сил нет.",
+        "body_fr": "Je veux dormir - aucune force.",
+        "body_en": "I want to sleep - no strength."
+    },
+    "2021-04-05T21:34:12.812269": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ау?",
+        "body_fr": "Ay?",
+        "body_en": "Ay?"
+    },
+    "2021-04-05T21:34:42.522067": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "иди",
+        "body_fr": "Idi",
+        "body_en": "Idi"
+    },
+    "2021-04-05T21:34:44.582876": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "доброй ночи",
+        "body_fr": "bonne nuit",
+        "body_en": "good night"
+    },
+    "2021-04-05T21:35:13.183294": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Спасибо. И тебе спокойной ночи.",
+        "body_fr": "Merci.Bonne nuit à vous aussi.",
+        "body_en": "Thanks.Goodnight to you too."
+    },
+    "2021-04-05T21:35:52.983904": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "К слову, ты пиши. Я уже соскучился.",
+        "body_fr": "Au fait, vous écrivez.J'ai déjà manqué.",
+        "body_en": "By the way, you write.I already missed."
+    },
+    "2021-04-05T21:37:27.037664": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я тебе уже и писать боюсь.",
+        "body_fr": "J'ai déjà peur de t'écrire.",
+        "body_en": "I am already afraid to write you."
+    },
+    "2021-04-05T21:37:27.690308": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "хорошо",
+        "body_fr": "D'accord",
+        "body_en": "Okay"
+    },
+    "2021-04-05T21:37:31.675407": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "не бойся )",
+        "body_fr": "N'ayez pas peur )",
+        "body_en": "Do not be afraid )"
+    },
+    "2021-04-22T16:18:19.205612": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет, друже дорогой."
+    },
+    "2021-04-30T13:57:43.758793": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Привет как у вас дела с локером ?"
+    },
+    "2021-04-30T15:00:50.667239": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "тебе какюу премию дать"
+    },
+    "2021-04-30T15:00:55.332107": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "как дела с лкоером у вас?"
+    },
+    "2021-04-30T15:01:24.927988": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-04-30T15:01:29.187726": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Рад тебе."
+    },
+    "2021-04-30T15:01:41.513105": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Так с локером-то все отлично."
+    },
+    "2021-04-30T15:01:56.302223": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Мы же его полируем по новым задачам."
+    },
+    "2021-04-30T15:02:15.946271": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Которых в тз не было, прости."
+    },
+    "2021-04-30T15:02:40.579529": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я из-за этого не могу перенести акцент на новые проекты."
+    },
+    "2021-04-30T15:03:01.777481": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "По тз реализовано АБСОЛЮТНО все."
+    },
+    "2021-04-30T15:03:22.617968": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "С ним даже АВ справится не могут. Проверено."
+    },
+    "2021-04-30T15:04:18.410503": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ты у Брауна спроси, он тестер. Мне себя хвалить не с руки. А он все в бою увидел... :-)"
+    },
+    "2021-04-30T15:05:21.534641": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Там даже не это главное. Там мы АВ обошли благодаря совершенно идиотской сборкой проекта."
+    },
+    "2021-04-30T15:05:47.240542": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Настолько идиотской, что АВ на это не реагируют. Вообще"
+    },
+    "2021-04-30T15:06:23.899513": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все выложили, все описали."
+    },
+    "2021-04-30T15:13:01.947726": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Вот я думаю теперь и внц в эту обертку вставить."
+    },
+    "2021-04-30T15:13:33.844554": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ау?"
+    },
+    "2021-04-30T15:13:45.576076": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "да внц ненадо"
+    },
+    "2021-04-30T15:13:52.414449": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Надо."
+    },
+    "2021-04-30T15:14:36.589854": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Прости что возражаю, но тот же Санди не слазит с этой темы."
+    },
+    "2021-04-30T15:15:00.655354": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Очень хочет новый, еще более эффективный релиз."
+    },
+    "2021-04-30T15:15:10.282775": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "И он есть у меня!!!!!!!!!"
+    },
+    "2021-04-30T15:15:46.056109": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Задолбал, конечно, но не в мусорку же его кидать, верно?"
+    },
+    "2021-04-30T15:16:06.810043": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я имею ввиду ВНЦ, а не Санди."
+    },
+    "2021-04-30T15:16:15.869332": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": ":-)"
+    },
+    "2021-04-30T15:16:49.013462": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хотя, если подумать..."
+    },
+    "2021-04-30T15:16:57.657941": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Не, Санди хороший."
+    },
+    "2021-04-30T15:18:38.167840": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Давай перейдем к более приятным вопросам."
+    },
+    "2021-04-30T15:18:43.916982": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Премия!"
+    },
+    "2021-04-30T15:18:48.801421": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Премия?"
+    },
+    "2021-04-30T15:18:57.936080": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Да, ПРЕМИЯ!!!"
+    },
+    "2021-04-30T15:19:08.990729": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ау?"
+    },
+    "2021-04-30T15:20:59.154413": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ну, вот..."
+    },
+    "2021-05-06T07:57:41.176499": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-05-06T07:57:47.900735": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "вы свой локер до старости будете делать?"
+    },
+    "2021-05-06T09:53:00.834641": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-05-06T09:56:03.766465": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Так мы все сделали."
+    },
+    "2021-05-06T09:56:43.599940": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все тесты прошли, все отлично."
+    },
+    "2021-05-06T10:48:24.814513": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-05-06T10:48:24.816145": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Так мы все сделали."
+    },
+    "2021-05-06T10:48:24.817013": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все тесты прошли, все отлично."
+    },
+    "2021-05-06T10:54:26.869628": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "а когда запуск будет"
+    },
+    "2021-05-06T10:55:33.801904": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Друже, я честно говоря, не в курсе. Диалог с заказчиком не я веду."
+    },
+    "2021-05-06T10:55:59.525844": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все требования наша сторона выполнила."
+    },
+    "2021-05-06T10:56:54.143156": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "А что и как  дальше, так передо мной никто не отчитывается. :-)"
+    },
+    "2021-05-06T11:22:23.679059": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Как праздники прошли? Отдохнуть удалось?"
+    },
+    "2021-06-07T14:55:48.201294": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-08T09:27:24.481915": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "чето там куча претензий по локерам"
+    },
+    "2021-06-08T09:27:25.867962": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "по твоим"
+    },
+    "2021-06-08T09:29:22.080165": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-06-15T11:53:42.929255": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Привет как у вас с локером ?"
+    },
+    "2021-06-15T11:54:05.627303": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-06-15T11:54:46.608459": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Скинул многопотовку. Получили новые требования по кодированию больших файлов."
+    },
+    "2021-06-15T11:54:59.954026": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сегодня - завтра закончим."
+    },
+    "2021-06-15T11:55:24.172471": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Неожиданно столкнулись с отработкой АВ на VSS."
+    },
+    "2021-06-15T11:55:43.427246": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Решаю прямо сейчас. Этим занят."
+    },
+    "2021-06-15T11:55:58.977368": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "За сегодня решу."
+    },
+    "2021-06-15T11:56:06.726158": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Надеюсь..."
+    },
+    "2021-06-15T11:56:45.391406": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ох, друже, нам постоянно новые требования докидывают. :-)"
+    },
+    "2021-06-15T11:57:10.838114": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "А так, пашет отлично."
+    },
+    "2021-06-15T11:59:31.630150": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Без VSS уже вчера можно было в работу отдавать!"
+    },
+    "2021-06-15T12:06:31.128684": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Друже, свой движок создали. Работает отлично. АВ - пустой звук. Но, только пытаешься манипулировать с VSS, сразу горим."
+    },
+    "2021-06-15T12:06:46.051820": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это понятно. Механизм против нас."
+    },
+    "2021-06-15T12:06:50.186098": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сделаем."
+    },
+    "2021-06-15T12:12:24.168466": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "А что, жалуются?"
+    },
+    "2021-06-15T12:12:42.956051": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сработки - это единичный случай."
+    },
+    "2021-06-27T11:59:50.417702": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Привет что у тебя с проектом"
+    },
+    "2021-06-28T05:57:57.013593": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Привет что у тебя с проектом"
+    },
+    "2021-06-28T08:01:17.333425": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-06-28T08:01:30.393703": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Вот, Браун описал сегодня:"
+    },
+    "2021-06-28T08:01:47.838908": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "зашифровали сеть, получили отстук бота в адмику ведут переговоры о первой оплате..."
+    },
+    "2021-06-28T08:02:18.888691": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Есть ма-а-а-ленькая проблемка с сервером 2019, но это процедурный момент, это мы решим."
+    },
+    "2021-09-13T07:30:55.186371": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Привет ты мне нужен на год"
+    },
+    "2021-09-13T07:30:59.097693": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "оч серьезно"
+    },
+    "2021-09-28T12:23:12.166392": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!"
+    },
+    "2021-09-28T16:30:35.773222": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "спишись с mango@ он еще соц сеть делает, ты за нее будешь отвечать тоже"
+    },
+    "2021-09-30T16:54:17.992773": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Добавь к себе zevs@"
+    },
+    "2021-09-30T16:54:21.099380": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "он будет давать команды"
+    },
+    "2021-10-01T05:12:04.819537": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Добавь к себе zevs@"
+    },
+    "2021-10-01T05:12:04.823238": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "он будет давать команды"
+    },
+    "2021-10-04T10:55:50.082576": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "[11:13:19] <buza> биржа была поручена команде багета, результат ноль"
+    },
+    "2021-10-04T10:55:52.517603": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "что по бирже у тебя7"
+    },
+    "2021-10-06T15:19:06.842543": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!"
+    },
+    "2021-10-11T14:07:29.065753": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-10-11T14:07:35.402659": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "А что ты там по соц сети не осилишь?"
+    },
+    "2021-11-04T16:53:38.108182": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!!!!!"
+    },
+    "2021-11-04T16:53:47.445015": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сто лет тебя не видел!"
+    },
+    "2021-11-04T16:53:51.103304": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Как сам?"
+    },
+    "2021-11-04T18:26:32.734586": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "[17:08:04] <Stern> Привет, да че как вылез тут успокоить всех. а то все на панике какой-то... конец года может влияет"
+    },
+    "2021-11-04T18:27:44.268353": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": " xt rfr"
+    },
+    "2021-11-04T18:27:47.452895": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "ну че как дела бос у тебя"
+    },
+    "2021-11-17T16:59:29.484794": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет, дорогой друг."
+    },
+    "2021-11-17T17:00:10.037674": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Не могу найти нашего Rozetka."
+    },
+    "2021-11-17T17:00:17.494907": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Исчез куда-то..."
+    },
+    "2021-11-17T17:00:30.711807": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ты, случаем, не в курсе?"
+    },
+    "2021-11-19T15:56:22.545744": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет!!!"
+    },
+    "2021-11-19T15:56:33.005247": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Минутка найдется!"
+    },
+    "2021-11-19T15:56:47.257174": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "привет да"
+    },
+    "2021-11-19T15:56:49.292844": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ой, ??"
+    },
+    "2021-11-19T15:57:24.796077": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я - молодец! Новый сервер под ESXi поставил!"
+    },
+    "2021-11-19T15:58:16.473832": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ну, типа хвастаюсь."
+    },
+    "2021-11-19T15:59:12.020859": {
+        "src": "baget@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ты рад за меня?"
+    },
+    "2021-11-24T16:23:07.901630": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "baget@q3mcco35auwcstmt.onion",
+        "body": "\n[16:22:40] <Stern> как там кстате твой проект делают?\n[16:22:55] <mango> я все скинул багету он молчит пока .."
+    }
+}

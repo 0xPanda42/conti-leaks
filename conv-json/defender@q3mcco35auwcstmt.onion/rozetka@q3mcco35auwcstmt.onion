@@ -1,0 +1,16 @@
+{
+    "2021-03-05T19:42:17.006466": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-05T19:42:19.602555": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "тут?",
+        "body_fr": "ici?",
+        "body_en": "here?"
+    }
+}

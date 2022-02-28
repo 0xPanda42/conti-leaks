@@ -1,0 +1,22 @@
+{
+    "2021-10-05T10:52:57.037644": {
+        "src": "gold@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-12-20T09:31:41.132272": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "gold@q3mcco35auwcstmt.onion",
+        "body": "ок, понял"
+    },
+    "2021-12-20T09:36:44.768435": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "gold@q3mcco35auwcstmt.onion",
+        "body": "линк не скидывал тебе на новый модуль?"
+    },
+    "2021-12-20T09:36:52.251813": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "gold@q3mcco35auwcstmt.onion",
+        "body": "я не вижу его в чате"
+    }
+}

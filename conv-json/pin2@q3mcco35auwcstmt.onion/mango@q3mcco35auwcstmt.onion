@@ -1,0 +1,12 @@
+{
+    "2021-09-28T07:08:06.878513": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "pin2@q3mcco35auwcstmt.onion",
+        "body": "привет отпиши как будешь на месте"
+    },
+    "2021-09-28T07:08:06.880648": {
+        "src": "pin2@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "привет отпиши как будешь на месте"
+    }
+}

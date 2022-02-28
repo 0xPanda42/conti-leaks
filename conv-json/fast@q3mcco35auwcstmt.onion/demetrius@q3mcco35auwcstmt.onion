@@ -1,0 +1,12 @@
+{
+    "2021-06-24T12:51:50.024802": {
+        "src": "fast@q3mcco35auwcstmt.onion",
+        "dst": "demetrius@q3mcco35auwcstmt.onion",
+        "body": "Тест"
+    },
+    "2021-06-24T12:51:50.027274": {
+        "src": "demetrius@q3mcco35auwcstmt.onion",
+        "dst": "fast@q3mcco35auwcstmt.onion",
+        "body": "Тест"
+    }
+}

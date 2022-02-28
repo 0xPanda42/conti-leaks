@@ -1,0 +1,67 @@
+{
+    "2021-06-07T12:56:26.226387": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "andy@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-07T12:56:27.965573": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "andy@q3mcco35auwcstmt.onion",
+        "body": "как дела"
+    },
+    "2021-06-07T12:56:32.587477": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "andy@q3mcco35auwcstmt.onion",
+        "body": "получается ботов делать?"
+    },
+    "2021-06-07T14:16:02.723995": {
+        "src": "andy@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-07T14:18:47.470844": {
+        "src": "andy@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Пускали на тест элона майлбота, оказалось что прогружать его через ботов не вариант, как сам элон говорит там есть тонкости и  почему то прогруз не проходит. Дефендер прогружал, но они(майлботы) не летели в админку, элон доделывает вроде как новый модуль или что то такое, чтобы майлбот мог прогружаться через ботов)"
+    },
+    "2021-06-07T14:19:36.213880": {
+        "src": "andy@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Последнее сообщение мое которое у элона спросил на счет переделки модуля, был ответ:\nelon@q3mcco35auwcstmt.onion: Приветствую. Сделали, на тестировании"
+    },
+    "2021-06-07T14:19:38.790373": {
+        "src": "andy@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "жду)"
+    },
+    "2021-06-07T14:56:19.747941": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "andy@q3mcco35auwcstmt.onion",
+        "body": "док делает?"
+    },
+    "2021-06-07T14:57:42.295307": {
+        "src": "andy@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ага, док bullet делает, альтер просит иногда док+лоадер, скидываем ему параллельно"
+    },
+    "2021-06-08T09:32:10.212866": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "andy@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-08T10:37:31.833257": {
+        "src": "andy@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "с блокчейном сильно не знаком, но поспрашиваю у товарищей"
+    },
+    "2021-06-09T10:32:46.274226": {
+        "src": "andy@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "с блокчейном сильно не знаком, но поспрашиваю у товарищей"
+    },
+    "2021-06-28T08:05:33.325954": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "andy@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "2022-02-09T15:04:06.377710": {
+        "src": "neo@q3mcco35auwcstmt.onion",
+        "dst": "terry@q3mcco35auwcstmt.onion",
+        "body": "приветствую!"
+    },
+    "2022-02-09T15:19:42.508610": {
+        "src": "terry@q3mcco35auwcstmt.onion",
+        "dst": "neo@q3mcco35auwcstmt.onion",
+        "body": "приветствую!"
+    }
+}

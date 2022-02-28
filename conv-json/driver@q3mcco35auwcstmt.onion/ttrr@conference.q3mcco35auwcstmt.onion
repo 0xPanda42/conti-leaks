@@ -1,0 +1,2637 @@
+{
+    "2021-08-27T13:28:33.302629": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender@q3mcco35auwcstmt.onion/Psi+ приглашает вас в комнату ttrr@conference.q3mcco35auwcstmt.onion"
+    },
+    "2021-08-27T13:30:30.197397": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-08-27T13:30:30.198838": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-08-27T13:31:15.781177": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-08-27T13:31:15.782928": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "тест"
+    },
+    "2021-08-27T13:48:08.311291": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "мне все равно пока ничего не ясно из файлов"
+    },
+    "2021-08-27T13:48:08.313880": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "это бинарный поток который мне приходит .."
+    },
+    "2021-08-27T13:48:08.313217": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "по-прежнему неясно что это вообще такое - это значение поля Data? я не могу так гадать"
+    },
+    "2021-08-27T13:48:08.314849": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот с первого байта"
+    },
+    "2021-08-27T13:48:08.315433": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "давайте поставлю nginx между клиентом и деро"
+    },
+    "2021-08-27T13:48:08.316356": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "поставь"
+    },
+    "2021-08-27T13:48:08.317448": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и там может по логам что поймем"
+    },
+    "2021-08-27T13:48:08.318176": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и пусть логирует все запросы .."
+    },
+    "2021-08-27T13:48:08.318995": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ок сейчас"
+    },
+    "2021-08-27T13:48:08.319624": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "запрос . тело . ответ"
+    },
+    "2021-08-27T13:48:08.334983": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я сменю порт у деро, на 8082 будут нджинкс принимать"
+    },
+    "2021-08-27T13:48:08.336097": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а, драйвера не добавил сюда"
+    },
+    "2021-08-27T13:48:08.338094": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот кто это генерит - тот и нужен .."
+    },
+    "2021-08-27T13:48:08.339288": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и нужно указание - что в нем криво"
+    },
+    "2021-08-27T13:48:08.338698": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нам нужен прилетевший сырой HTTP-запрос как есть"
+    },
+    "2021-08-27T13:48:08.339583": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "[16:24:01] <defender> а, драйвера не добавил сюда\nобязательно нужен"
+    },
+    "2021-08-27T13:48:08.339012": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я хз . . я просто пишу сюда что вижу у себя .. а кто нужен я хз"
+    },
+    "2021-08-27T13:48:08.338443": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нужен он?"
+    },
+    "2021-08-27T13:48:08.340100": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "> нам нужен прилетевший сырой HTTP-запрос как есть\nя уже показал что мне прилетает .. вот это сырые данные"
+    },
+    "2021-08-27T13:48:08.340685": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "подождем что дефендер скажет"
+    },
+    "2021-08-27T13:49:10.569667": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "дело в том, что данные в dero посылает не один модуль"
+    },
+    "2021-08-27T13:49:18.702992": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "их много"
+    },
+    "2021-08-27T13:49:49.132686": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "мы тут с зуласом разбираемся, там странно всё"
+    },
+    "2021-08-27T13:50:18.929090": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нужно дорабатывать сущесутвующую, использовать другую либу, но чтобы ничего не падало"
+    },
+    "2021-08-27T13:53:32.722484": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и расчитывать на то, что данные будут невалидные"
+    },
+    "2021-08-27T13:54:01.213172": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "их могут специально посылать"
+    },
+    "2021-08-27T13:58:05.089279": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну я либу могу модифицировать . просто чтобы если экзепшн в какой-то области .. то в лог не падало и даже ответ можно слать я думаю"
+    },
+    "2021-08-27T13:58:24.130922": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "зулас говорит, что вот эти данные на яндекс диске - это и есть HTTP-запросы со всеми заголовками"
+    },
+    "2021-08-27T13:58:26.264117": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "точнее без них"
+    },
+    "2021-08-27T13:58:29.818680": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а там бинарный поток"
+    },
+    "2021-08-27T13:58:48.998420": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и если он хоть как-то парсится либой бэкенда, то это получается HTTP/2"
+    },
+    "2021-08-27T13:59:02.542589": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и тогда возникает вопрос\n- откуда у нас вообще HTTP/2?"
+    },
+    "2021-08-27T13:59:21.606096": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну или QUIC или еще какая бинарная гугловская фигня"
+    },
+    "2021-08-27T13:59:40.081648": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: на прокладках случайно не включена конверсия в HTTP/2 ?"
+    },
+    "2021-08-27T14:04:43.781000": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-08-27T14:04:57.490202": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "прокладки - роутеры, что приняли то и передали"
+    },
+    "2021-08-27T14:15:29.920652": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "их много"
+    },
+    "2021-08-27T14:15:29.922496": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "мы тут с зуласом разбираемся, там странно всё"
+    },
+    "2021-08-27T14:15:29.922811": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нужно дорабатывать сущесутвующую, использовать другую либу, но чтобы ничего не падало"
+    },
+    "2021-08-27T14:15:29.923452": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и расчитывать на то, что данные будут невалидные"
+    },
+    "2021-08-27T14:15:29.924405": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "их могут специально посылать"
+    },
+    "2021-08-27T14:15:29.925834": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну я либу могу модифицировать . просто чтобы если экзепшн в какой-то области .. то в лог не падало и даже ответ можно слать я думаю"
+    },
+    "2021-08-27T14:15:29.926295": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "зулас говорит, что вот эти данные на яндекс диске - это и есть HTTP-запросы со всеми заголовками"
+    },
+    "2021-08-27T14:15:29.927537": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "точнее без них"
+    },
+    "2021-08-27T14:15:29.928459": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а там бинарный поток"
+    },
+    "2021-08-27T14:15:29.929196": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и если он хоть как-то парсится либой бэкенда, то это получается HTTP/2"
+    },
+    "2021-08-27T14:15:29.930045": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и тогда возникает вопрос\n- откуда у нас вообще HTTP/2?"
+    },
+    "2021-08-27T14:15:29.930515": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну или QUIC или еще какая бинарная гугловская фигня"
+    },
+    "2021-08-27T14:15:29.931453": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: на прокладках случайно не включена конверсия в HTTP/2 ?"
+    },
+    "2021-08-27T14:15:29.931780": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-08-27T14:15:29.932318": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "прокладки - роутеры, что приняли то и передали"
+    },
+    "2021-08-27T14:15:29.932823": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "отлучился"
+    },
+    "2021-08-27T14:15:29.933585": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: еще больше нужны сырые http-запросы теперь, в свете данных зуласа"
+    },
+    "2021-08-27T14:15:29.934315": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "если подтвердится что там не HTTP/1.1 то это очень интересно"
+    },
+    "2021-08-27T14:15:29.934611": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нужно подтверждение от тебя"
+    },
+    "2021-08-27T14:15:29.935002": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я делаю нджинкс"
+    },
+    "2021-08-27T14:15:45.064937": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "кстати zulas: ты можешь \"хороший\" запрос проследить до базы?"
+    },
+    "2021-08-27T14:15:51.255210": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот тот бинарный"
+    },
+    "2021-08-27T14:53:54.443872": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "что значит послать до базы ?"
+    },
+    "2021-08-27T14:53:58.872856": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@buza"
+    },
+    "2021-08-27T14:54:32.240713": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "не послать, а проследить"
+    },
+    "2021-08-27T14:54:40.784604": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот тебе пришел этот бинарный запрос"
+    },
+    "2021-08-27T14:54:51.037579": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и ты говоришь что первый из них нормально парсится и отрабатывает"
+    },
+    "2021-08-27T14:55:04.010564": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "раз так, он должен положить в базу данных новую запись"
+    },
+    "2021-08-27T14:55:10.354600": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "эту запись можно увидеть?"
+    },
+    "2021-08-27T14:55:14.255553": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "там больше нет ничего .."
+    },
+    "2021-08-27T14:55:22.133612": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну т.е. до базы оно не доходит"
+    },
+    "2021-08-27T14:55:28.797564": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ни первый ни второй?"
+    },
+    "2021-08-27T14:55:31.162188": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "просто в логи ничего не пишется"
+    },
+    "2021-08-27T14:55:37.827528": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-08-27T14:55:50.743239": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну так может это и не мы?"
+    },
+    "2021-08-27T14:55:50.933838": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "может это боты поисковые и т.п ?"
+    },
+    "2021-08-27T14:56:35.198446": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?"
+    },
+    "2021-08-27T14:56:48.980374": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "все HTTP/2 QUIC и прочий модный кал"
+    },
+    "2021-08-27T14:57:01.399868": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и запретить доступ к веб-серверу не с прокладки"
+    },
+    "2021-08-27T17:12:55.810082": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "не послать, а проследить"
+    },
+    "2021-08-27T17:12:55.811057": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот тебе пришел этот бинарный запрос"
+    },
+    "2021-08-27T17:12:55.811481": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и ты говоришь что первый из них нормально парсится и отрабатывает"
+    },
+    "2021-08-27T17:12:55.811916": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "раз так, он должен положить в базу данных новую запись"
+    },
+    "2021-08-27T17:12:55.812363": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "эту запись можно увидеть?"
+    },
+    "2021-08-27T17:12:55.812937": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "там больше нет ничего .."
+    },
+    "2021-08-27T17:12:55.813547": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну т.е. до базы оно не доходит"
+    },
+    "2021-08-27T17:12:55.814067": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ни первый ни второй?"
+    },
+    "2021-08-27T17:12:55.814834": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "просто в логи ничего не пишется"
+    },
+    "2021-08-27T17:12:55.815222": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-08-27T17:12:55.815698": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну так может это и не мы?"
+    },
+    "2021-08-27T17:12:55.816491": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "может это боты поисковые и т.п ?"
+    },
+    "2021-08-27T17:12:55.816998": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?"
+    },
+    "2021-08-27T17:12:55.817728": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "все HTTP/2 QUIC и прочий модный кал"
+    },
+    "2021-08-27T17:12:55.818347": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и запретить доступ к веб-серверу не с прокладки"
+    },
+    "2021-08-27T17:12:55.818956": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нет не могу"
+    },
+    "2021-08-27T17:12:55.819500": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "говорю же там все как есть передает"
+    },
+    "2021-08-27T17:12:55.820163": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сделал через нджинкс"
+    },
+    "2021-08-27T17:12:55.820392": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "но пока логирование обычное"
+    },
+    "2021-08-27T17:12:55.821043": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "углубленное позже сделаю"
+    },
+    "2021-08-30T06:23:49.805430": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "не послать, а проследить"
+    },
+    "2021-08-30T06:23:49.806388": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и ты говоришь что первый из них нормально парсится и отрабатывает"
+    },
+    "2021-08-30T06:23:49.806981": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот тебе пришел этот бинарный запрос"
+    },
+    "2021-08-30T06:23:49.807265": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "раз так, он должен положить в базу данных новую запись"
+    },
+    "2021-08-30T06:23:49.808635": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "там больше нет ничего .."
+    },
+    "2021-08-30T06:23:49.808940": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну т.е. до базы оно не доходит"
+    },
+    "2021-08-30T06:23:49.809276": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "эту запись можно увидеть?"
+    },
+    "2021-08-30T06:23:49.809495": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ни первый ни второй?"
+    },
+    "2021-08-30T06:23:49.810550": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-08-30T06:23:49.811684": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "может это боты поисковые и т.п ?"
+    },
+    "2021-08-30T06:23:49.811861": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "просто в логи ничего не пишется"
+    },
+    "2021-08-30T06:23:49.812148": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?"
+    },
+    "2021-08-30T06:23:49.812377": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну так может это и не мы?"
+    },
+    "2021-08-30T06:23:49.813533": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "все HTTP/2 QUIC и прочий модный кал"
+    },
+    "2021-08-30T06:23:49.814353": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "говорю же там все как есть передает"
+    },
+    "2021-08-30T06:23:49.814603": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и запретить доступ к веб-серверу не с прокладки"
+    },
+    "2021-08-30T06:23:49.814847": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нет не могу"
+    },
+    "2021-08-30T06:23:49.815053": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сделал через нджинкс"
+    },
+    "2021-08-30T06:23:49.816000": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "но пока логирование обычное"
+    },
+    "2021-08-30T06:23:49.816313": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "углубленное позже сделаю"
+    },
+    "2021-08-30T08:44:45.884184": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну т.е. до базы оно не доходит"
+    },
+    "2021-08-30T08:44:45.885055": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ни первый ни второй?"
+    },
+    "2021-08-30T08:44:45.885803": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "просто в логи ничего не пишется"
+    },
+    "2021-08-30T08:44:45.886972": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-08-30T08:44:45.888631": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "может это боты поисковые и т.п ?"
+    },
+    "2021-08-30T08:44:45.889036": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну так может это и не мы?"
+    },
+    "2021-08-30T08:44:45.889509": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?"
+    },
+    "2021-08-30T08:44:45.891668": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "все HTTP/2 QUIC и прочий модный кал"
+    },
+    "2021-08-30T08:44:45.891992": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и запретить доступ к веб-серверу не с прокладки"
+    },
+    "2021-08-30T08:44:45.892359": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нет не могу"
+    },
+    "2021-08-30T08:44:45.893367": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "говорю же там все как есть передает"
+    },
+    "2021-08-30T08:44:45.894866": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сделал через нджинкс"
+    },
+    "2021-08-30T08:44:45.895830": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "но пока логирование обычное"
+    },
+    "2021-08-30T08:44:45.896349": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "углубленное позже сделаю"
+    },
+    "2021-08-30T08:44:45.897519": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@defender -- так всё вопрос закрыт ?"
+    },
+    "2021-08-30T08:44:45.898719": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: а почему не могу?\nhttps://stackoverflow.com/questions/39453027/how-to-disable-http2-in-nginx\nя вот так имею в виду - тут пишут что \"могу\""
+    },
+    "2021-08-30T08:44:45.900342": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну вообще не были . они были отброшены т.к. не распаршены . ну и очевидно что хттп2 .а не хттп1"
+    },
+    "2021-08-30T08:44:45.900631": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: есть сомнение что те дампы крешей что ты привел - что это были посылки модулей трика"
+    },
+    "2021-08-30T08:44:45.901894": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "для начала давайте отфильтруем внешние запросы ."
+    },
+    "2021-08-30T08:44:45.902282": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нужно воспроизвести краш именно на модуле трика, так чтобы втроем с драйвером и кодером модуля разобраться с тем что же именно криво"
+    },
+    "2021-08-30T08:44:47.715366": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я думаю проблема сама собой решится ."
+    },
+    "2021-08-30T08:45:02.140123": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потому что не может один и тот же модуль\\код выдавать 2 разных протокола ."
+    },
+    "2021-08-30T08:45:02.581355": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: поясни мне проблему с крешем"
+    },
+    "2021-08-30T08:45:07.249893": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "почему это проблема?"
+    },
+    "2021-08-30T08:45:17.028085": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потому что сервис падает и передача данных кончается?"
+    },
+    "2021-08-30T08:45:18.250130": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я хз почему это проблема .. это к дефу"
+    },
+    "2021-08-30T08:45:29.890686": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потому что в логи краши срет .. и всё"
+    },
+    "2021-08-30T08:45:37.392266": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сервис остается жив?"
+    },
+    "2021-08-30T08:45:40.579879": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "слушает дальше?"
+    },
+    "2021-08-30T08:45:41.781534": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "конечно"
+    },
+    "2021-08-30T08:45:46.969928": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "твою бать"
+    },
+    "2021-08-30T08:45:52.601168": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "тогда хули мы тут обсуждаем?"
+    },
+    "2021-08-30T08:46:00.267208": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я хз . я это сразу говорил"
+    },
+    "2021-08-30T08:46:23.871378": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Краш означает что пришло нечто и оно не попало в базу."
+    },
+    "2021-08-30T08:46:23.873352": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Краш означает что пришло нечто и оно не попало в базу."
+    },
+    "2021-08-30T08:46:41.495253": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Т.к. не распозналось либой эрланга, верно?"
+    },
+    "2021-08-30T08:46:41.498085": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Т.к. не распозналось либой эрланга, верно?"
+    },
+    "2021-08-30T08:47:00.262657": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нечто - это что угодно, собственно я и сказал что это что угодно, а нормальный POST оно распознает . и обработвает"
+    },
+    "2021-08-30T08:47:01.969397": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "значит мы обсуждаем потерю данных, но мы потеряли день, потому что в качестве примеров были приведены http2-запросы каких-то левых ботов"
+    },
+    "2021-08-30T08:47:43.837052": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "[11:44:17] <buza> нужно воспроизвести краш именно на модуле трика, так чтобы втроем с драйвером и кодером модуля разобраться с тем что же именно криво\\"
+    },
+    "2021-08-30T08:47:53.821101": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сосредоточтесь на этом"
+    },
+    "2021-08-30T08:48:14.366529": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: найди в логах креш именно от данных модуля, чтобы там был HTTP/1.1"
+    },
+    "2021-08-30T08:48:24.782078": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и давайте разбирать нормальный пример"
+    },
+    "2021-08-30T08:48:31.336033": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "значит для начала нужно обеспечить условия, чтобы только модуль трика мог ко мне данные передавать . иначе мы говорим о любом боте который шлет любое говно"
+    },
+    "2021-08-30T08:49:09.763904": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "деф что-то отрежет, но не думаю что всё"
+    },
+    "2021-08-30T08:49:25.642802": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "по хттп1 тебе все равно будут лезть левые спайдеры"
+    },
+    "2021-08-30T08:51:43.322268": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Есть вариант передать любым способом ключ в бота, и сделать на эрланге проверку, что ключ в запросе совпадает с ключем в базе"
+    },
+    "2021-08-30T08:51:43.323611": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Есть вариант передать любым способом ключ в бота, и сделать на эрланге проверку, что ключ в запросе совпадает с ключем в базе"
+    },
+    "2021-08-30T08:52:06.212710": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "чтобы что?"
+    },
+    "2021-08-30T08:52:29.666727": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "отсечь все данные которые не относятся к трику."
+    },
+    "2021-08-30T08:52:29.668844": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "отсечь все данные которые не относятся к трику."
+    },
+    "2021-08-30T08:52:52.947036": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вообще-то у бэка есть штатный механизм для этого"
+    },
+    "2021-08-30T08:53:08.922473": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "он парсит запрос и вытаскивает ID бота из него"
+    },
+    "2021-08-30T08:53:35.693558": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "это и есть ключ, 90% запросов отсечется по невалидному URI с отсутствующим ид бота и группы"
+    },
+    "2021-08-30T08:53:48.794040": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "остальные 9% левых запросов отсечется по неправдоподобному ИД бота"
+    },
+    "2021-08-30T08:53:54.543434": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "но можно и падать"
+    },
+    "2021-08-30T08:56:42.264903": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "падает потому что ему протокол непонятен - он ожидает одно, а нихера не приходит ."
+    },
+    "2021-08-30T08:57:05.201125": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "когда протокол понятен - то и соответствущя реакция на него независимо правильный он ( от нас) или не правильны (от чужих)"
+    },
+    "2021-08-30T08:57:35.260798": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот когда отсечет .. тогда можно говорить о чем . а если падает только на левых .."
+    },
+    "2021-08-30T09:00:25.678515": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "еще раз, какую проблему мы решаем?"
+    },
+    "2021-08-30T09:03:21.875910": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "то что бэк падает на левых данных это не проблема. Он что-то не может распарсить, ну и ладно"
+    },
+    "2021-08-30T09:03:46.742897": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я пока вижу левые данные только"
+    },
+    "2021-08-30T09:03:53.979139": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "driver: ?"
+    },
+    "2021-08-30T09:10:20.653956": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Вообще про краши говорил дэф."
+    },
+    "2021-08-30T09:10:20.654280": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Вообще про краши говорил дэф."
+    },
+    "2021-08-30T09:10:34.432707": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Я думаю что нам надо закрыть логи"
+    },
+    "2021-08-30T09:10:34.436516": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Я думаю что нам надо закрыть логи"
+    },
+    "2021-08-30T09:11:15.484219": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Чтобы можно было понять что приходит на бэк. Чтобы если краши появляются можно было понять что именно причина"
+    },
+    "2021-08-30T09:11:15.488450": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Чтобы можно было понять что приходит на бэк. Чтобы если краши появляются можно было понять что именно причина"
+    },
+    "2021-08-30T09:11:29.530377": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "У нас есть поток тестовых данных которые всегда ошибки вызывают."
+    },
+    "2021-08-30T09:11:29.533190": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "У нас есть поток тестовых данных которые всегда ошибки вызывают."
+    },
+    "2021-08-30T09:13:13.917027": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Например я часто вычищаю из базы какие то записи которые явно не в тему. Их там 6 штук по кукам, но они все время появляются и дальше никогда не проходят"
+    },
+    "2021-08-30T09:13:13.918841": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Например я часто вычищаю из базы какие то записи которые явно не в тему. Их там 6 штук по кукам, но они все время появляются и дальше никогда не проходят"
+    },
+    "2021-08-30T09:14:09.938481": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "То что сейчас сделали с нджинксом - задачу решает пока что.\nНадо только более полные логи настроить"
+    },
+    "2021-08-30T09:14:09.939828": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "То что сейчас сделали с нджинксом - задачу решает пока что.\nНадо только более полные логи настроить"
+    },
+    "2021-08-30T09:14:23.955416": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Чтобы тело пост запросов можно было видеть."
+    },
+    "2021-08-30T09:14:23.956824": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Чтобы тело пост запросов можно было видеть."
+    },
+    "2021-08-30T09:16:17.564393": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну то есть ты говоришь о том, что нужно логирование запросов, а его нету. Верно?"
+    },
+    "2021-08-30T09:21:45.710113": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Да"
+    },
+    "2021-08-30T09:21:45.713019": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Да"
+    },
+    "2021-08-30T09:21:52.694473": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Сейчас это главное."
+    },
+    "2021-08-30T09:21:52.695756": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Сейчас это главное."
+    },
+    "2021-08-30T09:24:33.029223": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Вся история про эту конфу была с сообщения что нужно менять либу парсинга чтобы логи сделать, о чем нам зулас сообщил, но дэф придумал просто поставить проксю нджинкс. Так что я честно не очень понимаю, каких то правок пока нет больше в бэке.\nНо есть проблема, что часть данных не приходит и вот нужно понять почему и тогда дальше думать."
+    },
+    "2021-08-30T09:24:33.032704": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Вся история про эту конфу была с сообщения что нужно менять либу парсинга чтобы логи сделать, о чем нам зулас сообщил, но дэф придумал просто поставить проксю нджинкс. Так что я честно не очень понимаю, каких то правок пока нет больше в бэке.\nНо есть проблема, что часть данных не приходит и вот нужно понять почему и тогда дальше думать."
+    },
+    "2021-08-30T09:26:50.170459": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "логи сделаны .. я приводил выдержки оттуда"
+    },
+    "2021-08-30T09:27:47.885894": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "для меня непонятно кто это генерит .. но факт в том что либа не может понять что это ... поэтому краши .. \nхттп1 она обрабатыват .. хттп2 у нас нет .. соотвественно давайте хттп2 просто закроем и всё"
+    },
+    "2021-08-30T09:27:59.130661": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "тогда мы сузим круг возможных проблем и найдем решение для них"
+    },
+    "2021-08-30T09:28:46.217958": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "краши по факту могут быть всегда -- всмысли когда какой-то левый протокол на порт коннектится .. то может быть краш в лог . это не значит что сервис в дауне . это просто значит что один именно этот запрос не вызвал нужной реакции сервера"
+    },
+    "2021-08-30T09:36:07.623019": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "> соотвественно давайте хттп2 просто закроем и всё \nточнее закроем все что не хттп1"
+    },
+    "2021-08-30T09:36:26.644877": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я не думаю что у Nginx проблемы могут быть с такой логикой .. правильно ?"
+    },
+    "2021-08-30T09:43:57.352895": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "всем привет"
+    },
+    "2021-08-30T09:44:05.520865": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот для этого я и делал нджинк"
+    },
+    "2021-08-30T09:44:20.136368": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "но он как драйвер сказал не правильно проксировал"
+    },
+    "2021-08-30T09:44:24.800389": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сейчас я с этим разберусь"
+    },
+    "2021-08-30T09:44:34.735493": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "+ сделаю только хттп1"
+    },
+    "2021-08-30T09:44:44.413201": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "+ логирование запросов и тела"
+    },
+    "2021-08-30T13:22:35.596663": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сделал логирование"
+    },
+    "2021-08-30T13:22:38.302795": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "/var/log/nginx/access.log"
+    },
+    "2021-08-30T13:22:59.687440": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "все выводит что проходит через нджинкс"
+    },
+    "2021-08-30T13:23:34.903579": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "выпилить хттп2 не так просто, надо собирать свой дистр"
+    },
+    "2021-08-30T13:23:45.774705": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "давайте начнем пока с ищучения лога"
+    },
+    "2021-08-30T13:24:22.986348": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "если деро крашится значит нджинкс примет код не 200 и по нему можно увидеть какие там данные"
+    },
+    "2021-08-30T13:28:03.097451": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "да и если есть там реальный срач, давайте напишите мне регулярку по которой я отсеку в нджинксе все кроме норм запросов"
+    },
+    "2021-08-30T14:30:22.898848": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "все видят что я пишу?"
+    },
+    "2021-08-30T14:30:26.955781": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "смотрите?"
+    },
+    "2021-08-30T14:30:38.861856": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Я вижу."
+    },
+    "2021-08-30T14:30:38.867188": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Я вижу."
+    },
+    "2021-08-30T14:31:11.730238": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Я пока не понял как мне сообщение посмотреть и тело запроса.\n\\x16\\x03\\x03\\x00\\xC2\\x01\\x00\\x00\\xBE\\x03\\x03a,O\\xBC\\xF5\\xC6\\xCFw\\x958\\xE8\\x15O@\\xBD)\\xC5\\xD3\\xCA\\x81\\xE2\\xA7i\\xAF\\xCCg\\xA9[6k_/\\x00\\x00&\\xC0,\\xC0+\\xC00\\xC0/\\xC0$\\xC0#\\xC0(\\xC0'\\xC0"
+    },
+    "2021-08-30T14:31:11.732603": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Я пока не понял как мне сообщение посмотреть и тело запроса.\n\\x16\\x03\\x03\\x00\\xC2\\x01\\x00\\x00\\xBE\\x03\\x03a,O\\xBC\\xF5\\xC6\\xCFw\\x958\\xE8\\x15O@\\xBD)\\xC5\\xD3\\xCA\\x81\\xE2\\xA7i\\xAF\\xCCg\\xA9[6k_/\\x00\\x00&\\xC0,\\xC0+\\xC00\\xC0/\\xC0$\\xC0#\\xC0(\\xC0'\\xC0"
+    },
+    "2021-08-30T14:31:31.399361": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Вот такое есть, это бинарные данные?"
+    },
+    "2021-08-30T14:31:31.401517": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Вот такое есть, это бинарные данные?"
+    },
+    "2021-08-30T14:32:37.710884": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот есть так как ты написал"
+    },
+    "2021-08-30T14:32:44.615549": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "в не понятной кодировке"
+    },
+    "2021-08-30T14:32:47.118189": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а есть норм"
+    },
+    "2021-08-30T14:32:53.473127": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "200.58.180.138 -  [30/Aug/2021:17:31:45 +0300] \"POST /mor1/WIN-OQR8NN197GR_W639600.5B505F7FFC79B12CBB3622DF3CBB3B1C/84/ HTTP/1.1\" 403 182 \"\" \"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; Win64; x64\n; Trident/7.0; .NET4.0E; .NET4.0C; InfoPath.3; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729)\" \"-----------KRLRMIKEGVGXNTPQ\\r\\nContent-Disposition: form-data; name=\\\"data\\\"\\r\\n\\r\\nUtente2|Ch\nrome|dGFncy5hZHNhZmV0eS5uZXQ=|RElE|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|1546590957|2147483641|Lw==\\r\\nUtente2|Chrome|dGFncy5hZHNhZmV0eS5uZXQ=|SURU|MTAw|1546590957|2147483641|Lw==\\r\\nUtente2|Chrom\ne|dGFncy5hZHNhZmV0eS5uZXQ=|VUlE|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|1546590957|2147483641|Lw==\\r\\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfZGlk|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|154659\n0957|2147483641|Lw==\\r\\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfaWR0|MTAw|1546590957|2147483641|Lw==\\r\\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfdWlk|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|154659095\n7|2147483641|Lw==\\r\\nUtente2|Chrome|dGFncy5hZHNhZmV0eS5uZXQ=|dg==|Mg==|1546590957|2147483641|Lw==\\r\\nUtente2|Chrome|Lmdvb2dsZS5jb20=|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218723|2146723192|Lw==\\r\\nUtente\n2|Chrome|Lmdvb2dsZS5pdA==|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218724|2146723192|Lw==\\r\\nUtente2|Chrome|LnlvdXR1YmUuY29t|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218724|2146723192|Lw==\\r\\nUtente2|Chrome|Lm\nludGVudGlxLmNvbQ==|SVF2ZXI=|MS45|1562134121|1877494136|Lw==\\r\\nUtente2|Chrome|LmhvdGVscy5jb20=|X2Nsc192|MGE5ZTdlN2UtZGY1Mi00YWQzLWI0YjItY2UxZGI0MGQ1MWU5|1562134143|1719814143|Lw==\\r\\nUtente2|Chrome|LnRya\nXZhZ28uY29t|Y3RpZA==|SzRETTU1bm1JMzdIQzVudXZUTXBveFhROU4=|1562134117|2147483643|Lw==\\r\\nUtente2|Chrome|d3d3LnRyaXZhZ28uaXQ=|ZnR2|JTdCJTIyZnR2JTIyJTNBJTIyMjAxOTA3MDMwNjA4NDAlMjIlMkMlMjJsdHYlMjIlM0ElMjIyMD\nE5MDcwMzA2MDg0MCUyMiUyQyUyMmVwJTIyJTNBOTk5OSUyQyUyMmNudHYlMjIlM0ExJTJDJTIyY250YyUyMiUzQTElMkMlMjJjbnRjcyUyMiUzQTElMkMlMjJmZXAlMjIlM0E5OTk5JTJDJTIydmMlMjIlM0EwJTJDJTIyY3RsJTIyJTNBOTk5JTJDJTIyY3RmJTIyJTNBO\nTk5JTJDJTIyaXRlbSUyMiUzQTIzMTMxNjglMkMlMjJwYXRoJTIyJTNBNDU4MTclMkMlMjJwYXRoMiUyMiUzQW51bGwlN0Q=|1562134136|2147483644|Lw==\\r\\nUtente2|Chrome|Lnd3dy50cml2YWdvLml0|aW50ZW50X21lZGlhX3ByZWZz||1562134121|-210\n1681175|Lw==\\r\\nUtente2|Chrome|ZHVzLnRyaXZhZ28uY29t|c0xhbmd1YWdlTG9jYWxl|VUs=|1562134117|2147483643|Lw==\\r\\nUtente2|Chrome|c2VjZGUudHJpdmFnby5jb20=|c0xhbmd1YWdlTG9jYWxl|VUs=|1562134120|2147483643|Lw==\\r\\\nnUtente2|Chrome|LnRyaXZhZ28uY29t|dGlk|N2JXQjhlZzVSalZ1VUI2Rm1hOXFTMXZXSlQ=|1562134140|2147483643|Lw==\\r\\nUtente2|Chrome|LnRyaXZhZ28uaXQ=|dGlk|NGFBWHhYNldhaG5IWmhHRm1PVFRLNkpVYl8=|1562134117|2147483643|Lw\n==\\r\\nUtente2|Chrome|LnRyaXZhZ28uY29t|dHJ2X3RpZA==|N2JXQjhlZzVSalZ1VUI2Rm1hOXFTMXZXSlQ=|1562134140|2147483643|Lw==\\r\\nUtente2|Chrome|LnRyaXZhZ28uaXQ=|dHJ2X3RpZA==|NGFBWHhYNldhaG5IWmhHRm1PVFRLNkpVYl8=|156\n\n...\n..........."
+    },
+    "2021-08-30T14:33:11.249457": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хооооотя код 403"
+    },
+    "2021-08-30T14:33:14.506512": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "почему"
+    },
+    "2021-08-30T14:33:57.056240": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: давай разбираться"
+    },
+    "2021-08-30T14:36:02.441020": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "POST /mor1/WIN-OQR8NN197GR_W639600.5B505F7FFC79B12CBB3622DF3CBB3B1C/84/ HTTP/1.1"
+    },
+    "2021-08-30T14:36:21.828787": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "это наш запрос, если не ошибаюсь это куки"
+    },
+    "2021-08-30T14:36:35.159527": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: поясни почему 403"
+    },
+    "2021-08-30T14:38:38.675160": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "buza: давай я тебе скину креды, может ты тоже посмотришь логи?"
+    },
+    "2021-08-30T14:38:38.678410": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "В конце данные обрезаны"
+    },
+    "2021-08-30T14:38:38.680277": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "В конце данные обрезаны"
+    },
+    "2021-08-30T14:38:49.485635": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "просто чувствую что гл=де то рядом ответ"
+    },
+    "2021-08-30T14:38:54.991401": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Это так скопировалось?"
+    },
+    "2021-08-30T14:38:54.992098": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Это так скопировалось?"
+    },
+    "2021-08-30T14:39:04.024999": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "driver: это я обрезал, там дохрена"
+    },
+    "2021-08-30T14:39:24.308764": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Ок"
+    },
+    "2021-08-30T14:39:24.312343": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Ок"
+    },
+    "2021-08-30T14:39:40.411273": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "defender: в последний раз когда я этим занимался (еще будучи разработчиком того самого модуля который эти данные шлет), коды ошибки приходили от бэкенда в случае если ему данные не нравились"
+    },
+    "2021-08-30T14:40:13.906634": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "т.е. тут нужно указание от зуласа, начиная с какого смещения в этом запросе данные невалидны (по мнению парсящей их библиотеки)"
+    },
+    "2021-08-30T14:41:26.283074": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "так да, но пока он думает, можетт у тебя мысли будут"
+    },
+    "2021-08-30T14:42:45.466374": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "403 Forbidden шлет во многих случаях .. самый общий это неверный URL .. потом всякие баны и т.п."
+    },
+    "2021-08-30T14:43:27.702162": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "у тебя есть конкретный сервер с конкретной базой и софтом + логи"
+    },
+    "2021-08-30T14:43:31.446408": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "рзберись плиз"
+    },
+    "2021-08-30T14:43:35.529526": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "для 84 команды конкретно тут может быть что он ожидает данные формы .. multipart но там ничего нет"
+    },
+    "2021-08-30T14:43:54.455231": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я сваливаю сейчас . смогу только завтра . так что сорян"
+    },
+    "2021-08-30T14:44:08.986815": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "кто в жабе кодер модуля?"
+    },
+    "2021-08-30T14:44:21.704216": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "надо добавить его сюда"
+    },
+    "2021-08-30T14:44:40.865893": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: утром?"
+    },
+    "2021-08-30T14:45:04.425440": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ога"
+    },
+    "2021-08-30T14:45:04.867019": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "чтобы сюда кодера модуля подтянуть к этому времени"
+    },
+    "2021-08-30T14:46:32.016895": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "еще надо в лог писать длину пост данных .. потому что у меня лимит 64 кб"
+    },
+    "2021-08-30T14:46:43.412907": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "[19:43:23] <dgh> Там надо посмотреть весь лог, суть в том что должно быть по 8 полей \n[19:43:39] <dgh> И точно такую же ошибку нам выдавало когда их было больше или меньше \n[19:43:52] <dgh> И возвращало типа что то Missmatch parametr count \n[19:43:55] <dgh> В ответе"
+    },
+    "2021-08-30T14:46:43.414031": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "[19:43:23] <dgh> Там надо посмотреть весь лог, суть в том что должно быть по 8 полей \n[19:43:39] <dgh> И точно такую же ошибку нам выдавало когда их было больше или меньше \n[19:43:52] <dgh> И возвращало типа что то Missmatch parametr count \n[19:43:55] <dgh> В ответе"
+    },
+    "2021-08-30T14:46:48.426290": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "таймаут по чтению - 50 секунд"
+    },
+    "2021-08-30T14:46:58.652440": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Это еще можно проверить"
+    },
+    "2021-08-30T14:46:58.654019": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Это еще можно проверить"
+    },
+    "2021-08-30T14:48:08.519203": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "да .. надо логировать ответ сервера .. там 403 может быть с пояснением"
+    },
+    "2021-08-30T14:48:52.502707": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]\nтакие колонки должны быть"
+    },
+    "2021-08-30T14:50:31.732088": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "у меня может в глазах двоится .. но я насчитал в запросе 15 колонов в пост-дата"
+    },
+    "2021-08-30T14:50:37.208577": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "колонок"
+    },
+    "2021-08-30T14:50:57.645952": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Я по этому куску разбил по 8 везде"
+    },
+    "2021-08-30T14:50:57.649083": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Я по этому куску разбил по 8 везде"
+    },
+    "2021-08-30T14:51:05.431272": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Или ты полный лог глядишь"
+    },
+    "2021-08-30T14:51:05.432857": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Или ты полный лог глядишь"
+    },
+    "2021-08-30T14:51:06.970131": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "?"
+    },
+    "2021-08-30T14:51:06.971892": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "?"
+    },
+    "2021-08-30T14:51:14.893840": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хотя нет .. 8 )"
+    },
+    "2021-08-30T14:51:36.057314": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "То что в лимит уперлось кстати вероятно."
+    },
+    "2021-08-30T14:51:36.059599": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "То что в лимит уперлось кстати вероятно."
+    },
+    "2021-08-30T14:51:39.706673": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "короче надо ответ сервера логировать . будет понятнее . .есть такая возможсность ? )"
+    },
+    "2021-08-30T14:51:39.738276": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Тоже"
+    },
+    "2021-08-30T14:51:39.739297": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Тоже"
+    },
+    "2021-08-31T09:46:31.757545": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "1. Создать новую команду для получения данных куки. Например, код команды 84\n\n2. Создать таблицу для хранения данных (псевдокод SQL):\nCREATE TABLE cookies (\n  id SERIAL,\n  username VARCHAR(255),\n  browser VARCHAR(255)\n  domain VARCHAR(255)\n  cookie_name VARCHAR(255)\n  cookie_value VARCHAR(255)\n  created DATETIME,\n  expires DATETIME,\n  path VARCHAR(255)\n);\n\n3. Обеспечить прием данных в следующем формате:\n- простой текст, разделенный на строки.\nРазделитель строк - может быть как UNIX, так и DOS.\nОдна строка - одна запись.\nРазделитель полей в записи - вертикальная черта |\nФормат записи:\n\nusername|browser|domain|cookie_name|cookie_value|created|expires|path\\r\\n\n\nгде\n\nusername     - имя пользователя\nbrowser      - код броузера (enum = chrome|ff|ie|edge)\ndomain       - домен куки\ncookie_name  - имя куки\ncookie_value - значение куки\ncreated      - дата-время создания, Unix time\nexpires      - дата-время истечения, Unix time\npath         - путь URI"
+    },
+    "2021-08-31T09:46:31.765259": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "К тому, что у меня не было этого дока. Где описание В64? Это часть формата."
+    },
+    "2021-08-31T09:46:31.765559": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нету про базе64 .. сами добавили очевидно"
+    },
+    "2021-08-31T09:46:31.765863": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "чтобы экранировать символы"
+    },
+    "2021-08-31T09:46:31.766499": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Ну, вот это и нужно в доку добавить.\ncreated у нас в секундах?"
+    },
+    "2021-08-31T09:46:31.767300": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "created_at я ставлю сам как NOW()"
+    },
+    "2021-08-31T09:46:31.768022": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Не догадываться же, как там отстойник обрабатывает, верно?"
+    },
+    "2021-08-31T09:46:31.768549": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а .есть другой .."
+    },
+    "2021-08-31T09:46:31.769226": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "щас посмотрю"
+    },
+    "2021-08-31T09:46:31.770204": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "А NOW() в секундах?"
+    },
+    "2021-08-31T09:46:31.770826": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "забей на NOW() это другое"
+    },
+    "2021-08-31T09:46:31.772131": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "CREATE TABLE public.data84 (\n    id_low bigint NOT NULL,\n    id_high bigint NOT NULL,\n    \"group\" character varying(64),\n    created_at timestamp without time zone,\n    username text,\n    browser text,\n    domain text,\n    cookie_name text,\n    cookie_value text,\n    created text,\n    expires text,\n    path text\n);"
+    },
+    "2021-08-31T09:46:31.772565": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "вот таблица"
+    },
+    "2021-08-31T09:46:31.773293": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "created - просто текст"
+    },
+    "2021-08-31T09:46:31.774243": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нету про базе64 .. сами добавили очевидно \nНу, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно."
+    },
+    "2021-08-31T09:46:31.774820": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "всё - просто текст"
+    },
+    "2021-08-31T09:46:31.775438": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "> У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.  \nочевидно не я один это добавлял и не только на моей стороне, иначе не работало бы.\nкоду уже 5 лет"
+    },
+    "2021-08-31T09:46:31.776203": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Ну, это тоже не очевидно)\nПо факту ошибки посыпались. Документация не полная."
+    },
+    "2021-08-31T09:46:31.776688": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "где же ты был )"
+    },
+    "2021-08-31T10:40:22.318460": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Zulas ты под новые поля базу тоже будешь менять?\nЕсли да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены."
+    },
+    "2021-08-31T10:40:22.321002": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Zulas ты под новые поля базу тоже будешь менять?\nЕсли да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены."
+    },
+    "2021-08-31T10:40:58.850418": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Я написал миграции под два поля secure и httponly"
+    },
+    "2021-08-31T10:40:58.853077": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Я написал миграции под два поля secure и httponly"
+    },
+    "2021-08-31T10:41:19.036037": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Оба логических."
+    },
+    "2021-08-31T10:41:19.038939": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Оба логических."
+    },
+    "2021-08-31T10:41:50.950786": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "не буду делать ."
+    },
+    "2021-08-31T10:41:53.238002": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и в 90 команду добавились новые поля"
+    },
+    "2021-08-31T10:42:06.306889": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ты базу на рабочем уже поменял ?я могу слить дамп ?"
+    },
+    "2021-08-31T10:42:24.070039": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "поля не будут сохраняться, если их больше?"
+    },
+    "2021-08-31T10:42:41.755426": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "dlls, programs, services Я тоже уже добавил"
+    },
+    "2021-08-31T10:42:41.759012": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "dlls, programs, services Я тоже уже добавил"
+    },
+    "2021-08-31T10:42:55.647883": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а, ок"
+    },
+    "2021-08-31T10:42:55.696483": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Пока не накатил, сек сделаю"
+    },
+    "2021-08-31T10:42:55.700088": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Пока не накатил, сек сделаю"
+    },
+    "2021-08-31T10:44:25.976383": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию."
+    },
+    "2021-08-31T10:44:25.983379": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию."
+    },
+    "2021-08-31T10:44:38.106535": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "И в бэке его тоже вроде как нет"
+    },
+    "2021-08-31T10:44:38.108882": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "И в бэке его тоже вроде как нет"
+    },
+    "2021-08-31T10:44:40.985595": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "добавляй сразу всё чтобы мне не возвращаться"
+    },
+    "2021-08-31T10:46:16.066728": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать."
+    },
+    "2021-08-31T10:46:16.068779": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать."
+    },
+    "2021-08-31T11:01:29.508055": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "По 2м полям в куках накатил миграции."
+    },
+    "2021-08-31T11:01:29.510617": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "По 2м полям в куках накатил миграции."
+    },
+    "2021-08-31T14:29:17.707591": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "нету про базе64 .. сами добавили очевидно \nНу, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно."
+    },
+    "2021-08-31T14:29:17.708832": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "всё - просто текст"
+    },
+    "2021-08-31T14:29:17.709777": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "> У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.  \nочевидно не я один это добавлял и не только на моей стороне, иначе не работало бы.\nкоду уже 5 лет"
+    },
+    "2021-08-31T14:29:17.710585": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Ну, это тоже не очевидно)\nПо факту ошибки посыпались. Документация не полная."
+    },
+    "2021-08-31T14:29:17.711336": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "где же ты был )"
+    },
+    "2021-08-31T14:29:17.712254": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Zulas ты под новые поля базу тоже будешь менять?\nЕсли да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены."
+    },
+    "2021-08-31T14:29:17.713486": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Я написал миграции под два поля secure и httponly"
+    },
+    "2021-08-31T14:29:17.714452": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Оба логических."
+    },
+    "2021-08-31T14:29:17.715628": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "не буду делать ."
+    },
+    "2021-08-31T14:29:17.716717": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и в 90 команду добавились новые поля"
+    },
+    "2021-08-31T14:29:17.717313": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ты базу на рабочем уже поменял ?я могу слить дамп ?"
+    },
+    "2021-08-31T14:29:17.718915": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "поля не будут сохраняться, если их больше?"
+    },
+    "2021-08-31T14:29:17.719578": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "dlls, programs, services Я тоже уже добавил"
+    },
+    "2021-08-31T14:29:17.720534": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а, ок"
+    },
+    "2021-08-31T14:29:17.721481": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Пока не накатил, сек сделаю"
+    },
+    "2021-08-31T14:29:17.722878": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию."
+    },
+    "2021-08-31T14:29:17.723634": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "И в бэке его тоже вроде как нет"
+    },
+    "2021-08-31T14:29:17.724825": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "добавляй сразу всё чтобы мне не возвращаться"
+    },
+    "2021-08-31T14:29:17.725869": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать."
+    },
+    "2021-08-31T14:29:17.726886": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "По 2м полям в куках накатил миграции."
+    },
+    "2021-08-31T14:33:07.577802": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. \nВ бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет."
+    },
+    "2021-08-31T14:33:07.582916": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. \nВ бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет."
+    },
+    "2021-08-31T14:34:45.525200": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хороший вопрос, но зуласа нету в конфе уже"
+    },
+    "2021-08-31T14:34:50.757206": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потому повтори этот вопрос как он появится"
+    },
+    "2021-08-31T14:35:16.317153": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Оке, тут получается нет истории.."
+    },
+    "2021-08-31T14:35:16.319449": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Оке, тут получается нет истории.."
+    },
+    "2021-08-31T14:35:52.754881": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "неа"
+    },
+    "2021-08-31T15:23:57.162637": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "для того чтобы не заходить постоянно в конфу после релогина вверху есть звездочка, нажмите 2 раза и выберите автовход - всегда"
+    },
+    "2021-08-31T15:24:14.678007": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потом когда конфа будет не актуальна звездочку снимите"
+    },
+    "2021-09-01T13:50:14.286935": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "и в 90 команду добавились новые поля"
+    },
+    "2021-09-01T13:50:14.287505": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ты базу на рабочем уже поменял ?я могу слить дамп ?"
+    },
+    "2021-09-01T13:50:14.287931": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "поля не будут сохраняться, если их больше?"
+    },
+    "2021-09-01T13:50:14.288278": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "dlls, programs, services Я тоже уже добавил"
+    },
+    "2021-09-01T13:50:14.288815": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а, ок"
+    },
+    "2021-09-01T13:50:14.289203": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Пока не накатил, сек сделаю"
+    },
+    "2021-09-01T13:50:14.290208": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию."
+    },
+    "2021-09-01T13:50:14.290515": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "И в бэке его тоже вроде как нет"
+    },
+    "2021-09-01T13:50:14.290932": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "добавляй сразу всё чтобы мне не возвращаться"
+    },
+    "2021-09-01T13:50:14.291280": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать."
+    },
+    "2021-09-01T13:50:14.291770": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "По 2м полям в куках накатил миграции."
+    },
+    "2021-09-01T13:50:14.292348": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. \nВ бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет."
+    },
+    "2021-09-01T13:50:14.292813": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хороший вопрос, но зуласа нету в конфе уже"
+    },
+    "2021-09-01T13:50:14.293207": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потому повтори этот вопрос как он появится"
+    },
+    "2021-09-01T13:50:14.293649": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Оке, тут получается нет истории.."
+    },
+    "2021-09-01T13:50:14.294024": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "неа"
+    },
+    "2021-09-01T13:50:14.294637": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "для того чтобы не заходить постоянно в конфу после релогина вверху есть звездочка, нажмите 2 раза и выберите автовход - всегда"
+    },
+    "2021-09-01T13:50:14.295014": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потом когда конфа будет не актуальна звездочку снимите"
+    },
+    "2021-09-01T13:50:14.295758": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": " > такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. \nВ бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.\n\nдля начала что за запрос ? можем мы его повторить на текущей системе чтобы я его видел ?"
+    },
+    "2021-09-01T13:50:14.296056": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "oad"
+    },
+    "2021-09-01T13:51:45.502830": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "К сожалению не можем.\nЕсли с этим серверм будет такое же история я напишу"
+    },
+    "2021-09-01T13:51:45.507196": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "К сожалению не можем.\nЕсли с этим серверм будет такое же история я напишу"
+    },
+    "2021-09-01T13:52:07.163803": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Как повторить к сожалению не знаю пока"
+    },
+    "2021-09-01T13:52:07.165796": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Как повторить к сожалению не знаю пока"
+    },
+    "2021-09-02T08:46:48.782742": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "поля не будут сохраняться, если их больше?"
+    },
+    "2021-09-02T08:46:48.783762": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "dlls, programs, services Я тоже уже добавил"
+    },
+    "2021-09-02T08:46:48.784763": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а, ок"
+    },
+    "2021-09-02T08:46:48.785519": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Пока не накатил, сек сделаю"
+    },
+    "2021-09-02T08:46:48.786586": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию."
+    },
+    "2021-09-02T08:46:48.787501": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "И в бэке его тоже вроде как нет"
+    },
+    "2021-09-02T08:46:48.788560": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "добавляй сразу всё чтобы мне не возвращаться"
+    },
+    "2021-09-02T08:46:48.789279": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать."
+    },
+    "2021-09-02T08:46:48.790467": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "По 2м полям в куках накатил миграции."
+    },
+    "2021-09-02T08:46:48.791433": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. \nВ бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет."
+    },
+    "2021-09-02T08:46:48.792466": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хороший вопрос, но зуласа нету в конфе уже"
+    },
+    "2021-09-02T08:46:48.793346": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потому повтори этот вопрос как он появится"
+    },
+    "2021-09-02T08:46:48.794186": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Оке, тут получается нет истории.."
+    },
+    "2021-09-02T08:46:48.795047": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "неа"
+    },
+    "2021-09-02T08:46:48.795736": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "для того чтобы не заходить постоянно в конфу после релогина вверху есть звездочка, нажмите 2 раза и выберите автовход - всегда"
+    },
+    "2021-09-02T08:46:48.796306": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "потом когда конфа будет не актуальна звездочку снимите"
+    },
+    "2021-09-02T08:46:48.797265": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": " > такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. \nВ бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.\n\nдля начала что за запрос ? можем мы его повторить на текущей системе чтобы я его видел ?"
+    },
+    "2021-09-02T08:46:48.798027": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "oad"
+    },
+    "2021-09-02T08:46:48.798594": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "К сожалению не можем.\nЕсли с этим серверм будет такое же история я напишу"
+    },
+    "2021-09-02T08:46:48.799244": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Как повторить к сожалению не знаю пока"
+    },
+    "2021-09-02T11:28:45.762692": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "всем привет"
+    },
+    "2021-09-02T11:28:50.925410": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "как дела с деро?"
+    },
+    "2021-09-02T11:29:03.157750": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: понятна проблема?"
+    },
+    "2021-09-02T11:30:43.883983": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "деф . привет .. а в чем проблема ?"
+    },
+    "2021-09-02T11:33:13.542985": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "driver: отпиши что ты мне написал сюда"
+    },
+    "2021-09-02T11:33:20.364980": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ответ 403 был"
+    },
+    "2021-09-02T11:33:26.030304": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "с ним разобрались?"
+    },
+    "2021-09-02T11:36:33.215234": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Бэк отвечает 403 на попытку отправить куки."
+    },
+    "2021-09-02T11:36:33.216963": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Бэк отвечает 403 на попытку отправить куки."
+    },
+    "2021-09-02T11:36:55.081186": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Внесли ли изменения связанные с новыми полями?"
+    },
+    "2021-09-02T11:36:55.084527": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Внесли ли изменения связанные с новыми полями?"
+    },
+    "2021-09-02T11:38:21.043589": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "давайте конкретно: кто и что должен внести?"
+    },
+    "2021-09-02T11:38:32.054550": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "тк походу зулас даже не в курсе"
+    },
+    "2021-09-02T11:39:06.181171": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "4ый день мы тут что то обсуждаем, а в итоге ничего не делаем"
+    },
+    "2021-09-02T11:39:10.285864": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "в чем проблема?"
+    },
+    "2021-09-02T11:39:34.326023": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Нужно в 84 команду внести 2 поля.\nsecure, httponly в конец приема, получается 9 и 10 поле должно быть."
+    },
+    "2021-09-02T11:39:34.328491": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Нужно в 84 команду внести 2 поля.\nsecure, httponly в конец приема, получается 9 и 10 поле должно быть."
+    },
+    "2021-09-02T11:39:51.356884": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "В базу должны записываться поля с такими же именами"
+    },
+    "2021-09-02T11:39:51.360712": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "В базу должны записываться поля с такими же именами"
+    },
+    "2021-09-02T11:41:12.879859": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я ничего не вносил пока .."
+    },
+    "2021-09-02T11:41:48.449828": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "так уже пора внести"
+    },
+    "2021-09-02T11:41:53.196156": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "драйвер же просил"
+    },
+    "2021-09-02T11:42:05.653748": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "у нас доработка прямо сейчас в модуле сбора, требует этого"
+    },
+    "2021-09-02T11:42:10.205017": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Ок. Когда?"
+    },
+    "2021-09-02T11:42:10.211142": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Ок. Когда?"
+    },
+    "2021-09-02T11:43:37.290706": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Я не стал этого делать потому что мне сказали, что сейчас zulas занимается бэком, но я напрямую не писал задачу.\nВозможно решил что вы с кодером модуля обсудили этот момент"
+    },
+    "2021-09-02T11:43:37.292649": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Я не стал этого делать потому что мне сказали, что сейчас zulas занимается бэком, но я напрямую не писал задачу.\nВозможно решил что вы с кодером модуля обсудили этот момент"
+    },
+    "2021-09-02T11:44:33.235690": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "(31.08.2021 13:44:35) zulas: добавляй сразу всё чтобы мне не возвращаться\n(31.08.2021 13:46:11) driver: Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.\n(31.08.2021 14:01:24) driver: По 2м полям в куках накатил миграции."
+    },
+    "2021-09-02T11:44:45.184404": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ну вообще надо все сразу сделать и чтобы не возвращаться"
+    },
+    "2021-09-02T11:44:52.285439": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "переключение контекста -- очень тяжелая операция )"
+    },
+    "2021-09-02T11:45:14.307304": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "так что \n1. я жду когда в базу нужное внесется\n2. когда мне будет объяснено что нужно делать"
+    },
+    "2021-09-02T11:59:16.916457": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "так а по-моему driver говорил что накатил миграции на базу. Это не оно?\nцитату не приведу, уплыло в истории"
+    },
+    "2021-09-02T12:03:26.093719": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "driver: поясни мне чего ты ждешь?"
+    },
+    "2021-09-02T12:03:33.364707": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "что нужно от зуласа?"
+    },
+    "2021-09-02T12:11:37.696107": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Дело в том что миграция по десктопу относится к другой задаче."
+    },
+    "2021-09-02T12:11:37.700693": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Дело в том что миграция по десктопу относится к другой задаче."
+    },
+    "2021-09-02T12:11:51.011581": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Сейчас нужно сделать 2 этих поля"
+    },
+    "2021-09-02T12:11:51.015942": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Сейчас нужно сделать 2 этих поля"
+    },
+    "2021-09-02T12:12:18.870926": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: сделаешь?"
+    },
+    "2021-09-02T12:14:06.094357": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Более того к другой команде и к другой таблице."
+    },
+    "2021-09-02T12:14:06.097839": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Более того к другой команде и к другой таблице."
+    },
+    "2021-09-02T12:15:43.897387": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@driver давай конкретно что тебе надо и куда ... ок ?"
+    },
+    "2021-09-02T12:17:36.619983": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Нужно в 84 команду внести 2 поля.\nsecure, httponly в конец приема, получается 9 и 10 поле должно быть."
+    },
+    "2021-09-02T12:17:36.623489": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Нужно в 84 команду внести 2 поля.\nsecure, httponly в конец приема, получается 9 и 10 поле должно быть."
+    },
+    "2021-09-02T12:18:22.054600": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "На запрос вида \ncurl -X POST -F 'data=dXNlcg==|IE||||1240428288|1240428288|dXNlcg==|IE|demdex.net|ZGVtZGV4|NTczODQzMjMyMTAwNDg1MDEyMDI3NjIxMTIxODA0ODI1OTMyMjQ=|1240428358|1240428358|Lw==|1|1' http://(IP)/TAG/TEST_W639600.1234A242341C6D1A25B3F315D688968E/84/\nДолжно ответить /1/"
+    },
+    "2021-09-02T12:18:22.058769": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "На запрос вида \ncurl -X POST -F 'data=dXNlcg==|IE||||1240428288|1240428288|dXNlcg==|IE|demdex.net|ZGVtZGV4|NTczODQzMjMyMTAwNDg1MDEyMDI3NjIxMTIxODA0ODI1OTMyMjQ=|1240428358|1240428358|Lw==|1|1' http://(IP)/TAG/TEST_W639600.1234A242341C6D1A25B3F315D688968E/84/\nДолжно ответить /1/"
+    },
+    "2021-09-02T12:20:09.147068": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ок .. сейчас в базе поля уже есть ?"
+    },
+    "2021-09-02T12:20:19.944963": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Да"
+    },
+    "2021-09-02T12:20:19.950459": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Да"
+    },
+    "2021-09-02T12:28:19.573295": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а старые клиенты еще работают ?"
+    },
+    "2021-09-02T12:28:40.297355": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "т.е. надо поддерживать и старый формат и новый ?"
+    },
+    "2021-09-02T12:29:44.530416": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Нет, просто только новый должен начать работать."
+    },
+    "2021-09-02T12:29:44.534523": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Нет, просто только новый должен начать работать."
+    },
+    "2021-09-02T12:30:37.239416": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Уже внесли нужные изменения для клиентов. Ждем именно чтобы подхватило эти изменения часть по бэку"
+    },
+    "2021-09-02T12:30:37.240834": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Уже внесли нужные изменения для клиентов. Ждем именно чтобы подхватило эти изменения часть по бэку"
+    },
+    "2021-09-02T12:59:04.945290": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: очень прошу поторопиться, так как сейчас от тебя зависит работа многих, без правок бекенда не можем дальше двинуться"
+    },
+    "2021-09-02T13:03:56.541214": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хорошо сделаю"
+    },
+    "2021-09-02T13:23:09.881895": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path, Secure, HttpOnly ]"
+    },
+    "2021-09-02T13:23:13.464372": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "такая последовательность ?"
+    },
+    "2021-09-02T13:23:20.884065": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@driver"
+    },
+    "2021-09-02T13:26:57.391650": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@defender как мне запушить изменения ?"
+    },
+    "2021-09-02T13:37:09.259770": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Да все верно."
+    },
+    "2021-09-02T13:37:09.261869": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Да все верно."
+    },
+    "2021-09-02T14:18:44.637630": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: а я тебе вроде выдавал доступ, разве нет?"
+    },
+    "2021-09-02T16:43:17.461069": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я его 100 раз забыл"
+    },
+    "2021-09-02T16:43:37.839875": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "~/erl/dero> git -c credential.helper=/usr/share/smartgit/lib/credentials.sh push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/heads/master\nunable to access 'https://179.43.147.243/begemot/dero.git/': gnutls_handshake() failed: Internal error"
+    },
+    "2021-09-02T16:44:19.025984": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ок, щас в личку кину"
+    },
+    "2021-09-03T09:18:47.597200": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@driver давай конкретно что тебе надо и куда ... ок ?"
+    },
+    "2021-09-03T09:18:47.597585": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Нужно в 84 команду внести 2 поля.\nsecure, httponly в конец приема, получается 9 и 10 поле должно быть."
+    },
+    "2021-09-03T09:18:47.598480": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "На запрос вида \ncurl -X POST -F 'data=dXNlcg==|IE||||1240428288|1240428288|dXNlcg==|IE|demdex.net|ZGVtZGV4|NTczODQzMjMyMTAwNDg1MDEyMDI3NjIxMTIxODA0ODI1OTMyMjQ=|1240428358|1240428358|Lw==|1|1' http://(IP)/TAG/TEST_W639600.1234A242341C6D1A25B3F315D688968E/84/\nДолжно ответить /1/"
+    },
+    "2021-09-03T09:18:47.599221": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ок .. сейчас в базе поля уже есть ?"
+    },
+    "2021-09-03T09:18:47.599786": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Да"
+    },
+    "2021-09-03T09:18:47.600330": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "а старые клиенты еще работают ?"
+    },
+    "2021-09-03T09:18:47.600843": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "т.е. надо поддерживать и старый формат и новый ?"
+    },
+    "2021-09-03T09:18:47.601401": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Нет, просто только новый должен начать работать."
+    },
+    "2021-09-03T09:18:47.602309": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Уже внесли нужные изменения для клиентов. Ждем именно чтобы подхватило эти изменения часть по бэку"
+    },
+    "2021-09-03T09:18:47.603137": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: очень прошу поторопиться, так как сейчас от тебя зависит работа многих, без правок бекенда не можем дальше двинуться"
+    },
+    "2021-09-03T09:18:47.603607": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "хорошо сделаю"
+    },
+    "2021-09-03T09:18:47.604028": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path, Secure, HttpOnly ]"
+    },
+    "2021-09-03T09:18:47.604676": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "такая последовательность ?"
+    },
+    "2021-09-03T09:18:47.605453": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@driver"
+    },
+    "2021-09-03T09:18:47.605873": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@defender как мне запушить изменения ?"
+    },
+    "2021-09-03T09:18:47.606472": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Да все верно."
+    },
+    "2021-09-03T09:18:47.607160": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas: а я тебе вроде выдавал доступ, разве нет?"
+    },
+    "2021-09-03T09:18:47.607797": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я его 100 раз забыл"
+    },
+    "2021-09-03T09:18:47.608264": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "~/erl/dero> git -c credential.helper=/usr/share/smartgit/lib/credentials.sh push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/heads/master\nunable to access 'https://179.43.147.243/begemot/dero.git/': gnutls_handshake() failed: Internal error"
+    },
+    "2021-09-03T09:18:47.608949": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "ок, щас в личку кину"
+    },
+    "2021-09-03T09:27:34.708615": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Добрый день! Как успехи по пушу кода?"
+    },
+    "2021-09-03T09:27:34.710710": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Добрый день! Как успехи по пушу кода?"
+    },
+    "2021-09-03T09:28:03.394948": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "@zulas @defender"
+    },
+    "2021-09-03T09:28:03.396856": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@zulas @defender"
+    },
+    "2021-09-03T09:28:22.265510": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "надо запушить . жду дефа"
+    },
+    "2021-09-03T09:31:17.965503": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Ок"
+    },
+    "2021-09-03T09:31:17.968126": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Ок"
+    },
+    "2021-09-03T11:49:56.193051": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "А есть вариант просто на сервер залить этот код пока что?"
+    },
+    "2021-09-03T11:49:56.197928": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "А есть вариант просто на сервер залить этот код пока что?"
+    },
+    "2021-09-03T11:50:22.702063": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Чтобы мы потестили, а с гитом позже разобраться7"
+    },
+    "2021-09-03T11:50:22.706884": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Чтобы мы потестили, а с гитом позже разобраться7"
+    },
+    "2021-09-03T11:57:50.003280": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "зулас запушил"
+    },
+    "2021-09-03T11:57:56.219674": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "я его попросил выгрузить на сервер"
+    },
+    "2021-09-03T11:58:32.839035": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": " driver или ты выгрузи сам"
+    },
+    "2021-09-03T12:17:17.908463": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Ок"
+    },
+    "2021-09-03T12:17:17.913374": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Ок"
+    },
+    "2021-09-03T12:17:26.281640": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Выгружу."
+    },
+    "2021-09-03T12:17:26.285817": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Выгружу."
+    },
+    "2021-09-03T12:54:25.743372": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "SQL = \"INSERT INTO data84 (created_at, \\\"group\\\", id_low, id_high, username, browser, \\\"domain\\\", cookie_name, cookie_value, created, expires, path ) VALUES ( NOW(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13 )\","
+    },
+    "2021-09-03T12:54:25.746247": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "SQL = \"INSERT INTO data84 (created_at, \\\"group\\\", id_low, id_high, username, browser, \\\"domain\\\", cookie_name, cookie_value, created, expires, path ) VALUES ( NOW(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13 )\","
+    },
+    "2021-09-03T12:55:03.218948": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "@zulas не вставил 2 поля в запрос в базу."
+    },
+    "2021-09-03T12:55:03.222441": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@zulas не вставил 2 поля в запрос в базу."
+    },
+    "2021-09-03T12:55:17.836119": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "Поправь пожалуйста."
+    },
+    "2021-09-03T12:55:17.837123": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Поправь пожалуйста."
+    },
+    "2021-09-03T13:02:44.307528": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "И таблицу архива куков, там тоже эти 2 поля нужны будут."
+    },
+    "2021-09-03T13:02:44.309663": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "И таблицу архива куков, там тоже эти 2 поля нужны будут."
+    },
+    "2021-09-03T13:03:34.025182": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "По остальному посмотрел, вижу схему нормальную сделал, все ок. Это у нас недавно было актуальной проблемой."
+    },
+    "2021-09-03T13:03:34.028188": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "По остальному посмотрел, вижу схему нормальную сделал, все ок. Это у нас недавно было актуальной проблемой."
+    },
+    "2021-09-03T13:04:19.042251": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "cookies_archive*"
+    },
+    "2021-09-03T13:04:19.045875": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "cookies_archive*"
+    },
+    "2021-09-03T13:23:45.180280": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas отпиши по времени, когда сможешь сделать фиксы"
+    },
+    "2021-09-03T13:23:45.182944": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "zulas отпиши по времени, когда сможешь сделать фиксы"
+    },
+    "2021-09-03T13:44:34.797211": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "щас посмотрю"
+    },
+    "2021-09-03T13:46:05.459613": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "@driver cookies_archive* .. я такой таблицей не пользуюсь"
+    },
+    "2021-09-03T13:56:14.445281": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "пофиксил запрос"
+    },
+    "2021-09-03T13:56:17.186475": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "не тестировал"
+    },
+    "2021-09-07T11:14:56.213602": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сегодня отдых у всех ?"
+    },
+    "2021-09-16T15:33:06.236375": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "сегодня отдых у всех ?"
+    },
+    "2021-09-16T15:33:06.236947": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "есть кто"
+    }
+}

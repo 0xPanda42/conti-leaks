@@ -1,0 +1,111 @@
+{
+    "2021-02-03T16:18:32.689384": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "Привет, как дела, чем занимаешься, какие планы на пол года в работе",
+        "body_fr": "Bonjour, comment vas-tu, que fais-tu, quels plans pour une demi-année de travail",
+        "body_en": "Hi, how are you doing, what are you doing, what plans for half a year in work"
+    },
+    "2021-02-24T16:29:36.594865": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-12T15:17:24.816552": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-12T15:18:53.634122": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Приветствую. Работаем с faster над криптером. Криптуем нагрузку, чистим.. Дорабатываем алгоритмы.",
+        "body_fr": "Les salutations.Nous travaillons avec plus vite sur la crypte.Cryptez la charge, propre .. Nous affinons des algorithmes.",
+        "body_en": "Greetings.We work with Faster over the crypt.Crypt the load, clean .. We refine algorithms."
+    },
+    "2021-03-12T15:23:47.682981": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "чье криптуете?",
+        "body_fr": "Quelle crypte?",
+        "body_en": "whose crypt?"
+    },
+    "2021-03-12T15:26:16.373088": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Криптуем что дают.. Пока все через bentley. Криптуем кобу, нагрузку от cesar, были боты/лоадеры. Добавил twin на днях, будем что-то от него криптовать.",
+        "body_fr": "Cryptum ce qui donne .. alors que tout à travers Bentley.Cobu Cry, César Charge, étaient des robots / logaders.Ajout de twin l'autre jour, nous allons pleurer quelque chose de lui.",
+        "body_en": "Cryptum What gives .. While all through Bentley.COBU cry, CESAR load, were bots / logaders.Added twin the other day, we will cry something from him."
+    },
+    "2021-03-12T15:29:39.686981": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "ага отлично",
+        "body_fr": "Ouais excellent",
+        "body_en": "Yeah Excellent"
+    },
+    "2021-05-06T06:52:05.332748": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "ghbdt"
+    },
+    "2021-05-06T06:52:13.308625": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "привет будешь тут отпиши"
+    },
+    "2021-05-06T07:19:40.062923": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "ghbdt"
+    },
+    "2021-05-06T07:19:40.066837": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "привет будешь тут отпиши"
+    },
+    "2021-06-07T12:49:39.290380": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-08T09:30:16.538954": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-28T08:05:41.156294": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-08-26T08:43:03.286437": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "Привет как дела?"
+    },
+    "2021-08-26T08:48:39.438557": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Приветствую."
+    },
+    "2021-08-26T08:48:54.040870": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Весь  в работе, кипит как всегда)"
+    },
+    "2021-09-01T17:04:20.955035": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "\n[16:50:57] <tom> привет \n[16:51:05] <tom> жду уже сутки ехешник ( \n[16:51:06] <tom> так и не выдали\n[16:51:09] <tom> ботов опять грууж\n[16:51:18] <tom> получается почти мимо\n[16:51:27] <tom> сейчас выдали ехе .. а я его даже скачать не смог\n[16:51:44] <tom> потому что деф палит\n[16:51:58] <tom> и сразу удаляет его"
+    },
+    "2021-09-13T07:59:59.791143": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    }
+}

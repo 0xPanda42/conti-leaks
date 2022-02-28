@@ -1,0 +1,37 @@
+{
+    "2021-07-09T16:48:12.731037": {
+        "src": "netman@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет!) от реверс по нетсапу"
+    },
+    "2021-07-09T16:48:19.865724": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "netman@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-07-09T16:48:26.380595": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "netman@q3mcco35auwcstmt.onion",
+        "body": "Рад услышать"
+    },
+    "2021-07-09T16:49:41.374876": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "netman@q3mcco35auwcstmt.onion",
+        "body": "У нас такая задача. Есть мак ос и есть бекдор для мака. Он умет запускать питон скрипты и баш скрипты. Клиент просит средство, чтобы ходить по сетям. Можешь помочь?"
+    },
+    "2021-07-16T07:28:39.479544": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "netman@q3mcco35auwcstmt.onion",
+        "body": "Добрый день."
+    },
+    "2021-07-16T10:30:35.477626": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "netman@q3mcco35auwcstmt.onion",
+        "body": "Добрый день."
+    },
+    "2021-08-03T08:59:02.726928": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "netman@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    }
+}

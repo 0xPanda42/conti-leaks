@@ -1,0 +1,9 @@
+{
+    "2021-02-03T17:49:18.499555": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "sharn@q3mcco35auwcstmt.onion",
+        "body": "привет как дела?",
+        "body_fr": "Bonjour comment vas-tu?",
+        "body_en": "Hello how are you?"
+    }
+}

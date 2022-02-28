@@ -1,0 +1,52 @@
+##################################################
+Conversation between:
+	- kramer@q3mcco35auwcstmt.onion
+	- steller@q3mcco35auwcstmt.onion
+5 messages
+first: 2021-03-15T14:47:04.195923
+last:  2021-03-15T14:48:30.242927
+##################################################
+
+2021-03-15T14:47:04.195923  kramer@q3mcco35auwcstmt.onion
+	[ru] 50$+550 баксов (пример ответа: 10$)
+	[en] $ 50 + 550 bucks (an example of an answer: $ 10)
+	[fr] 50 $ + 550 dollars (un exemple de réponse: 10 $)
+
+2021-03-15T14:47:27.734204  steller@q3mcco35auwcstmt.onion
+	[ru] 600$
+	[en] 600 $
+	[fr] 600 $
+
+2021-03-15T14:47:28.951335  kramer@q3mcco35auwcstmt.onion
+	[ru] Congratulations! Now you can chat!
+	[en] CONGRATULATIONS!NOW YOU CHAT!
+	[fr] TOUTES NOS FÉLICITATIONS!Maintenant tu bavards!
+
+2021-03-15T14:48:23.521583  steller@q3mcco35auwcstmt.onion
+	[ru] Привет.
+	[en] Hello.
+	[fr] Salut.
+
+2021-03-15T14:48:30.242927  steller@q3mcco35auwcstmt.onion
+	[ru] Мне вот это пришло.
+rdp rdp://SERVER-AGM\ella:!QA@WS#ED4rfv@5.141.22.50
+
+ftp://himemsys:antiDen4ik@@188.93.130.254
+
+вот так обычно попадаются в логах
+[19:15:17] <kramer> любой стилер тянет рдп и ссш акки
+	[en] I came here.
+RDP RDP: // Server-Agm \ ELLA :! QA @ WS # ED4RFV @ 5.141.22.50
+
+FTP: // Himemsys: Antiden4ik @@ 188.93.130.254
+
+This is how usually come across logs.
+[19:15:17] <Kramer> any styler pulls RDP and SSS AKKI
+	[fr] Je suis venu ici.
+RDP RDP: // Server-AGM \ Ella :! QA @ WS # ED4RFV @ 5.141.22.50
+
+FTP: // Himemsys: antiden4ik @@ 188.93.130.254
+
+C'est ainsi que rencontrez habituellement des bûches.
+[19:15:17] <kramer> n'importe quel styler tire RDP et SSS AKKI
+

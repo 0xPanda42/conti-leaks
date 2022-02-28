@@ -1,0 +1,32 @@
+{
+    "2021-08-03T12:22:25.941535": {
+        "src": "rozetka@q3mcco35auwcstmt.onion",
+        "dst": "rand@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-08-04T10:31:30.885481": {
+        "src": "rozetka@q3mcco35auwcstmt.onion",
+        "dst": "rand@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-08-04T10:31:32.408552": {
+        "src": "rand@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "1+1=?"
+    },
+    "2021-08-04T13:15:14.526833": {
+        "src": "rand@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "1+1=?"
+    },
+    "2021-08-04T13:16:41.099171": {
+        "src": "rozetka@q3mcco35auwcstmt.onion",
+        "dst": "rand@q3mcco35auwcstmt.onion",
+        "body": "2"
+    },
+    "2021-08-04T13:16:42.280562": {
+        "src": "rand@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "1+1=?"
+    }
+}

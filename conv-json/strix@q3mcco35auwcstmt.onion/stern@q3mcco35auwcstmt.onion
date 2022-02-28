@@ -1,0 +1,236 @@
+{
+    "2021-04-07T15:57:58.400398": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-07T15:58:06.110464": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "по поводу blockchain storage работаешь?",
+        "body_fr": "Sur le travail de stockage de blockchain?",
+        "body_en": "About Blockchain Storage Work?"
+    },
+    "2021-05-01T05:23:46.283640": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "Привет как у тебя дела?"
+    },
+    "2021-05-01T05:23:49.095919": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "ты чем занимаешься ?"
+    },
+    "2021-05-06T06:56:11.583129": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "отлично"
+    },
+    "2021-05-06T06:56:16.584362": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "я почитал"
+    },
+    "2021-05-06T06:56:41.552881": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "мне понравилось"
+    },
+    "2021-05-06T06:56:56.703366": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "самый лучший это filecoin  и sia?"
+    },
+    "2021-05-13T17:17:45.608161": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "ты тут?"
+    },
+    "2021-05-13T17:17:48.834195": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "нужно ответить срочно на вопрос"
+    },
+    "2021-06-05T20:50:23.988363": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "Привет ты как"
+    },
+    "2021-06-05T20:50:25.571255": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "чем занят?"
+    },
+    "2021-06-05T20:50:28.667240": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "я прочитал твой отчет"
+    },
+    "2021-06-05T20:50:30.437787": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "по блокчейну"
+    },
+    "2021-06-08T09:31:51.578835": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-16T14:37:35.194981": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "Привет как дела у тебя? мы бекапы сделали на sia?"
+    },
+    "2021-06-16T18:48:40.384168": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "hi."
+    },
+    "2021-06-16T18:52:11.589298": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Была проблема с зависанием демона sia. Т.е., он запустился, и через  некоторое время перестает отвечать на RPC http-запросы. Вроде, починилось полным удалением всех файлов и renter data (контракты и прочие данные). Я их пересоздал, вроде, перестало виснуть. Еще надо чуть подпилить скрипт бекапа, чтобы при неудачной попытке заливки на сервер бекапов он пытался залить снова."
+    },
+    "2021-06-16T18:53:30.087814": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Вообще, пока не очень надежно. Была идея сделать два сервера бекапов, чтоб один был резервный, и чтобы в случае, если надо все стереть, можно было бы восстановить со второго."
+    },
+    "2021-06-16T18:54:33.100804": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "А так пока даже сами разработчики считают, что Sia не подходит пока в качестве единственного места для бекапов."
+    },
+    "2021-06-16T18:54:51.836012": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "У меня пока в тестовом режиме три сервера бекапятся на Sia."
+    },
+    "2021-06-17T19:45:57.249997": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "hi."
+    },
+    "2021-06-17T19:45:57.250730": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Была проблема с зависанием демона sia. Т.е., он запустился, и через  некоторое время перестает отвечать на RPC http-запросы. Вроде, починилось полным удалением всех файлов и renter data (контракты и прочие данные). Я их пересоздал, вроде, перестало виснуть. Еще надо чуть подпилить скрипт бекапа, чтобы при неудачной попытке заливки на сервер бекапов он пытался залить снова."
+    },
+    "2021-06-17T19:45:57.251869": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Вообще, пока не очень надежно. Была идея сделать два сервера бекапов, чтоб один был резервный, и чтобы в случае, если надо все стереть, можно было бы восстановить со второго."
+    },
+    "2021-06-17T19:45:57.252439": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "А так пока даже сами разработчики считают, что Sia не подходит пока в качестве единственного места для бекапов."
+    },
+    "2021-06-17T19:45:57.254585": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "У меня пока в тестовом режиме три сервера бекапятся на Sia."
+    },
+    "2021-06-17T19:47:40.861392": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "понятно"
+    },
+    "2021-06-17T19:47:46.474442": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "а вобще как продвигается тема с sia?"
+    },
+    "2021-06-17T19:47:49.599297": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "они с ней работают ?"
+    },
+    "2021-06-17T20:42:15.930065": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Они -- в смысле, разработчики? Сейчас тему Skynet-а активно продвигают. Щас на ней разработчики сконцентрировались. Растет понемногу емкость сети -- уже доступно около 3000 терабайт свободного места, из которых около 900 занято."
+    },
+    "2021-06-17T20:44:06.041349": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Так что, все понемногу развивается. Хотя внекоторых местах, технология еще сыровата. Есть вероятность потерять данные. Но на мой взгляд, среди подобных технологий, разработчики Sia наиболее продвинулись. И системные требования минимальные среди конкурентов."
+    },
+    "2021-06-17T20:45:02.355713": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сегодня меня Адам на эту тему спрашивал -- думаю, вам передаст результаты разговора."
+    },
+    "2021-06-27T12:04:16.487278": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-27T12:04:39.413870": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "изучи за неделю как поднять свою экосистему типа Etherium, polkadot, binance smart chain и тд"
+    },
+    "2021-06-28T08:04:55.633541": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T08:05:17.063723": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T19:07:04.231724": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "hi"
+    },
+    "2021-06-28T19:08:04.152378": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В смысле, как сделать свой собственный блокчейн?"
+    },
+    "2021-06-28T19:08:45.207777": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это глубоко вкоде надо копаться."
+    },
+    "2021-06-28T19:12:29.560038": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Или надо сервер блокчейна Ethereum поднять, и к нему какой-то движок для кошелька, биржи, обменника прикрутить? Т.е. надо на одном из трех перечисленных блокчейнов поднять какую-то инфраструктуру, или надо сделать форк одной из них, заточить под себя? Т.е., что именно нужно, и что должно входить в эту инфраструктуру?"
+    },
+    "2021-06-28T19:16:00.291392": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Честно говоря, понятия не имею про NFT, DEFI, DEX И чем они отличаются. Знаю только, что какие-то типы токенов. Я вообще в теме блокчейнов всего только 2 последних года. Боюсь, что за неделю только очень поверхностно разберусь."
+    },
+    "2021-06-28T21:54:52.504980": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "hi"
+    },
+    "2021-06-28T21:54:52.506089": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В смысле, как сделать свой собственный блокчейн?"
+    },
+    "2021-06-28T21:54:52.506872": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это глубоко вкоде надо копаться."
+    },
+    "2021-06-28T21:54:52.507603": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Или надо сервер блокчейна Ethereum поднять, и к нему какой-то движок для кошелька, биржи, обменника прикрутить? Т.е. надо на одном из трех перечисленных блокчейнов поднять какую-то инфраструктуру, или надо сделать форк одной из них, заточить под себя? Т.е., что именно нужно, и что должно входить в эту инфраструктуру?"
+    },
+    "2021-06-28T21:54:52.508304": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Честно говоря, понятия не имею про NFT, DEFI, DEX И чем они отличаются. Знаю только, что какие-то типы токенов. Я вообще в теме блокчейнов всего только 2 последних года. Боюсь, что за неделю только очень поверхностно разберусь."
+    }
+}

@@ -1,0 +1,237 @@
+{
+    "2021-06-08T09:56:25.543650": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "я ничего не понял"
+    },
+    "2021-06-08T09:56:36.699428": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-08T09:56:55.974661": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "что то отр не включается"
+    },
+    "2021-06-08T09:57:29.288845": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ладно, без отр"
+    },
+    "2021-06-08T09:57:45.905588": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "скидывали тебе тз на фильтр"
+    },
+    "2021-06-08T09:58:11.245932": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "не готово пока?"
+    },
+    "2021-06-08T09:58:45.851655": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "привет . ничего не помню чтобы скидывали и когда ?"
+    },
+    "2021-06-08T09:59:09.941388": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "давно уже"
+    },
+    "2021-06-08T09:59:17.017847": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "блин . я хз"
+    },
+    "2021-06-08T09:59:28.326425": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "наверное забыл даже ... а напомни ?"
+    },
+    "2021-06-08T10:00:01.529691": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "В админку стучатся непонятные боты,\n нужно добавить фильтр, чтобы отсеивать таких ботов, не выдавать им конфиги (команды 23, 5) и\n команды на запуск модулей и файлов (команды 42, 43, 44, 45, 46, 47, 48, 50, 62):\n 1) по ip (можно указать конкретные ip, так и целый диапазон)\n 2) по id:\n  Kevin_W617601* - все боты, id которых начинающиеся с Kevin_W617601\n  *Kevin* - все боты, содержащие в id Kevin\n  можно указать список таких фильтров\n 3) по Version:\n \t Version < 1080\n \t Version == 1027\n \t Version != 1089\n \t Version > 1099\n 4) по Group:\n \taver*\n 5) по System:\n \tMicrosoft Windows 10 Pro\n\tMicrosoft Windows 7 Professional\n\tMicrosoft*\n\t*Microsoft*\n Данные фильтры можно группировать, например:\n  Version < 1080\n  System: *Microsoft*\n\tи т.д."
+    },
+    "2021-06-08T10:00:17.707299": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "это про леро?"
+    },
+    "2021-06-08T10:00:25.944167": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "наверное"
+    },
+    "2021-06-08T10:01:02.292858": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "ну фильтры какие-то есть там вроде"
+    },
+    "2021-06-08T10:01:27.527631": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ок, уточню у админа"
+    },
+    "2021-06-08T10:01:36.319109": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "у дефа лучше"
+    },
+    "2021-06-08T10:01:46.705915": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "да, у него"
+    },
+    "2021-06-08T10:01:54.978365": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "ладно ."
+    },
+    "2021-06-08T10:03:22.201524": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "(18:31:06) zulas@q3mcco35auwcstmt.onion/26301035891621258353120741: привет тут\n(18:42:20) defender: ага, тебе напишет драйвер, пояснишь ему как работает блокировка ок, хотим наконец то затестить\n(18:46:09) zulas@q3mcco35auwcstmt.onion/26301035891621258353120741: да хз  ) ты бы еще проснулся через 5 лет \n(18:47:59) defender: ну по коду посмотришь, тебе 5 мин вспомнить)\n(18:51:55) zulas@q3mcco35auwcstmt.onion/26301035891621258353120741: придется видимА\n \nвот 17 мая был разговор"
+    },
+    "2021-06-08T10:03:53.556156": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ок, понял, спс"
+    },
+    "2021-06-08T10:22:18.416343": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "подскажи плиз как пользоваться этими фильтрами, деф только с ip разобрался"
+    },
+    "2021-06-08T10:27:16.424154": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "пойдет ?"
+    },
+    "2021-06-08T10:27:37.774967": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "похоже, только вот как с этим разобраться"
+    },
+    "2021-06-08T10:27:47.912390": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "а что там непонятно ?"
+    },
+    "2021-06-08T10:28:05.063211": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "клиент у меня съел какие-то символы"
+    },
+    "2021-06-08T10:28:16.863192": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "в репе полное описание это есть"
+    },
+    "2021-06-08T10:28:26.923157": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "можно прау примеров именно по тз"
+    },
+    "2021-06-08T10:28:27.926630": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "1) по ip (можно указать конкретные ip, так и целый диапазон)\n2) по id:\n Kevin_W617601* - все боты, id которых начинающиеся с Kevin_W617601\n *Kevin* - все боты, содержащие в id Kevin\n можно указать список таких фильтров\n3) по Version:\n       Version < 1080\n       Version == 1027\n       Version != 1089\n       Version > 1099\n4) по Group:\n      aver*\n5) по System:\n      Microsoft Windows 10 Pro\n      Microsoft Windows 7 Professional\n      Microsoft*\n      *Microsoft*"
+    },
+    "2021-06-08T10:28:29.156173": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "#{\n  <<\"x\">> => 1,\n  <<\"y\">> => <<\"hello\">>,\n  <<\"ip\">> => { ip, <<\"162.76.2.1\">> },\n  <<\"true\">> => true\n}"
+    },
+    "2021-06-08T10:28:45.836722": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "тогда:\n\n* 1 > 2 -> false\n* x =< 2 -> true\n* 1 ++ 2 = 12 -> true\n* x ++ 2 = 12 -> true\n* x ++ 2 = 2 ++ x -> false\n* x ++ 1 = 1 ++ x -> true\n* y = \"*lo\" -> true\n* y = \"*lo*\" -> true\n* y = \"lo*\" -> false\n* !(x>1)&y=\\\"hello\\\" -> true\n* y =& [ \"*lo\", \"hel*\"] -> true\n* y =|[ \\\"lo*\\\", \\\"(hel*\\\"] -> false\n* ip ~ \\\"162.76.0.0/16\\\" -> true\n* ip !~ \\\"161.76.0.0/16\\\" -> true"
+    },
+    "2021-06-08T10:28:49.320965": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "вот все примеры"
+    },
+    "2021-06-08T10:29:02.002369": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "т.е. каждый клиент это какие-то свойства .. см выше .."
+    },
+    "2021-06-08T10:29:36.761159": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "все равно не понятно"
+    },
+    "2021-06-08T10:29:40.421959": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "и ты можешь определить правила .. если правило дает true -- то это гуд клиент, если false -- то бот. Если хотябы одно из примененных правил false - то клиент отметается"
+    },
+    "2021-06-08T10:29:49.408625": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "ну ты для начала прочитай"
+    },
+    "2021-06-08T10:29:53.892160": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "а что непонятно ) ?"
+    },
+    "2021-06-08T10:30:11.026195": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "сделай плиз неасколько примеров именно по тз"
+    },
+    "2021-06-08T10:30:26.645897": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "например Kevin_W617601* - все боты, id которых начинающиеся с Kevin_W617601"
+    },
+    "2021-06-08T10:30:46.178358": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "как это записать в твоем варианте?"
+    },
+    "2021-06-08T10:31:19.734481": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "id != \"Kevin_W617601*\""
+    },
+    "2021-06-08T10:32:03.417071": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "<<\"true\">> => true,\n<<\"false\">> => false,\n<<\"id\">> => Client#client.client_id,\n<<\"client_ver\">> => Client#client.client_ver,\n<<\"name\">> => Client#client.name,\n<<\"group\">> => Client#client.group,\n<<\"ip\">> => Client#client.ip_parsed,\n<<\"country\">> => Client#client.country,\n<<\"sys_ver\">> => Client#client.sys_ver,\n<<\"importance\">> => Client#client.importance,\n<<\"userdefined\">> => Client#client.userdefined\n\nвот доступные идентификаторы колонок"
+    },
+    "2021-06-08T10:32:38.469354": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "так нужно писать <<\"id\">> != \"Kevin_W617601*\""
+    },
+    "2021-06-08T10:32:42.805559": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "?"
+    },
+    "2021-06-08T10:32:54.370642": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "для чего <<\"id\">> ?"
+    },
+    "2021-06-08T10:33:04.208299": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "это из исходников .. просто пиши id != \" ... \""
+    },
+    "2021-06-08T10:33:26.076046": {
+        "src": "zulas@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "## Доступные идентификаторы\n\nВ настоящий момент поддерживается следующие идентификаторы полей клиента, которые могут быть вставлены в код выражения:\n\n* ```true``` - всегда ИСТИНА\n* ```false``` - всегда ЛОЖЬ\n* ```ip``` - специальный тип IP, можно матчить с помощью ~\n* ```id``` - id-клиента как текст\n* ```client_ver``` - версия клиента \n* ```name``` - имя клиента (строка)\n* ```group``` - группа клиента (строка)\n* ```ip``` - ip клиента, который был передан по команде /0/\n* ```country``` - страна клиента (строка)\n* ```sys_ver``` - версия системы (строка)\n* ```importance``` - число\n* ```userdefined``` - число"
+    },
+    "2021-06-08T10:33:29.624774": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "zulas@q3mcco35auwcstmt.onion",
+        "body": "ок, теперь вроде понятно"
+    }
+}

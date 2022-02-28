@@ -1,0 +1,17 @@
+{
+    "2021-12-02T19:52:03.701717": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "derek@q3mcco35auwcstmt.onion",
+        "body": "я ему сегодня уже сказал -- он говорит что разберется с этим"
+    },
+    "2021-12-02T19:55:13.583537": {
+        "src": "derek@q3mcco35auwcstmt.onion",
+        "dst": "strix@q3mcco35auwcstmt.onion",
+        "body": "я ему сегодня уже сказал -- он говорит что разберется с этим"
+    },
+    "2021-12-02T20:01:08.546629": {
+        "src": "strix@q3mcco35auwcstmt.onion",
+        "dst": "derek@q3mcco35auwcstmt.onion",
+        "body": "[19:52:02] <strix> я ему сегодня уже сказал -- он говорит что разберется с этим"
+    }
+}

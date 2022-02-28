@@ -1,0 +1,16 @@
+{
+    "2021-03-09T08:48:58.762815": {
+        "src": "green@q3mcco35auwcstmt.onion",
+        "dst": "q3mcco35auwcstmt.onion",
+        "body": "Перезапустите браузер",
+        "body_fr": "Relancer le navigateur",
+        "body_en": "Restart browser"
+    },
+    "2021-03-09T08:48:58.764259": {
+        "src": "q3mcco35auwcstmt.onion",
+        "dst": "green@q3mcco35auwcstmt.onion",
+        "body": "Перезапустите браузер",
+        "body_fr": "Relancer le navigateur",
+        "body_en": "Restart browser"
+    }
+}

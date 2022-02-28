@@ -1,0 +1,226 @@
+##################################################
+Conversation between:
+	- flip@q3mcco35auwcstmt.onion
+	- mango@q3mcco35auwcstmt.onion
+43 messages
+first: 2021-03-09T14:14:01.562390
+last:  2022-02-06T13:20:43.132312
+##################################################
+
+2021-03-09T14:14:01.562390  mango@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-03-09T14:14:05.861552  flip@q3mcco35auwcstmt.onion
+	[ru] Это jaime
+	[en] This is jaime
+	[fr] C'est Jaime.
+
+2021-03-09T14:14:10.329309  mango@q3mcco35auwcstmt.onion
+	[ru] свои) по контейнеру
+	[en] your) on the container
+	[fr] votre) sur le conteneur
+
+2021-03-10T11:40:38.614303  mango@q3mcco35auwcstmt.onion
+	[ru] привет бро, повтори то писал
+	[en] Hi bro, repeat it wrote
+	[fr] Salut Bro, répétez-la écrit
+
+2021-03-10T20:49:46.561125  mango@q3mcco35auwcstmt.onion
+	[ru] салют
+	[en] salute
+	[fr] saluer
+
+2021-03-10T20:49:58.968278  mango@q3mcco35auwcstmt.onion
+	[ru] надо линк в том контейнере поменять, чото умерло там у ребят
+	[en] it is necessary to change the link in that container, it died about the guys
+	[fr] Il est nécessaire de changer le lien dans ce conteneur, il est mort sur les gars
+
+2021-03-10T20:49:59.781372  mango@q3mcco35auwcstmt.onion
+	[ru] https://www.jimmecir.com/basebl/jimman.php
+	[en] <?>
+	[fr] <?>
+
+2021-03-10T20:50:03.341743  mango@q3mcco35auwcstmt.onion
+	[ru] вот актуальный
+	[en] Here is actual
+	[fr] Voici réel
+
+2021-03-13T10:05:03.817062  flip@q3mcco35auwcstmt.onion
+	[ru] Привет. Тут?
+	[en] Hello.Here?
+	[fr] Salut.Ici?
+
+2021-03-13T10:05:51.905603  flip@q3mcco35auwcstmt.onion
+	[ru] Сами файлы pdf иконки не содержат, иконку нужно указать по абсолютному пути.
+	[en] The PDF files themselves do not contain the icons, the icon must be specified in the absolute path.
+	[fr] Les fichiers PDF eux-mêmes ne contiennent pas les icônes, l'icône doit être spécifiée dans le chemin absolu.
+
+2021-03-13T10:06:50.762880  flip@q3mcco35auwcstmt.onion
+	[ru] Если ее положить на сам контейнер то мы не знаем букву на которую смонтирует контейнер винда
+	[en] If you put it on the container itself, we do not know the letter to which the Windows container mountes
+	[fr] Si vous le mettez sur le conteneur lui-même, nous ne connaissons pas la lettre à laquelle le conteneur Windows monte
+
+2021-03-13T10:07:23.897961  flip@q3mcco35auwcstmt.onion
+	[ru] Я взял иконку из edge, но если его на компе не будет то иконки не будет.
+	[en] I took the icon from EDGE, but if it is not on my computer, there will be no icon.
+	[fr] J'ai pris l'icône du bord, mais si ce n'est pas sur mon ordinateur, il n'y aura pas d'icône.
+
+2021-03-13T10:08:05.407604  flip@q3mcco35auwcstmt.onion
+	[ru] Есть стандартные наборы иконок которые всегда точно есть, например в shell32.dll
+	[en] There are standard icon sets that always definitely have, for example in shell32.dll
+	[fr] Il existe des ensembles d'icônes standard qui ont toujours définitivement, par exemple dans shell32.dll
+
+2021-03-13T10:08:22.120899  flip@q3mcco35auwcstmt.onion
+	[ru] Может возьмем от туда?
+	[en] Maybe take from there?
+	[fr] Peut-être prendre à partir de là?
+
+2021-03-13T10:08:31.936391  flip@q3mcco35auwcstmt.onion
+	[ru] https://help4windows.com/windows_7_shell32_dll.shtml
+	[en] <?>
+	[fr] <?>
+
+2021-03-13T10:09:42.760735  flip@q3mcco35auwcstmt.onion
+	[ru] Из edge я иконку выдернул, но из-за неизвестной буквы подключения контейнера получается ерунда
+	[en] From Edge I pulled out the icon, but because of the unknown letter of the container connection it turns out nonsense
+	[fr] De bord, j'ai sorti l'icône, mais à cause de la lettre inconnue de la connexion du conteneur, il s'avère absurde.
+
+2021-03-25T13:44:17.560195  mango@q3mcco35auwcstmt.onion
+	[ru] привет бро
+	[en] Hi Bro.
+	[fr] Salut frère.
+
+2021-03-25T13:44:21.303292  mango@q3mcco35auwcstmt.onion
+	[ru] есть срочное дело
+	[en] There is an urgent thing
+	[fr] Il y a une chose urgente
+
+2021-04-09T10:09:42.598931  mango@q3mcco35auwcstmt.onion
+	[ru] привет! бро я вот че подумал
+	[en] Hey!Bro I thought
+	[fr] Hé!Mon frère j'ai pensé
+
+2021-05-01T12:59:51.437865  mango@q3mcco35auwcstmt.onion
+	[ru] бро вылетел нафиг)
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T07:26:27.856274  flip@q3mcco35auwcstmt.onion
+	[ru] Привет. Нет пока Адам не выдал.
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T07:26:54.785072  mango@q3mcco35auwcstmt.onion
+	[ru] понял, я специально пишу в группе чтоб у всех на глазах это было :)
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T07:26:58.327153  mango@q3mcco35auwcstmt.onion
+	[ru] доброе утро бро)
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T07:27:05.728394  mango@q3mcco35auwcstmt.onion
+	[ru] щас пошевелю его как будет
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T07:27:19.958756  flip@q3mcco35auwcstmt.onion
+	[ru] Доброе утро. :) спасибо. :)
+	[en] <?>
+	[fr] <?>
+
+2021-05-31T18:28:30.338946  mango@q3mcco35auwcstmt.onion
+	[ru] ] <derek> DFGR%$TEwEHYE%S$R
+[21:17:11] <derek> https://privatlab.com/s/v/jjojgwD5rpunWJE58mqb
+[21:17:21] <derek> 80% валида там бро
+	[en] <?>
+	[fr] <?>
+
+2021-05-31T18:28:37.298491  mango@q3mcco35auwcstmt.onion
+	[ru] держи
+	[en] <?>
+	[fr] <?>
+
+2021-05-31T18:28:43.604872  mango@q3mcco35auwcstmt.onion
+	[ru] дерек по братски нам пачку дал
+	[en] <?>
+	[fr] <?>
+
+2021-05-31T18:29:13.252802  mango@q3mcco35auwcstmt.onion
+	[ru] чекни только перед тем как закидывать пейлоад шелл по домену\айпи чтоб не было алертов
+	[en] <?>
+	[fr] <?>
+
+2021-05-31T18:29:26.806654  mango@q3mcco35auwcstmt.onion
+	[ru] я чекаю на мх тулбоксе там блеклист есть
+	[en] <?>
+	[fr] <?>
+
+2021-05-31T18:29:55.096580  mango@q3mcco35auwcstmt.onion
+	[ru] закинь пейлоад собери контейнер с этим шеллом, или сразу с пачкой под рандомизацию
+	[en] <?>
+	[fr] <?>
+
+2021-05-31T18:30:32.793228  mango@q3mcco35auwcstmt.onion
+	[ru] если вдруг не будет детектов и все четко будет - давай к билдеру прилепим как функцию
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T11:09:22.500475  flip@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T15:00:06.473644  mango@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T15:00:09.014662  mango@q3mcco35auwcstmt.onion
+	[ru] давай дам зп бро
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T15:18:52.336709  mango@q3mcco35auwcstmt.onion
+	[ru] повтори плиз отр порезало
+	[en] <?>
+	[fr] <?>
+
+2021-07-23T10:32:07.523583  mango@q3mcco35auwcstmt.onion
+	[ru] здарова бро
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T10:48:05.347362  mango@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T10:48:07.294327  mango@q3mcco35auwcstmt.onion
+	[ru] зп нада?
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T11:07:32.078466  flip@q3mcco35auwcstmt.onion
+	[ru] Привет! :)
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T11:07:32.197655  flip@q3mcco35auwcstmt.onion
+	[ru] Конечно! :)
+	[en] <?>
+	[fr] <?>
+
+2021-11-13T20:11:08.168027  flip@q3mcco35auwcstmt.onion
+	[ru] Привет. Как самочувствие?
+	[en] <?>
+	[fr] <?>
+
+2022-02-06T13:20:43.132312  mango@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+

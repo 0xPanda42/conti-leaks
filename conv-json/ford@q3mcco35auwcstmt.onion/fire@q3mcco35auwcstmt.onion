@@ -1,0 +1,12 @@
+{
+    "2021-08-12T11:04:12.009071": {
+        "src": "ford@q3mcco35auwcstmt.onion",
+        "dst": "fire@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-08-12T11:04:12.012468": {
+        "src": "fire@q3mcco35auwcstmt.onion",
+        "dst": "ford@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

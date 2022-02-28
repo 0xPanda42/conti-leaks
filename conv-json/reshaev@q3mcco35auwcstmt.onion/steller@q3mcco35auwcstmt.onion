@@ -1,0 +1,476 @@
+{
+    "2021-03-19T07:04:15.724516": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет. Отпиши как будешь.",
+        "body_fr": "Salut.Scrèche comme toi.",
+        "body_en": "Hello.Screeching like you."
+    },
+    "2021-03-19T08:42:47.948006": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет. Отпиши как будешь.",
+        "body_fr": "Salut.Scrèche comme toi.",
+        "body_en": "Hello.Screeching like you."
+    },
+    "2021-03-19T08:45:28.993173": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Тут",
+        "body_fr": "Ici",
+        "body_en": "Here"
+    },
+    "2021-03-19T08:45:30.787749": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-19T08:45:46.414956": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Мне отскочить надо на 30 мин",
+        "body_fr": "J'ai besoin de rebondir pendant 30 minutes",
+        "body_en": "I need to bounce for 30 minutes"
+    },
+    "2021-03-19T08:47:09.745061": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Тут",
+        "body_fr": "Ici",
+        "body_en": "Here"
+    },
+    "2021-03-19T08:47:09.746269": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-19T08:47:09.748399": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Мне отскочить надо на 30 мин",
+        "body_fr": "J'ai besoin de rebondir pendant 30 minutes",
+        "body_en": "I need to bounce for 30 minutes"
+    },
+    "2021-03-24T10:24:39.684403": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет. Получилось x64 заинжектить?",
+        "body_fr": "Salut.Était-ce x64 de s'engager?",
+        "body_en": "Hello.Was it x64 to engage?"
+    },
+    "2021-03-24T10:25:16.061982": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-24T10:25:20.335411": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Я тут пока другим занят",
+        "body_fr": "Je suis là tandis que d'autres sont occupés",
+        "body_en": "I'm here while others are busy"
+    },
+    "2021-03-24T10:25:31.598996": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Сегодня вечером наверно прочекаю",
+        "body_fr": "Ce soir vole probablement probablement",
+        "body_en": "Tonight probably steal"
+    },
+    "2021-03-29T10:06:49.600355": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела?",
+        "body_fr": "Salut.Comment vas-tu?"
+    },
+    "2021-03-29T10:18:19.891762": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Привет, по pwgrab?",
+        "body_fr": "Salut, sur pwgrab?",
+        "body_en": "Hi, on Pwgrab?"
+    },
+    "2021-03-29T10:21:53.016157": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Да, ты хотел x64 потестить)"
+    },
+    "2021-03-29T10:22:04.266074": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Щас проверять буду"
+    },
+    "2021-03-29T10:22:13.034549": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Там сервак кобы накрылся новый жду",
+        "body_fr": "Il y a couvert une nouvelle attente",
+        "body_en": "There Servak Cobobes covered new waiting"
+    },
+    "2021-03-29T10:23:17.333298": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Сейчас среду пообещали скинуть тебе",
+        "body_fr": "Maintenant mercredi a promis de te jeter"
+    },
+    "2021-03-30T08:34:37.079488": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет. Тут?"
+    },
+    "2021-03-30T11:03:34.856358": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "привет да",
+        "body_fr": "salut oui",
+        "body_en": "Hi Yes"
+    },
+    "2021-03-30T11:12:07.419441": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "привет да",
+        "body_fr": "salut oui",
+        "body_en": "Hi Yes"
+    },
+    "2021-03-30T11:25:01.200817": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Проверил у себя 2 модуля. На инжекторе КС работают.\nМожешь у себя запустить?",
+        "body_fr": "Vérifié 2 modules.À l'injecteur, la COP fonctionne.\nPeux-tu courrir?",
+        "body_en": "Checked 2 modules.At the Injector, the COP works.\nCan you run?"
+    },
+    "2021-03-30T11:41:52.872443": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Проверил у себя 2 модуля. На инжекторе КС работают.\nМожешь у себя запустить?"
+    },
+    "2021-03-30T13:33:07.087535": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Тут?",
+        "body_fr": "Ici?",
+        "body_en": "Here?"
+    },
+    "2021-03-30T13:46:15.547851": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Да. Получил сообщение?",
+        "body_fr": "Oui.Reçu un message?",
+        "body_en": "Yes.Received a message?"
+    },
+    "2021-03-30T13:46:30.996288": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "[11:34:37] <steller> Привет. Тут?"
+    },
+    "2021-03-30T13:46:33.628325": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "только это"
+    },
+    "2021-03-30T13:46:48.962958": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Проверил у себя 2 модуля. На инжекторе КС работают.\nМожешь у себя запустить?"
+    },
+    "2021-03-30T13:47:11.921952": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Правки какие-то делал?"
+    },
+    "2021-03-30T13:49:59.077256": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Постоянно обновляю. Ещё параметры нужно будет добавить в модуль"
+    },
+    "2021-03-30T13:49:59.077944": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "A:\\Project\\pwgrab\\build-pwgrab\\release\\Desktop_msvc_15_0_64bit\nDowload URL:\nhttps://file.io/4Tox7KUZzbzW\nPass:\nom&emwnA_$O%w5pitqE>"
+    },
+    "2021-03-30T13:51:25.337150": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Ага ща проверю",
+        "body_fr": "Yehcha Check",
+        "body_en": "Yehcha check"
+    },
+    "2021-04-01T10:03:11.120373": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет. Тут обновления по модулю есть.",
+        "body_fr": "Salut.Il y a une mise à jour du module ici.",
+        "body_en": "Hello.There is a module update here."
+    },
+    "2021-04-01T10:03:23.371487": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Можешь кое-что добавить?",
+        "body_fr": "Pouvez-vous ajouter quelque chose?",
+        "body_en": "Can you add something?"
+    },
+    "2021-04-01T10:53:57.780269": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-01T10:54:00.433654": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Да, что?",
+        "body_fr": "Oui quoi?",
+        "body_en": "Yes, what?"
+    },
+    "2021-04-01T10:55:48.674291": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Вот добавил:",
+        "body_fr": "Ici j'ai ajouté:",
+        "body_en": "Here I added:"
+    },
+    "2021-04-01T10:55:53.604580": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Собираемые приложения можно передавать модулю через командную строку:\n-f <output file>\n-a <grabbed app>[,<...>...]\\r\\n\");\napps: Firefox, Chrome, IE, Edge, Outlook, Filezila, WinSCP, VNC, RDP, Putty,\n      TeamViewer, Precious, Git, OpenVPN, OpenSSH, KeePass, AnyConnect, RDCMan\nПример: -f out.txt -a chrome,winscp",
+        "body_fr": "Les applications à camage peuvent être transférées sur le module via la ligne de commande:\n-f <fichier de sortie>\n-a <Application saisie> [, <...> ...] \\ r \\ n \");\nApps: Firefox, Chrome, IE, Edge, Outlook, FileZila, WINSCP, VNC, RDP, PUTTY,\n      TeamViewer, Précieux, Git, OpenVPN, Openssh, Keepass, AnyConnect, RDCMAN\nExemple: -f out.txt -a chrome, winscp",
+        "body_en": "Cameable applications can be transferred to the module via the command line:\n-f <Output File>\n-a <grabbed app> [, <...> ...] \\ r \\ n \");\nApps: Firefox, Chrome, IE, Edge, Outlook, Filezila, WinScp, VNC, RDP, Putty,\n      TeamViewer, Precious, Git, OpenVPN, OpenSsh, Keepass, AnyConnect, Rdcman\nExample: -f Out.txt -a Chrome, WinScp"
+    },
+    "2021-04-01T10:57:24.985336": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Вот обёртка:\n  const int CmdLineSize = 200;\n  char *CmdLine = (LPBYTE)HeapAlloc(GetProcessHeap(), 0, CmdLineSize);\n  CmdLine[0] = 0;\n  for(int i = 2; i < argc; i++)\n  {\n    strcat_s(CmdLine, CmdLineSize, argv[i]);\n    if(i < argc - 1) strcat_s(CmdLine, CmdLineSize, \" \");\n  }\ns((HWND)&OutputData, (HINSTANCE)&OutputSize, CmdLine, SW_MAX + 1);",
+        "body_fr": "Voici l'enveloppe:\n  Const int cmdlinesize = 200;\n  char * cmdline = (lpbyte) healhaloc (getProcessheap (), 0, cmdlinesize);\n  Cmdline [0] = 0;\n  pour (int i = 2; i <argc; i ++)\n  {\n    strcat_s (cmdline, cmdlinesize, argv [i]);\n    if (i <argc - 1) strcat_s (cmdline, cmdlinesize, \"\");\n  }\nS ((HWND) & OutputData, (hinstance) et sortie, CMDLINE, SW_MAX + 1);",
+        "body_en": "Here is the wrapper:\n  Const int cmdlinesize = 200;\n  char * cmdline = (LpByte) HeaPalloc (getProcessHeap (), 0, cmdlinesize);\n  Cmdline [0] = 0;\n  for (int i = 2; i <argc; i ++)\n  {\n    strcat_s (cmdline, cmdlinesize, argv [i]);\n    if (i <argc - 1) strcat_s (cmdline, cmdlinesize, \"\");\n  }\ns ((hwnd) & outputdata, (hinstance) & outputsize, cmdline, SW_MAX + 1);"
+    },
+    "2021-04-01T11:04:35.104861": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Ок",
+        "body_fr": "d'accord",
+        "body_en": "OK"
+    },
+    "2021-04-01T11:04:38.076426": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Сделаю сейчас",
+        "body_fr": "Je vais faire maintenant",
+        "body_en": "I will do now"
+    },
+    "2021-04-01T11:14:21.654597": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Это готово уже у тебя?",
+        "body_fr": "Est-ce prêt pour vous?",
+        "body_en": "Is it ready for you?"
+    },
+    "2021-04-01T11:15:41.213865": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Скинь мне тогда модуль если готово, у меня уже передача аргументов реализована просто передать надо в твою функцию",
+        "body_fr": "Jette-moi alors le module si vous êtes prêt, j'ai déjà le transfert d'arguments mis en œuvre simplement pour transférer à votre fonction",
+        "body_en": "Throw me then the module if you are ready, I already have the transfer of arguments implemented simply to transfer to your function"
+    },
+    "2021-04-01T11:36:20.959265": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "С обновлением:\nA:\\Project\\pwgrab\\Bin\\publish\\sg1.4.2021\nDowload URL:\nhttps://file.io/0FRsvyxDS51A\nPass:\n(YY%DIA1GsC^N_m&nE3)",
+        "body_fr": "Avec mise à jour:\nA: \\ Project \\ pwgrab \\ bin \\ Publier \\ SG1.4.2021\nURL de téléchargement:\nhttps://file.io / 0frsvyxds51a.\nPASSE:\n(YY% DIA1GSC ^ N_M & NE3)",
+        "body_en": "With update:\nA: \\ PROJECT \\ PWGRAB \\ BIN \\ PUBLISH \\ SG1.4.2021\nDOWLOAD URL:\nhttps://file.io /0frsvyxds51a.\nPASS:\n(YY% DIA1GSC ^ N_M & NE3)"
+    },
+    "2021-04-01T11:36:52.775492": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "А слушай",
+        "body_fr": "Enfoncer",
+        "body_en": "And listen"
+    },
+    "2021-04-01T11:37:28.635564": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "А хотя ни чего",
+        "body_fr": "Et bien rien",
+        "body_en": "And although nothing"
+    },
+    "2021-04-01T11:39:00.059526": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Если что пиши. Там много модулей выбери нужные.",
+        "body_fr": "Si vous écrivez.Il y a beaucoup de modules choisissez le souhaité.",
+        "body_en": "If you write.There are many modules choose the desired."
+    },
+    "2021-04-01T11:39:52.844574": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "А тебя не затруднит в utf 16 cmdline сделать?",
+        "body_fr": "Est-ce que vous ne rendez-vous pas difficile à vous faire dans UTF 16 cmdline?",
+        "body_en": "Doesn't you make it difficult to do you in UTF 16 cmdline?"
+    },
+    "2021-04-01T11:42:20.288979": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Можно, в принципе. А rundll32 тоже будет в u16 передавать? Скорее всего нужно сделать как там, т.к. модуль по-разному запускается.",
+        "body_fr": "C'est possible en principe.Et Rundll32 transmettra également en U16?Très probablement, vous devez faire comme là, carLe module est déclenché différemment.",
+        "body_en": "It is possible in principle.And Rundll32 will also transmit in u16?Most likely you need to do as there, becauseThe module is triggered differently."
+    },
+    "2021-04-01T11:57:04.949589": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Чёт не нашёл чтобы WCHAR* в rundll32 передавалось",
+        "body_fr": "Même je n'ai pas trouvé Wcharn * à Rundll32 passa",
+        "body_en": "Even I did not find WCHAR * in Rundll32 passed"
+    },
+    "2021-04-01T12:25:11.988016": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Можно regsvr32 юзать там wchar",
+        "body_fr": "CAN REGSVR32 peut-il utiliser WCHAR",
+        "body_en": "Can REGSVR32 use there wchar"
+    },
+    "2021-04-01T12:27:19.337182": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Хотя в принципе я могу конвертировать в инжекторе",
+        "body_fr": "Bien que en principe je puisse convertir dans l'injecteur",
+        "body_en": "Although in principle I can convert in the injector"
+    },
+    "2021-04-01T12:31:25.727582": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Наверно проще MultiByteToWideChar сделать. Не видел, чтобы через regsvr32 запускалось. Она же на COM заточена.",
+        "body_fr": "Probablement plus facile à MultiByteTowidechark.Je n'ai pas vu qu'il est démarré via REGSVR32.Il est affûté sur com.",
+        "body_en": "Probably easier to MultibytetowideChar do.I have not seen that it is started through regsvr32.It is sharpened on COM."
+    },
+    "2021-04-01T12:46:50.031900": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Через нее так же можно любую dll запустить",
+        "body_fr": "À travers elle, vous pouvez également exécuter n'importe quelle dll",
+        "body_en": "Through it, you can also run any DLL"
+    },
+    "2021-04-01T12:47:08.502686": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Ну ладно в общем да не проблема MultiByteToWideChar сделать",
+        "body_fr": "Eh bien, bien, en général, oui pas de problème MultiByteTowidecharkarkar",
+        "body_en": "Well, well, in general, yes no problem MultibytetowideChar make"
+    },
+    "2021-04-01T13:42:18.498242": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Все работает",
+        "body_fr": "Tout fonctionne",
+        "body_en": "Everything works"
+    },
+    "2021-04-01T13:42:22.549092": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "В файл выводит",
+        "body_fr": "Dans le fichier affiche",
+        "body_en": "In the file displays"
+    },
+    "2021-04-01T13:55:29.005089": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Отлично 👍",
+        "body_fr": "Excellent",
+        "body_en": "Excellent 👍"
+    },
+    "2021-04-06T15:06:24.795363": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет.\nТут в логе pwgrab",
+        "body_fr": "Salut.\nIci dans le journal pwgrab",
+        "body_en": "Hello.\nHere in the pwgrab log"
+    },
+    "2021-04-06T15:06:28.521951": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "[+] host called home, sent: 796954 bytes",
+        "body_fr": "[+] Hôte appelé maison, envoyé: 796954 octets",
+        "body_en": "[+] Host Called Home, Sent: 796954 Bytes"
+    },
+    "2021-04-06T15:06:49.348120": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Что за байты?",
+        "body_fr": "Quoi pour les octets?",
+        "body_en": "What for bytes?"
+    },
+    "2021-04-06T16:15:52.931908": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-06T16:15:55.571414": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Это размер dll",
+        "body_fr": "C'est la taille de la dll",
+        "body_en": "This is the size of DLL"
+    },
+    "2021-04-28T10:47:32.998432": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-04-28T10:47:33.002771": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Это размер dll"
+    },
+    "2021-10-05T08:17:09.032115": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-10-05T08:17:39.097003": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Тебе какую либу нужно запаковать в ps?"
+    },
+    "2021-10-05T10:05:47.385741": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Privet"
+    },
+    "2021-10-05T10:05:56.033172": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Locker"
+    },
+    "2021-10-05T10:09:22.625799": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Тебе автоматический скрипт для запаковки сделать, или конкретную либу скинешь?"
+    },
+    "2021-10-06T11:26:25.114310": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-10-06T11:26:27.528443": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Отпиши, скину скрипт"
+    },
+    "2021-11-16T17:21:13.542086": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Какие модули"
+    },
+    "2021-11-17T07:11:51.808018": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Какие модули"
+    }
+}

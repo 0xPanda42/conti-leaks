@@ -1,0 +1,296 @@
+{
+    "2021-04-12T17:00:40.307718": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Здравствуйте , я насчет собеседования на должность системный администратор",
+        "body_fr": "Bonjour, je voudrais interviewer la position d'un administrateur système",
+        "body_en": "Hello, I about interviewing the position of a system administrator"
+    },
+    "2021-04-12T17:01:29.565219": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-12T17:01:44.075875": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "расскажи с чем работал ?",
+        "body_fr": "Dis-moi ce qui a fonctionné?",
+        "body_en": "Tell me what worked?"
+    },
+    "2021-04-12T17:01:46.989293": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "что настраивал",
+        "body_fr": "Qu'est-ce qui a mis en place",
+        "body_en": "What set up"
+    },
+    "2021-04-12T17:05:42.126646": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "организовывал рабочие места , поддержка работы внутренних ресурсов , касперский установка и обслуживание Win серверные и настольные версии , ремонт закупка сборка настройка серверных платформ, настройка сетевых хранилок , клиент банки",
+        "body_fr": "Emplois organisés, soutenant le travail des ressources nationales, Kaspersky Installation et Maintenance Win Win Server et Desktop Versions, Assemblage d'achat de réparation Configuration des plates-formes de serveur, configurez des magasins de réseau, des canettes clients",
+        "body_en": "Organized jobs, supporting the work of domestic resources, Kaspersky Installation and maintenance Win server and desktop versions, repair Purchase assembly Configuring server platforms, setting up network stores, client cans"
+    },
+    "2021-04-12T17:06:10.625870": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "актив директори поднимал ?",
+        "body_fr": "Le directeur des actifs a soulevé?",
+        "body_en": "The asset director raised?"
+    },
+    "2021-04-12T17:06:20.801847": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "мс эксчендж мс скл серверв ?",
+        "body_fr": "Exchange MS SL SL SL SL?",
+        "body_en": "MS Exchend MS SL Server?"
+    },
+    "2021-04-12T17:06:25.678812": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "файловые сервера",
+        "body_fr": "Serveurs de fichiers",
+        "body_en": "File Servers"
+    },
+    "2021-04-12T17:06:29.217994": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "насы ?",
+        "body_fr": "Nasa?",
+        "body_en": "Nasa?"
+    },
+    "2021-04-12T17:07:34.981213": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "терминальные сервера ?",
+        "body_fr": "Serveurs de terminaux?",
+        "body_en": "Terminal servers?"
+    },
+    "2021-04-12T17:07:43.452180": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "с линуксом как ?",
+        "body_fr": "Avec Linux Comment?",
+        "body_en": "With Linux How?"
+    },
+    "2021-04-12T17:08:22.397335": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "файловые да сервера насы , АД поднимал , эксчендж только на уровне заводки учеток прав и тд..  , терминальные сервера да поднимал обслуживал",
+        "body_fr": "Fichier Oui Serveurs Natus, enfer soulevé, échange uniquement au niveau des niveaux d'usine des droits, etc., serveurs terminaux Da surélevé servi",
+        "body_en": "File Yes Natus Servers, hell raised, exchend only at the level of factory levels of rights and so on., Terminal servers da raised served"
+    },
+    "2021-04-12T17:08:39.155305": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "с виртуализхацией как дела ?",
+        "body_fr": "Avec virtualisation comment allez-vous?",
+        "body_en": "With virtualization how are you?"
+    },
+    "2021-04-12T17:08:43.157772": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "гипер в ?",
+        "body_fr": "Hyper in?",
+        "body_en": "Hyper in?"
+    },
+    "2021-04-12T17:08:49.624114": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "отлично",
+        "body_fr": "Génial",
+        "body_en": "Great"
+    },
+    "2021-04-12T17:08:55.758649": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "ок",
+        "body_fr": "d'accord",
+        "body_en": "OK"
+    },
+    "2021-04-12T17:09:00.871121": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "использовал",
+        "body_fr": "Utilisé",
+        "body_en": "Used"
+    },
+    "2021-04-12T17:09:18.895184": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "так что появилось нового с введением 2008р2 сервера ? в актив диреткори",
+        "body_fr": "Alors, qu'est-ce qui est apparu avec l'introduction du serveur 2008R2?Dans l'actif de Diegecori.",
+        "body_en": "So what appeared new with the introduction of the 2008R2 server?In the asset of Diegecori."
+    },
+    "2021-04-12T17:10:19.206866": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "возможность поднять дс только для чтения",
+        "body_fr": "la capacité de soulever les DS uniquement pour lire",
+        "body_en": "the ability to lift the DS only to read"
+    },
+    "2021-04-12T17:10:24.605618": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "родс",
+        "body_fr": "Rhodes",
+        "body_en": "Rhodes"
+    },
+    "2021-04-12T17:10:27.285750": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "отлично",
+        "body_fr": "Génial",
+        "body_en": "Great"
+    },
+    "2021-04-12T17:10:34.652274": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "теневое копирование если не путаю",
+        "body_fr": "Shadow Coping si pas confus",
+        "body_en": "shadow copying if not confus"
+    },
+    "2021-04-12T17:10:44.488096": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "так а чем они отличается от обычного контроллера домена ?",
+        "body_fr": "Alors, qu'est-ce qu'ils diffèrent du contrôleur de domaine habituel?",
+        "body_en": "So what do they differ from the usual domain controller?"
+    },
+    "2021-04-12T17:11:26.794381": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "они не для записи данных и не хранят базу с инф.",
+        "body_fr": "Ils ne doivent pas enregistrer de données et ne pas stocker la base avec inf.",
+        "body_en": "They are not to record data and do not store the base with inf."
+    },
+    "2021-04-12T17:11:44.039785": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "они хеши не хранят",
+        "body_fr": "Ils ne gardent pas hasch",
+        "body_en": "they don't keep hash"
+    },
+    "2021-04-12T17:11:52.070270": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "они просто  транслируют",
+        "body_fr": "Ils diffusent simplement",
+        "body_en": "They simply broadcast"
+    },
+    "2021-04-12T17:11:56.271403": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "запросы",
+        "body_fr": "Enquête",
+        "body_en": "Inquiries"
+    },
+    "2021-04-12T17:11:59.863927": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "да",
+        "body_fr": "Oui",
+        "body_en": "Yes"
+    },
+    "2021-04-12T17:12:07.279013": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "не верно выразился",
+        "body_fr": "Pas vrai exprimé",
+        "body_en": "Not true expressed"
+    },
+    "2021-04-12T17:12:21.543820": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "так какой порт использует дефолтно в рдп ?",
+        "body_fr": "Alors, quel port utilise défaut dans le RDP?",
+        "body_en": "So what port uses default in the RDP?"
+    },
+    "2021-04-12T17:12:32.739726": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "3389",
+        "body_fr": "3389.",
+        "body_en": "3389."
+    },
+    "2021-04-12T17:12:36.630690": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "ага ок",
+        "body_fr": "Ouais ok",
+        "body_en": "Yeah Ok"
+    },
+    "2021-04-12T17:12:39.668245": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "а фтп ?",
+        "body_fr": "et ftp?",
+        "body_en": "and FTP?"
+    },
+    "2021-04-12T17:12:45.223291": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "21",
+        "body_fr": "21",
+        "body_en": "21."
+    },
+    "2021-04-12T17:12:50.431677": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "отлично",
+        "body_fr": "Génial",
+        "body_en": "Great"
+    },
+    "2021-04-12T17:13:09.664596": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "я сейчас отпишу рекрутеру что ты прошел собеседование",
+        "body_fr": "J'écris maintenant la recrue que vous avez adoptée l'interview",
+        "body_en": "I now write off the recruit that you passed the interview"
+    },
+    "2021-04-12T17:13:22.670216": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "дальше он расскажет о зарплате и обо всем",
+        "body_fr": "Puis il racontera le salaire et tout",
+        "body_en": "Then he will tell about the salary and everything"
+    },
+    "2021-04-12T17:13:31.082895": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "заработать у нас можно )",
+        "body_fr": "Nous pouvons gagner ici)",
+        "body_en": "We can earn here)"
+    },
+    "2021-04-12T17:14:05.830764": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "ок , мне тут ждать ответа и что дальше делать?",
+        "body_fr": "Ok, j'ai une réponse ici et quoi faire ensuite?",
+        "body_en": "Ok, I have a response here and what to do next?"
+    },
+    "2021-04-12T17:14:13.786482": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "все скажут",
+        "body_fr": "Tout le monde va dire",
+        "body_en": "Everyone will say"
+    },
+    "2021-04-12T17:14:21.190627": {
+        "src": "admintest@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "ок",
+        "body_fr": "d'accord",
+        "body_en": "OK"
+    },
+    "2021-04-12T17:14:29.516671": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "admintest@q3mcco35auwcstmt.onion",
+        "body": "потом сделают учетную запись и напишеш мне а дальше я дам задачи",
+        "body_fr": "puis faites un compte et écrivez-moi puis je vais donner la tâche",
+        "body_en": "then make an account and write me and then I will give the task"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "2021-07-06T13:59:39.943791": {
+        "src": "driver@q3mcco35auwcstmt.onion",
+        "dst": "zevs@3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-07-06T13:59:39.972599": {
+        "src": "zevs@3mcco35auwcstmt.onion",
+        "dst": "driver@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    }
+}

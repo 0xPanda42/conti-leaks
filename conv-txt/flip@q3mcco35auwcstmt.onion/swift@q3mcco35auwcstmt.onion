@@ -1,0 +1,19 @@
+##################################################
+Conversation between:
+	- flip@q3mcco35auwcstmt.onion
+	- swift@q3mcco35auwcstmt.onion
+2 messages
+first: 2021-12-03T17:43:10.112484
+last:  2021-12-03T17:44:14.966070
+##################################################
+
+2021-12-03T17:43:10.112484  flip@q3mcco35auwcstmt.onion
+	[ru] Привет! А не знаешь из за чего может быть падение в memmove MoveSmall amd64 VisualStudio?
+	[en] <?>
+	[fr] <?>
+
+2021-12-03T17:44:14.966070  flip@q3mcco35auwcstmt.onion
+	[ru] Все аргументы проверил все ок. При замене на memmove_s все ок
+	[en] <?>
+	[fr] <?>
+

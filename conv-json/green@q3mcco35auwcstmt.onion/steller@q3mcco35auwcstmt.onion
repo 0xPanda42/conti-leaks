@@ -1,0 +1,12 @@
+{
+    "2021-10-04T06:05:09.696349": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "green@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-10-04T06:05:23.957008": {
+        "src": "green@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    }
+}

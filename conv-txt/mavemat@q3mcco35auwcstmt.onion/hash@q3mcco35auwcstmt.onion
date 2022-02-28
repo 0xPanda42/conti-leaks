@@ -1,0 +1,104 @@
+##################################################
+Conversation between:
+	- hash@q3mcco35auwcstmt.onion
+	- mavemat@q3mcco35auwcstmt.onion
+19 messages
+first: 2021-01-30T22:10:17.961491
+last:  2021-08-19T15:36:10.577267
+##################################################
+
+2021-01-30T22:10:17.961491  hash@q3mcco35auwcstmt.onion
+	[ru] Привет. Мне нужно в очень кротчайшие сроки прикрутить в раздел резольва возможность импорта акков из bad
+	[en] Hello.I need to fasten the possibility of importing accomes from Bad to the resolution
+	[fr] Salut.J'ai besoin de fixer la possibilité d'importer des accoms de mauvais à la résolution
+
+2021-01-30T22:12:12.760129  hash@q3mcco35auwcstmt.onion
+	[ru] Я заметил одну особенность. С 25 до 29 % большая часть акков начинает лететь в bad. Хотя, при этом. До 25-29% большая часть акков, как раз так и, идет в good. Может быть это какая-то особенность самого софта и акки реально невалид, но хочу проверить это иным способом
+	[en] I noticed one feature.From 25 to 29%, most accommodates start to fly to Bad.Although, while.Up to 25-29% most of the accommodation, just so, goes to Good.Maybe this is some kind of special feature of the software itself and accommodation is really notad, but I want to check it in a different way
+	[fr] J'ai remarqué une caractéristique.De 25 à 29%, la plupart des pouvoirs commencent à voler au mauvais.Bien que, bien que.Jusqu'à 25-29% la plupart des logements, tout à fait, vont bien.Peut-être que ceci est une sorte de particularité du logiciel lui-même et l'hébergement est vraiment notade, mais je veux vérifier de manière différente
+
+2021-01-30T22:15:33.896200  hash@q3mcco35auwcstmt.onion
+	[ru] Складывается впечатление, что софт, отвечающий за резольв, в первую очередь обрабатывает валидные и "жирные" акки, оставляя весь хлам на потом. При этом, из того, что на потом осталось, все равно понемногу появляются валидные акки с уникальными мылами на них. Тогда вопрос в том, как это делает софт
+	[en] It seems that the software responsible for the resolve first turns the valid and "fatty" akki, leaving all the trash to then.At the same time, from the fact that, then it remains, all the same, gradually appear valid accomes with unique soaps on them.Then the question is how the software does
+	[fr] Il semble que le logiciel responsable de la résolution tourne d'abord les Akki valides et "gras", laissant toute la corbeille à alors.Dans le même temps, du fait que, alors il reste, tout de même, apparaissent progressivement s'accomplir avec des savons uniques sur eux.Alors la question est la suivante: comment le logiciel fait
+
+2021-01-30T22:16:00.475696  hash@q3mcco35auwcstmt.onion
+	[ru] Это было на всех без исключения тасках
+	[en] It was at all without exception
+	[fr] C'était du tout sans exception
+
+2021-02-01T08:20:08.533069  hash@q3mcco35auwcstmt.onion
+	[ru] Привет. Мне нужно в очень кротчайшие сроки прикрутить в раздел резольва возможность импорта акков из bad
+	[en] Hello.I need to fasten the possibility of importing accomes from Bad to the resolution
+	[fr] Salut.J'ai besoin de fixer la possibilité d'importer des accoms de mauvais à la résolution
+
+2021-02-01T08:20:08.534696  hash@q3mcco35auwcstmt.onion
+	[ru] Я заметил одну особенность. С 25 до 29 % большая часть акков начинает лететь в bad. Хотя, при этом. До 25-29% большая часть акков, как раз так и, идет в good. Может быть это какая-то особенность самого софта и акки реально невалид, но хочу проверить это иным способом
+	[en] I noticed one feature.From 25 to 29%, most accommodates start to fly to Bad.Although, while.Up to 25-29% most of the accommodation, just so, goes to Good.Maybe this is some kind of special feature of the software itself and accommodation is really notad, but I want to check it in a different way
+	[fr] J'ai remarqué une caractéristique.De 25 à 29%, la plupart des pouvoirs commencent à voler au mauvais.Bien que, bien que.Jusqu'à 25-29% la plupart des logements, tout à fait, vont bien.Peut-être que ceci est une sorte de particularité du logiciel lui-même et l'hébergement est vraiment notade, mais je veux vérifier de manière différente
+
+2021-02-01T08:20:08.535962  hash@q3mcco35auwcstmt.onion
+	[ru] Складывается впечатление, что софт, отвечающий за резольв, в первую очередь обрабатывает валидные и "жирные" акки, оставляя весь хлам на потом. При этом, из того, что на потом осталось, все равно понемногу появляются валидные акки с уникальными мылами на них. Тогда вопрос в том, как это делает софт
+	[en] It seems that the software responsible for the resolve first turns the valid and "fatty" akki, leaving all the trash to then.At the same time, from the fact that, then it remains, all the same, gradually appear valid accomes with unique soaps on them.Then the question is how the software does
+	[fr] Il semble que le logiciel responsable de la résolution tourne d'abord les Akki valides et "gras", laissant toute la corbeille à alors.Dans le même temps, du fait que, alors il reste, tout de même, apparaissent progressivement s'accomplir avec des savons uniques sur eux.Alors la question est la suivante: comment le logiciel fait
+
+2021-02-01T08:20:08.536638  hash@q3mcco35auwcstmt.onion
+	[ru] Это было на всех без исключения тасках
+	[en] It was at all without exception
+	[fr] C'était du tout sans exception
+
+2021-02-01T08:22:25.397173  mavemat@q3mcco35auwcstmt.onion
+	[ru] Привет, Dumps accounts -> Without all
+	[en] Hi, Dumps Accounts -> Wort All All
+	[fr] Salut, Dumps Comptes -> Mélanger tous tous
+
+2021-02-01T08:31:27.681705  hash@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] Hey
+	[fr] Hé
+
+2021-02-01T08:32:14.542933  hash@q3mcco35auwcstmt.onion
+	[ru] Таким образом будут импортированны только из bad? В Uniq mails count при этом что выбрать? Any?
+	[en] So only from Bad will be imported?In Uniq Mails Count, what to choose?Any?
+	[fr] Donc, seulement de mauvaises seront importés?Dans les mails UNIQ, ce qu'il faut choisir?Quelconque?
+
+2021-02-01T08:34:21.639065  mavemat@q3mcco35auwcstmt.onion
+	[ru] Да Any
+	[en] Yes Any.
+	[fr] Oui tout.
+
+2021-03-01T13:13:46.229140  mavemat@q3mcco35auwcstmt.onion
+	[ru] привет, черкани как онлайн будешь
+	[en] Hi, Cherkani how to online you
+	[fr] Salut, cherkani comment vous en ligne
+
+2021-03-02T08:38:22.049212  mavemat@q3mcco35auwcstmt.onion
+	[ru] привет, черкани как онлайн будешь
+	[en] Hi, Cherkani how to online you
+	[fr] Salut, cherkani comment vous en ligne
+
+2021-07-01T10:51:18.350954  hash@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] <?>
+	[fr] <?>
+
+2021-07-01T10:51:24.758142  hash@q3mcco35auwcstmt.onion
+	[ru] Отпиши, как в сети будешь
+	[en] <?>
+	[fr] <?>
+
+2021-07-01T12:58:36.656802  hash@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] <?>
+	[fr] <?>
+
+2021-07-01T12:58:36.663762  hash@q3mcco35auwcstmt.onion
+	[ru] Отпиши, как в сети будешь
+	[en] <?>
+	[fr] <?>
+
+2021-08-19T15:36:10.577267  mavemat@q3mcco35auwcstmt.onion
+	[ru] ПРивет
+	[en] <?>
+	[fr] <?>
+

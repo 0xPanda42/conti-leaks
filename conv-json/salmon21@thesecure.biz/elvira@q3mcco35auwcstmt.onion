@@ -1,0 +1,12 @@
+{
+    "2022-01-13T13:13:53.726973": {
+        "src": "elvira@q3mcco35auwcstmt.onion",
+        "dst": "salmon21@thesecure.biz",
+        "body": "тест"
+    },
+    "2022-01-13T13:13:54.530443": {
+        "src": "salmon21@thesecure.biz",
+        "dst": "elvira@q3mcco35auwcstmt.onion",
+        "body": "тест"
+    }
+}

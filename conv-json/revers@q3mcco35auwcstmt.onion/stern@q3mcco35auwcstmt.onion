@@ -1,0 +1,741 @@
+{
+    "2021-02-02T20:54:58.585401": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-19T13:30:12.396635": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-19T13:30:25.305677": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "спишись с думсом, у него там на закрепе висят компании новые, от таргета",
+        "body_fr": "Gonfle avec dums, il a une nouvelle entreprise, de la cible",
+        "body_en": "Swells with Dums, he has a new company, from Target"
+    },
+    "2021-02-19T13:30:29.580855": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "давай за выхи их отработаем",
+        "body_fr": "Travaillons pour le vice",
+        "body_en": "Let's work for the vice"
+    },
+    "2021-02-19T13:37:37.065088": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "здарова",
+        "body_fr": "salut toi",
+        "body_en": "Hey Ya"
+    },
+    "2021-02-19T13:37:41.713919": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "без проблем",
+        "body_fr": "aucun problème",
+        "body_en": "no problem"
+    },
+    "2021-02-19T13:37:59.674585": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "у меня как раз руки есть свободные )",
+        "body_fr": "J'ai juste des mains libres)",
+        "body_en": "I just have hands free)"
+    },
+    "2021-02-19T13:38:05.701630": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "кстати парни уже натаскались",
+        "body_fr": "Au fait, les gars ont déjà couru",
+        "body_en": "By the way, guys already ran"
+    },
+    "2021-02-19T13:38:11.853653": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "стакана помнишь ?",
+        "body_fr": "Des bâtons se souviennent?",
+        "body_en": "Sticks remember?"
+    },
+    "2021-02-19T13:38:16.227615": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "новенького",
+        "body_fr": "Nouveau",
+        "body_en": "new"
+    },
+    "2021-02-19T13:40:21.665241": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "спун сонар  еще",
+        "body_fr": "Sonar dos",
+        "body_en": "Sonar back"
+    },
+    "2021-02-19T13:40:31.466048": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "по их сети щас переговоры ведем о выплате",
+        "body_fr": "sur leur réseau en ce qui concerne maintenant les négociations sur le paiement de",
+        "body_en": "on their network right now negotiations are about paying"
+    },
+    "2021-02-19T13:43:55.359269": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "оо отлично",
+        "body_fr": "Oo excellent",
+        "body_en": "OO excellent"
+    },
+    "2021-02-19T13:43:57.814354": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "это как раз наемники",
+        "body_fr": "C'est juste des mercenaires",
+        "body_en": "it's just mercenaries"
+    },
+    "2021-02-19T13:44:04.443514": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "они уже норм работают ?",
+        "body_fr": "Est-ce qu'ils travaillent déjà des normes?",
+        "body_en": "Do they already work norms?"
+    },
+    "2021-02-19T13:44:14.812868": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "если с ними будет успех мы еще человек 10 из сети возьмем новых",
+        "body_fr": "Si nous réussissons avec eux, nous avons toujours un homme 10 du réseau. Prendre de nouvelles",
+        "body_en": "If we are successful with them, we still have a man 10 from the network. Take new"
+    },
+    "2021-02-19T13:44:16.307911": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "админов",
+        "body_fr": "Adminov",
+        "body_en": "Adminov"
+    },
+    "2021-02-19T13:44:25.984240": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "dandis@",
+        "body_fr": "Dandis @",
+        "body_en": "Dandis @"
+    },
+    "2021-02-19T13:44:27.386602": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "да",
+        "body_fr": "Oui",
+        "body_en": "Yes"
+    },
+    "2021-02-19T13:44:27.702662": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "вот добавь",
+        "body_fr": "Voici ajouté",
+        "body_en": "Here is added"
+    },
+    "2021-02-19T13:44:32.802932": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "он тебе перекинет корпов ща",
+        "body_fr": "Il renforcera votre corps",
+        "body_en": "He will reinforce your corps"
+    },
+    "2021-02-19T13:44:34.839065": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ну спун уже получал выплаты",
+        "body_fr": "Eh bien, Stentered a déjà reçu des paiements",
+        "body_en": "Well, stentered already received payments"
+    },
+    "2021-02-19T13:44:35.370063": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "у него много свободных",
+        "body_fr": "il a beaucoup de libre",
+        "body_en": "he has a lot of free"
+    },
+    "2021-02-19T13:44:39.866681": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "о отлично",
+        "body_fr": "Oh génial",
+        "body_en": "Oh great"
+    },
+    "2021-02-19T13:44:40.862326": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "а спун когда ?",
+        "body_fr": "et quand?",
+        "body_en": "and when?"
+    },
+    "2021-02-19T13:44:52.855214": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "а давно еще в том году он участвовал",
+        "body_fr": "Et il y a longtemps, il a participé à cette année",
+        "body_en": "And long ago, he participated in that year"
+    },
+    "2021-02-19T13:44:59.383244": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "там и спун и брад получал",
+        "body_fr": "là et canapé et brid a reçu",
+        "body_en": "there and sofa and brid received"
+    },
+    "2021-02-19T13:45:32.979847": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "я же доделываю им стенд для тренировки",
+        "body_fr": "Je termine la cabine pour la formation",
+        "body_en": "I finish the booth for training"
+    },
+    "2021-02-19T13:45:48.630011": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ну и я еще бекдор сделал на сснове легитиммного софта",
+        "body_fr": "Eh bien, j'ai toujours un porte-backdoor basé sur un logiciel légitime",
+        "body_en": "Well, I still have a backdoor based on legitimate software"
+    },
+    "2021-02-19T13:45:58.722771": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "щас как раз гонять его на рантайм будем",
+        "body_fr": "en ce moment juste le conduire tôt",
+        "body_en": "right now just drive it on early"
+    },
+    "2021-02-19T13:46:05.322766": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "с бантлей",
+        "body_fr": "Avec Bantley",
+        "body_en": "With Bantley"
+    },
+    "2021-02-19T13:46:21.523127": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "что то типо промежуточного закрепа",
+        "body_fr": "Quelque chose comme un écrans intermédiaire",
+        "body_en": "Something like an intermediate screens"
+    },
+    "2021-02-19T13:46:44.667833": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "потому что сети отваливаются иногда а тот который у альтера палить не хочется на точках входа",
+        "body_fr": "Parce que les réseaux tombent parfois et celui que Altera ne veut pas tomber sur",
+        "body_en": "Because the networks sometimes fall off and the one that Altera doesn't want to fall on"
+    },
+    "2021-02-19T13:46:54.986418": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "тим вивер прогу помнишь",
+        "body_fr": "Tim Viver PROG Rappelez-vous",
+        "body_en": "Tim Viver Prog remember"
+    },
+    "2021-02-19T13:47:10.144699": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "вот на его аналоге сделали",
+        "body_fr": "ici sur son analogique a fait",
+        "body_en": "here on his analog did"
+    },
+    "2021-02-19T13:47:22.609565": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "я как дотестим покажу рантайм",
+        "body_fr": "Je vais montrer le dernier chemin",
+        "body_en": "I'll show the early way"
+    },
+    "2021-02-19T13:48:22.493185": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "лабу для новенькихя  развернул поднастроить осталось только ну ман накатать",
+        "body_fr": "Laba pour de nouveaux nouveaux se sont déroulés de pousser le seul homme à rouler",
+        "body_en": "Laba for new ones unfolded to push the remained only man to roll"
+    },
+    "2021-02-19T13:48:28.293779": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "им учится легче будет",
+        "body_fr": "Ils ont appris plus facilement",
+        "body_en": "they learned more easily"
+    },
+    "2021-02-19T13:49:29.418412": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "списался с думсом",
+        "body_fr": "Il a écrit avec dums",
+        "body_en": "He wrote off with Dums"
+    },
+    "2021-02-19T13:49:46.080367": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "я отойду на час и буду долбить корпов  там как раз парни подтянутся",
+        "body_fr": "Je vais partir pendant une heure et je vais battre les caresses là-bas, les gars vont rattraper",
+        "body_en": "I'll go away for an hour and I will beat the corts there just the guys will catch up"
+    },
+    "2021-02-19T14:13:44.883957": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "ага типа рата",
+        "body_fr": "Ouais Type Rata.",
+        "body_en": "Yeah Type Rata."
+    },
+    "2021-02-20T15:48:44.195373": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-20T15:49:01.287169": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "испытаниями рата я доволен )тестили с бентли",
+        "body_fr": "Je suis satisfait des tests) testés avec Bentley",
+        "body_en": "I am satisfied with the tests) Tested with Bentley"
+    },
+    "2021-02-20T15:49:49.790408": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "прошел все ав кроме вебрута но там фиксану в понедельник",
+        "body_fr": "passé tout AV sauf le pelage de la bande mais là fixan lundi",
+        "body_en": "passed all av except the webbed but there Fixan on Monday"
+    },
+    "2021-02-20T15:49:49.791318": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "есет бит деф виндеф симантек аваст софос и прочее )",
+        "body_fr": "Este Bit def Windows Simtek Avast Sophos et Autre)",
+        "body_en": "Este Bit Def Windows Simtek Avast Sophos and Other)"
+    },
+    "2021-02-21T01:16:42.143645": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-21T01:16:42.144430": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "испытаниями рата я доволен )тестили с бентли",
+        "body_fr": "Je suis satisfait des tests) testés avec Bentley",
+        "body_en": "I am satisfied with the tests) Tested with Bentley"
+    },
+    "2021-02-21T01:16:42.145496": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "прошел все ав кроме вебрута но там фиксану в понедельник",
+        "body_fr": "passé tout AV sauf le pelage de la bande mais là fixan lundi",
+        "body_en": "passed all av except the webbed but there Fixan on Monday"
+    },
+    "2021-02-21T01:16:42.146061": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "есет бит деф виндеф симантек аваст софос и прочее )",
+        "body_fr": "Este Bit def Windows Simtek Avast Sophos et Autre)",
+        "body_en": "Este Bit Def Windows Simtek Avast Sophos and Other)"
+    },
+    "2021-02-21T01:17:34.904058": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-05T21:02:05.166686": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-05T21:02:07.883369": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "кто такой eldorado?",
+        "body_fr": "Qui est Eldorado?",
+        "body_en": "Who is Eldorado?"
+    },
+    "2021-04-05T21:02:11.090922": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "taipan",
+        "body_fr": "Taipan.",
+        "body_en": "Taipan."
+    },
+    "2021-04-07T15:59:52.198614": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "тебе еще love@ будет сгружать компании с бк от бальзака",
+        "body_fr": "Vous aimez toujours @ shogrerez les entreprises de BC de Balzac",
+        "body_en": "You still love @ will shograte companies from BC from Balzac"
+    },
+    "2021-04-08T20:34:14.851605": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "нужны еще сетки:",
+        "body_fr": "A besoin de maillage encore:",
+        "body_en": "Needs still mesh:"
+    },
+    "2021-04-08T20:34:16.294547": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "?",
+        "body_fr": ".",
+        "body_en": "."
+    },
+    "2021-04-12T11:07:51.634058": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-28T15:05:24.728968": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-04-28T15:05:29.229839": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "ты с кевином списывался?"
+    },
+    "2021-04-28T19:26:33.095151": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет да"
+    },
+    "2021-04-28T19:26:48.747994": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "я все сгрузил профу то что он давал мы с профом забраковали"
+    },
+    "2021-04-28T19:26:55.115879": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "я у лео щас ботов набрал"
+    },
+    "2021-04-28T19:27:07.590693": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "2 уже доделываем там 3 сети"
+    },
+    "2021-04-28T19:27:13.669911": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "окло 1000 серверов"
+    },
+    "2021-04-28T19:27:26.430660": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "оборот точно не помню около ярда"
+    },
+    "2021-05-05T16:59:28.142089": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-05T16:59:40.158323": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "там манго пишет по поводу впнов"
+    },
+    "2021-05-06T06:52:35.538295": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-06T06:52:53.201885": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "как там по манго он у меня спрашивал, или не до него сейчас"
+    },
+    "2021-05-06T08:02:13.739756": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-06T08:02:40.926904": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "все в процессе но там у него в сетях слишком мало конекта идет на те впны которые он дал с брута"
+    },
+    "2021-05-06T08:02:55.876142": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "я же ему сказал что 10 числа уже что нить дам по его сетям"
+    },
+    "2021-05-06T08:03:07.964348": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "а так мы кстати все выплаты получили )))"
+    },
+    "2021-05-06T08:03:20.944746": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "с праздниками бро"
+    },
+    "2021-05-07T13:04:45.578043": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-07T13:04:49.481306": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "контролируй оплаты админам з"
+    },
+    "2021-05-07T13:04:50.104471": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "зп"
+    },
+    "2021-05-07T13:04:53.887203": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "которые первые приходили"
+    },
+    "2021-05-07T16:52:52.104445": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "ниче се"
+    },
+    "2021-05-14T18:08:50.792077": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "тебе сетки нужны?"
+    },
+    "2021-05-14T18:09:01.999297": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "стукни love@ бери сетки у него"
+    },
+    "2021-06-04T15:33:48.221549": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет как у тебя дела ?"
+    },
+    "2021-06-04T15:33:51.985974": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "твоя команда сколько человек уже ?"
+    },
+    "2021-06-04T15:37:31.164285": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет дела норм"
+    },
+    "2021-06-04T15:37:34.643067": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ты как ?"
+    },
+    "2021-06-06T21:08:44.535760": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "давай в июне и июле"
+    },
+    "2021-06-08T09:31:51.568567": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-08T12:42:47.704396": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "здарова у меня куча идей"
+    },
+    "2021-06-09T10:32:46.278151": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "здарова у меня куча идей"
+    },
+    "2021-06-09T10:35:59.999189": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "ghb"
+    },
+    "2021-06-09T10:36:03.861932": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет давай их)"
+    },
+    "2021-06-22T19:55:34.094924": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "\n[14:00:36] <.> привет, слушай ну там я даю внц, а все хер забивают, третий день крепануть не могут там ярдник + нии который в наса входит для сливов. может есть у тебя человек кому можно дать и там этим займутся? а то там владелец ботнета уже ругается типа не серьезно, боты дохнут а я вас жду."
+    },
+    "2021-06-22T19:55:42.035991": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "zolotoy@ спишись с ним"
+    },
+    "2021-06-23T15:31:02.150035": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": " <mango> бля даю реверсу админов он по недели им стучат и забывают в итоге))))) вы меня блин ставите все время в неудобное положение я так не привык перед всеми оправдыватсья"
+    },
+    "2021-06-23T15:47:06.046793": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет бро"
+    },
+    "2021-06-23T15:47:06.050982": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "так у меня аврал"
+    },
+    "2021-06-23T15:47:08.099239": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "сегодян еще 2 их вощьму"
+    },
+    "2021-06-23T15:47:09.262503": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "он их вот толкьо сегодня дал"
+    },
+    "2021-06-23T15:47:10.321201": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "кого дал до этого списались с ним он уже работает"
+    },
+    "2021-06-28T08:05:03.817161": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T08:05:25.256329": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-30T12:57:06.899603": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-07-01T10:13:33.238843": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-07-01T10:13:37.041689": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "берете зевса лоады ?"
+    },
+    "2021-07-05T21:23:29.347843": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-07-19T18:41:46.062688": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "найди себе человека кто будет делать js+ta"
+    },
+    "2021-07-19T18:41:47.668147": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "hta"
+    },
+    "2021-07-19T18:41:51.825772": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "и криптовать"
+    },
+    "2021-07-19T18:41:53.659684": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-07-19T18:42:00.957513": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "чтобы моэжно было слать письма точечно"
+    },
+    "2021-07-19T18:42:07.264510": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "со ссылкой и там js  взипе"
+    },
+    "2021-07-28T15:18:29.143841": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет да тут"
+    },
+    "2021-07-28T15:18:29.855346": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "как дела"
+    },
+    "2021-08-02T21:12:20.722357": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-08-02T21:12:25.244787": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "как дела ? у тебя материала хватает?"
+    },
+    "2021-08-10T20:57:22.897998": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-12T18:50:51.714278": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет как у тебя дела по набору людей может опять начнем набирать или текущих пока обучаем ?"
+    },
+    "2021-09-14T10:18:56.090421": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-22T21:46:39.833845": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "берите сетки от зевса тоже"
+    },
+    "2021-10-11T14:18:47.602696": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-10-11T14:18:47.604088": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "давай часть народу бестолкового убирать"
+    },
+    "2021-10-11T14:58:46.153619": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-10-11T14:58:46.154234": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "давай часть народу бестолкового убирать"
+    },
+    "2021-11-10T18:12:56.216716": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "https://www.youtube.com/watch?v=aPfd6-4F1xU"
+    },
+    "2021-11-16T14:23:10.716320": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    }
+}

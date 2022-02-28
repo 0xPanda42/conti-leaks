@@ -1,0 +1,97 @@
+{
+    "2021-02-03T17:36:41.024411": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "braun@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-03T17:36:43.126217": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "braun@q3mcco35auwcstmt.onion",
+        "body": "что у вас с локером ?",
+        "body_fr": "Qu'est-ce que vous avez avec un casier?",
+        "body_en": "What do you have with a locker?"
+    },
+    "2021-02-18T10:18:17.890971": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "braun@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-18T10:18:18.020857": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "braun@q3mcco35auwcstmt.onion",
+        "body": "что там с локером багета?",
+        "body_fr": "Qu'est-ce qu'il y a avec un casier à baguette?",
+        "body_en": "What's there with a baguette locker?"
+    },
+    "2021-02-18T11:13:11.003108": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.",
+        "body_fr": "Salut.",
+        "body_en": "Hello."
+    },
+    "2021-05-06T07:57:31.981725": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "braun@q3mcco35auwcstmt.onion",
+        "body": "Привет как дела с вашим локером ?"
+    },
+    "2021-05-06T07:57:35.865192": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "braun@q3mcco35auwcstmt.onion",
+        "body": "вы его до старости будете делать"
+    },
+    "2021-05-06T09:49:08.991068": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-05-06T09:49:12.485482": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "локер готов"
+    },
+    "2021-05-06T09:49:24.697694": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "кто его заберет?"
+    },
+    "2021-05-06T09:57:15.887954": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "кевин морозится, боб ждет сеть."
+    },
+    "2021-05-06T10:48:24.806394": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-05-06T10:48:24.810321": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "локер готов"
+    },
+    "2021-05-06T10:48:24.813586": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "кто его заберет?"
+    },
+    "2021-05-06T10:48:24.817695": {
+        "src": "braun@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "кевин морозится, боб ждет сеть."
+    },
+    "2021-06-08T09:32:10.207909": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "braun@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-28T08:05:33.332400": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "braun@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    }
+}

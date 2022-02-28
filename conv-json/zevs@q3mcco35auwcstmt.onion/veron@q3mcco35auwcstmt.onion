@@ -1,0 +1,17 @@
+{
+    "2021-12-08T12:53:43.336066": {
+        "src": "veron@q3mcco35auwcstmt.onion",
+        "dst": "zevs@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-12-08T12:53:50.352014": {
+        "src": "veron@q3mcco35auwcstmt.onion",
+        "dst": "zevs@q3mcco35auwcstmt.onion",
+        "body": "можно проверить ваш док ?"
+    },
+    "2021-12-08T12:54:01.390345": {
+        "src": "veron@q3mcco35auwcstmt.onion",
+        "dst": "zevs@q3mcco35auwcstmt.onion",
+        "body": "связать с докером можешь?"
+    }
+}

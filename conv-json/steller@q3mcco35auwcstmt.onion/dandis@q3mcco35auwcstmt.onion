@@ -1,0 +1,102 @@
+{
+    "2021-05-20T16:55:32.369352": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "сюда"
+    },
+    "2021-05-20T16:56:11.080514": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Скорее всего уже готово"
+    },
+    "2021-05-20T16:56:13.610560": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "5 мин"
+    },
+    "2021-05-20T16:58:28.492480": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "33201"
+    },
+    "2021-05-20T16:58:31.171827": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Этот порт"
+    },
+    "2021-05-20T16:59:28.907105": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "Это внутренний?"
+    },
+    "2021-05-20T16:59:36.208213": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Внешний"
+    },
+    "2021-05-20T16:59:38.702596": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Для подключения"
+    },
+    "2021-05-20T16:59:47.347548": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Идет на 4022 внутри"
+    },
+    "2021-05-20T16:59:50.859792": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "Нужен 4022"
+    },
+    "2021-05-20T16:59:54.334657": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "внешний"
+    },
+    "2021-05-20T17:00:11.213356": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Так он будет пустой"
+    },
+    "2021-05-20T17:00:43.645144": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "Почему? Внутренний любой, внешний 4022"
+    },
+    "2021-05-20T17:01:14.347745": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Это не так работает"
+    },
+    "2021-05-20T17:01:22.802888": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Входной ип это большой сервер с внутренней виртуализацией"
+    },
+    "2021-05-20T17:01:29.473965": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Я тебе открою порт на нем - 4022"
+    },
+    "2021-05-20T17:01:40.152411": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "Но к нему не будет прописано правил взаимодействия с виртуалкой"
+    },
+    "2021-05-20T17:01:57.777533": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "Входной ип это большой сервер с внутренней виртуализацией"
+    },
+    "2021-05-20T17:01:57.778117": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "Я тебе открою порт на нем - 4022"
+    },
+    "2021-05-20T17:01:57.778689": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "Но к нему не будет прописано правил взаимодействия с виртуалкой"
+    }
+}

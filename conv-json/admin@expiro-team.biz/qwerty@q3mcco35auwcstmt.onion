@@ -1,0 +1,12 @@
+{
+    "2021-08-07T10:33:24.181053": {
+        "src": "qwerty@q3mcco35auwcstmt.onion",
+        "dst": "admin@expiro-team.biz",
+        "body": "привет"
+    },
+    "2021-08-07T10:33:25.162410": {
+        "src": "admin@expiro-team.biz",
+        "dst": "qwerty@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

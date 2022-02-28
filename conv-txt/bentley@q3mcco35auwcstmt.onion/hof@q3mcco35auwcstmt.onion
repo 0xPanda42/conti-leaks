@@ -1,0 +1,457 @@
+##################################################
+Conversation between:
+	- bentley@q3mcco35auwcstmt.onion
+	- hof@q3mcco35auwcstmt.onion
+86 messages
+first: 2021-02-16T18:13:35.762421
+last:  2021-10-25T06:38:53.117231
+##################################################
+
+2021-02-16T18:13:35.762421  bentley@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] Hey
+	[fr] Hé
+
+2021-02-26T07:03:42.904666  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро
+	[en] Good morning
+	[fr] Bonjour
+
+2021-02-26T07:04:01.847403  bentley@q3mcco35auwcstmt.onion
+	[ru] Сделай, пожалйста, smt6
+	[en] Make, suggest, SMT6
+	[fr] Faire, suggérer, smt6
+
+2021-03-15T12:16:18.129598  bentley@q3mcco35auwcstmt.onion
+	[ru] Подскажи, а у Рамона настроен стиллер? В модулях
+	[en] Tell me, and Ramon has a styller?In modules
+	[fr] Dis-moi et Ramon a un style?Dans les modules
+
+2021-03-15T12:31:09.209188  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-03-15T12:31:27.340879  hof@q3mcco35auwcstmt.onion
+	[ru] стиллер имеется ввиду pwgrab?
+	[en] Is the styller mean pwgrab?
+	[fr] Le style signifie-t-il pwgrab?
+
+2021-03-15T12:31:28.588434  bentley@q3mcco35auwcstmt.onion
+	[ru] Привет )
+	[en] Hey )
+	[fr] Hé )
+
+2021-03-15T12:31:34.604302  bentley@q3mcco35auwcstmt.onion
+	[ru] да возможно
+	[en] Yes possibly
+	[fr] Oui éventuellement
+
+2021-03-15T12:31:43.465076  hof@q3mcco35auwcstmt.onion
+	[ru] сек, проверю
+	[en] Sees, check
+	[fr] Voit, chèque
+
+2021-03-15T12:31:53.136577  bentley@q3mcco35auwcstmt.onion
+	[ru] они зхотят найти в ботах рдп коннекты
+	[en] They know the RDP Connects in the bots
+	[fr] Ils savent que le RDP se connecte dans les robots
+
+2021-03-15T12:32:16.857220  hof@q3mcco35auwcstmt.onion
+	[ru] pwgrab загружается, да
+	[en] PWGRAB is loaded, yes
+	[fr] Pwgrab est chargé, oui
+
+2021-03-15T12:32:24.264175  bentley@q3mcco35auwcstmt.onion
+	[ru] kramer> rdp rdp://SERVER-AGM\ella:!QA@WS#ED4rfv@5.141.22.50
+
+ftp://himemsys:antiDen4ik@@188.93.130.254
+
+
+вот так обычно попадаются в логах 
+[19:15:17] <kramer> любой стилер тянет рдп и ссш акки
+	[en] Kramer> RDP RDP: // Server-Agm \ Ella :! Qa @ WS # ED4RFV @ 5.141.22.50
+
+FTP: // Himemsys: Antiden4ik @@ 188.93.130.254
+
+
+This is how usually come across logs.
+[19:15:17] <Kramer> any styler pulls RDP and SSS AKKI
+	[fr] Kramer> RDP RDP: // Server-AGM \ Ella :! QA @ WS # ED4RFV @ 5.141.22.50
+
+FTP: // Himemsys: antiden4ik @@ 188.93.130.254
+
+
+C'est ainsi que rencontrez habituellement des bûches.
+[19:15:17] <kramer> n'importe quel styler tire RDP et SSS AKKI
+
+2021-03-15T12:32:29.805546  bentley@q3mcco35auwcstmt.onion
+	[ru] такое можно достать?
+	[en] Is it possible to get this?
+	[fr] Est-il possible d'obtenir cela?
+
+2021-03-15T12:32:30.051815  hof@q3mcco35auwcstmt.onion
+	[ru] а вот по поводу рдп коннектов не знаю
+	[en] But about the RDP connections do not know
+	[fr] Mais sur les connexions RDP ne savent pas
+
+2021-03-15T12:32:44.779307  bentley@q3mcco35auwcstmt.onion
+	[ru] так
+	[en] So
+	[fr] Alors
+
+2021-03-15T12:32:45.354191  hof@q3mcco35auwcstmt.onion
+	[ru] попробую уточнить
+	[en] I'll try to clarify
+	[fr] Je vais essayer de clarifier
+
+2021-03-15T12:35:16.243063  bentley@q3mcco35auwcstmt.onion
+	[ru]   Спасибо )
+	[en] Thanks )
+	[fr] Merci )
+
+2021-03-16T07:52:32.630745  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро )) Сделай, пожалуйста, smt18
+	[en] Good morning)) Make, please SMT18
+	[fr] Bonjour)) faire, s'il vous plaît smt18
+
+2021-03-16T07:52:52.693781  hof@q3mcco35auwcstmt.onion
+	[ru] доброе утро!
+	[en] good morning!
+	[fr] Bonjour!
+
+2021-03-17T07:43:57.524100  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро )) Сделай, пожалуйста smt19
+	[en] Good morning)) Make, please SMT19
+	[fr] Bonjour)) faire, s'il vous plaît smt19
+
+2021-03-17T08:23:27.159109  hof@q3mcco35auwcstmt.onion
+	[ru] доброе утро
+	[en] good morning
+	[fr] Bonjour
+
+2021-03-17T08:24:16.408309  hof@q3mcco35auwcstmt.onion
+	[ru] залито
+	[en] flooded
+	[fr] inondé
+
+2021-03-17T08:24:44.863049  bentley@q3mcco35auwcstmt.onion
+	[ru] спс
+	[en] THX
+	[fr] THX
+
+2021-03-17T16:34:27.481865  bentley@q3mcco35auwcstmt.onion
+	[ru] Лов проссит залить яс.ехе Говрит не может дописаться до тебя
+	[en] Lov seem to fill out yokes
+	[fr] Lov semble remplir les yokes
+
+2021-03-17T16:44:45.142165  bentley@q3mcco35auwcstmt.onion
+	[ru] Лов проссит залить яс.ехе Говрит не может дописаться до тебя
+	[en] Lov seem to fill out yokes
+	[fr] Lov semble remplir les yokes
+
+2021-03-17T16:45:08.492019  hof@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] OK
+	[fr] d'accord
+
+2021-03-25T07:39:08.011662  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро )) Сделай, пожалуйста, smt24
+	[en] Good morning)) Make, please SMT24
+	[fr] Bonjour)) faire, s'il vous plaît smt24
+
+2021-03-25T07:39:16.940123  bentley@q3mcco35auwcstmt.onion
+	[ru] smt25 вернее
+	[en] SMT25 Rather
+	[fr] SMT25 plutôt
+
+2021-03-25T07:39:19.818817  hof@q3mcco35auwcstmt.onion
+	[ru] доброе!
+	[en] Kind!
+	[fr] Type!
+
+2021-03-25T07:39:21.440208  hof@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] OK
+	[fr] d'accord
+
+2021-03-30T07:39:05.308808  bentley@q3mcco35auwcstmt.onion
+	[ru] Привет. Сдеалй, пожалуйста, smt28
+	[en] <?>
+	[fr] <?>
+
+2021-03-30T07:39:23.872014  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-03-30T07:41:07.261321  hof@q3mcco35auwcstmt.onion
+	[ru] залито
+	[en] flooded
+	[fr] inondé
+
+2021-03-30T07:41:24.498370  bentley@q3mcco35auwcstmt.onion
+	[ru] Благодарю.
+	[en] Thanks to.
+	[fr] Grâce à.
+
+2021-04-05T12:19:12.303009  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброго дня. уже потеряли тебя )
+	[en] Good day.already lost you)
+	[fr] Bonne journée.Vous avez déjà perdu)
+
+2021-04-05T12:19:26.999842  bentley@q3mcco35auwcstmt.onion
+	[ru] Сделай, пожалуйста, smt32
+	[en] Make, please SMT32
+	[fr] Faire, s'il vous plaît smt32
+
+2021-04-05T12:20:58.065595  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-04-05T12:21:11.401189  hof@q3mcco35auwcstmt.onion
+	[ru] да, сорри, с впн проблемы были
+	[en] Yes, sorry, with VPN problems were
+	[fr] Oui, désolé, avec des problèmes VPN étaient
+
+2021-04-26T07:07:13.699005  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро. Сделай, пожалуйста, smt57, che5.dll, net4.dll
+	[en] <?>
+	[fr] <?>
+
+2021-05-14T08:13:04.346419  bentley@q3mcco35auwcstmt.onion
+	[ru] Привет. Сделай, пожалуйста, длл для рамона. Ему нужно 3 группы исходников.
+	[en] <?>
+	[fr] <?>
+
+2021-05-14T08:16:43.702861  hof@q3mcco35auwcstmt.onion
+	[ru] Привет. Сделай, пожалуйста, длл для рамона. Ему нужно 3 группы исходников.
+	[en] <?>
+	[fr] <?>
+
+2021-05-19T09:10:00.079358  bentley@q3mcco35auwcstmt.onion
+	[ru] Сделай, пожалуйста, по тестовому ехе и длл
+	[en] <?>
+	[fr] <?>
+
+2021-05-19T09:10:26.176529  hof@q3mcco35auwcstmt.onion
+	[ru] привет, сейчас закину
+	[en] <?>
+	[fr] <?>
+
+2021-05-19T09:10:31.278012  hof@q3mcco35auwcstmt.onion
+	[ru] на 3тью админку?
+	[en] <?>
+	[fr] <?>
+
+2021-05-19T09:10:48.805236  bentley@q3mcco35auwcstmt.onion
+	[ru] Да.
+	[en] <?>
+	[fr] <?>
+
+2021-05-19T09:13:43.662189  hof@q3mcco35auwcstmt.onion
+	[ru] залиты tst31 и tst32
+	[en] <?>
+	[fr] <?>
+
+2021-05-19T09:13:51.188882  bentley@q3mcco35auwcstmt.onion
+	[ru] спс
+	[en] <?>
+	[fr] <?>
+
+2021-05-21T11:21:33.397330  bentley@q3mcco35auwcstmt.onion
+	[ru] Сделай, пожалуйста, 10 длл для рамона группа мон в архиве
+	[en] <?>
+	[fr] <?>
+
+2021-05-21T11:44:53.444603  bentley@q3mcco35auwcstmt.onion
+	[ru] Сделай, пожалуйста, 10 длл для рамона группа мон в архиве
+	[en] <?>
+	[fr] <?>
+
+2021-05-28T11:22:34.197582  bentley@q3mcco35auwcstmt.onion
+	[ru] Првиет, сделай, пожалуйста, mon308.dll, mon309.dll
+	[en] <?>
+	[fr] <?>
+
+2021-05-28T11:29:51.454167  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T17:39:23.544216  bentley@q3mcco35auwcstmt.onion
+	[ru] Првиет. Сделай, пожалуста, net18.exe
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T18:38:26.729439  hof@q3mcco35auwcstmt.onion
+	[ru] привет, сейчас закину
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T18:40:58.441736  hof@q3mcco35auwcstmt.onion
+	[ru] на 2ую же админку он?
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T18:41:28.801596  bentley@q3mcco35auwcstmt.onion
+	[ru] kwwka7ar да
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T18:41:31.960617  hof@q3mcco35auwcstmt.onion
+	[ru] залито
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T18:41:43.612606  bentley@q3mcco35auwcstmt.onion
+	[ru] спасибо
+	[en] <?>
+	[fr] <?>
+
+2021-07-01T14:04:57.705101  bentley@q3mcco35auwcstmt.onion
+	[ru] Сделай, пожалуйста, wrd1
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T08:53:52.012866  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро, сделай, пожалуйста, zev1.dll для Зевса и sat2.dll как вчера для Хеша
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T08:54:18.991820  hof@q3mcco35auwcstmt.onion
+	[ru] доброе утро
+	[en] <?>
+	[fr] <?>
+
+2021-07-21T08:54:23.399036  hof@q3mcco35auwcstmt.onion
+	[ru] ок, скоро закину
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T09:24:35.472277  bentley@q3mcco35auwcstmt.onion
+	[ru] Привет,сделай, пожалуйста, zev4.dll, zes3.dll для Зевса.
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T09:24:39.435875  bentley@q3mcco35auwcstmt.onion
+	[ru] Панель поправили
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T10:19:20.920963  bentley@q3mcco35auwcstmt.onion
+	[ru] Привет,сделай, пожалуйста, zev4.dll, zes3.dll для Зевса.
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T10:19:20.934904  bentley@q3mcco35auwcstmt.onion
+	[ru] Панель поправили
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T10:19:43.233272  hof@q3mcco35auwcstmt.onion
+	[ru] привет, скоро закину
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T10:19:57.470170  bentley@q3mcco35auwcstmt.onion
+	[ru] Хорошо, жду.
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T10:27:41.846228  hof@q3mcco35auwcstmt.onion
+	[ru] залито
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T10:27:56.917184  bentley@q3mcco35auwcstmt.onion
+	[ru] спс
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T13:22:02.081244  bentley@q3mcco35auwcstmt.onion
+	[ru] Сделай, пожалуйста, тестовый билд tst1.exe
+	[en] <?>
+	[fr] <?>
+
+2021-07-27T13:45:33.707991  hof@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] <?>
+	[fr] <?>
+
+2021-08-11T07:33:10.925691  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро. Сделай, пожалуйста, zev4.dll и  zem1.dll для Зевса
+	[en] <?>
+	[fr] <?>
+
+2021-08-11T08:34:13.316049  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро. Сделай, пожалуйста, zev4.dll и  zem1.dll для Зевса
+	[en] <?>
+	[fr] <?>
+
+2021-08-11T08:35:14.950696  hof@q3mcco35auwcstmt.onion
+	[ru] доброе утро
+	[en] <?>
+	[fr] <?>
+
+2021-08-11T08:35:17.975449  hof@q3mcco35auwcstmt.onion
+	[ru] скоро закину
+	[en] <?>
+	[fr] <?>
+
+2021-08-11T08:35:46.728668  bentley@q3mcco35auwcstmt.onion
+	[ru] хорошо
+	[en] <?>
+	[fr] <?>
+
+2021-08-11T08:44:52.880856  hof@q3mcco35auwcstmt.onion
+	[ru] залито
+	[en] <?>
+	[fr] <?>
+
+2021-08-11T08:45:30.003893  bentley@q3mcco35auwcstmt.onion
+	[ru] благодарю
+	[en] <?>
+	[fr] <?>
+
+2021-09-15T08:27:46.282537  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро. Сделай, пожалуйста, zev4.dll и  zem1.dll для Зевса.
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T15:54:50.751081  bentley@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T16:08:45.798112  bentley@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T16:09:08.224968  hof@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T10:58:09.960900  bentley@q3mcco35auwcstmt.onion
+	[ru] Добрый день.
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T14:01:33.867076  bentley@q3mcco35auwcstmt.onion
+	[ru] Добрый день.
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T14:03:18.667256  hof@q3mcco35auwcstmt.onion
+	[ru] добрый
+	[en] <?>
+	[fr] <?>
+
+2021-10-25T06:38:53.117231  bentley@q3mcco35auwcstmt.onion
+	[ru] Доброе утро!
+	[en] <?>
+	[fr] <?>
+

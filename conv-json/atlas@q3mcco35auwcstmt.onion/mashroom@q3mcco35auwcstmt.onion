@@ -1,0 +1,12 @@
+{
+    "2021-06-16T13:05:02.967167": {
+        "src": "atlas@q3mcco35auwcstmt.onion",
+        "dst": "mashroom@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-16T13:05:02.969905": {
+        "src": "mashroom@q3mcco35auwcstmt.onion",
+        "dst": "atlas@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

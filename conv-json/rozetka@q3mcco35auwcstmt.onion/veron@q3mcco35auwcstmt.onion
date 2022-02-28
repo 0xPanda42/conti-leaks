@@ -1,0 +1,32 @@
+{
+    "2021-11-29T15:12:05.031328": {
+        "src": "rozetka@q3mcco35auwcstmt.onion",
+        "dst": "veron@q3mcco35auwcstmt.onion",
+        "body": "hi"
+    },
+    "2021-11-29T15:16:26.934717": {
+        "src": "veron@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "hi"
+    },
+    "2021-11-29T15:28:18.186598": {
+        "src": "rozetka@q3mcco35auwcstmt.onion",
+        "dst": "veron@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2022-02-08T15:16:36.269084": {
+        "src": "veron@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "- маркировка просмотренных ботов\n- поиск по systemInfo \n- изменил фильтр по доменам"
+    },
+    "2022-02-08T15:18:19.644970": {
+        "src": "veron@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "- маркировка просмотренных ботов, рядом с ИД буква - M, что в работе, нажимаем"
+    },
+    "2022-02-15T13:53:50.674930": {
+        "src": "veron@q3mcco35auwcstmt.onion",
+        "dst": "rozetka@q3mcco35auwcstmt.onion",
+        "body": "привет, расскажи как успехи ? есть результаты, выплаты, переговоры?"
+    }
+}

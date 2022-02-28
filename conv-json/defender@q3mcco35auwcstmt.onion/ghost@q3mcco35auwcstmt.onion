@@ -1,0 +1,147 @@
+{
+    "2021-06-17T09:29:13.001049": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "привет! Админка Трика так и не встаёт?"
+    },
+    "2021-06-17T10:56:11.454147": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ghost@q3mcco35auwcstmt.onion",
+        "body": "привет, сейчас гляну"
+    },
+    "2021-07-09T17:37:41.003570": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "привет!"
+    },
+    "2021-07-09T17:52:18.799589": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ghost@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-07-09T17:52:39.631675": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "о"
+    },
+    "2021-07-09T17:52:56.652186": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "скажи мне пожалуйста следующее"
+    },
+    "2021-07-09T17:53:26.884455": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "у меня в ТЗ на загрузчик написано, что он должен уметь работать через прокси-сервер"
+    },
+    "2021-07-09T17:53:53.638628": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "вы на сервере можете прописать прокси-сервер?"
+    },
+    "2021-07-09T17:55:06.734622": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ghost@q3mcco35auwcstmt.onion",
+        "body": "какой сервер?"
+    },
+    "2021-07-09T17:55:16.262903": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "хз?"
+    },
+    "2021-07-09T17:56:12.671943": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "в ТЗ написано. Я недоумеваю, а мой тимлид уклоняется от разговоров, сказал - надо тестировать к админам обращайся они пропишут прокси сервер"
+    },
+    "2021-07-09T17:56:38.344359": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "видимо это на тестовых надо машинах писать"
+    },
+    "2021-07-09T17:56:57.678411": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "админка то к загрузчику вообще никак не относиится в плане среды исполнения"
+    },
+    "2021-07-09T17:57:13.384776": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ghost@q3mcco35auwcstmt.onion",
+        "body": "скинь тз"
+    },
+    "2021-07-09T17:57:43.210352": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "я только фразу сейчас скопирую, там одно предложение"
+    },
+    "2021-07-09T17:58:05.253943": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "на эту тему"
+    },
+    "2021-07-09T17:58:07.763049": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "\nЗагрузчик должен поддерживать работу через прокси, если он указан в настройках операционной системы (inetcpl.cpl -> Подключение -> Настройки прокси-сервера)."
+    },
+    "2021-07-09T17:59:29.249179": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "видимо предполагается, что загрузчик попадает в систему, где выход в инет идет через прокси сервер, и должен не растеряться. Но как?"
+    },
+    "2021-07-09T18:02:39.160724": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "ты прогеров с загрузчиком не можешь мне назвать, чтобы я к ним обратился по этой теме?"
+    },
+    "2021-10-13T17:03:05.110014": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-10-13T17:04:07.293365": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ghost@q3mcco35auwcstmt.onion",
+        "body": "+"
+    },
+    "2021-10-13T17:04:24.444063": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "+"
+    },
+    "2021-10-13T17:04:34.429410": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "цезарь завтра будет с утра тестить"
+    },
+    "2021-10-13T17:04:55.444502": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "сейчас вроде норм стоит ждёт команд"
+    },
+    "2021-10-13T17:04:56.393188": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "cmd /1/ ok\n/1/\nAdmProcessInputCmd_1(): number of fields != 7\nBT_MOD_STORAGE_STRUCT::TestGetListName():\nModTestGetListTask():\ncmd /1/: request 95 from 100\nAdmGetFile2() url = https://128.201.76.252:443/trk2/WINDOWS-PC_W10019042.1cfda14ed4ac5d7173424be5036d5bdd/1/fgts62mkaqe1Vz7s/\nConnectGet(): isSend =1 LastErrorCode 0 error\nHTTP/1.1 200 OK\nServer: nginx/1.14.2\nDate: Wed, 13 Oct 2021 17:03:18 GMT\nContent-Type: text/plain\nContent-Length: 3\nConnection: keep-alive"
+    },
+    "2021-10-22T14:17:45.058992": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ghost@q3mcco35auwcstmt.onion",
+        "body": "ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать\n\nновый домен жабы версии 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nего прописываем в настройках аккаунта - соединение - сервер\nперед этим на это вкладке ставим галку Вручную указать адрес сервера и порт\n\nпорт стандартный 5222 \n\nВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения \n\n!!! Как сделаете, отпишите мне что все ОК"
+    },
+    "2021-10-22T14:23:34.011050": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "Я переподключился!"
+    },
+    "2021-10-22T14:24:00.024600": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "Я переподключился!"
+    },
+    "2021-12-13T12:10:10.277313": {
+        "src": "ghost@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "привет!"
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "2021-05-11T07:53:07.986589": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-05-11T11:23:21.791115": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-05-11T11:23:37.317159": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "Lf"
+    },
+    "2021-05-11T11:23:38.399016": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "Da"
+    },
+    "2021-05-11T11:23:55.252119": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-11T11:23:58.668293": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "не игнорю"
+    },
+    "2021-05-11T11:24:05.236302": {
+        "src": "dandis@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-05-11T15:01:12.217564": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "dandis@q3mcco35auwcstmt.onion",
+        "body": "ага"
+    }
+}

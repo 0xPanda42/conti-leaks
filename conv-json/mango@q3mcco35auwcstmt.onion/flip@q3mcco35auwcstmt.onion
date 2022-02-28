@@ -1,0 +1,251 @@
+{
+    "2021-03-09T14:14:01.562390": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-09T14:14:05.861552": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Это jaime",
+        "body_fr": "C'est Jaime.",
+        "body_en": "This is jaime"
+    },
+    "2021-03-09T14:14:10.329309": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "свои) по контейнеру",
+        "body_fr": "votre) sur le conteneur",
+        "body_en": "your) on the container"
+    },
+    "2021-03-10T11:40:38.614303": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "привет бро, повтори то писал",
+        "body_fr": "Salut Bro, répétez-la écrit",
+        "body_en": "Hi bro, repeat it wrote"
+    },
+    "2021-03-10T20:49:46.561125": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "салют",
+        "body_fr": "saluer",
+        "body_en": "salute"
+    },
+    "2021-03-10T20:49:58.968278": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "надо линк в том контейнере поменять, чото умерло там у ребят",
+        "body_fr": "Il est nécessaire de changer le lien dans ce conteneur, il est mort sur les gars",
+        "body_en": "it is necessary to change the link in that container, it died about the guys"
+    },
+    "2021-03-10T20:49:59.781372": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "https://www.jimmecir.com/basebl/jimman.php"
+    },
+    "2021-03-10T20:50:03.341743": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "вот актуальный",
+        "body_fr": "Voici réel",
+        "body_en": "Here is actual"
+    },
+    "2021-03-13T10:05:03.817062": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Привет. Тут?",
+        "body_fr": "Salut.Ici?",
+        "body_en": "Hello.Here?"
+    },
+    "2021-03-13T10:05:51.905603": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Сами файлы pdf иконки не содержат, иконку нужно указать по абсолютному пути.",
+        "body_fr": "Les fichiers PDF eux-mêmes ne contiennent pas les icônes, l'icône doit être spécifiée dans le chemin absolu.",
+        "body_en": "The PDF files themselves do not contain the icons, the icon must be specified in the absolute path."
+    },
+    "2021-03-13T10:06:50.762880": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Если ее положить на сам контейнер то мы не знаем букву на которую смонтирует контейнер винда",
+        "body_fr": "Si vous le mettez sur le conteneur lui-même, nous ne connaissons pas la lettre à laquelle le conteneur Windows monte",
+        "body_en": "If you put it on the container itself, we do not know the letter to which the Windows container mountes"
+    },
+    "2021-03-13T10:07:23.897961": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Я взял иконку из edge, но если его на компе не будет то иконки не будет.",
+        "body_fr": "J'ai pris l'icône du bord, mais si ce n'est pas sur mon ordinateur, il n'y aura pas d'icône.",
+        "body_en": "I took the icon from EDGE, but if it is not on my computer, there will be no icon."
+    },
+    "2021-03-13T10:08:05.407604": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Есть стандартные наборы иконок которые всегда точно есть, например в shell32.dll",
+        "body_fr": "Il existe des ensembles d'icônes standard qui ont toujours définitivement, par exemple dans shell32.dll",
+        "body_en": "There are standard icon sets that always definitely have, for example in shell32.dll"
+    },
+    "2021-03-13T10:08:22.120899": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Может возьмем от туда?",
+        "body_fr": "Peut-être prendre à partir de là?",
+        "body_en": "Maybe take from there?"
+    },
+    "2021-03-13T10:08:31.936391": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "https://help4windows.com/windows_7_shell32_dll.shtml"
+    },
+    "2021-03-13T10:09:42.760735": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Из edge я иконку выдернул, но из-за неизвестной буквы подключения контейнера получается ерунда",
+        "body_fr": "De bord, j'ai sorti l'icône, mais à cause de la lettre inconnue de la connexion du conteneur, il s'avère absurde.",
+        "body_en": "From Edge I pulled out the icon, but because of the unknown letter of the container connection it turns out nonsense"
+    },
+    "2021-03-25T13:44:17.560195": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "привет бро",
+        "body_fr": "Salut frère.",
+        "body_en": "Hi Bro."
+    },
+    "2021-03-25T13:44:21.303292": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "есть срочное дело",
+        "body_fr": "Il y a une chose urgente",
+        "body_en": "There is an urgent thing"
+    },
+    "2021-04-09T10:09:42.598931": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "привет! бро я вот че подумал",
+        "body_fr": "Hé!Mon frère j'ai pensé",
+        "body_en": "Hey!Bro I thought"
+    },
+    "2021-05-01T12:59:51.437865": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "бро вылетел нафиг)"
+    },
+    "2021-05-17T07:26:27.856274": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Привет. Нет пока Адам не выдал."
+    },
+    "2021-05-17T07:26:54.785072": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "понял, я специально пишу в группе чтоб у всех на глазах это было :)"
+    },
+    "2021-05-17T07:26:58.327153": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "доброе утро бро)"
+    },
+    "2021-05-17T07:27:05.728394": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "щас пошевелю его как будет"
+    },
+    "2021-05-17T07:27:19.958756": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Доброе утро. :) спасибо. :)"
+    },
+    "2021-05-31T18:28:30.338946": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "] <derek> DFGR%$TEwEHYE%S$R\n[21:17:11] <derek> https://privatlab.com/s/v/jjojgwD5rpunWJE58mqb\n[21:17:21] <derek> 80% валида там бро"
+    },
+    "2021-05-31T18:28:37.298491": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "держи"
+    },
+    "2021-05-31T18:28:43.604872": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "дерек по братски нам пачку дал"
+    },
+    "2021-05-31T18:29:13.252802": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "чекни только перед тем как закидывать пейлоад шелл по домену\\айпи чтоб не было алертов"
+    },
+    "2021-05-31T18:29:26.806654": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "я чекаю на мх тулбоксе там блеклист есть"
+    },
+    "2021-05-31T18:29:55.096580": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "закинь пейлоад собери контейнер с этим шеллом, или сразу с пачкой под рандомизацию"
+    },
+    "2021-05-31T18:30:32.793228": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "если вдруг не будет детектов и все четко будет - давай к билдеру прилепим как функцию"
+    },
+    "2021-07-05T11:09:22.500475": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-07-19T15:00:06.473644": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-07-19T15:00:09.014662": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "давай дам зп бро"
+    },
+    "2021-07-19T15:18:52.336709": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "повтори плиз отр порезало"
+    },
+    "2021-07-23T10:32:07.523583": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "здарова бро"
+    },
+    "2021-10-03T10:48:05.347362": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-10-03T10:48:07.294327": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "зп нада?"
+    },
+    "2021-10-03T11:07:32.078466": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Привет! :)"
+    },
+    "2021-10-03T11:07:32.197655": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Конечно! :)"
+    },
+    "2021-11-13T20:11:08.168027": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как самочувствие?"
+    },
+    "2022-02-06T13:20:43.132312": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "flip@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "2021-10-07T14:47:51.470166": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "мне удалось его установить и выполнил. Я вижу что он загружается"
+    },
+    "2021-10-07T14:53:14.554099": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "он работает хорошо"
+    },
+    "2021-10-12T13:13:44.006503": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет и извини за беспокойство\nкогда ты выбираешь контакт из таблицы, хочешь ли ты видешь данные, такие как json, или хорошо спроектированный (html).\nкогда мы щелкаем элемент в таблице, я генерирую поля, которые не равны нулю, и визуализирую их, а также создаю кнопку для загрузки файла json.\nЯ просто тестирую, после того, как все выложу в git\nпоправьте меня, если что-то не в порядке"
+    },
+    "2021-10-13T16:21:46.376268": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": " Привет"
+    },
+    "2021-10-13T16:23:17.993931": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "ты получил мое сообщение в rocketchat?"
+    },
+    "2021-10-13T16:26:45.402139": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "klaus@q3mcco35auwcstmt.onion",
+        "body": "Привет, да, сейчас отвечу там"
+    },
+    "2021-10-13T16:28:12.281505": {
+        "src": "klaus@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Ok, хорошо."
+    }
+}

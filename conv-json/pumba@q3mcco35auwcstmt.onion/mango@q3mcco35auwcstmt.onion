@@ -1,0 +1,27 @@
+{
+    "2022-01-17T08:41:27.499987": {
+        "src": "pumba@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2022-02-08T06:31:08.156242": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "pumba@q3mcco35auwcstmt.onion",
+        "body": "[09:31:03] <mango> привет готово!"
+    },
+    "2022-02-08T06:31:11.403319": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "pumba@q3mcco35auwcstmt.onion",
+        "body": "отр не забывай"
+    },
+    "2022-02-08T06:57:49.886368": {
+        "src": "pumba@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ок, спс"
+    },
+    "2022-02-08T06:57:54.096382": {
+        "src": "pumba@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "отр не забываю"
+    }
+}

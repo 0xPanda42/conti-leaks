@@ -1,0 +1,80 @@
+##################################################
+Conversation between:
+	- bourbon@q3mcco35auwcstmt.onion
+	- stern@q3mcco35auwcstmt.onion
+12 messages
+first: 2021-02-05T12:23:31.111412
+last:  2021-09-13T07:59:59.785845
+##################################################
+
+2021-02-05T12:23:31.111412  bourbon@q3mcco35auwcstmt.onion
+	[ru] Привет!
+	[en] Hey!
+	[fr] Hé!
+
+2021-02-05T12:23:48.170676  bourbon@q3mcco35auwcstmt.onion
+	[ru] Я проморгал твое сообщение о результатах.
+	[en] I blown your message about the results.
+	[fr] J'ai soufflé votre message sur les résultats.
+
+2021-02-05T12:24:29.548558  bourbon@q3mcco35auwcstmt.onion
+	[ru] Результаты есть. Есть бот и лоадер без детектов АВ и проверенные на dyncheck
+	[en] Results are.There is a bot and loader without detectors AV and tested on DynCheck
+	[fr] Les résultats sont.Il y a un bot et un chargeur sans détecteurs av et testés sur Dyncheck
+
+2021-02-05T12:24:53.821493  bourbon@q3mcco35auwcstmt.onion
+	[ru] Сейчас собираю полностью боевую сборку с боевыми адресами и боевой группой
+	[en] Now I collect completely combat assembly with combat addresses and combat group
+	[fr] Maintenant, je collectionne complètement l'assemblage de combat avec adresses de combat et groupe de combat
+
+2021-02-05T12:25:03.655790  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-02-24T16:29:36.582351  stern@q3mcco35auwcstmt.onion
+	[ru] Кто сможет разобраться по уязвимости sonicwall
+И сделать рабочий сканер
+	[en] Who can figure out the SonicWall vulnerability
+And make a working scanner
+	[fr] Qui peut comprendre la vulnérabilité de SonicWall
+Et faire un scanner de travail
+
+2021-03-12T15:17:24.803253  stern@q3mcco35auwcstmt.onion
+	[ru] Привет, как у кого дела, пишите результаты, успехи или неудачи
+	[en] Hello, how are you doing, write results, successes or failures
+	[fr] Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs
+
+2021-06-07T12:49:39.279246  stern@q3mcco35auwcstmt.onion
+	[ru] Привет. Как дела? 
+какие результаты у тебя? 
+Какие задачи стоят?
+Какие идеи есть что можно добавить и улучшить?
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:07:36.490126  bourbon@q3mcco35auwcstmt.onion
+	[ru] Привет! Занимаюсь доработками бота и лоадера. Есть х64 версия, рабочая, на которой 1 детект на неосновном АВ. Есть х86 версия, на ней детектов АВ побольше, ее нужно вычищать. Сейчас прикручиваю прото2 в бот и лоадер. Следующая задача как раз чистка х86 версии от детектов. Перед этим делал лоадер в формате dll для запуска через rundll32. Были сложности, но их удалось решить. dll-лоадер работает и сам по себе, и в составе криптов
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:30:16.513774  stern@q3mcco35auwcstmt.onion
+	[ru] Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T08:05:57.551457  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T07:59:59.785845  stern@q3mcco35auwcstmt.onion
+	[ru] Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+	[en] <?>
+	[fr] <?>
+

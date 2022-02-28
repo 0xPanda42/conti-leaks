@@ -1,0 +1,607 @@
+{
+    "2021-02-08T15:01:59.503306": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет, чекни плиз че там с чатом",
+        "body_fr": "Salut, checkli pliz ch fois avec chat",
+        "body_en": "Hi, checkli pliz Che there with chat"
+    },
+    "2021-03-16T19:44:59.832264": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет, если статус стоит operator read only то саппорт ему билды не может назначить и нельзя другим операторам доступ дать на его диалоги",
+        "body_fr": "Bonjour, si le statut est en lecture seule sur l'opérateur, alors le SAPPORT lui ne peut pas désigner et ne peut pas être en mesure d'accéder à ses boîtes de dialogue à d'autres opérateurs.",
+        "body_en": "Hello, if the status is Operator Read Only, then the Sapport him can not designate and can not be able to access his dialogs to other operators."
+    },
+    "2021-03-17T06:30:03.874523": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет, если статус стоит operator read only то саппорт ему билды не может назначить и нельзя другим операторам доступ дать на его диалоги",
+        "body_fr": "Bonjour, si le statut est en lecture seule sur l'opérateur, alors le SAPPORT lui ne peut pas désigner et ne peut pas être en mesure d'accéder à ses boîtes de dialogue à d'autres opérateurs.",
+        "body_en": "Hello, if the status is Operator Read Only, then the Sapport him can not designate and can not be able to access his dialogs to other operators."
+    },
+    "2021-03-17T06:30:33.393978": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Принял, поправлю",
+        "body_fr": "Accepté, je vais corriger",
+        "body_en": "Accepted, I will correct"
+    },
+    "2021-03-17T15:35:10.127299": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Скинь плиз линк на news",
+        "body_fr": "Jeter le lien Pliz sur les nouvelles",
+        "body_en": "Throw off pliz link on news"
+    },
+    "2021-03-23T16:41:34.020010": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "cлушай а что означают песочные часы внизу справа от сообщения",
+        "body_fr": "Écoutez et quel est le sablier ci-dessous à la droite du message",
+        "body_en": "Listen and what is the hourglass below to the right of the message"
+    },
+    "2021-03-24T07:15:17.098407": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "cлушай а что означают песочные часы внизу справа от сообщения",
+        "body_fr": "Écoutez et quel est le sablier ci-dessous à la droite du message",
+        "body_en": "Listen and what is the hourglass below to the right of the message"
+    },
+    "2021-03-24T07:16:08.674224": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "клиент не прочитал еще сообщение",
+        "body_fr": "Le client n'a pas lu un autre message.",
+        "body_en": "The client did not read another message."
+    },
+    "2021-03-24T09:40:51.075355": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "клиент не прочитал еще сообщение",
+        "body_fr": "Le client n'a pas lu un autre message.",
+        "body_en": "The client did not read another message."
+    },
+    "2021-04-09T17:36:57.451357": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет, там тор сервак надо оплатить",
+        "body_fr": "Salut, Tor Servak ​​doit payer",
+        "body_en": "Hi, Tor Servak must pay"
+    },
+    "2021-05-03T12:13:27.565489": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "ошибка отр"
+    },
+    "2021-05-03T12:26:34.928042": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "ошибка отр"
+    },
+    "2021-05-05T06:14:10.964273": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет, сделай плиз логирование всех ошибок если клиенту не удается по какой-то причине создать чат при загрузке .txt"
+    },
+    "2021-05-06T05:10:38.708656": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет, сделай плиз логирование всех ошибок если клиенту не удается по какой-то причине создать чат при загрузке .txt"
+    },
+    "2021-05-06T05:10:57.793377": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет, ок"
+    },
+    "2021-05-06T07:42:19.595519": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет, сделай еще плиз где нибудь что бы отображалось \nобщее количество диалогов/новых за 24 часа"
+    },
+    "2021-05-06T07:49:47.063116": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Только для админа?"
+    },
+    "2021-05-06T07:49:54.930352": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Нет для всех"
+    },
+    "2021-05-17T06:43:01.398999": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "маякни как будешь"
+    },
+    "2021-05-18T05:05:56.318812": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "маякни как будешь"
+    },
+    "2021-05-18T05:06:12.606284": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "+"
+    },
+    "2021-05-18T08:55:34.080232": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "+"
+    },
+    "2021-06-02T23:05:54.931626": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-02T23:05:59.849230": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "у нас место скоро закончится"
+    },
+    "2021-06-02T23:06:08.114182": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "на новостном серваке"
+    },
+    "2021-06-03T05:08:56.376367": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-03T05:08:56.377297": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "у нас место скоро закончится"
+    },
+    "2021-06-03T05:08:56.378443": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "на новостном серваке"
+    },
+    "2021-06-03T21:01:22.237713": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "[07:05:54] <reshaev> привет \n[07:05:59] <reshaev> у нас место скоро закончится \n[07:06:07] <reshaev> на новостном серваке"
+    },
+    "2021-06-04T05:00:41.237839": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "[07:05:54] <reshaev> привет \n[07:05:59] <reshaev> у нас место скоро закончится \n[07:06:07] <reshaev> на новостном серваке"
+    },
+    "2021-06-14T18:28:29.714767": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет сделай плиз что бы новость можно было выложить скрытно но доступ был только по определенной ссылке"
+    },
+    "2021-06-15T07:23:01.714020": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет сделай плиз что бы новость можно было выложить скрытно но доступ был только по определенной ссылке"
+    },
+    "2021-06-15T07:25:16.623125": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Принял"
+    },
+    "2021-06-15T07:48:51.679844": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Принял"
+    },
+    "2021-06-18T16:34:58.761824": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-18T16:35:08.929576": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Добавил места на сервере?"
+    },
+    "2021-06-21T07:31:55.509705": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Отпиши как будешь"
+    },
+    "2021-06-21T07:32:50.967594": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-21T07:32:50.982616": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Добавил места на сервере?"
+    },
+    "2021-06-21T07:32:50.983881": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Отпиши как будешь"
+    },
+    "2021-06-21T07:32:58.617894": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "+"
+    },
+    "2021-08-02T11:11:36.176745": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет, маякни как будешь, серв надо оплатить"
+    },
+    "2021-08-02T15:34:31.751633": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет, маякни как будешь, серв надо оплатить"
+    },
+    "2021-08-13T10:31:40.170797": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-08-13T10:31:45.692772": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Умер домен continews.click"
+    },
+    "2021-08-13T10:33:03.991326": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "А не не умер"
+    },
+    "2021-08-13T10:33:09.710831": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "502 ошибка"
+    },
+    "2021-08-16T06:45:51.622252": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-08-16T06:45:51.623909": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Умер домен continews.click"
+    },
+    "2021-08-16T06:45:51.630403": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "А не не умер"
+    },
+    "2021-08-16T06:45:51.631812": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "502 ошибка"
+    },
+    "2021-08-18T01:50:24.329169": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Поменяй все рут пассы от сайтов с данными"
+    },
+    "2021-08-18T01:50:26.503684": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "От сервреов"
+    },
+    "2021-08-18T09:06:18.042426": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Поменяй все рут пассы от сайтов с данными"
+    },
+    "2021-08-18T09:06:18.045749": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "От сервреов"
+    },
+    "2021-08-18T10:29:25.623329": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "А от сервера рут пасс?"
+    },
+    "2021-08-19T14:24:18.482767": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "А от сервера рут пасс?"
+    },
+    "2021-08-24T06:07:06.383767": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-08-24T06:07:24.278273": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Там дурачки спамят чат"
+    },
+    "2021-08-24T06:07:24.280478": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Можешь почистить?"
+    },
+    "2021-08-24T07:57:00.989331": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-08-24T07:57:00.996957": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Там дурачки спамят чат"
+    },
+    "2021-08-24T07:57:00.999813": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Можешь почистить?"
+    },
+    "2021-09-06T07:31:05.057636": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет, надо еще 2 сервака оплатить"
+    },
+    "2021-09-06T17:58:28.182262": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет, надо еще 2 сервака оплатить"
+    },
+    "2021-09-07T22:19:07.302368": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-09-07T22:19:25.217287": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "чекни что с новостным"
+    },
+    "2021-09-07T22:19:37.423109": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Ни админка ни че не работет"
+    },
+    "2021-09-08T07:19:03.705704": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-09-08T07:19:03.706663": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "чекни что с новостным"
+    },
+    "2021-09-08T07:19:03.708617": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Ни админка ни че не работет"
+    },
+    "2021-09-08T12:12:27.726409": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "ok"
+    },
+    "2021-09-16T23:04:46.371604": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "V bloge kogda vikladivaesh s timerom publikaciu sdelay please vozmojnost screenshotov dobavlat"
+    },
+    "2021-09-17T07:24:14.919557": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "V bloge kogda vikladivaesh s timerom publikaciu sdelay please vozmojnost screenshotov dobavlat"
+    },
+    "2021-09-22T11:49:31.151202": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "bro srochno nado pochinit cha"
+    },
+    "2021-09-22T11:49:32.299840": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "t"
+    },
+    "2021-09-22T11:49:39.894828": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "pustuu stranicu vidaet"
+    },
+    "2021-09-23T06:58:19.512122": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "bro srochno nado pochinit cha"
+    },
+    "2021-09-23T06:58:19.515836": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "t"
+    },
+    "2021-09-23T06:58:19.521542": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "pustuu stranicu vidaet"
+    },
+    "2021-10-01T13:32:16.705408": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "напиши как будешь ,серваки поолачивать надо"
+    },
+    "2021-10-01T17:38:43.160409": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "но потерпит до понедельника"
+    },
+    "2021-10-02T12:04:36.592390": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "напиши как будешь ,серваки поолачивать надо"
+    },
+    "2021-10-02T12:04:36.603747": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "но потерпит до понедельника"
+    },
+    "2021-10-02T12:18:55.215276": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "v ponedelnik budu"
+    },
+    "2021-10-02T12:54:07.846563": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Bro potoropis s blogom novim please rebyata praym silno jdut"
+    },
+    "2021-10-04T06:55:39.285736": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "v ponedelnik budu"
+    },
+    "2021-10-04T06:55:39.295853": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Bro potoropis s blogom novim please rebyata praym silno jdut"
+    },
+    "2021-10-04T07:39:28.282277": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "начал обновлять"
+    },
+    "2021-10-04T08:10:36.816950": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "начал обновлять"
+    },
+    "2021-10-05T10:11:33.757950": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-10-05T10:18:59.373671": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Сделай плиз что бы в блоге можно было определенную публикацию на первое место продвинуть"
+    },
+    "2021-10-06T08:12:24.225257": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-10-06T08:12:24.232450": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Сделай плиз что бы в блоге можно было определенную публикацию на первое место продвинуть"
+    },
+    "2021-10-13T20:32:49.332438": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Надо переделать кое-что\n1) Warning text & text перенести в одну вкладку назовем ее content\nwarining text переименовать в private text, а text в public text\n2) Во вкладке контент так же добавить возможность загрузить архив с семплами спиженной даты эти семплы должны быть доступны для скачивания на страничке с таймером. Сделай там какую-нибудь кнопку типа examples of data"
+    },
+    "2021-10-14T00:12:01.335238": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "И вот эту надпись вернхнюю замени на Data will be published after:"
+    },
+    "2021-10-14T08:23:03.223826": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Надо переделать кое-что\n1) Warning text & text перенести в одну вкладку назовем ее content\nwarining text переименовать в private text, а text в public text\n2) Во вкладке контент так же добавить возможность загрузить архив с семплами спиженной даты эти семплы должны быть доступны для скачивания на страничке с таймером. Сделай там какую-нибудь кнопку типа examples of data"
+    },
+    "2021-10-14T08:23:03.228252": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "И вот эту надпись вернхнюю замени на Data will be published after:"
+    },
+    "2021-10-14T19:57:07.895925": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Доделай плиз это в понедельник"
+    },
+    "2021-10-14T19:57:27.951173": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Срочно"
+    },
+    "2021-10-15T11:40:12.847028": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Доделай плиз это в понедельник"
+    },
+    "2021-10-15T11:40:12.848629": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Срочно"
+    },
+    "2021-10-16T15:46:48.840972": {
+        "src": "mavemat@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-11-03T07:14:28.504135": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет  напомни когда чат будет новый"
+    },
+    "2021-11-03T09:30:33.908735": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет  напомни когда чат будет новый"
+    },
+    "2021-11-05T07:56:21.456078": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Подними админку конти как зайдешь"
+    },
+    "2021-11-05T07:59:16.753276": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Подними админку конти как зайдешь"
+    },
+    "2021-11-07T10:16:22.792538": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "(07:11:03 AM) pin@q3mcco35auwcstmt.onion: https://continews.click/\n(07:11:08 AM) pin@q3mcco35auwcstmt.onion: 502 Bad Gateway"
+    },
+    "2021-11-08T07:29:39.700269": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "(07:11:03 AM) pin@q3mcco35auwcstmt.onion: https://continews.click/\n(07:11:08 AM) pin@q3mcco35auwcstmt.onion: 502 Bad Gateway"
+    },
+    "2021-11-17T13:53:23.143964": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет закажи файловый сервер на 20 TB"
+    },
+    "2021-11-18T07:57:18.077885": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Привет закажи файловый сервер на 20 TB"
+    },
+    "2021-11-18T16:14:59.418910": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "bro u nas server v offline ushel"
+    },
+    "2021-11-18T16:44:57.785363": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "nas lomanuli koroche"
+    },
+    "2021-11-19T08:18:30.300273": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "bro u nas server v offline ushel"
+    },
+    "2021-11-19T08:18:30.302610": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "nas lomanuli koroche"
+    },
+    "2021-11-19T11:28:03.798449": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Ti srochno nujen"
+    },
+    "2021-11-19T11:47:00.687220": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "mavemat@q3mcco35auwcstmt.onion",
+        "body": "Ti srochno nujen"
+    }
+}

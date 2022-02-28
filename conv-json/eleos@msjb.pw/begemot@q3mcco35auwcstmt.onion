@@ -1,0 +1,12 @@
+{
+    "2021-11-16T12:28:33.730228": {
+        "src": "begemot@q3mcco35auwcstmt.onion",
+        "dst": "eleos@msjb.pw",
+        "body": "Приветсвую"
+    },
+    "2021-11-16T12:28:35.006640": {
+        "src": "eleos@msjb.pw",
+        "dst": "begemot@q3mcco35auwcstmt.onion",
+        "body": "Приветсвую"
+    }
+}

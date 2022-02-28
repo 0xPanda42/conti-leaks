@@ -1,0 +1,22 @@
+{
+    "2021-06-21T13:40:14.788545": {
+        "src": "baraka@q3mcco35auwcstmt.onion",
+        "dst": "stakan@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-21T13:40:23.030123": {
+        "src": "baraka@q3mcco35auwcstmt.onion",
+        "dst": "stakan@q3mcco35auwcstmt.onion",
+        "body": "тут?"
+    },
+    "2021-12-09T20:16:46.541909": {
+        "src": "baraka@q3mcco35auwcstmt.onion",
+        "dst": "stakan@q3mcco35auwcstmt.onion",
+        "body": "на сегодня всё или еще что-то есть?"
+    },
+    "2021-12-09T20:50:44.318874": {
+        "src": "stakan@q3mcco35auwcstmt.onion",
+        "dst": "baraka@q3mcco35auwcstmt.onion",
+        "body": "завтра думаю , сегодня все"
+    }
+}

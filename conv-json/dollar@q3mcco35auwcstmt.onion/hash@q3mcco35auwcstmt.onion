@@ -1,0 +1,17 @@
+{
+    "2021-07-26T15:12:04.263144": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "dollar@q3mcco35auwcstmt.onion",
+        "body": ":)"
+    },
+    "2021-07-26T15:12:13.111416": {
+        "src": "dollar@q3mcco35auwcstmt.onion",
+        "dst": "hash@q3mcco35auwcstmt.onion",
+        "body": "hey"
+    },
+    "2021-07-26T15:12:14.059264": {
+        "src": "hash@q3mcco35auwcstmt.onion",
+        "dst": "dollar@q3mcco35auwcstmt.onion",
+        "body": ":)"
+    }
+}

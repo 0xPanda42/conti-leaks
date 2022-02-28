@@ -1,0 +1,811 @@
+##################################################
+Conversation between:
+	- driver@q3mcco35auwcstmt.onion
+	- stern@q3mcco35auwcstmt.onion
+133 messages
+first: 2021-02-24T16:29:36.566878
+last:  2021-09-13T11:39:08.038748
+##################################################
+
+2021-02-24T16:29:36.566878  stern@q3mcco35auwcstmt.onion
+	[ru] Кто сможет разобраться по уязвимости sonicwall
+И сделать рабочий сканер
+	[en] Who can figure out the SonicWall vulnerability
+And make a working scanner
+	[fr] Qui peut comprendre la vulnérabilité de SonicWall
+Et faire un scanner de travail
+
+2021-02-25T13:35:36.361978  stern@q3mcco35auwcstmt.onion
+	[ru] Кто сможет разобраться по уязвимости sonicwall
+И сделать рабочий сканер
+	[en] Who can figure out the SonicWall vulnerability
+And make a working scanner
+	[fr] Qui peut comprendre la vulnérabilité de SonicWall
+Et faire un scanner de travail
+
+2021-03-09T18:32:11.595149  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-03-09T18:32:16.709062  stern@q3mcco35auwcstmt.onion
+	[ru] что там за ситуация с хранилищем
+	[en] What is there for the situation with the repository
+	[fr] Qu'y a-t-il pour la situation avec le référentiel
+
+2021-03-09T18:32:18.680612  stern@q3mcco35auwcstmt.onion
+	[ru] почему не работает
+	[en] why does not it work
+	[fr] pourquoi ça ne marche pas
+
+2021-03-09T18:32:25.048381  stern@q3mcco35auwcstmt.onion
+	[ru] ты куда пропал???
+	[en] Where have you been???
+	[fr] Où étais-tu???
+
+2021-03-09T23:33:17.969054  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-03-09T23:33:17.969870  stern@q3mcco35auwcstmt.onion
+	[ru] что там за ситуация с хранилищем
+	[en] What is there for the situation with the repository
+	[fr] Qu'y a-t-il pour la situation avec le référentiel
+
+2021-03-09T23:33:17.970461  stern@q3mcco35auwcstmt.onion
+	[ru] почему не работает
+	[en] why does not it work
+	[fr] pourquoi ça ne marche pas
+
+2021-03-09T23:33:17.973695  stern@q3mcco35auwcstmt.onion
+	[ru] ты куда пропал???
+	[en] Where have you been???
+	[fr] Où étais-tu???
+
+2021-03-09T23:45:16.573271  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+Я бузе все рассказал про ситуацию с хранилищем.
+Насчет того, что не работал, не совсем понимаю вопрос. В какой именно день.
+Насчет пропал тоже не понимаю. Есть 8 часов рабочего времени на котороые я изначально договорился. Я вчера больше отработал, завершил работу и ушел.
+	[en] Hello.
+I brought everything about the situation with the repository.
+As for the fact that I did not work, I do not quite understand the question.What day is exactly what day.
+I also did not understand.There are 8 hours of working time at which I initially agreed.Yesterday I worked more, completed the work and left.
+	[fr] Salut.
+J'ai tout apporté sur la situation avec le référentiel.
+En ce qui concerne le fait que je n'ai pas travaillé, je ne comprends pas bien la question.Quel jour est exactement quel jour.
+Je n'ai pas non plus compris.Il y a 8 heures de temps de travail au cours de laquelle j'ai initialement accepté.Hier, j'ai travaillé plus, achevé le travail et partit.
+
+2021-03-10T01:46:26.788655  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+Я бузе все рассказал про ситуацию с хранилищем.
+Насчет того, что не работал, не совсем понимаю вопрос. В какой именно день.
+Насчет пропал тоже не понимаю. Есть 8 часов рабочего времени на котороые я изначально договорился. Я вчера больше отработал, завершил работу и ушел.
+	[en] Hello.
+I brought everything about the situation with the repository.
+As for the fact that I did not work, I do not quite understand the question.What day is exactly what day.
+I also did not understand.There are 8 hours of working time at which I initially agreed.Yesterday I worked more, completed the work and left.
+	[fr] Salut.
+J'ai tout apporté sur la situation avec le référentiel.
+En ce qui concerne le fait que je n'ai pas travaillé, je ne comprends pas bien la question.Quel jour est exactement quel jour.
+Je n'ai pas non plus compris.Il y a 8 heures de temps de travail au cours de laquelle j'ai initialement accepté.Hier, j'ai travaillé plus, achevé le travail et partit.
+
+2021-03-11T15:38:02.828610  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+Вот моё сообщение адаму, по поводу всей ситуации с хранилищем т.к. ты писал я хочу прояснить вопрос с ожиданиями, ответственностью, границами и приоритетами.
+	[en] Hello.
+Here is my message to Adam, about the whole situation with the storage facility.You wrote I want to clarify the question with expectations, responsibility, borders and priorities.
+	[fr] Salut.
+Voici mon message à Adam, sur toute la situation avec l'installation de stockage.Vous avez écrit que je souhaite clarifier la question avec des attentes, des responsabilités, des frontières et des priorités.
+
+2021-03-11T15:38:10.629007  driver@q3mcco35auwcstmt.onion
+	[ru] По поводу всей истории с хранилищем вот моя позиция.
+1. Я со своей стороны не согласен с идеей, что я должен быть на связи 24 часа, я продал 8 часов своего времени, и иногда по своему желанию задерживаюсь на работе, но это моя свободная воля, не захочу - не буду. Я согласен с тобой, что мне нужно скорректировать своё время, я этим занимаюсь постараюсь решить и быть в рабочее время мск на связи, у меня в целом сложности со сном. Это не твоя проблема, но думаю, что тебе полезно знать.
+	[en] Regarding the whole story with the repository, here is my position.
+1. I do not agree with the idea that I should be in touch 24 hours, I sold 8 hours of my time, and sometimes at my request I delay at work, but this is my free will, I won't want - I will not.I agree with you that I need to adjust my time, I do this try to decide and be at working time MSC in touch, I have a whole difficulty with a dream.This is not your problem, but I think it is useful for you to know.
+	[fr] En ce qui concerne toute l'histoire avec le référentiel, voici ma position.
+1. Je ne suis pas d'accord avec l'idée que je devrais être en contact 24 heures sur 24, j'ai vendu 8 heures de mon temps, et parfois à ma demande, je tardais au travail, mais c'est mon libre arbitre, je ne veux pas - je Ne fera pas.Je suis d'accord avec vous que je dois ajuster mon temps, je fais cela essayer de décider et d'être au temps de travail MSC en contact, j'ai toute une difficulté avec un rêve.Ce n'est pas votre problème, mais je pense qu'il est utile que vous sachiez.
+
+2021-03-11T15:38:17.792434  driver@q3mcco35auwcstmt.onion
+	[ru] 2. Я получил часть с индексацией насколько помню примерно неделю назад это репозиторий storage_ex. Не думаю, что моя ответственность - знать все репозитории, которые мне нужно изучить, если бы он был у меня раньше то ситуация, когда я смотрю на код, и не понимаю как с ним работать скорее всего была бы не такой фатальной. 
+Я думаю - моя ответственность разобраться, и решать задачи, и я в силу своих способностей и скорости считаю, что справляюсь с этим.
+Твоя задача и других заинтирисованных лиц, выдать мне доступы, код, сервера и всё что нужно для эффективной работы, я не думаю, что с этим всё идеально, поэтому ответственность конкретно здесь ваша.
+Я считаю, что ситуация, когда я не могу быстро решить вопрос нормальная с учетом условий в которых я оказался. Я - не Мав, я другой человек, я стараюсь делать свою работу и прикладываю достаточно усилий.
+Работать на износ я не собираюсь, работа "до результата" и круглыми сутками - прямой путь к выгоранию, если ты считаешь, что я - функция, то я с таким подходом не согласен и буду дальше на этом настаивать.
+	[en] 2. I got a part with the indexation as far as I remember about a week ago, this is a storage_ex repository. I do not think that my responsibility is to know all the repositories that I need to learn if he had been with me before the situation when I look at the code, and I do not understand how it would most likely work with him.
+I think my responsibility to figure out, and solve the tasks, and I think that I do not care about it.
+Your task and other squeezed persons, give me access, code, server and everything you need for efficient work, I do not think that everything is perfect with that, therefore, the responsibility specifically here is yours.
+I believe that the situation when I cannot quickly resolve the question is normal with the conditions in which I was. I am not a maw, I am another person, I try to do my job and make enough effort.
+I am not going to work on wear, work "to the result" and round days - a direct path to burnout, if you think that I am a function, then I do not agree with this approach and will continue to insist on this.
+	[fr] 2. J'ai eu une partie avec l'indexation aussi loin que je me souviens d'il y a environ une semaine, il s'agit d'un référentiel de stockage_ex. Je ne pense pas que ma responsabilité consiste à connaître tous les référentiels que je dois apprendre s'il avait été avec moi avant la situation lorsque je regarde le code, et je ne comprends pas comment cela travaillerait probablement avec lui.
+Je pense que ma responsabilité de comprendre et de résoudre les tâches et je pense que je ne m'en souciais pas.
+Votre tâche et d'autres personnes pressées, donnez-moi accès, code, serveur et tout ce dont vous avez besoin pour un travail efficace, je ne pense pas que tout est parfait avec cela, par conséquent, la responsabilité spécifiquement ici est la vôtre.
+Je crois que la situation lorsque je ne peux pas résoudre rapidement la question est normale avec les conditions dans lesquelles j'étais. Je ne suis pas une maw, je suis une autre personne, j'essaie de faire mon travail et de faire suffisamment d'efforts.
+Je ne vais pas travailler sur l'usure, le travail "vers le résultat" et les jours ronds - une voie directe à une épuisement professionnelle, si vous pensez que je suis une fonction, alors je ne suis pas d'accord avec cette approche et continuera d'insister à ce sujet.
+
+2021-03-11T15:38:25.659362  driver@q3mcco35auwcstmt.onion
+	[ru] 3. Любые угрозы в духе - найду другого кодера, или навешивание обязательств, которые я не брал - не ведет к эффективной работе, скорее наоборот. Есть договоренности, и есть диалог как способ решать проблемы.
+З.Ы. Мне как и любому кодеру, наверное спокойней работать в своём темпе, и когда меня гонят куда-то, или не дают времени, я не могу качественно решать свои задачи, понятно что особых условий мне никто не обещал, но если есть такая возможность я за планирование и обсуждение. Продублирую это сообщение Стерну и Сильверу, иначе как-то не понятно всё..
+	[en] 3. Any threats in the Spirit - find another encoder, or hanging the obligations that I did not take - does not lead to effective work, rather, on the contrary. There is an agreement, and there is a dialogue as a way to solve problems.
+ZY I like any encoder, probably calmer to work in my pace, and when they drive me somewhere, or do not give time, I can not qualitatively solve my tasks, it is clear that no one has promised special conditions, but if there is such an opportunity, I am Planning and discussion. I duplicate this message to Stern and Silveliver, otherwise it's not clear everything ..
+	[fr] 3. Toute menace dans l'Esprit - Trouvez un autre codeur ou suspendre les obligations que je n'ai pas prises - ne conduit pas à un travail efficace, plutôt au contraire. Il y a un accord et il y a un dialogue comme moyen de résoudre des problèmes.
+Zy J'aime tout encodeur, probablement plus calme de travailler dans mon rythme, et quand ils me conduisent quelque part ou ne donnent pas de temps, je ne peux pas résoudre qualitativement mes tâches, il est clair que personne n'a promis de conditions spéciales, mais s'il y a tellement Une opportunité, je prévois et discussion. Je déplique ce message à Stern et Silveliver, sinon ce n'est pas clair ..
+
+2021-03-11T15:38:54.125241  driver@q3mcco35auwcstmt.onion
+	[ru] Готов обсудить ситуацию.
+	[en] Ready to discuss the situation.
+	[fr] Prêt à discuter de la situation.
+
+2021-03-11T20:19:00.327513  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+Вот моё сообщение адаму, по поводу всей ситуации с хранилищем т.к. ты писал я хочу прояснить вопрос с ожиданиями, ответственностью, границами и приоритетами.
+	[en] Hello.
+Here is my message to Adam, about the whole situation with the storage facility.You wrote I want to clarify the question with expectations, responsibility, borders and priorities.
+	[fr] Salut.
+Voici mon message à Adam, sur toute la situation avec l'installation de stockage.Vous avez écrit que je souhaite clarifier la question avec des attentes, des responsabilités, des frontières et des priorités.
+
+2021-03-11T20:19:00.328515  driver@q3mcco35auwcstmt.onion
+	[ru] По поводу всей истории с хранилищем вот моя позиция.
+1. Я со своей стороны не согласен с идеей, что я должен быть на связи 24 часа, я продал 8 часов своего времени, и иногда по своему желанию задерживаюсь на работе, но это моя свободная воля, не захочу - не буду. Я согласен с тобой, что мне нужно скорректировать своё время, я этим занимаюсь постараюсь решить и быть в рабочее время мск на связи, у меня в целом сложности со сном. Это не твоя проблема, но думаю, что тебе полезно знать.
+	[en] Regarding the whole story with the repository, here is my position.
+1. I do not agree with the idea that I should be in touch 24 hours, I sold 8 hours of my time, and sometimes at my request I delay at work, but this is my free will, I won't want - I will not.I agree with you that I need to adjust my time, I do this try to decide and be at working time MSC in touch, I have a whole difficulty with a dream.This is not your problem, but I think it is useful for you to know.
+	[fr] En ce qui concerne toute l'histoire avec le référentiel, voici ma position.
+1. Je ne suis pas d'accord avec l'idée que je devrais être en contact 24 heures sur 24, j'ai vendu 8 heures de mon temps, et parfois à ma demande, je tardais au travail, mais c'est mon libre arbitre, je ne veux pas - je Ne fera pas.Je suis d'accord avec vous que je dois ajuster mon temps, je fais cela essayer de décider et d'être au temps de travail MSC en contact, j'ai toute une difficulté avec un rêve.Ce n'est pas votre problème, mais je pense qu'il est utile que vous sachiez.
+
+2021-03-11T20:19:00.333674  driver@q3mcco35auwcstmt.onion
+	[ru] 2. Я получил часть с индексацией насколько помню примерно неделю назад это репозиторий storage_ex. Не думаю, что моя ответственность - знать все репозитории, которые мне нужно изучить, если бы он был у меня раньше то ситуация, когда я смотрю на код, и не понимаю как с ним работать скорее всего была бы не такой фатальной. 
+Я думаю - моя ответственность разобраться, и решать задачи, и я в силу своих способностей и скорости считаю, что справляюсь с этим.
+Твоя задача и других заинтирисованных лиц, выдать мне доступы, код, сервера и всё что нужно для эффективной работы, я не думаю, что с этим всё идеально, поэтому ответственность конкретно здесь ваша.
+Я считаю, что ситуация, когда я не могу быстро решить вопрос нормальная с учетом условий в которых я оказался. Я - не Мав, я другой человек, я стараюсь делать свою работу и прикладываю достаточно усилий.
+Работать на износ я не собираюсь, работа "до результата" и круглыми сутками - прямой путь к выгоранию, если ты считаешь, что я - функция, то я с таким подходом не согласен и буду дальше на этом настаивать.
+	[en] 2. I got a part with the indexation as far as I remember about a week ago, this is a storage_ex repository. I do not think that my responsibility is to know all the repositories that I need to learn if he had been with me before the situation when I look at the code, and I do not understand how it would most likely work with him.
+I think my responsibility to figure out, and solve the tasks, and I think that I do not care about it.
+Your task and other squeezed persons, give me access, code, server and everything you need for efficient work, I do not think that everything is perfect with that, therefore, the responsibility specifically here is yours.
+I believe that the situation when I cannot quickly resolve the question is normal with the conditions in which I was. I am not a maw, I am another person, I try to do my job and make enough effort.
+I am not going to work on wear, work "to the result" and round days - a direct path to burnout, if you think that I am a function, then I do not agree with this approach and will continue to insist on this.
+	[fr] 2. J'ai eu une partie avec l'indexation aussi loin que je me souviens d'il y a environ une semaine, il s'agit d'un référentiel de stockage_ex. Je ne pense pas que ma responsabilité consiste à connaître tous les référentiels que je dois apprendre s'il avait été avec moi avant la situation lorsque je regarde le code, et je ne comprends pas comment cela travaillerait probablement avec lui.
+Je pense que ma responsabilité de comprendre et de résoudre les tâches et je pense que je ne m'en souciais pas.
+Votre tâche et d'autres personnes pressées, donnez-moi accès, code, serveur et tout ce dont vous avez besoin pour un travail efficace, je ne pense pas que tout est parfait avec cela, par conséquent, la responsabilité spécifiquement ici est la vôtre.
+Je crois que la situation lorsque je ne peux pas résoudre rapidement la question est normale avec les conditions dans lesquelles j'étais. Je ne suis pas une maw, je suis une autre personne, j'essaie de faire mon travail et de faire suffisamment d'efforts.
+Je ne vais pas travailler sur l'usure, le travail "vers le résultat" et les jours ronds - une voie directe à une épuisement professionnelle, si vous pensez que je suis une fonction, alors je ne suis pas d'accord avec cette approche et continuera d'insister à ce sujet.
+
+2021-03-11T20:19:00.343156  driver@q3mcco35auwcstmt.onion
+	[ru] 3. Любые угрозы в духе - найду другого кодера, или навешивание обязательств, которые я не брал - не ведет к эффективной работе, скорее наоборот. Есть договоренности, и есть диалог как способ решать проблемы.
+З.Ы. Мне как и любому кодеру, наверное спокойней работать в своём темпе, и когда меня гонят куда-то, или не дают времени, я не могу качественно решать свои задачи, понятно что особых условий мне никто не обещал, но если есть такая возможность я за планирование и обсуждение. Продублирую это сообщение Стерну и Сильверу, иначе как-то не понятно всё..
+	[en] 3. Any threats in the Spirit - find another encoder, or hanging the obligations that I did not take - does not lead to effective work, rather, on the contrary. There is an agreement, and there is a dialogue as a way to solve problems.
+ZY I like any encoder, probably calmer to work in my pace, and when they drive me somewhere, or do not give time, I can not qualitatively solve my tasks, it is clear that no one has promised special conditions, but if there is such an opportunity, I am Planning and discussion. I duplicate this message to Stern and Silveliver, otherwise it's not clear everything ..
+	[fr] 3. Toute menace dans l'Esprit - Trouvez un autre codeur ou suspendre les obligations que je n'ai pas prises - ne conduit pas à un travail efficace, plutôt au contraire. Il y a un accord et il y a un dialogue comme moyen de résoudre des problèmes.
+Zy J'aime tout encodeur, probablement plus calme de travailler dans mon rythme, et quand ils me conduisent quelque part ou ne donnent pas de temps, je ne peux pas résoudre qualitativement mes tâches, il est clair que personne n'a promis de conditions spéciales, mais s'il y a tellement Une opportunité, je prévois et discussion. Je déplique ce message à Stern et Silveliver, sinon ce n'est pas clair ..
+
+2021-03-11T20:19:00.344083  driver@q3mcco35auwcstmt.onion
+	[ru] Готов обсудить ситуацию.
+	[en] Ready to discuss the situation.
+	[fr] Prêt à discuter de la situation.
+
+2021-03-12T02:20:59.483118  stern@q3mcco35auwcstmt.onion
+	[ru] я тебя понял
+	[en] I understood you
+	[fr] Je vous ai compris
+
+2021-03-12T12:37:45.995154  stern@q3mcco35auwcstmt.onion
+	[ru] я тебя понял
+	[en] I understood you
+	[fr] Je vous ai compris
+
+2021-03-12T15:17:24.792572  stern@q3mcco35auwcstmt.onion
+	[ru] Привет, как у кого дела, пишите результаты, успехи или неудачи
+	[en] Hello, how are you doing, write results, successes or failures
+	[fr] Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs
+
+2021-03-12T15:18:03.083646  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+Я поднял дног и аук
+	[en] Hello.
+I raised Dnog and Auk
+	[fr] Salut.
+J'ai soulevé DNog et Auk
+
+2021-03-12T15:19:01.086669  stern@q3mcco35auwcstmt.onion
+	[ru] ага отлично
+	[en] Yeah Excellent
+	[fr] Ouais excellent
+
+2021-03-12T15:19:01.750970  driver@q3mcco35auwcstmt.onion
+	[ru] Решаю вопрос с пропавшими логами, нужно сделать чекер который проверяет что лог попал в админку из базы и если не попал его записывать. Сегодня доделаю ,если не успею в выхи сидеть буду
+	[en] I decide with the missing logs, you need to make a checker who checks that the log hit the admin from the base and if he did not hit it.Today I will finish, if I do not have time to sit in Vykhi
+	[fr] Je décide des journaux manquants, vous devez créer un vérificateur qui vérifie que le journal a frappé l'administrateur de la base et s'il ne l'a pas frappé.Aujourd'hui, je vais finir, si je n'ai pas le temps de m'asseoir à Vykhi
+
+2021-03-12T15:23:44.681960  stern@q3mcco35auwcstmt.onion
+	[ru] хорошо
+	[en] Okay
+	[fr] D'accord
+
+2021-03-12T16:02:08.764384  stern@q3mcco35auwcstmt.onion
+	[ru] ау
+	[en] AU
+	[fr] Autant
+
+2021-03-12T16:02:15.645308  stern@q3mcco35auwcstmt.onion
+	[ru] поиск в хранилище не работает
+	[en] The search in the repository does not work
+	[fr] La recherche dans le référentiel ne fonctionne pas
+
+2021-03-12T16:02:17.291942  stern@q3mcco35auwcstmt.onion
+	[ru] пишут юзеры
+	[en] Support users
+	[fr] Soutenir les utilisateurs
+
+2021-03-12T16:07:22.222336  driver@q3mcco35auwcstmt.onion
+	[ru] аук?
+	[en] AUC?
+	[fr] AUC?
+
+2021-03-12T16:07:59.084741  driver@q3mcco35auwcstmt.onion
+	[ru] Сейчас посмотрю.
+	[en] Now I'll see.
+	[fr] Maintenant, je vais voir.
+
+2021-03-12T16:09:33.666400  driver@q3mcco35auwcstmt.onion
+	[ru] Есть какой то пример, чтобы воспроизвести проблему?
+	[en] Is there any example to reproduce the problem?
+	[fr] Y a-t-il un exemple pour reproduire le problème?
+
+2021-03-12T16:10:50.946777  driver@q3mcco35auwcstmt.onion
+	[ru] Ботлист вижу - чиню.
+	[en] Botfist see - Chiny.
+	[fr] Botfist Voir - Chiny.
+
+2021-03-12T16:23:06.222543  driver@q3mcco35auwcstmt.onion
+	[ru] Реиндекс сделал, всё ок, работает как должно?
+	[en] Reindex did, everything is ok, how should it?
+	[fr] Reindex a fait, tout va bien, comment devrait-il?
+
+2021-03-12T16:33:50.522676  stern@q3mcco35auwcstmt.onion
+	[ru] хз
+	[en] xs.
+	[fr] xs.
+
+2021-03-12T16:33:53.002107  stern@q3mcco35auwcstmt.onion
+	[ru] ща проверю
+	[en] SchA check
+	[fr] Che chèque scha
+
+2021-03-12T19:39:11.868205  driver@q3mcco35auwcstmt.onion
+	[ru] Логи появились потерянные, завтра ещё раз зайду, проверю как работает всё
+	[en] Logs appeared lost, tomorrow I will come again, I will check how everything works
+	[fr] Les journaux sont apparus perdus, demain je reviendrai, je vais vérifier comment tout fonctionne
+
+2021-03-15T20:15:29.485956  driver@q3mcco35auwcstmt.onion
+	[ru] Логи появились потерянные, завтра ещё раз зайду, проверю как работает всё
+	[en] Logs appeared lost, tomorrow I will come again, I will check how everything works
+	[fr] Les journaux sont apparus perdus, demain je reviendrai, je vais vérifier comment tout fonctionne
+
+2021-05-06T06:49:06.365831  stern@q3mcco35auwcstmt.onion
+	[ru] 1
+	[en] <?>
+	[fr] <?>
+
+2021-05-06T06:49:10.977336  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-05-06T06:49:16.627322  stern@q3mcco35auwcstmt.onion
+	[ru] ты черную админку тоже поддерживаешь?
+	[en] <?>
+	[fr] <?>
+
+2021-05-06T18:32:14.679077  stern@q3mcco35auwcstmt.onion
+	[ru] 1
+	[en] <?>
+	[fr] <?>
+
+2021-05-06T18:32:14.679805  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-05-06T18:32:14.680969  stern@q3mcco35auwcstmt.onion
+	[ru] ты черную админку тоже поддерживаешь?
+	[en] <?>
+	[fr] <?>
+
+2021-05-06T18:42:43.911578  driver@q3mcco35auwcstmt.onion
+	[ru] Привет, да
+	[en] <?>
+	[fr] <?>
+
+2021-05-07T12:54:34.687556  driver@q3mcco35auwcstmt.onion
+	[ru] Привет, да
+	[en] <?>
+	[fr] <?>
+
+2021-05-07T12:57:14.825629  stern@q3mcco35auwcstmt.onion
+	[ru] стукни хофу там надо тоже по апи шифровать линк
+	[en] <?>
+	[fr] <?>
+
+2021-05-07T14:06:07.770056  driver@q3mcco35auwcstmt.onion
+	[ru] Ок. Адам скинул таск, в процессе.
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:49:39.275122  stern@q3mcco35auwcstmt.onion
+	[ru] Привет. Как дела? 
+какие результаты у тебя? 
+Какие задачи стоят?
+Какие идеи есть что можно добавить и улучшить?
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:05:13.512741  driver@q3mcco35auwcstmt.onion
+	[ru] Привет, двигаюсь потихоньку.
+Я работаю с админками ботов и умею их настраивать, пока что настраивал импорт и черную.
+Я сейчас разбираюсь с супервизором и документирую его.
+Задача настроить тестовый сервер и сделать колонку нгетворк из одной одминки в другой
+Вообще есть тасклист, там много всего
+Есть задача сделать типа статы по данным какие и куда пришли, куда ушли
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:05:34.084164  driver@q3mcco35auwcstmt.onion
+	[ru] нетворк*
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T14:01:27.703623  driver@q3mcco35auwcstmt.onion
+	[ru] По поводу улучшений, я думаю до этого далеко, но идеи есть я буде их описывал
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T14:01:31.939644  driver@q3mcco35auwcstmt.onion
+	[ru] бузе*
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:30:16.509239  stern@q3mcco35auwcstmt.onion
+	[ru] Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T13:24:57.249575  stern@q3mcco35auwcstmt.onion
+	[ru] Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T08:05:49.343096  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T10:59:03.114431  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:03:23.074469  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:03:39.244461  stern@q3mcco35auwcstmt.onion
+	[ru] отпиши мне
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:03:46.931139  stern@q3mcco35auwcstmt.onion
+	[ru] нужна твоя работа срочная по хранилищу
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:19:20.847492  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:19:27.090596  driver@q3mcco35auwcstmt.onion
+	[ru] Я на связи
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:19:35.089720  driver@q3mcco35auwcstmt.onion
+	[ru] Что нужно сделать?
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:20:11.205140  stern@q3mcco35auwcstmt.onion
+	[ru] ты разобрался с хранилищем как оттуда данные вытаскивать?
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:20:19.781678  stern@q3mcco35auwcstmt.onion
+	[ru] мне нужно в тхт двух файлах, с каждой админки
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:20:24.177494  stern@q3mcco35auwcstmt.onion
+	[ru] такие данные выкачать
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:21:11.727532  stern@q3mcco35auwcstmt.onion
+	[ru] Country
+Bot ID
+link: etrade.com
+login
+pass
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:21:21.862539  stern@q3mcco35auwcstmt.onion
+	[ru] два тхт надо
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:21:26.326721  stern@q3mcco35auwcstmt.onion
+	[ru] по каждой админке
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:21:28.994105  stern@q3mcco35auwcstmt.onion
+	[ru] все акки выкачай
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:21:40.572742  stern@q3mcco35auwcstmt.onion
+	[ru] сейчас и залей мне в зип архиве с паролем на sendspace.com
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:22:03.686730  stern@q3mcco35auwcstmt.onion
+	[ru] в зип архиве повторюсь должно быть два тхт. каждая тхт это админка. и акки идут все сверху вниз
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:22:08.936798  stern@q3mcco35auwcstmt.onion
+	[ru] по определенному линку etrade.com
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:22:17.683025  stern@q3mcco35auwcstmt.onion
+	[ru] выкачать надо из Browser Access
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:22:30.190957  stern@q3mcco35auwcstmt.onion
+	[ru] без пароля не выкачивай, только если есть и логин и пароль
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:23:33.267078  driver@q3mcco35auwcstmt.onion
+	[ru] По сути тебе нужны ацессы с логином-паролем по конкретной ссылке etrade.com? 
+Скачать по обоим админкам и скинуть через sendspace.com
+всё верно?
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:24:39.856883  stern@q3mcco35auwcstmt.onion
+	[ru] да
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:24:44.928501  driver@q3mcco35auwcstmt.onion
+	[ru] Ок
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T14:24:46.157954  stern@q3mcco35auwcstmt.onion
+	[ru] в таком порядке как я написал
+	[en] <?>
+	[fr] <?>
+
+2021-07-05T17:52:46.522310  driver@q3mcco35auwcstmt.onion
+	[ru] Такое дело.
+В общем я нашел код который отвечает за выгрузку, судя по всему он заточен был немного на другой формат. Там ссылки типа rackspace и формат краткий
+Получилось выгрузить в формате link:login:pass. Настройка формата, который ты просишь там тоже есть, но я пока не смог сделать по нему.
+В связи с этим 3 вопроса.
+1. Насколько критично будет если я это завтра завершу эту выгрузку?
+2. Это должно быть точное совпадение ссылки или юрлы вида app.servisetrade.com тоже должны быть в выборке?
+3. Бот ид, это его дентификатор вида 971BB5287788095B1DBBCCA9B8CA3BB2 или внутренний ид в админке типа 156789678?
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T05:15:46.433062  driver@q3mcco35auwcstmt.onion
+	[ru] https://www.sendspace.com/file/kudycc
+https://www.sendspace.com/delete/kudycc/a01ad286ab470a7215e9a193821f1a54
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T05:16:27.361207  driver@q3mcco35auwcstmt.onion
+	[ru] https://privnote.com/wbfGCALc#SrS6tpv09
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T13:38:33.574885  driver@q3mcco35auwcstmt.onion
+	[ru] Напиши как будешь там не точное совподение.
+В общем там есть только ссылки вида 
+https://us.etrade.com/e/t/user/login
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T13:38:58.646020  driver@q3mcco35auwcstmt.onion
+	[ru] вида
+https://etrade.com нет
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T13:40:23.343014  driver@q3mcco35auwcstmt.onion
+	[ru] А так я разобрался то что скинул с не верными ссылками, вот этот момент уточнить и сразу могу отправить. там не особо их много
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T13:40:34.862345  driver@q3mcco35auwcstmt.onion
+	[ru] будет
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T18:59:45.715651  driver@q3mcco35auwcstmt.onion
+	[ru] https://www.sendspace.com/file/kudycc
+https://www.sendspace.com/delete/kudycc/a01ad286ab470a7215e9a193821f1a54
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T18:59:45.724500  driver@q3mcco35auwcstmt.onion
+	[ru] https://privnote.com/wbfGCALc#SrS6tpv09
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T18:59:45.898916  driver@q3mcco35auwcstmt.onion
+	[ru] Напиши как будешь там не точное совподение.
+В общем там есть только ссылки вида 
+https://us.etrade.com/e/t/user/login
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T18:59:45.901079  driver@q3mcco35auwcstmt.onion
+	[ru] вида
+https://etrade.com нет
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T18:59:45.903277  driver@q3mcco35auwcstmt.onion
+	[ru] А так я разобрался то что скинул с не верными ссылками, вот этот момент уточнить и сразу могу отправить. там не особо их много
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T18:59:45.907120  driver@q3mcco35auwcstmt.onion
+	[ru] будет
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T19:01:46.330355  stern@q3mcco35auwcstmt.onion
+	[ru] 
+В общем там есть только ссылки вида 
+https://us.etrade.com/e/t/user/login
+
+
+ну да, такая и нужна
+	[en] <?>
+	[fr] <?>
+
+2021-07-06T21:35:10.511748  stern@q3mcco35auwcstmt.onion
+	[ru] 
+В общем там есть только ссылки вида 
+https://us.etrade.com/e/t/user/login
+
+
+ну да, такая и нужна
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T09:35:33.165198  driver@q3mcco35auwcstmt.onion
+	[ru] https://www.sendspace.com/file/lfxsm9
+https://www.sendspace.com/delete/lfxsm9/485974225c75226b4ab1206cd7777080
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T09:35:38.980599  driver@q3mcco35auwcstmt.onion
+	[ru] Готово.
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T09:36:34.354605  driver@q3mcco35auwcstmt.onion
+	[ru] https://privnote.com/Hmchrcaz#KY9q2VTat
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T09:37:46.069311  driver@q3mcco35auwcstmt.onion
+	[ru] 05b.. - с админки аук
+Второй с дног7
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T09:38:19.807070  driver@q3mcco35auwcstmt.onion
+	[ru] Если будут еще такие задачи будет быстрей.
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T14:31:55.210923  driver@q3mcco35auwcstmt.onion
+	[ru] https://www.sendspace.com/file/lfxsm9
+https://www.sendspace.com/delete/lfxsm9/485974225c75226b4ab1206cd7777080
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T14:31:55.218050  driver@q3mcco35auwcstmt.onion
+	[ru] Готово.
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T14:31:55.220331  driver@q3mcco35auwcstmt.onion
+	[ru] https://privnote.com/Hmchrcaz#KY9q2VTat
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T14:31:55.224894  driver@q3mcco35auwcstmt.onion
+	[ru] 05b.. - с админки аук
+Второй с дног7
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T14:31:55.227035  driver@q3mcco35auwcstmt.onion
+	[ru] Если будут еще такие задачи будет быстрей.
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T18:56:26.334631  stern@q3mcco35auwcstmt.onion
+	[ru] там три срочных заданий
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T18:56:28.464415  stern@q3mcco35auwcstmt.onion
+	[ru] определение ав
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T18:56:37.730181  stern@q3mcco35auwcstmt.onion
+	[ru] оно уже есть надо перенести и показывать с botlist
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T18:56:55.464572  stern@q3mcco35auwcstmt.onion
+	[ru] потом сделать как-то чтобы боты с однго и того же ip показвыались где-то в одном месте и было видно  с других ip удобно
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T18:57:02.078029  stern@q3mcco35auwcstmt.onion
+	[ru] и чтобы свежие новые боты как-то сверху рисовались
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T19:02:06.531996  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+Насколько срочно, если завтра до вечера срок возьму, нормалньо будет?
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T19:02:56.599316  driver@q3mcco35auwcstmt.onion
+	[ru] Край, среда первая половина дня, я если вдруг что то не по плану пойдет.
+	[en] <?>
+	[fr] <?>
+
+2021-07-19T19:26:53.654889  stern@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] <?>
+	[fr] <?>
+
+2021-08-05T17:38:48.817874  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+Сделал в обоих хранилищах галочку группировки по ip и возможность сортировки по Created At.
+Чек АВ на след неделе допилю.
+	[en] <?>
+	[fr] <?>
+
+2021-08-06T14:10:52.727633  driver@q3mcco35auwcstmt.onion
+	[ru] Привет.
+Сделал в обоих хранилищах галочку группировки по ip и возможность сортировки по Created At.
+Чек АВ на след неделе допилю.
+	[en] <?>
+	[fr] <?>
+
+2021-08-10T11:03:46.072481  stern@q3mcco35auwcstmt.onion
+	[ru] поторопись с внц
+	[en] <?>
+	[fr] <?>
+
+2021-08-10T11:03:46.909666  stern@q3mcco35auwcstmt.onion
+	[ru] новым
+	[en] <?>
+	[fr] <?>
+
+2021-08-10T12:42:52.574263  stern@q3mcco35auwcstmt.onion
+	[ru] поторопись с внц
+	[en] <?>
+	[fr] <?>
+
+2021-08-10T12:42:52.579251  stern@q3mcco35auwcstmt.onion
+	[ru] новым
+	[en] <?>
+	[fr] <?>
+
+2021-08-10T12:44:50.616549  driver@q3mcco35auwcstmt.onion
+	[ru] Привет
+Уточню у грема ,что с ним.
+	[en] <?>
+	[fr] <?>
+
+2021-08-10T15:07:35.796527  driver@q3mcco35auwcstmt.onion
+	[ru] Привет
+Уточню у грема ,что с ним.
+	[en] <?>
+	[fr] <?>
+
+2021-08-16T13:58:56.872603  driver@q3mcco35auwcstmt.onion
+	[ru] Привет
+Я тут наблюдаю что новые фичи появляются, и беспокоится начинаю. Тут такая история что я планировал в отпуск уйти.
+Хочется отдохнуть успеть, лето уже заканчивается я год без отдыха.
+В связи с этим хочу попросить не закидывать новыми тасками близжайшие 3-4 недели на функционал. Я постараюсь сегодня, максимум завтра по чеку АВ доделать, у меня данные есть, но с регулярками нужно доделать.
+
+Я сделаю выгрузку по такс, и поправлю логпост, допилю с николасом куки и передам систему на поддержку, пока точно не знаю кому, но обсуждаем.
+Я вернусь с отпуска и будем спокойно дальше разрабатывать систему. Сейчас я вижу, что приоритетны баги чтобы спокойно работать 3 таска (1 от тебя и 2 от робина).
+Я вернусь с отпуска и буду готов дальше заняться разработкой систему и фич в ней уже.
+Как думаешь есть возможность ограничить пока запросы на новые функции?
+	[en] <?>
+	[fr] <?>
+
+2021-08-16T14:00:04.392602  stern@q3mcco35auwcstmt.onion
+	[ru] Привет ок
+	[en] <?>
+	[fr] <?>
+
+2021-08-16T14:00:07.232651  stern@q3mcco35auwcstmt.onion
+	[ru] а что еще добавили ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-16T14:01:36.663323  driver@q3mcco35auwcstmt.onion
+	[ru] Я писал, поле Created с возможностью сортировки сейчас есть ,Можно самых новых ботов сделать.
+И галочка Group IPs дает нам по 1 ипу 1 бота, самого свежего, вывает что дает оффлайн бота, но можно сделать фильтр по статусу и все ок тогда.
+	[en] <?>
+	[fr] <?>
+
+2021-08-16T14:02:44.754184  driver@q3mcco35auwcstmt.onion
+	[ru] Поле и галочка в разделе ботлист, поле Check AV я доделываю, нужен будет наверное фильтр какой-то, чтобы можно было только ботов с\без АВ получить в ботлисте?
+	[en] <?>
+	[fr] <?>
+
+2021-08-16T14:03:10.859792  driver@q3mcco35auwcstmt.onion
+	[ru] Или достаточно поля, и фильтр не нужен?
+	[en] <?>
+	[fr] <?>
+
+2021-08-16T14:04:42.020348  stern@q3mcco35auwcstmt.onion
+	[ru] я думаю пока только поля, чтобы было видно какие ав стоят на боте
+	[en] <?>
+	[fr] <?>
+
+2021-08-16T14:05:56.131374  driver@q3mcco35auwcstmt.onion
+	[ru] Ок, я Не думаю что больше 2х кто то ставит, выведу в этой графе название(я) АВ просто пока.
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T07:59:59.788150  stern@q3mcco35auwcstmt.onion
+	[ru] Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T11:39:08.038748  stern@q3mcco35auwcstmt.onion
+	[ru] Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+	[en] <?>
+	[fr] <?>
+

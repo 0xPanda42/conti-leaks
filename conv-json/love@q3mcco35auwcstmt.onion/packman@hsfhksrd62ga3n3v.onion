@@ -1,0 +1,12 @@
+{
+    "2021-06-23T18:47:45.040387": {
+        "src": "love@q3mcco35auwcstmt.onion",
+        "dst": "packman@hsfhksrd62ga3n3v.onion",
+        "body": "hi"
+    },
+    "2021-06-23T18:47:45.041109": {
+        "src": "packman@hsfhksrd62ga3n3v.onion",
+        "dst": "love@q3mcco35auwcstmt.onion",
+        "body": "hi"
+    }
+}

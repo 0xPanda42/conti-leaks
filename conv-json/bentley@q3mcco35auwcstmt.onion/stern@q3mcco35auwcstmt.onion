@@ -1,0 +1,2620 @@
+{
+    "2021-02-02T15:47:51.140251": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "\n[15:47:08] <balzak> гружу yellow\n[15:47:22] <balzak> на нового трика",
+        "body_fr": "[15:47:08] <BALZAK> Geellow\n[15:47:22] <BALZAK> sur le nouveau truc",
+        "body_en": "[15:47:08] <Balzak> Geellow\n[15:47:22] <Balzak> on the new trick"
+    },
+    "2021-02-03T16:00:50.047217": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-09T12:13:17.913568": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.",
+        "body_fr": "Salut.",
+        "body_en": "Hello."
+    },
+    "2021-02-16T22:58:43.431659": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ку",
+        "body_fr": "ku",
+        "body_en": "ku"
+    },
+    "2021-02-16T22:58:45.383805": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "добавь к себе",
+        "body_fr": "ajouter à moi",
+        "body_en": "add to me"
+    },
+    "2021-02-16T22:58:46.078189": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "veron@",
+        "body_fr": "Veron @",
+        "body_en": "Veron @"
+    },
+    "2021-02-16T22:58:48.673418": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ему файлынужны будут",
+        "body_fr": "Il sera déposé",
+        "body_en": "He will be filed"
+    },
+    "2021-02-17T07:46:25.871913": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ку",
+        "body_fr": "ku",
+        "body_en": "ku"
+    },
+    "2021-02-17T07:46:25.873166": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "добавь к себе",
+        "body_fr": "ajouter à moi",
+        "body_en": "add to me"
+    },
+    "2021-02-17T07:46:25.873641": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "veron@",
+        "body_fr": "Veron @",
+        "body_en": "Veron @"
+    },
+    "2021-02-17T07:46:25.874462": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ему файлынужны будут",
+        "body_fr": "Il sera déposé",
+        "body_en": "He will be filed"
+    },
+    "2021-02-17T07:46:51.407531": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "хорошо",
+        "body_fr": "D'accord",
+        "body_en": "Okay"
+    },
+    "2021-02-17T10:03:45.092777": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "хорошо",
+        "body_fr": "D'accord",
+        "body_en": "Okay"
+    },
+    "2021-02-18T20:08:49.944843": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "надо таргету выдать трика",
+        "body_fr": "Nous devons cibler la cible",
+        "body_en": "We must target Target"
+    },
+    "2021-02-18T20:08:53.729557": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "криптованного нашим криптером",
+        "body_fr": "Crypté par notre cryptome",
+        "body_en": "Crypticed by our cryptome"
+    },
+    "2021-02-18T20:09:09.159925": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо когда?",
+        "body_fr": "OK quand?",
+        "body_en": "OK, when?"
+    },
+    "2021-02-18T20:09:25.675585": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "завтра к 11 утра",
+        "body_fr": "Demain avant 11 heures",
+        "body_en": "Tomorrow by 11 am"
+    },
+    "2021-02-18T20:09:37.552909": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В какю админку?",
+        "body_fr": "Quel administrateur?",
+        "body_en": "What administrator?"
+    },
+    "2021-02-19T11:57:16.670347": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ты чего трик не дал?",
+        "body_fr": "Pourquoi n'avez-vous pas donné tour?",
+        "body_en": "Why didn't you give trick?"
+    },
+    "2021-02-19T11:57:18.878271": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "к 11 утра",
+        "body_fr": "par 11 heures du matin",
+        "body_en": "by 11 in the morning"
+    },
+    "2021-02-19T11:58:11.154846": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Не успели к тому времени.",
+        "body_fr": "N'a pas eu le temps à l'époque.",
+        "body_en": "Did not have time to the time."
+    },
+    "2021-02-19T11:58:20.851736": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "херово",
+        "body_fr": "Khronovo",
+        "body_en": "Khronovo"
+    },
+    "2021-02-19T11:58:27.463387": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "надо было договориться со всеми заранее",
+        "body_fr": "Il était nécessaire d'être d'accord avec tout d'avance",
+        "body_en": "It was necessary to agree with all in advance"
+    },
+    "2021-02-19T11:58:31.393170": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "На понедельник сделаем",
+        "body_fr": "Lundi",
+        "body_en": "Monday do"
+    },
+    "2021-02-19T11:58:37.117161": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "это понятно",
+        "body_fr": "Ceci est clair",
+        "body_en": "This is clear"
+    },
+    "2021-02-19T11:58:39.151807": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ночью уженикого не было",
+        "body_fr": "La nuit, il n'y avait pas de joug",
+        "body_en": "At night there was no yoke"
+    },
+    "2021-02-19T11:58:41.786140": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "сегодня к 11 надо было",
+        "body_fr": "Aujourd'hui, il était nécessaire",
+        "body_en": "Today it was necessary"
+    },
+    "2021-02-19T11:58:51.482066": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а кто там нужен кроме хофа ?",
+        "body_fr": "Et qui est nécessaire là-bas sauf hofa?",
+        "body_en": "And who is needed there except Hofa?"
+    },
+    "2021-02-19T11:58:56.468956": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "чтобы файл дать",
+        "body_fr": "Donner un fichier",
+        "body_en": "To give a file"
+    },
+    "2021-02-19T11:59:01.494504": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Были с ложности с криптом и исходником",
+        "body_fr": "Étaient avec mensonge avec crypte et source",
+        "body_en": "Were with falsehood with crypt and source"
+    },
+    "2021-02-19T11:59:02.855250": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ты мне вчера ничег не писал",
+        "body_fr": "Vous n'avez rien écrit hier",
+        "body_en": "You did not write anything yesterday"
+    },
+    "2021-02-19T11:59:06.525343": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "у кого ?",
+        "body_fr": "OMS ?",
+        "body_en": "who ?"
+    },
+    "2021-02-19T11:59:11.671953": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "у таргета свой криптер",
+        "body_fr": "La cible a sa crypte",
+        "body_en": "Target has his crypt"
+    },
+    "2021-02-19T11:59:24.658213": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "и он с 7 утра тут",
+        "body_fr": "Et il de 7h heure ici",
+        "body_en": "And he from 7 am here"
+    },
+    "2021-02-19T11:59:27.432472": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ждал тебя",
+        "body_fr": "attendait toi",
+        "body_en": "was waiting for you"
+    },
+    "2021-02-19T11:59:37.834749": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я думал ему крипт",
+        "body_fr": "Je pensais qu'il crypte",
+        "body_en": "I thought he crypt"
+    },
+    "2021-02-19T11:59:39.812564": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Stern> надо таргету выдать трика\n[19.02.2021 03:08:46] <Stern> криптованного нашим криптером",
+        "body_fr": "<Stern> Vous devez donner la cible\n[19.02.2021 03:08:46] <Stern> enveloppé par notre crypte",
+        "body_en": "<Stern> you need to give Target\n[19.02.2021 03:08:46] <Stern> wrapped by our crypt"
+    },
+    "2021-02-19T11:59:43.691432": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Делали крипт",
+        "body_fr": "Krypt a-t-il fait",
+        "body_en": "Did Krypt"
+    },
+    "2021-02-19T11:59:57.526820": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Если бы просто билд то конечно успели бы к 11",
+        "body_fr": "Si juste construire, bien sûr, ils auraient du temps à 11",
+        "body_en": "If just build, of course, they would have time to 11"
+    },
+    "2021-02-19T12:00:09.190727": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ты с ним списался",
+        "body_fr": "Tu le frappe",
+        "body_en": "You hit him"
+    },
+    "2021-02-19T12:00:11.885065": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "написал ему что нет крипта ?",
+        "body_fr": "Lui a écrit qu'il n'y a pas de crypte?",
+        "body_en": "Wrote to him that there is no crypt?"
+    },
+    "2021-02-19T12:00:14.846668": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "блин тупость",
+        "body_fr": "sacrésialité",
+        "body_en": "damn stupidity"
+    },
+    "2021-02-19T12:00:16.184305": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Какя  унего жаба?",
+        "body_fr": "Quel est son crapaud?",
+        "body_en": "What is his toad?"
+    },
+    "2021-02-19T12:00:19.713111": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "target@",
+        "body_fr": "Cible @",
+        "body_en": "Target @"
+    },
+    "2021-02-19T12:00:25.178066": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "жабу надо было вчера еще взять",
+        "body_fr": "Crapaud dû prendre hier",
+        "body_en": "Toad had to take yesterday"
+    },
+    "2021-02-19T12:01:11.957721": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Он офф у меня В онлайн не выходл",
+        "body_fr": "Il est en ligne en ligne",
+        "body_en": "He is off my online online"
+    },
+    "2021-02-19T12:01:30.573292": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": " <smtbrowser@thesecure.biz> Я от Стерна по поручению Думса, мне нужен трик с админкой и билдом",
+        "body_fr": "<smtbrowser@thesecure.biz> Je suis de Stern sur les instructions de Dums, j'ai besoin d'un tour avec admin et construire",
+        "body_en": "<smtbrowser@thesecure.biz> I'm from Stern on the instructions of Dums, I need a trick with admin and build"
+    },
+    "2021-02-19T12:01:33.239483": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это не он?",
+        "body_fr": "Ce n'est pas lui?",
+        "body_en": "It's not him?"
+    },
+    "2021-02-19T12:02:21.690514": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "тебе писал кодер от таргета",
+        "body_fr": "J'ai écrit au codeur de la cible",
+        "body_en": "I wrote to the encoder from Target"
+    },
+    "2021-02-19T12:02:28.735594": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "которому надо было трика дать",
+        "body_fr": "qui a dû donner un tour",
+        "body_en": "who had to give a trick"
+    },
+    "2021-02-19T12:02:32.997346": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "неважно криптованного ил нет",
+        "body_fr": "peu importe ce que le cryptique malade aucun",
+        "body_en": "no matter what the cryptic ill none"
+    },
+    "2021-02-19T12:02:35.883041": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "если не криптованног",
+        "body_fr": "Si non crypipped",
+        "body_en": "if not crypticed"
+    },
+    "2021-02-19T12:02:46.533865": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "то у него есть свои криптеры",
+        "body_fr": "Puis il a ses propres cryptes",
+        "body_en": "then he has his own crypts"
+    },
+    "2021-02-19T12:02:48.396377": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "есть",
+        "body_fr": "manger",
+        "body_en": "eat"
+    },
+    "2021-02-19T12:02:52.190246": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Если не криптованный то я бы выдал к 11",
+        "body_fr": "Sinon pleurer alors je donnerais à 11",
+        "body_en": "If not crying then I would give out to 11"
+    },
+    "2021-02-19T12:02:59.491985": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я думал ему нужен крипт",
+        "body_fr": "Je pensais qu'il avait besoin d'une crypte",
+        "body_en": "I thought he needed a crypt"
+    },
+    "2021-02-19T12:03:00.790441": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а что  ты у него не уточнил?",
+        "body_fr": "Et qu'avez-vous le préciser?",
+        "body_en": "And what did you specify him?"
+    },
+    "2021-02-19T12:03:22.937957": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а что буза по крипторам говорит?",
+        "body_fr": "Et quel est le buzz par les cryptes?",
+        "body_en": "and what is the buzz by the crypts?"
+    },
+    "2021-02-19T12:03:28.754379": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "я думал не пойдет",
+        "body_fr": "Je pensais que ça ne va pas aller",
+        "body_en": "I thought it would not go"
+    },
+    "2021-02-19T12:03:33.154122": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "\"я думал\"",
+        "body_fr": "\"Je pensais\"",
+        "body_en": "\"I thought\""
+    },
+    "2021-02-19T12:03:36.410710": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "тебе не думать надо",
+        "body_fr": "Tu ne penses pas",
+        "body_en": "You do not think"
+    },
+    "2021-02-19T12:03:38.620720": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а спрашивать всегда",
+        "body_fr": "Et demander toujours",
+        "body_en": "And to ask always"
+    },
+    "2021-02-19T12:03:40.023422": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я понимаю.",
+        "body_fr": "Je comprends.",
+        "body_en": "I understand."
+    },
+    "2021-02-19T12:04:07.904189": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "\n[12:03:08] <Stern> а ты говорил что криптеры готовы\n[12:03:13] <Stern> почему бентли сегодня к 11 не криптанули ?\n[12:03:25] ***  Unverified conversation started\n[12:03:36] <buza> щас разберусь\n[12:03:38] <buza> мне никто ничего",
+        "body_fr": "[12:03:08] <Stern> et vous avez dit que les cryptères sont prêts\n[12:03:13] <STERN> Pourquoi Bentley aujourd'hui n'était pas crypté aujourd'hui?\n[12:03:25] *** La conversation non vérifiée a commencé\n[12:03:36] <Buza> en ce moment je vais traiter\n[12:03:38] <Buza> personne",
+        "body_en": "[12:03:08] <Stern> And you said that the crypthers are ready\n[12:03:13] <Stern> Why Bentley today was not crypticed today?\n[12:03:25] *** Unverified Conversation Started\n[12:03:36] <buza> right now I will deal\n[12:03:38] <buza> nobody"
+    },
+    "2021-02-19T12:04:10.893196": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "у нас 4 криптера",
+        "body_fr": "Nous avons 4 crypte",
+        "body_en": "We have 4 crypt"
+    },
+    "2021-02-19T12:04:12.429580": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "у бузы",
+        "body_fr": "à Buza",
+        "body_en": "in Buza"
+    },
+    "2021-02-19T12:04:17.242095": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "наши кодеры",
+        "body_fr": "Nos codeurs",
+        "body_en": "Our coders"
+    },
+    "2021-02-19T12:04:20.637201": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "там готовые криптеры",
+        "body_fr": "Il y a des cryptes prêtes à l'emploi",
+        "body_en": "There are ready-made crypts"
+    },
+    "2021-02-19T12:04:27.274939": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ты куда по криптам писал?",
+        "body_fr": "Où avez-vous écrit dans les cryptes?",
+        "body_en": "Where did you write in the crypts?"
+    },
+    "2021-02-19T12:04:29.284825": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "какие проблемы были",
+        "body_fr": "Quels problèmes étaient",
+        "body_en": "What problems were"
+    },
+    "2021-02-19T12:04:33.447964": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Всем нашим",
+        "body_fr": "Tous nos",
+        "body_en": "All our"
+    },
+    "2021-02-19T12:04:37.372399": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "rjve rjyrhtnyj",
+        "body_fr": "Rjve rjyrhtnyj.",
+        "body_en": "Rjve Rjyrhtnyj."
+    },
+    "2021-02-19T12:04:39.485754": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "кому конкретно",
+        "body_fr": "À qui béton",
+        "body_en": "To whom concrete"
+    },
+    "2021-02-19T12:04:50.881937": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Были проблемы с динамикой детектился на дефе через 15 минут работы",
+        "body_fr": "La dynamique a été détectée par DEFE après 15 minutes de travail.",
+        "body_en": "There were problems with the dynamics was detected by Defe after 15 minutes of work."
+    },
+    "2021-02-19T12:05:01.675152": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "кому ты писал по крипту",
+        "body_fr": "À qui vous avez écrit sur la crypte",
+        "body_en": "To whom you wrote on the crypt"
+    },
+    "2021-02-19T12:05:06.110069": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Делал вани и криптор ис криптопанелеи сам который",
+        "body_fr": "Vanya et la cryptopaneley cryptor",
+        "body_en": "Did Vanya and the cryptopaneley cryptor"
+    },
+    "2021-02-19T12:07:21.230280": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ты сейчас что делаешь",
+        "body_fr": "Tu fais quoi maintenant",
+        "body_en": "What are you doing now"
+    },
+    "2021-02-19T12:07:24.611275": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "помимо этой задачи",
+        "body_fr": "En plus de cette tâche",
+        "body_en": "In addition to this task"
+    },
+    "2021-02-19T12:07:25.866097": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "вобще в целом",
+        "body_fr": "En général, en général",
+        "body_en": "In general, in general"
+    },
+    "2021-02-19T12:08:04.708630": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "если ты еще раз проебешься, то я тебя удалю из жабы навсегда",
+        "body_fr": "Si vous revenez à nouveau, je vous supprimerai du crapaud pour toujours",
+        "body_en": "If you get together again, I will delete you from the toad forever"
+    },
+    "2021-02-19T12:08:22.892709": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "или если кто-то проебется, но задачу тебе поставлю до этого",
+        "body_fr": "ou si quelqu'un continue, mais je vais mettre la tâche avant que",
+        "body_en": "or if someone goes on, but I will put the task before that"
+    },
+    "2021-02-19T12:08:27.460273": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "поэтому отвечай не только за себя",
+        "body_fr": "Par conséquent, répondez non seulement pour vous-même",
+        "body_en": "Therefore, answer not only for yourself"
+    },
+    "2021-02-19T12:08:29.709311": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а за всех сразу",
+        "body_fr": "Et pour tout le monde à la fois",
+        "body_en": "And for everyone at once"
+    },
+    "2021-02-19T12:08:33.221625": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я понял",
+        "body_fr": "j'ai compris",
+        "body_en": "I understood"
+    },
+    "2021-02-22T17:29:13.798933": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Отмена. Подняли админку.",
+        "body_fr": "Annuler.Soulevé l'administrateur.",
+        "body_en": "Cancel.Raised the admin."
+    },
+    "2021-02-22T17:33:06.349568": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Отмена. Подняли админку.",
+        "body_fr": "Annuler.Soulevé l'administrateur.",
+        "body_en": "Cancel.Raised the admin."
+    },
+    "2021-02-24T16:29:44.733107": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-02-24T16:30:31.556725": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Привет ка кдела",
+        "body_fr": "Bonjour comment vas-tu",
+        "body_en": "Hello how are you"
+    },
+    "2021-02-24T16:30:35.301225": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "veron запустился ?",
+        "body_fr": "Veron a commencé?",
+        "body_en": "Veron started?"
+    },
+    "2021-02-24T16:34:40.605196": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.",
+        "body_fr": "Salut.",
+        "body_en": "Hello."
+    },
+    "2021-02-24T16:34:44.165106": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Он начинает в марте",
+        "body_fr": "Il commence en mars",
+        "body_en": "He starts in March"
+    },
+    "2021-02-24T16:35:08.195786": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Работаем над криптами для него. \" наших криптора",
+        "body_fr": "Nous travaillons sur des cryptes pour lui.\"Notre cryptor",
+        "body_en": "We work on crypts for him.\"Our cryptor"
+    },
+    "2021-02-24T16:35:11.339790": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "2",
+        "body_fr": "2.",
+        "body_en": "2."
+    },
+    "2021-03-01T17:41:44.710710": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "првет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-01T17:41:48.923751": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "veron не начал еще?",
+        "body_fr": "Veron n'a pas encore commencé?",
+        "body_en": "Veron did not start yet?"
+    },
+    "2021-03-01T17:42:16.325111": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет. Еще не начанал. Сделали годеый крипт его длл. Ждем как даст полную версию со всеми ньюансами",
+        "body_fr": "Salut.Je n'ai pas encore commencé.Fait une crypte riche de sa DLL.Nous attendons comment donner la version complète avec toutes les nuances",
+        "body_en": "Hello.I have not started yet.Made an affluent crypt of his dll.We are waiting for how to give the full version with all nuances"
+    },
+    "2021-03-03T16:15:52.414872": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Тебя leo@q3mcco35auwcstmt.onion искал. Он дал нам свои файлы на крипт. Пробуем криптовать.",
+        "body_fr": "Salut.Vous leo@q3mcco35auwcstmt.onion cherchait.Il nous a donné ses dossiers à la crypte.Nous essayons de pleurer.",
+        "body_en": "Hello.You leo@q3mcco35auwcstmt.onion was looking for.He gave us his files to Crypt.We try to cry."
+    },
+    "2021-03-03T16:31:02.915698": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет ок",
+        "body_fr": "Salut ok",
+        "body_en": "Hi ok"
+    },
+    "2021-03-05T17:41:05.932267": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет. Сделали крипт длл Лео. Начинаем с понедельника работу",
+        "body_fr": "Salut.Fait un script dll léo.Nous partons du travail lundi",
+        "body_en": "Hello.Made a script dll leo.We start from Monday work"
+    },
+    "2021-03-05T17:44:20.736718": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет отлично",
+        "body_fr": "Salut excellent",
+        "body_en": "Hi excellent"
+    },
+    "2021-03-08T09:50:25.356690": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Какие условия с Лео? Его саппорт спрашивает куда платить за крипты. Сказал, что вы сами договариваетесь с Лео",
+        "body_fr": "Salut.Quelles sont les conditions avec Léo?Sa Capport demande où payer pour les cryptes.Dit-tu être négocié avec Léo",
+        "body_en": "Hello.What are the conditions with Leo?His capport asks where to pay for the crypts.Said you yourself negotiate with Leo"
+    },
+    "2021-03-08T09:52:17.869558": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ghbdtn",
+        "body_fr": "ghbdtn.",
+        "body_en": "ghbdtn."
+    },
+    "2021-03-08T09:52:19.713292": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет да",
+        "body_fr": "salut oui",
+        "body_en": "Hi Yes"
+    },
+    "2021-03-08T09:52:22.109295": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "платить ненадо",
+        "body_fr": "payer inapproprié",
+        "body_en": "pay inappropriate"
+    },
+    "2021-03-08T09:52:29.228693": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понял.",
+        "body_fr": "Compris.",
+        "body_en": "Understood."
+    },
+    "2021-03-08T09:52:46.563894": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Вести учет криптов? По количеству?",
+        "body_fr": "Garder des archives de cryptes?Dans le comte?",
+        "body_en": "To keep records of crypts?In count?"
+    },
+    "2021-03-08T09:53:57.444755": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ye lf",
+        "body_fr": "Ye lf.",
+        "body_en": "YE LF."
+    },
+    "2021-03-08T09:53:58.435182": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ну да",
+        "body_fr": "Hé bien oui",
+        "body_en": "well, yes"
+    },
+    "2021-03-08T09:53:59.134725": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "можно",
+        "body_fr": "pouvez",
+        "body_en": "can"
+    },
+    "2021-03-08T09:54:07.709668": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ок.",
+        "body_fr": "D'ACCORD.",
+        "body_en": "OK."
+    },
+    "2021-03-12T15:17:24.815242": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-12T15:23:08.174196": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет. Хорошо отработали с Ван все задачи по рипту для Лео Вся неделя по 15-20 криптов.",
+        "body_fr": "Prup.Bien travaillé avec van Tous les défis de la RIDUT pour Léo toute la semaine de 15 à 20 cryptes.",
+        "body_en": "Prup.Well worked with Van all challenges on riput for Leo the whole week of 15-20 crypts."
+    },
+    "2021-03-12T15:23:21.800532": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "каждый день.",
+        "body_fr": "tous les jours.",
+        "body_en": "everyday."
+    },
+    "2021-03-12T15:26:35.813181": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет отлично",
+        "body_fr": "Salut excellent",
+        "body_en": "Hi excellent"
+    },
+    "2021-03-24T10:23:36.070203": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-24T10:23:40.315157": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ты какими криптерами ползуешься ?",
+        "body_fr": "Quel genre de cryptes es-tu?",
+        "body_en": "What kind of crypts are you?"
+    },
+    "2021-03-24T10:23:45.044004": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "что они криптуют"
+    },
+    "2021-03-24T10:23:49.874232": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет.",
+        "body_fr": "Salut.",
+        "body_en": "Hello."
+    },
+    "2021-03-24T10:24:11.335744": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Проект лео - Ван он же локеры БК",
+        "body_fr": "Projet LEO - Van, il les mêmes casiers bk",
+        "body_en": "Project Leo - Van He same Lockers BC"
+    },
+    "2021-03-24T10:25:13.220491": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "БК еще clipper, elon, cosmos",
+        "body_fr": "BC Toujours Clipper, Elon, Cosmos",
+        "body_en": "BC still Clipper, Elon, Cosmos"
+    },
+    "2021-03-24T10:25:50.019977": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "как у них них результаты ?",
+        "body_fr": "Comment sont-ils leurs résultats?",
+        "body_en": "How are they their results?"
+    },
+    "2021-03-24T10:25:52.113059": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "кобаи локеры - cosmos",
+        "body_fr": "Casiers Kobai - Cosmos",
+        "body_en": "Kobai Lockers - Cosmos"
+    },
+    "2021-03-24T10:25:57.683861": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "по их криптам",
+        "body_fr": "Selon leurs cryptes",
+        "body_en": "According to their crypts"
+    },
+    "2021-03-24T10:26:00.368533": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "и где вы их проверяете",
+        "body_fr": "et où vous les vérifiez",
+        "body_en": "and where you check them"
+    },
+    "2021-03-24T10:26:04.012582": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Самый лучший - ван",
+        "body_fr": "Le meilleur - van",
+        "body_en": "The best - van"
+    },
+    "2021-03-24T10:26:24.076648": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "проверяем на динчеке статику. И мерч проверяет у себя отстук",
+        "body_fr": "Vérifiez sur Dink Statics.Et se chèques sur",
+        "body_en": "Check on dink statics.And Merch checks on"
+    },
+    "2021-03-24T10:26:35.789229": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "самый лучший покажи результаты тестов от dyncheck",
+        "body_fr": "Meilleur spectacle des résultats des tests de Dyncheck",
+        "body_en": "Best show test results from Dyncheck"
+    },
+    "2021-03-24T10:26:46.647009": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "динамику и статику",
+        "body_fr": "Dynamique et statique",
+        "body_en": "Dynamics and statics"
+    },
+    "2021-03-24T10:26:50.300407": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а деф как проверяете",
+        "body_fr": "et comment vérifier",
+        "body_en": "and how to check"
+    },
+    "2021-03-24T10:27:02.528555": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://dyncheck.com/scan/id/cad102c21de5a13942b7a693bf55919e"
+    },
+    "2021-03-24T10:27:11.626897": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Типичный результат по Лео",
+        "body_fr": "Résultat typique de Leo",
+        "body_en": "Typical result by Leo"
+    },
+    "2021-03-24T10:27:19.597872": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "на запуск на ВМ",
+        "body_fr": "sur le lancement sur vm",
+        "body_en": "on launch on VM"
+    },
+    "2021-03-24T10:27:26.504311": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "дай лог пасс",
+        "body_fr": "Laisser passer le journal",
+        "body_en": "Let Log Pass"
+    },
+    "2021-03-24T10:27:46.263491": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "benalen@exploit.im\nDH*&HKDbs*&TGLksg87whnw40utji$",
+        "body_fr": "benalen@exploit.im\nDH * & HKDBS * & TglkkSG87Whnw40utji $",
+        "body_en": "benalen@exploit.im\nDH * & HKDBS * & TGLKSG87WhNW40UTJI $"
+    },
+    "2021-03-24T10:28:11.178526": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "от дин чека",
+        "body_fr": "De Dean Check",
+        "body_en": "from Dean Check"
+    },
+    "2021-03-24T10:28:18.871646": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "да это он",
+        "body_fr": "Oui, c'est O.",
+        "body_en": "Yes, it is O."
+    },
+    "2021-03-24T10:28:38.940769": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "БК проверяют на статику и запуск на ВМ другие тестеровщики.",
+        "body_fr": "BC Vérifiez la statique et lancez-le à VM d'autres Tetreterovers.",
+        "body_en": "BC check for statics and launch to VM other testerovers."
+    },
+    "2021-03-24T10:28:53.962908": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Кобу проверяем статкика + отстук + деф.",
+        "body_fr": "Cobu Nous vérifions la crack + restez + def.",
+        "body_en": "COBU We check the Crack + Remain + Def."
+    },
+    "2021-03-24T10:29:09.042805": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Так же локеры. Статика + деф + работоспособность на вм",
+        "body_fr": "Aussi casiers.Statique + def + performance sur vm",
+        "body_en": "Also lockers.Static + DEF + performance on VM"
+    },
+    "2021-03-24T10:29:09.708219": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а как вы на дефендер чекаете?",
+        "body_fr": "Et comment vérifiez-vous le déficendeur?",
+        "body_en": "And how do you check on the deforender?"
+    },
+    "2021-03-24T10:29:11.951078": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "была же система",
+        "body_fr": "Il y avait un système",
+        "body_en": "There was a system"
+    },
+    "2021-03-24T10:29:35.186457": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Да но она еще не налажена",
+        "body_fr": "Oui mais il n'est pas encore établi",
+        "body_en": "Yes but it is not yet established"
+    },
+    "2021-03-24T10:30:03.645349": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "пока ферма работает только в режиме корп ав на динамический и статический тест",
+        "body_fr": "Alors que la ferme ne fonctionne que dans le mode AV Corp sur un test dynamique et statique",
+        "body_en": "While the farm works only in Corp AV mode on a dynamic and static test"
+    },
+    "2021-03-24T10:30:15.492265": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "что за ферма",
+        "body_fr": "Quelle ferme",
+        "body_en": "What a farm"
+    },
+    "2021-03-24T10:30:16.947741": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "опиши ее",
+        "body_fr": "la décrypteur",
+        "body_en": "describer her"
+    },
+    "2021-03-24T10:30:24.457107": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "и что с дефом, почему не налажена. и когда наладится",
+        "body_fr": "Et cela avec dégonfle, pourquoi ne pas être établi.Et quand il devient meilleur",
+        "body_en": "And that with deflates, why not being established.And when it becomes better"
+    },
+    "2021-03-24T10:30:52.711997": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сервер Виртуальных машин на линуксе там порядка 50 ВМ с разными антивирусами.",
+        "body_fr": "Le serveur de machines virtuelles sur Linux il y a environ 50 VM avec différents antivirus.",
+        "body_en": "The server of virtual machines on Linux there is about 50 VM with different antiviruses."
+    },
+    "2021-03-24T10:31:01.593910": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Займусь вопрососм отладки дефа.",
+        "body_fr": "Je ferai la question du débogage defa.",
+        "body_en": "I'll do the issue of debugging Defa."
+    },
+    "2021-03-24T10:32:34.085263": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "А пока админку управления этого всего",
+        "body_fr": "Tant que le contrôle administrateur de ce total",
+        "body_en": "As long as the admin control of this total"
+    },
+    "2021-03-24T10:33:13.539716": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://43oxsnqlub6aydymkwpn3agaaj7u2qexx4vwybgrwug46c6yldhuheid.onion/crpanel/",
+        "body_fr": "Https: //43sunklub6aydimkvpnzagaz7u2gex4HeBgrvyuk6ch6yldnuheid.onion/groulet/",
+        "body_en": "HTTPS: //43Sunklub6Aydimkvpnzagaz7U2GEx4TheBGRVYUK6ch6Yldnuheid.ONion/grouplet/"
+    },
+    "2021-03-24T10:33:48.142695": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "admin",
+        "body_fr": "Admin.",
+        "body_en": "Admin."
+    },
+    "2021-03-24T10:33:49.471748": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://qaz.im/zaq/T7YQ3GaA#9TQGK9yK"
+    },
+    "2021-03-24T10:34:14.844289": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это криптопанель куда грузятся файлы и где запускаются тесты",
+        "body_fr": "Ceci est un cryptopanel où les fichiers sont chargés et que les tests sont lancés.",
+        "body_en": "This is a cryptopanel where the files are loaded and the tests are launched."
+    },
+    "2021-03-24T10:34:55.515810": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://195.123.214.177/phpvirtualbox/  \nadmin",
+        "body_fr": "https://195.123.214.177/phpvirtualbox/\nAdmin.",
+        "body_en": "https://195.123.214.177/phpvirtualBox/\nAdmin."
+    },
+    "2021-03-24T10:35:10.866459": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://qaz.im/zaq/HNZeaBrb#ah7eea69"
+    },
+    "2021-03-24T10:35:15.672319": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это сервер ВМ",
+        "body_fr": "Ceci est un serveur VM",
+        "body_en": "This is a VM server"
+    },
+    "2021-03-24T10:35:48.825154": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "тут 21 машина пишет в Machines",
+        "body_fr": "ici 21 voitures écrit dans des machines",
+        "body_en": "here 21 car writes in machines"
+    },
+    "2021-03-24T10:35:49.919251": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "не 50",
+        "body_fr": "pas 50.",
+        "body_en": "not 50."
+    },
+    "2021-03-24T10:36:10.932322": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а что такое first и second?",
+        "body_fr": "Qu'est-ce qui est d'abord et deuxième?",
+        "body_en": "What is FIRST and SECOND?"
+    },
+    "2021-03-24T10:36:32.484336": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "так",
+        "body_fr": "Alors",
+        "body_en": "So"
+    },
+    "2021-03-24T10:37:15.697495": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "там на сервере вм машины разбиты по спискам",
+        "body_fr": "là sur les voitures de serveur VM sont cassées par des listes",
+        "body_en": "there on the server VM cars are broken by lists"
+    },
+    "2021-03-24T10:37:22.829196": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "https://195.123.214.177/phpvirtualbox/"
+    },
+    "2021-03-24T10:37:25.013994": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "который",
+        "body_fr": "lequel à",
+        "body_en": "which the"
+    },
+    "2021-03-24T10:37:40.992477": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Cryptopanel proxy https://173.232.146.104 is down, please call system administrator. Automatic tests are disabled.",
+        "body_fr": "Cryptopanel Proxy https://173.232.146.104 est en panne, veuillez appeler l'administrateur système.Les tests automatiques sont désactivés.",
+        "body_en": "Cryptopanel Proxy https://173.232.146.104 Is Down, Please Call System Administrator.Automatic Tests Are Disabled."
+    },
+    "2021-03-24T10:37:43.976003": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "что это",
+        "body_fr": "Qu'est-ce que c'est",
+        "body_en": "what is this"
+    },
+    "2021-03-24T10:38:24.792320": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это ошибка прокладок. Решим",
+        "body_fr": "Ceci est une erreur d'étanchéité.Décisif",
+        "body_en": "This is a gasket error.Decisive"
+    },
+    "2021-03-24T10:38:58.506713": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "давно так?",
+        "body_fr": "Pendant longtemps?",
+        "body_en": "For a long time?"
+    },
+    "2021-03-24T10:39:21.550776": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Вчера работали автотесты с корп ав",
+        "body_fr": "Hier a travaillé des autotestes avec Corp AV",
+        "body_en": "Yesterday worked autotestes with Corp Av"
+    },
+    "2021-03-24T10:39:44.473161": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а где результаты тестов от автосистемы за последние 2 недели хотябы",
+        "body_fr": "et où les résultats des tests du système automatique des 2 dernières semaines au moins au moins",
+        "body_en": "and where the results of tests from the auto system for the last 2 weeks at least"
+    },
+    "2021-03-24T10:40:43.821169": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "в uncrypted есть файл eicar.com на нем есть тесты.",
+        "body_fr": "Dans Onglested, il y a un fichier eicar.com à ce sujet, il y a des tests.",
+        "body_en": "In uncrypted there is an Eicar.com file on it there are tests."
+    },
+    "2021-03-24T10:42:59.730127": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "VM dont'get file in 10 min",
+        "body_fr": "VM ne reçoit pas de fichier dans 10 min",
+        "body_en": "Vm don't get file in 10 min"
+    },
+    "2021-03-24T10:43:16.781055": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "это значит вм не получила файл",
+        "body_fr": "Cela signifie que VM n'a pas reçu de fichier",
+        "body_en": "It means VM did not receive a file"
+    },
+    "2021-03-24T10:45:08.546165": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "я хочу посмотреть за будущую неделю каждый день как вы проверяете файлы на ав фермах",
+        "body_fr": "Je veux rechercher la semaine future tous les jours lorsque vous vérifiez des fichiers sur AV Farms",
+        "body_en": "I want to look for the future week every day as you check files on av farms"
+    },
+    "2021-03-24T10:45:47.510180": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понял",
+        "body_fr": "Compris",
+        "body_en": "Understood"
+    },
+    "2021-03-24T10:46:13.268834": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "каждый тестировщик должен пользоваться системой",
+        "body_fr": "Chaque testeur doit utiliser le système",
+        "body_en": "Each tester must use the system"
+    },
+    "2021-03-24T10:46:13.510223": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "разбираться в ней",
+        "body_fr": "le comprendre",
+        "body_en": "understand it"
+    },
+    "2021-03-24T10:46:17.844791": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "каждый день пользоваться",
+        "body_fr": "Chaque jour à utiliser",
+        "body_en": "Each day to use"
+    },
+    "2021-03-24T10:46:21.073835": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "для этого ее делали",
+        "body_fr": "pour cela ils l'ont fait",
+        "body_en": "for this they did it"
+    },
+    "2021-03-24T10:46:23.802455": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "и допиливать ее",
+        "body_fr": "et doper",
+        "body_en": "and doping it"
+    },
+    "2021-03-24T10:47:12.202424": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понятно.",
+        "body_fr": "Dégager.",
+        "body_en": "Clear."
+    },
+    "2021-03-24T11:06:04.389845": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "с тестировщиков собирай инфу об авточеках и что надо поменять там пиши бузе или админам",
+        "body_fr": "avec des titulaires de test collectez des informations sur la voiture et de ce que vous devez changer là-bas d'écrire une bulle ou une administration",
+        "body_en": "with test holders collect info about car and what you need to change there writing a bubble or admin"
+    },
+    "2021-03-24T11:06:07.681162": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "чтобы дорабатывали",
+        "body_fr": "Finaliser",
+        "body_en": "To finalize"
+    },
+    "2021-03-24T11:06:12.660084": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "и контролируй",
+        "body_fr": "et contrôle",
+        "body_en": "and control"
+    },
+    "2021-03-24T11:06:12.947468": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "если что пиши мне",
+        "body_fr": "Si tu m'écris",
+        "body_en": "if you write me"
+    },
+    "2021-03-24T11:06:27.938850": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ясно.",
+        "body_fr": "C'est clair.",
+        "body_en": "It's clear."
+    },
+    "2021-04-02T12:06:52.626334": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а откуда там 36 криптов только у вана ?",
+        "body_fr": "Et où sont 36 cryptes là-bas qu'à Vana?",
+        "body_en": "And where are 36 crypts there only at Vana?"
+    },
+    "2021-04-02T12:07:29.725705": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Большая часть для Лео. Ему делаем по 20 -30 криптов каждый день",
+        "body_fr": "La plupart des Léon.Je fais 20 -30 cryptes tous les jours",
+        "body_en": "Most of the Leo.I do 20 -30 crypts every day"
+    },
+    "2021-04-02T12:10:18.100860": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "куда ему столько)",
+        "body_fr": "où il est tellement)",
+        "body_en": "where he so much)"
+    },
+    "2021-04-02T12:10:36.758319": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Не знаю. )) Делаем все что дают.",
+        "body_fr": "Ne sait pas.)) Nous faisons tout ce qu'ils donnent.",
+        "body_en": "Do not know.)) We do everything they give."
+    },
+    "2021-04-02T12:12:28.317822": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ок",
+        "body_fr": "d'accord",
+        "body_en": "OK"
+    },
+    "2021-04-02T12:18:04.361742": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "что там с рамоном ?",
+        "body_fr": "Qu'est-ce qu'il y a avec Ramon?",
+        "body_en": "What is there with Ramon?"
+    },
+    "2021-04-02T12:18:06.548807": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "п омаку",
+        "body_fr": "P omaka",
+        "body_en": "P OMAKA"
+    },
+    "2021-04-02T12:18:07.949226": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "по маку",
+        "body_fr": "Coquelicot",
+        "body_en": "Poppy"
+    },
+    "2021-04-02T12:18:09.900973": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "это тухлая идея",
+        "body_fr": "C'est une idée pourrie",
+        "body_en": "This is a rotten idea"
+    },
+    "2021-04-02T12:18:18.730849": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "но пускай попробует, если это нам ничего не стоит)",
+        "body_fr": "Mais laissez-le essayer, si cela n'en vaut pas la peine)",
+        "body_en": "But let it try, if this is not worth it)"
+    },
+    "2021-04-02T12:18:31.819983": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "У реверса есть наработки троя кросплатформенного.",
+        "body_fr": "L'inverse a une plate-forme multiples.",
+        "body_en": "The reverse has a three cross-platform."
+    },
+    "2021-04-02T12:18:53.002857": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо. Значит делаем",
+        "body_fr": "D'accord.Alors faites-le",
+        "body_en": "Okay.So do it"
+    },
+    "2021-04-02T12:18:53.132299": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "как он его на маке запустит)",
+        "body_fr": "Comment il le lancera sur Mac)",
+        "body_en": "How he will launch him on Mac)"
+    },
+    "2021-04-02T12:19:25.369016": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Надо все писать с нуля под мак",
+        "body_fr": "Besoin d'écrire tout de zéro sous coquelicot",
+        "body_en": "Need to write everything from scratch under poppy"
+    },
+    "2021-04-15T21:30:38.518598": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "netwalker@q3mcco35auwcstmt.onion - добавь к себе"
+    },
+    "2021-04-15T21:30:41.815469": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "это человек от арматы"
+    },
+    "2021-04-15T21:30:46.458826": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "будет грузить ботов с трик бот"
+    },
+    "2021-04-16T07:18:28.467329": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "netwalker@q3mcco35auwcstmt.onion - добавь к себе"
+    },
+    "2021-04-16T07:18:28.470274": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "это человек от арматы"
+    },
+    "2021-04-16T07:18:28.471203": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "будет грузить ботов с трик бот"
+    },
+    "2021-04-16T07:19:15.142223": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понял."
+    },
+    "2021-04-16T07:49:52.929355": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понял."
+    },
+    "2021-04-16T08:03:01.174974": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "списались?"
+    },
+    "2021-04-16T08:06:21.585868": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "написал ему. пока молчит."
+    },
+    "2021-04-16T16:47:35.009719": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Скажи, netwalker@q3mcco35auwcstmt.onion просит доки делать.Мы платим? Или он сам будет платить?"
+    },
+    "2021-04-16T22:59:57.304605": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Скажи, netwalker@q3mcco35auwcstmt.onion просит доки делать.Мы платим? Или он сам будет платить?"
+    },
+    "2021-04-16T23:00:28.673802": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "мы платим"
+    },
+    "2021-04-19T07:55:45.737507": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "мы платим"
+    },
+    "2021-04-19T08:00:41.678483": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ясно."
+    },
+    "2021-04-19T12:52:00.087999": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ясно."
+    },
+    "2021-04-19T15:11:46.326906": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "стукни cherry@ дай ему файлы и док на трика"
+    },
+    "2021-04-19T15:12:09.574842": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо"
+    },
+    "2021-04-19T15:15:24.507095": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В какую админку сделать трик?"
+    },
+    "2021-04-19T15:15:57.919383": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "во вторую"
+    },
+    "2021-04-19T15:16:08.299578": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "анти спам у него 999"
+    },
+    "2021-04-19T15:16:14.786716": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо"
+    },
+    "2021-04-19T15:37:26.797966": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "По докам есть подписка у rand@q3mcco35auwcstmt.onion. 6к в месяц каждый день чистый док. Берем у него? Он выдает стабильно без потерь как мени."
+    },
+    "2021-04-19T17:41:15.274041": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "да возьми"
+    },
+    "2021-04-19T17:43:01.081125": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Тебе кош прислать или манго?"
+    },
+    "2021-04-19T17:48:10.127928": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "давай мне"
+    },
+    "2021-04-19T17:48:20.906098": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Щас"
+    },
+    "2021-04-19T17:51:51.189278": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Crypt13> 14HnaQfsQdtgVSNR91jLcbcKtdyddDfP6D"
+    },
+    "2021-04-19T17:51:55.252655": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "6К $"
+    },
+    "2021-04-19T18:18:00.743521": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Щас"
+    },
+    "2021-04-19T18:18:00.745195": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Crypt13> 14HnaQfsQdtgVSNR91jLcbcKtdyddDfP6D"
+    },
+    "2021-04-19T18:18:00.746878": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "6К $"
+    },
+    "2021-04-19T18:19:00.455853": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-04-20T14:19:23.512184": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-04-20T14:19:26.541651": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "как дела у netwalker"
+    },
+    "2021-04-20T14:19:31.161089": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "его надо быстрее запускать"
+    },
+    "2021-04-20T14:19:34.312525": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-04-20T14:19:40.335593": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Говрит ищет базы."
+    },
+    "2021-04-20T14:20:17.310785": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<netwalker> Пока только то что на этой  недели полюбому уже будет. Щас с базами разберемс"
+    },
+    "2021-04-20T14:20:29.271681": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Чери работает уже."
+    },
+    "2021-04-20T14:20:58.106350": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а cherry запустил ?"
+    },
+    "2021-04-20T14:21:06.572820": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Да."
+    },
+    "2021-04-20T15:34:21.838973": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "[16:33:21] <netwalker@q3mcco35auwcstmt.onion> Бетнил пока не отвчеает я так понимаю на завтра уже."
+    },
+    "2021-04-20T15:34:23.699789": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "что там у вас ?"
+    },
+    "2021-04-20T15:35:14.997246": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я отвечаю. Проблема в том что ему оказалось нужно док под офис 365 без запусков аттачей."
+    },
+    "2021-04-21T13:04:04.318360": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Выдал ехель netwalker"
+    },
+    "2021-04-21T13:04:19.617011": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-04-21T13:04:21.319048": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-04-22T16:23:59.150928": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-04-22T16:24:03.760676": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "какдела у netwalker с рассылкой?"
+    },
+    "2021-04-22T16:24:32.269956": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет шлет. Вчера было 1400 ботов но говрит корпов мало."
+    },
+    "2021-04-22T16:24:44.383470": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а куда шлет?"
+    },
+    "2021-04-22T16:25:03.920413": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<netwalker@q3mcco35auwcstmt.onion> База так себе. Сегодня будем по другой."
+    },
+    "2021-04-22T16:25:14.055257": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "какой ботнет"
+    },
+    "2021-04-22T16:25:31.638912": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "net1 вчера сегодня net2"
+    },
+    "2021-04-22T16:26:17.510131": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "f ult"
+    },
+    "2021-04-22T16:26:18.917209": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а где они?"
+    },
+    "2021-04-22T16:26:20.010972": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "я их не вижу"
+    },
+    "2021-04-22T16:26:22.732966": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "в хранилище"
+    },
+    "2021-04-22T16:26:44.146719": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "В стате много было."
+    },
+    "2021-04-22T16:27:27.423693": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "2 админка."
+    },
+    "2021-04-22T16:29:59.401791": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "странно"
+    },
+    "2021-04-22T16:30:04.042012": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "почему в хранилище нифига нету"
+    },
+    "2021-04-22T16:30:30.454367": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Странно. Напишу дефу."
+    },
+    "2021-04-22T16:30:48.104034": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "у тебя нету доступа в хранилище ?"
+    },
+    "2021-04-22T16:30:51.073108": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ты всегда там смотри"
+    },
+    "2021-04-22T16:30:52.718395": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "стату еще"
+    },
+    "2021-04-22T16:30:53.650852": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-04-22T16:31:44.100743": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "cherry@ надо выдать новый доступ в хранилище. Деф сказал что теперь к тебе по этому вопросу."
+    },
+    "2021-04-26T08:36:17.648481": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. cherry@просит доступ в хранилище"
+    },
+    "2021-04-26T08:36:18.450240": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<cherry@q3mcco35auwcstmt.onion> привет у меня доступа нету \n[11:33:08] <cherry@q3mcco35auwcstmt.onion> я не буду так грузить"
+    },
+    "2021-04-26T17:58:06.178012": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. cherry@просит доступ в хранилище"
+    },
+    "2021-04-26T17:58:06.179393": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<cherry@q3mcco35auwcstmt.onion> привет у меня доступа нету \n[11:33:08] <cherry@q3mcco35auwcstmt.onion> я не буду так грузить"
+    },
+    "2021-04-26T18:12:55.244648": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ghbdtn"
+    },
+    "2021-04-26T18:12:59.986415": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет дай ему доступ к его ботнету"
+    },
+    "2021-04-26T18:13:39.721778": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Напишу дефу."
+    },
+    "2021-04-28T14:30:10.736962": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "\n[13:37:33] <cherry@q3mcco35auwcstmt.onion> привет у тея есть просто логи порыться?\n[13:37:36] <cherry@q3mcco35auwcstmt.onion> юс ка?\n[15:06:56] <cherry@q3mcco35auwcstmt.onion> вообщем я пробовал вам слать,это херня полная выходит,я запорол только базы с отклика свои.То аттач палится,сегодня слал цлеый день оказалсь у вас шел лежит\n[15:06:59] <cherry@q3mcco35auwcstmt.onion> то длл палится\n[15:07:02] <cherry@q3mcco35auwcstmt.onion> постоянно\n[15:07:06] <cherry@q3mcco35auwcstmt.onion> то отсука нету..."
+    },
+    "2021-04-29T15:00:59.045093": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет. Сегодня выдал cherry@ ехель с БК."
+    },
+    "2021-04-30T10:17:00.753698": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "cherry на бк сгружал?"
+    },
+    "2021-04-30T10:17:24.271913": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Еще нет говрит на понедельник"
+    },
+    "2021-04-30T11:19:00.527097": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Просит доступ к хранилищу"
+    },
+    "2021-04-30T11:19:09.791466": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "\n[14:17:20] <netwalker@q3mcco35auwcstmt.onion> Так и не дал доступов \n[14:17:39] <bentley> К админке? \n[14:17:46] <netwalker@q3mcco35auwcstmt.onion> + \n[14:17:50] <bentley> Хранилищу? \n[14:17:58] <netwalker@q3mcco35auwcstmt.onion> к трику \n[14:18:16] <netwalker@q3mcco35auwcstmt.onion> с пятницы прошлой жду"
+    },
+    "2021-04-30T13:52:52.244084": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Просит доступ к хранилищу"
+    },
+    "2021-04-30T13:52:52.247374": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "\n[14:17:20] <netwalker@q3mcco35auwcstmt.onion> Так и не дал доступов \n[14:17:39] <bentley> К админке? \n[14:17:46] <netwalker@q3mcco35auwcstmt.onion> + \n[14:17:50] <bentley> Хранилищу? \n[14:17:58] <netwalker@q3mcco35auwcstmt.onion> к трику \n[14:18:16] <netwalker@q3mcco35auwcstmt.onion> с пятницы прошлой жду"
+    },
+    "2021-04-30T13:58:24.997120": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "дай ему"
+    },
+    "2021-04-30T13:58:27.477980": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "на его ботнет"
+    },
+    "2021-04-30T13:58:34.840443": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "{jhjij"
+    },
+    "2021-04-30T13:58:37.238609": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо"
+    },
+    "2021-04-30T19:50:04.837458": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<netwalker@q3mcco35auwcstmt.onion> просит доступ к внц. Деф сказал попросить у тебя разрешения выдать доступ и софт."
+    },
+    "2021-05-01T02:50:41.751354": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<netwalker@q3mcco35auwcstmt.onion> просит доступ к внц. Деф сказал попросить у тебя разрешения выдать доступ и софт."
+    },
+    "2021-05-04T08:16:33.247171": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет."
+    },
+    "2021-05-04T08:16:50.738742": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Нужно проплатить ха ехели для черри и нетволкера 6 000 $"
+    },
+    "2021-05-04T08:16:52.427181": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": " <Crypt13> bc1qdxrwlru9hr0frts6sxjkeeevc9za5k32r3zsgx"
+    },
+    "2021-05-05T16:26:42.279238": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет."
+    },
+    "2021-05-05T16:26:42.279930": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Нужно проплатить ха ехели для черри и нетволкера 6 000 $"
+    },
+    "2021-05-05T16:26:42.280833": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": " <Crypt13> bc1qdxrwlru9hr0frts6sxjkeeevc9za5k32r3zsgx"
+    },
+    "2021-05-05T16:34:19.234849": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет тут"
+    },
+    "2021-05-05T16:34:20.484907": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "оплачивать?"
+    },
+    "2021-05-05T16:38:47.200569": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Да. Щас уточню про кошелек"
+    },
+    "2021-05-05T16:46:51.854703": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Уточнил"
+    },
+    "2021-05-05T16:47:01.248120": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "6 000 $ \nна  bc1qdxrwlru9hr0frts6sxjkeeevc9za5k32r3zsgx"
+    },
+    "2021-05-05T19:36:50.629114": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "стукни армате"
+    },
+    "2021-05-05T19:36:56.438058": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "у него там наш депозит вроде по германии лежал"
+    },
+    "2021-05-05T19:36:57.457265": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "помнишь?"
+    },
+    "2021-05-06T07:37:32.529313": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "стукни армате"
+    },
+    "2021-05-06T07:37:32.533111": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "у него там наш депозит вроде по германии лежал"
+    },
+    "2021-05-06T07:37:32.534861": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "помнишь?"
+    },
+    "2021-05-06T07:38:15.174786": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Да. Стукну"
+    },
+    "2021-05-06T07:53:49.006961": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-05-06T07:53:52.044887": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "как автобилды работают?"
+    },
+    "2021-05-06T07:56:33.924246": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Большая часть стабов уже работают. Выдаем локеры ехе 32 64 длл 32 64 , кобу 32 64 как ехе так и длл. Шелкоды в ехе и длл. Простые длл, БК."
+    },
+    "2021-05-06T07:56:48.442443": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "какие локеры"
+    },
+    "2021-05-06T07:57:14.046325": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "от решаева в ехе и от лео в длл"
+    },
+    "2021-05-06T07:57:23.094126": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "jr"
+    },
+    "2021-05-06T07:57:23.471979": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-05-06T18:34:28.700645": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Арматы не было еще в сети."
+    },
+    "2021-05-06T18:34:32.831395": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Pulya> $5200 отправил, все что было"
+    },
+    "2021-05-06T18:34:54.639986": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Pulya> с меня $7300 верно? \n[21:32:59] <volhvb> Да верно."
+    },
+    "2021-05-06T18:35:00.604608": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Куда переслать?"
+    },
+    "2021-05-07T06:51:42.746008": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Скажи, у Арматы брать ботов или возврат денег?"
+    },
+    "2021-05-07T12:54:34.684617": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Арматы не было еще в сети."
+    },
+    "2021-05-07T12:54:34.685218": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Pulya> $5200 отправил, все что было"
+    },
+    "2021-05-07T12:54:34.685860": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Pulya> с меня $7300 верно? \n[21:32:59] <volhvb> Да верно."
+    },
+    "2021-05-07T12:54:34.686854": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Куда переслать?"
+    },
+    "2021-05-07T12:54:34.694354": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Скажи, у Арматы брать ботов или возврат денег?"
+    },
+    "2021-05-07T12:56:45.499523": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ботов надо"
+    },
+    "2021-05-07T12:57:09.894275": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понял. Куда закинуть что мне пуля вчера скинул?"
+    },
+    "2021-05-07T12:57:28.860578": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "1AXiwETqqQoA52Jk5CmJkbAPuW8nR7VUYz"
+    },
+    "2021-05-10T15:52:11.288110": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "как там с армой ?"
+    },
+    "2021-05-10T15:52:51.049224": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-05-10T15:52:57.478143": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Не выходил на связь."
+    },
+    "2021-05-10T15:52:57.522080": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-10T15:53:01.954730": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "надо чтобы вышел"
+    },
+    "2021-05-10T15:53:52.800019": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Даже не знаю где искать. Основная жаба офф"
+    },
+    "2021-05-10T15:54:07.832531": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ну он будет"
+    },
+    "2021-05-10T15:54:12.560645": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "он когда последний раз онлайн был ?"
+    },
+    "2021-05-10T15:55:25.297240": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я акк удалял из жабера. Восстановил в конце прошлой неделе. Как ты сказал искать его. С тех пор его не было в сети ни разу."
+    },
+    "2021-05-10T16:08:13.269459": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "там если правой кнопкой нажать"
+    },
+    "2021-05-10T16:09:13.169012": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Так и что выбрать?"
+    },
+    "2021-05-10T16:10:59.107582": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ну там"
+    },
+    "2021-05-10T16:11:00.625191": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "user info"
+    },
+    "2021-05-10T16:11:02.749115": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "помоему"
+    },
+    "2021-05-10T16:12:01.473019": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "\narmata <armata@exploit.im>\n В последний раз был доступен: 24.06.2020 12:31\n\n \nПоследний статус: Отключён"
+    },
+    "2021-05-10T16:12:40.758630": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "понял"
+    },
+    "2021-05-11T15:12:12.309235": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет. hash@q3mcco35auwcstmt.onion проситвыдавать трик группы sat*. Скажи, в какую админку ему делать билды?"
+    },
+    "2021-05-11T15:27:26.935004": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-11T15:27:28.291350": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "во вторую"
+    },
+    "2021-05-11T15:27:38.681527": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понял. Хорошо."
+    },
+    "2021-05-11T15:30:42.918594": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "что там за фигня у рамона и дерека"
+    },
+    "2021-05-11T15:30:48.536413": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "почему файлы никто не может почистить"
+    },
+    "2021-05-11T15:32:54.711245": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Разбираемся. Вчера началось. Сегодня чистые были и снова палятся черз 20-30 минут"
+    },
+    "2021-05-18T15:43:48.516780": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет. Продлеваем подписку на ехели для Нетволкера и Черри?"
+    },
+    "2021-05-18T15:50:46.617732": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет нет"
+    },
+    "2021-05-18T15:50:57.014809": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понял."
+    },
+    "2021-05-25T07:45:13.090175": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-05-25T07:45:14.564620": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": " <bentley> Ага. А кто доки бует делать? \n[20:14:25] <Hash> Стерн говорил, что к тебе с этим, все, мол, люди есть для этого"
+    },
+    "2021-05-25T07:45:52.575313": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Берем подписку на ехели у rand@q3mcco35auwcstmt.onion ?"
+    },
+    "2021-05-25T16:23:39.801258": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-05-25T16:23:39.801759": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": " <bentley> Ага. А кто доки бует делать? \n[20:14:25] <Hash> Стерн говорил, что к тебе с этим, все, мол, люди есть для этого"
+    },
+    "2021-05-25T16:23:39.802386": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Берем подписку на ехели у rand@q3mcco35auwcstmt.onion ?"
+    },
+    "2021-05-25T16:26:10.701947": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ghbdtn"
+    },
+    "2021-05-25T16:26:11.779607": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-25T16:26:19.399025": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "давай делать как ты посчитаешь нужным"
+    },
+    "2021-05-25T16:27:07.609782": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. У него самы лучший ехель. И подписка 6к в месяц на 1 человека. Я думаю он - лучший вариант."
+    },
+    "2021-05-25T16:28:40.435897": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-05-25T16:28:41.350339": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "давай"
+    },
+    "2021-05-25T16:29:03.639310": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "По оплате тебе писать?"
+    },
+    "2021-05-25T16:29:20.738081": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ла"
+    },
+    "2021-05-25T16:29:21.414363": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-05-25T16:29:24.385303": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "пускай начинает пока"
+    },
+    "2021-05-25T16:29:33.367194": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо."
+    },
+    "2021-06-04T14:56:58.635696": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Првиет. Нетволкер говорил, что возобновляем ехели для него по подписке?"
+    },
+    "2021-06-04T15:24:56.060271": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет да давай попробуем"
+    },
+    "2021-06-04T15:25:14.169639": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо пришлю тогда кош тебе."
+    },
+    "2021-06-04T15:25:30.763969": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Еще в понедельник hash начинает слать ехели"
+    },
+    "2021-06-04T15:25:36.149438": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сегодня все доделывает"
+    },
+    "2021-06-07T09:23:41.979862": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. По оплате за ехели для hash и netwalker"
+    },
+    "2021-06-07T09:23:46.367388": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Crypt13> 1GoAiu7jLbjNoVBvKX8Dba45G4J3BFL3tM"
+    },
+    "2021-06-07T09:24:04.660963": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "6к $ за 2х на 2 недели."
+    },
+    "2021-06-07T12:35:16.350019": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. По оплате за ехели для hash и netwalker"
+    },
+    "2021-06-07T12:35:16.352474": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Crypt13> 1GoAiu7jLbjNoVBvKX8Dba45G4J3BFL3tM"
+    },
+    "2021-06-07T12:35:16.353227": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "6к $ за 2х на 2 недели."
+    },
+    "2021-06-07T12:38:30.546909": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет скинул"
+    },
+    "2021-06-07T12:38:40.004466": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Спасибо."
+    },
+    "2021-06-07T12:49:39.284585": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-07T13:01:54.800116": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Дела - хорошо. Интересно и насыщено. \nВсе крипторы перешли из ручного труда в автоматическуй сборку через билд машину.\nТеперь они занимаются актуализацией и чисткой стабов. А файлы я делаю на билд машине,  проверяю и выдаю. Если что-то билдится грязным - обращаюсь к \nкриптору. Он чистит стаб. Снова проверяем и выдаем.  \nЗадачи:\n1. Криптование файлов для Лео на билд машине.\n2. Шелкод кобальт\n3. Локеры\n4. Коабальт ехе и длл\n5. dll трика\n6. Обучаю и предоставлюя доступ другим членам команды к билд машине, чтобы они могли сами собирать крипты.\n7. Подготовака линков для нагрузки и тестирование ехелей для netwalker, hash, cherry."
+    },
+    "2021-06-08T09:30:16.519107": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-14T07:40:32.774036": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все зачистил."
+    },
+    "2021-06-14T14:15:23.616451": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Все зачистил."
+    },
+    "2021-06-15T11:55:47.404061": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Уточни, пожалуйста, что тестировать terry в БК?"
+    },
+    "2021-06-15T12:01:19.070444": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-15T12:01:34.314828": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "он должен криптованный файл заливать на веб куда нибудь"
+    },
+    "2021-06-15T12:01:43.311055": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "а потом его с разных машин скачивать с браузера хром"
+    },
+    "2021-06-15T12:01:44.747305": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "и запускать"
+    },
+    "2021-06-15T12:01:49.147050": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "чтобы работало и стучало"
+    },
+    "2021-06-15T12:02:20.671488": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понятно. Организую."
+    },
+    "2021-06-15T12:06:20.686510": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Есть требования по протоколу, архитектуре, режимы работы, дополнительные требования?"
+    },
+    "2021-06-15T12:08:01.208996": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "главное чтобы с хрома скачивался"
+    },
+    "2021-06-15T12:08:04.422070": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "прям ехе файл"
+    },
+    "2021-06-15T12:08:07.166315": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "чтобы не блокировался"
+    },
+    "2021-06-15T12:08:59.513670": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Понятно. Просто тут еще вопрос в хостах откуда качается. Тут тоже могут быть ньюансы."
+    },
+    "2021-06-15T12:14:36.333944": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Задача ясна."
+    },
+    "2021-06-28T08:05:57.537898": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-30T11:50:29.603209": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Закинь, пожалуйста, за ехели для Hash"
+    },
+    "2021-06-30T11:50:32.184530": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Crypt13> bc1qa2t2qweze4y545y3j5xlaqdwwjetsq082t0gqh\n[14:40:38] <Crypt13> 3к"
+    },
+    "2021-06-30T11:50:45.864674": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Подписка на 2 недели."
+    },
+    "2021-06-30T12:32:24.119548": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Закинь, пожалуйста, за ехели для Hash"
+    },
+    "2021-06-30T12:32:24.123532": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<Crypt13> bc1qa2t2qweze4y545y3j5xlaqdwwjetsq082t0gqh\n[14:40:38] <Crypt13> 3к"
+    },
+    "2021-06-30T12:32:24.125917": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Подписка на 2 недели."
+    },
+    "2021-06-30T12:58:50.044345": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "оплатил"
+    },
+    "2021-06-30T12:58:58.718294": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Спасибо."
+    },
+    "2021-06-30T12:59:16.215296": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "как дела"
+    },
+    "2021-06-30T12:59:18.662708": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "что у вас с зевсом ?"
+    },
+    "2021-06-30T12:59:39.710882": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Работаем. Хорошо грузит."
+    },
+    "2021-07-01T10:12:21.239961": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет как дела у зевса"
+    },
+    "2021-07-01T10:14:06.274159": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Грузит. Каждый день делаем по 2-3 длл несколько криптов"
+    },
+    "2021-07-01T10:19:05.383916": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ага понял"
+    },
+    "2021-07-01T10:19:07.251360": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "юс много тма?"
+    },
+    "2021-07-01T10:19:08.214035": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "там"
+    },
+    "2021-07-01T10:19:17.661082": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Сейчас гляну в стате."
+    },
+    "2021-07-01T10:36:38.048979": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Долго грузится.. С ханипотами 1600 US 40%. При сортировке по импотенсу US больше 70%"
+    },
+    "2021-07-01T10:38:04.144639": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "ага понял"
+    },
+    "2021-07-01T10:38:04.579896": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "спс"
+    },
+    "2021-08-06T17:37:17.720426": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Мени просил написать тебе про его крипты. Крипты он делает хорошие, только 2-3 раза в неделю выходит."
+    },
+    "2021-08-06T17:46:41.151053": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "привет ну это норм тоэже"
+    },
+    "2021-08-06T17:46:42.457224": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "тоже"
+    },
+    "2021-08-06T17:46:58.892229": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Ага. И тройку криптует."
+    },
+    "2021-08-06T17:47:26.257448": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Еще он просил попросить тебя ему ответить."
+    },
+    "2021-09-13T08:00:07.963284": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    },
+    "2021-10-20T20:21:46.149924": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Таргет просит доступ к логам:"
+    },
+    "2021-10-20T20:21:57.619421": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<blood> crunchbase \n[23:19:15] <blood> доступ \n[23:19:16] <blood> с логов \n[23:19:17] <blood> туда \n[23:20:41] <blood> и у стерна запроси доступ к логам \n[23:20:45] <blood> в ботнете \n[23:20:45] <blood> он нужен"
+    },
+    "2021-10-26T05:10:26.042342": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Таргет просит доступ к логам:"
+    },
+    "2021-10-26T05:10:26.055777": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<blood> crunchbase \n[23:19:15] <blood> доступ \n[23:19:16] <blood> с логов \n[23:19:17] <blood> туда \n[23:20:41] <blood> и у стерна запроси доступ к логам \n[23:20:45] <blood> в ботнете \n[23:20:45] <blood> он нужен"
+    },
+    "2021-10-26T05:12:05.308257": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-10-26T05:12:12.427121": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "дайте ему все что просит"
+    },
+    "2021-10-26T07:50:05.052956": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-10-26T07:50:05.054607": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "дайте ему все что просит"
+    },
+    "2021-10-26T07:58:12.297700": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет. Хорошо."
+    },
+    "2021-10-26T07:58:36.084379": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Еще вопрос. Проплатим подписку на ехель для hash на 2 недели?"
+    },
+    "2021-11-05T11:10:00.103418": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "здарова"
+    },
+    "2021-11-05T11:10:08.127395": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет."
+    },
+    "2021-11-06T11:04:58.736250": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "включи крипты лео"
+    },
+    "2021-11-08T06:34:09.123881": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bentley@q3mcco35auwcstmt.onion",
+        "body": "включи крипты лео"
+    },
+    "2021-11-08T06:35:17.430844": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо"
+    },
+    "2021-11-08T11:52:35.274144": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Хорошо"
+    },
+    "2021-11-08T15:21:40.753485": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Там Лео не может до тебя достучаться."
+    },
+    "2021-11-08T15:21:47.004864": {
+        "src": "bentley@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<leo@q3mcco35auwcstmt.onion> а напиши стерну\nполучает он от тебя месаги?"
+    }
+}

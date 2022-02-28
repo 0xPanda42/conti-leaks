@@ -1,0 +1,42 @@
+{
+    "2021-04-19T16:32:50.039910": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "jumbo@q3mcco35auwcstmt.onion",
+        "body": "привет все получилось?"
+    },
+    "2021-04-19T16:33:16.916725": {
+        "src": "jumbo@q3mcco35auwcstmt.onion",
+        "dst": "viper@q3mcco35auwcstmt.onion",
+        "body": "да все настроил"
+    },
+    "2021-04-19T16:38:49.892009": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "jumbo@q3mcco35auwcstmt.onion",
+        "body": "ага ок теперь тебе надо добавить revers@q3mcco35auwcstmt.onion это тех дир он же фаерфокс"
+    },
+    "2021-04-19T16:58:30.242359": {
+        "src": "jumbo@q3mcco35auwcstmt.onion",
+        "dst": "viper@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-05-17T09:25:41.281482": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "jumbo@q3mcco35auwcstmt.onion",
+        "body": "привет по поводу ЗП напиши mango@ он ждет"
+    },
+    "2021-05-17T09:26:02.724009": {
+        "src": "viper@q3mcco35auwcstmt.onion",
+        "dst": "jumbo@q3mcco35auwcstmt.onion",
+        "body": "только скажи ему что ты новенький и с 19 числа работаешь"
+    },
+    "2021-05-17T09:26:22.001731": {
+        "src": "jumbo@q3mcco35auwcstmt.onion",
+        "dst": "viper@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-17T09:26:29.112905": {
+        "src": "jumbo@q3mcco35auwcstmt.onion",
+        "dst": "viper@q3mcco35auwcstmt.onion",
+        "body": "хорошо"
+    }
+}

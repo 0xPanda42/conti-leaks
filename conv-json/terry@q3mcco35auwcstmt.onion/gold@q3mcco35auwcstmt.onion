@@ -1,0 +1,22 @@
+{
+    "2021-10-26T12:15:51.654652": {
+        "src": "gold@q3mcco35auwcstmt.onion",
+        "dst": "terry@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-11-12T10:07:01.166034": {
+        "src": "gold@q3mcco35auwcstmt.onion",
+        "dst": "terry@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2022-02-18T14:38:23.508589": {
+        "src": "gold@q3mcco35auwcstmt.onion",
+        "dst": "terry@q3mcco35auwcstmt.onion",
+        "body": "рокет отвалился?"
+    },
+    "2022-02-18T14:43:27.341989": {
+        "src": "terry@q3mcco35auwcstmt.onion",
+        "dst": "gold@q3mcco35auwcstmt.onion",
+        "body": "рокет отвалился?"
+    }
+}

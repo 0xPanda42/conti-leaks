@@ -1,0 +1,89 @@
+{
+    "2021-03-25T13:41:15.969795": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "выйди в чат",
+        "body_fr": "Aller à discuter",
+        "body_en": "Go to Chat."
+    },
+    "2021-03-25T13:47:18.063861": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "?",
+        "body_fr": ".",
+        "body_en": "."
+    },
+    "2021-03-25T13:47:22.925178": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "нужен срочно",
+        "body_fr": "Besoin urgent",
+        "body_en": "Need urgent"
+    },
+    "2021-03-25T14:01:58.496757": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "?",
+        "body_fr": ".",
+        "body_en": "."
+    },
+    "2021-03-25T14:20:08.783330": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "ты куда пропал?",
+        "body_fr": "Où étais-tu?",
+        "body_en": "Where have you been?"
+    },
+    "2021-03-25T14:20:13.290834": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "онлайн вроде",
+        "body_fr": "en ligne comme",
+        "body_en": "online like"
+    },
+    "2021-03-25T14:20:16.676593": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "скинь пароль",
+        "body_fr": "Jeter le mot de passe",
+        "body_en": "Throwing a password"
+    },
+    "2021-03-25T14:20:19.781576": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "все ждут",
+        "body_fr": "tout le monde attend",
+        "body_en": "everyone is waiting"
+    },
+    "2021-03-25T15:47:04.363891": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "ты меня очень подвел",
+        "body_fr": "Tu m'as beaucoup aimé",
+        "body_en": "You loved me very much"
+    },
+    "2021-03-25T17:30:38.880896": {
+        "src": "ganesh@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "сорри отходил к стоматологу",
+        "body_fr": "Désolé est parti au dentiste",
+        "body_en": "Sorry went away to the dentist"
+    },
+    "2021-03-25T17:30:51.636519": {
+        "src": "ganesh@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "еще актуално?",
+        "body_fr": "Même pertinent?",
+        "body_en": "even relevant?"
+    },
+    "2021-10-22T14:18:09.661505": {
+        "src": "defender@q3mcco35auwcstmt.onion",
+        "dst": "ganesh@q3mcco35auwcstmt.onion",
+        "body": "ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать\n\nновый домен жабы версии 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nего прописываем в настройках аккаунта - соединение - сервер\nперед этим на это вкладке ставим галку Вручную указать адрес сервера и порт\n\nпорт стандартный 5222 \n\nВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения \n\n!!! Как сделаете, отпишите мне что все ОК"
+    },
+    "2021-10-22T14:35:17.000856": {
+        "src": "ganesh@q3mcco35auwcstmt.onion",
+        "dst": "defender@q3mcco35auwcstmt.onion",
+        "body": "готово!"
+    }
+}

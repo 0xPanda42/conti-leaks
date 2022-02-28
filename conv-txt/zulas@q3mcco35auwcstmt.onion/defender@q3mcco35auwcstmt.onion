@@ -1,0 +1,1393 @@
+##################################################
+Conversation between:
+	- defender@q3mcco35auwcstmt.onion
+	- zulas@q3mcco35auwcstmt.onion
+261 messages
+first: 2021-05-17T10:52:49.810728
+last:  2021-12-03T09:28:43.226883
+##################################################
+
+2021-05-17T10:52:49.810728  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T10:52:51.620665  defender@q3mcco35auwcstmt.onion
+	[ru] тут?
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T10:52:57.652417  defender@q3mcco35auwcstmt.onion
+	[ru] отр не работает у тебя?
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T10:53:10.992965  defender@q3mcco35auwcstmt.onion
+	[ru] срочный вопрос есть
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T15:31:06.944712  zulas@q3mcco35auwcstmt.onion
+	[ru] привет тут
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T15:42:20.016582  defender@q3mcco35auwcstmt.onion
+	[ru] ага, тебе напишет драйвер, пояснишь ему как работает блокировка ок, хотим наконец то затестить
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T15:46:09.787853  zulas@q3mcco35auwcstmt.onion
+	[ru] да хз  ) ты бы еще проснулся через 5 лет
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T15:47:59.008209  defender@q3mcco35auwcstmt.onion
+	[ru] ну по коду посмотришь, тебе 5 мин вспомнить)
+	[en] <?>
+	[fr] <?>
+
+2021-05-17T15:51:55.527632  zulas@q3mcco35auwcstmt.onion
+	[ru] придется видимА
+	[en] <?>
+	[fr] <?>
+
+2021-05-27T14:25:39.971620  zulas@q3mcco35auwcstmt.onion
+	[ru] привет . штерн когда нить выходит на связь ?
+	[en] <?>
+	[fr] <?>
+
+2021-05-27T15:25:21.556560  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-05-27T15:25:25.405405  defender@q3mcco35auwcstmt.onion
+	[ru] конечно
+	[en] <?>
+	[fr] <?>
+
+2021-05-27T15:26:49.999448  zulas@q3mcco35auwcstmt.onion
+	[ru] как часто  ?
+	[en] <?>
+	[fr] <?>
+
+2021-05-27T15:28:32.302033  defender@q3mcco35auwcstmt.onion
+	[ru] вечером в основном
+	[en] <?>
+	[fr] <?>
+
+2021-05-27T15:28:57.469876  zulas@q3mcco35auwcstmt.onion
+	[ru] вчера вечером написал . до сих пор ответа нет .. видел что онлайн (away) был
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:05:49.865168  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:05:50.334313  defender@q3mcco35auwcstmt.onion
+	[ru] тут?
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:06:03.968911  defender@q3mcco35auwcstmt.onion
+	[ru] есть для тебя задачка
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:07:46.765624  zulas@q3mcco35auwcstmt.onion
+	[ru] тут
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:07:53.936405  zulas@q3mcco35auwcstmt.onion
+	[ru] говори
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:08:01.164189  defender@q3mcco35auwcstmt.onion
+	[ru] ага
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:08:06.915401  defender@q3mcco35auwcstmt.onion
+	[ru] тебе стукнет driver@
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:08:12.289668  defender@q3mcco35auwcstmt.onion
+	[ru] там по деро проблема
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:08:27.488150  zulas@q3mcco35auwcstmt.onion
+	[ru] а в чем проблема ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:08:50.704336  defender@q3mcco35auwcstmt.onion
+	[ru] от реальных данных идут ошибки в краш логи
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:09:00.089802  defender@q3mcco35auwcstmt.onion
+	[ru] а если прямой запрос вручную делаешь то он проходит
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:09:06.630634  defender@q3mcco35auwcstmt.onion
+	[ru] что то в данных
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:09:18.748339  defender@q3mcco35auwcstmt.onion
+	[ru] видимо надо валидацию какую то делать
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:09:37.467240  defender@q3mcco35auwcstmt.onion
+	[ru] то есть получаемые данные не соответствуют ожидаемым
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:11:53.294128  zulas@q3mcco35auwcstmt.onion
+	[ru] ну надо смотреть что там за краш .
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:12:03.786052  zulas@q3mcco35auwcstmt.onion
+	[ru] если дашь лог . то могу по нему нагадать что поправить
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:17:59.291485  defender@q3mcco35auwcstmt.onion
+	[ru] драйвер тебе скинет
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:47:19.275887  zulas@q3mcco35auwcstmt.onion
+	[ru] Мы проверяем сам http запрос, тот кто за это отвечает говорит, что у него появились мысли что посмотреть, спасибо за подсказку, сам бы я тут голову сломал из за чего это может быть.
+(17:44:11) zulas@q3mcco35auwcstmt.onion/17072589141628836434756062: ) ю аре велкаме .. еще бы задачек подвалили 
+(17:44:19) zulas@q3mcco35auwcstmt.onion/17072589141628836434756062: ведь что то у вас происходит ? 
+(17:46:16) driver@q3mcco35auwcstmt.onion: Ну, это не ко мне уж точно )
+Спроси у дефа, мож он подскажет
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:48:11.795401  defender@q3mcco35auwcstmt.onion
+	[ru] то есть разобарлись?
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:49:18.533567  zulas@q3mcco35auwcstmt.onion
+	[ru] да вроде
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:49:25.057456  zulas@q3mcco35auwcstmt.onion
+	[ru] новые сервисы делаете ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:53:59.849562  defender@q3mcco35auwcstmt.onion
+	[ru] пока нет, но думаю что скоро для тебя будет работа
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T14:55:57.194081  zulas@q3mcco35auwcstmt.onion
+	[ru] это говорил и год назад )
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:03:48.468024  defender@q3mcco35auwcstmt.onion
+	[ru] ну вот назревает вопрос
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:04:16.436523  defender@q3mcco35auwcstmt.onion
+	[ru] пока оцениваю наколько необходимо и что, потом отпишусь
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:04:22.517618  defender@q3mcco35auwcstmt.onion
+	[ru] главное будь на связи)
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:05:23.978504  zulas@q3mcco35auwcstmt.onion
+	[ru] да я уже 6 лет на связи ) последние 4 года - одна только связь . и никакого профита
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:06:18.694122  defender@q3mcco35auwcstmt.onion
+	[ru] будет, не переживай
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:06:28.730765  defender@q3mcco35auwcstmt.onion
+	[ru] собираю данные
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:11:43.608950  zulas@q3mcco35auwcstmt.onion
+	[ru] а у меня тут вопрос .. ты не в курсе . ejabberd можно заставить работать через socks5 .. ну чтобы он соединения с серверами делал через прокси ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:12:00.247287  zulas@q3mcco35auwcstmt.onion
+	[ru] у тебя же как то жабер работает в onion ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:15:13.501223  defender@q3mcco35auwcstmt.onion
+	[ru] да
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:15:20.167123  defender@q3mcco35auwcstmt.onion
+	[ru] настраиваешь torrc
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:15:54.921136  defender@q3mcco35auwcstmt.onion
+	[ru] прописываешь порт редиректа, на который будет принимать на онион домен и напралять на локалхост
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:16:30.863904  zulas@q3mcco35auwcstmt.onion
+	[ru]  а исходящие как делать ? например чтобы жабер могу к другому onion-серверу подцепиться ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:17:07.223296  defender@q3mcco35auwcstmt.onion
+	[ru] это уже сложнее, надо видимо весь траф исхоящий направлять на тор сокс
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:17:21.132806  defender@q3mcco35auwcstmt.onion
+	[ru] я между серверами не делал коннект, нет необходиомсти
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:17:39.890754  zulas@q3mcco35auwcstmt.onion
+	[ru] но в целом такое реально сделать  ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:17:51.843003  defender@q3mcco35auwcstmt.onion
+	[ru] думаю да
+	[en] <?>
+	[fr] <?>
+
+2021-08-13T15:18:19.958789  zulas@q3mcco35auwcstmt.onion
+	[ru] ну ладно ) спасибо
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T15:15:43.302333  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T15:15:47.659486  defender@q3mcco35auwcstmt.onion
+	[ru] будешь на связи отпишись
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T15:15:52.052428  defender@q3mcco35auwcstmt.onion
+	[ru] нужна помощь
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:17:01.122437  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:17:01.126485  defender@q3mcco35auwcstmt.onion
+	[ru] будешь на связи отпишись
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:17:01.127083  defender@q3mcco35auwcstmt.onion
+	[ru] нужна помощь
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:17:41.238270  zulas@q3mcco35auwcstmt.onion
+	[ru] привет . на связи
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:20:40.918851  defender@q3mcco35auwcstmt.onion
+	[ru] ага
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:20:50.185561  defender@q3mcco35auwcstmt.onion
+	[ru] спишись завтра с драйвером после обеда
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:21:00.370099  defender@q3mcco35auwcstmt.onion
+	[ru] там в деро все таки надо разобратиься
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:21:01.920207  defender@q3mcco35auwcstmt.onion
+	[ru] краши идут
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:21:17.852053  defender@q3mcco35auwcstmt.onion
+	[ru] может допилишь софт чтобы не крашился даже если не валидные данные
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:22:50.101408  zulas@q3mcco35auwcstmt.onion
+	[ru] т.е проблема только в том что в лог срет ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:24:45.199013  defender@q3mcco35auwcstmt.onion
+	[ru] ну и подозрение что в бд не пишет
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:24:56.800867  defender@q3mcco35auwcstmt.onion
+	[ru] может в лог писать удобочитаемую инфу
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:25:05.041894  defender@q3mcco35auwcstmt.onion
+	[ru] что не так
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:25:36.657624  zulas@q3mcco35auwcstmt.onion
+	[ru] ну там протокол хттп со стороны клиента не верный ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:25:44.196307  zulas@q3mcco35auwcstmt.onion
+	[ru] я этим управлять не могу
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:25:57.026341  defender@q3mcco35auwcstmt.onion
+	[ru] а точно ли в этом дело
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:26:05.667793  zulas@q3mcco35auwcstmt.onion
+	[ru] либо менять либу которая с хттп работает
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:26:19.143229  zulas@q3mcco35auwcstmt.onion
+	[ru] точно
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:26:24.611949  defender@q3mcco35auwcstmt.onion
+	[ru] на стороне сервера?
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:26:32.846794  defender@q3mcco35auwcstmt.onion
+	[ru] что эот поможет?
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:26:53.523248  zulas@q3mcco35auwcstmt.onion
+	[ru] не факт что поможет . но может что то другое будет .
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:27:06.918937  zulas@q3mcco35auwcstmt.onion
+	[ru] по крайней мере в лог перехватить получится . тогда срать не будет
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:27:18.232964  defender@q3mcco35auwcstmt.onion
+	[ru] давай сделаем
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:27:54.886779  zulas@q3mcco35auwcstmt.onion
+	[ru] я говорю про "без гарантии результата" ..
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:32:41.874553  defender@q3mcco35auwcstmt.onion
+	[ru] мне надо чтобы вы разобрались с драйвером и кодером модуля, помоги с этим
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:32:58.248426  defender@q3mcco35auwcstmt.onion
+	[ru] скажешь потом сколько
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:33:09.111955  defender@q3mcco35auwcstmt.onion
+	[ru] просто без тебя это глухой телефон
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:33:25.063120  defender@q3mcco35auwcstmt.onion
+	[ru] кодер модуля говорит что вроде все норм, драйвер не видит данные, а видит краши
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:33:33.767246  defender@q3mcco35auwcstmt.onion
+	[ru] и длится уже давно
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:33:39.296342  zulas@q3mcco35auwcstmt.onion
+	[ru] ок . надо конфу собрать
+	[en] <?>
+	[fr] <?>
+
+2021-08-26T19:34:35.033152  defender@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:37:10.539945  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:38:04.479813  defender@q3mcco35auwcstmt.onion
+	[ru] тебе хоф стукнет, он ответственный за налаживание работы деро
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:38:41.989126  defender@q3mcco35auwcstmt.onion
+	[ru] помоги ему разобарться, если надо переделать на другую либу, давай сделаем, чтобы были понятные логи и отработка исключений, чтобы не крашилось
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:52:51.591434  zulas@q3mcco35auwcstmt.onion
+	[ru] буза только стукнул
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T09:54:26.417138  zulas@q3mcco35auwcstmt.onion
+	[ru] а можно получить доступы к серваку где моя прога крутится ?
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T10:07:31.415259  defender@q3mcco35auwcstmt.onion
+	[ru] https://1ty.me/Pmreqmdp1
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T10:23:43.940413  defender@q3mcco35auwcstmt.onion
+	[ru] отправил приглашение
+	[en] <?>
+	[fr] <?>
+
+2021-08-27T10:24:12.279812  zulas@q3mcco35auwcstmt.onion
+	[ru] приянл
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T13:38:11.655696  zulas@q3mcco35auwcstmt.onion
+	[ru] как мне изменения запушить ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T14:23:04.972591  defender@q3mcco35auwcstmt.onion
+	[ru] я тебе вроде выдавал доступ, разве нет?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:44:00.640291  zulas@q3mcco35auwcstmt.onion
+	[ru] (19:43:17) zulas: я его 100 раз забыл 
+(19:43:38) zulas: ~/erl/dero> git -c credential.helper=/usr/share/smartgit/lib/credentials.sh push --porcelain --progress --recurse-submodules=check origin refs/heads/master:refs/heads/master
+unable to access 'https://179.43.147.243/begemot/dero.git/': gnutls_handshake() failed: Internal error
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:44:05.246132  zulas@q3mcco35auwcstmt.onion
+	[ru] завтра разберемся
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:44:53.702812  defender@q3mcco35auwcstmt.onion
+	[ru] ты еще тут?
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:44:56.737600  defender@q3mcco35auwcstmt.onion
+	[ru] скину креды
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:45:45.403117  zulas@q3mcco35auwcstmt.onion
+	[ru] gnutls_handshake() failed: Internal error
+это наверное не про креды . а что то другое
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:45:48.744610  zulas@q3mcco35auwcstmt.onion
+	[ru] я ушел
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:46:20.637495  defender@q3mcco35auwcstmt.onion
+	[ru] тот серв давно удален
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:46:24.608598  defender@q3mcco35auwcstmt.onion
+	[ru] 2 мин
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:46:59.257953  defender@q3mcco35auwcstmt.onion
+	[ru] angela
+https://1ty.me/Nit6sB4bS
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:47:08.225720  defender@q3mcco35auwcstmt.onion
+	[ru] это лог пасс
+	[en] <?>
+	[fr] <?>
+
+2021-09-02T16:47:20.439883  zulas@q3mcco35auwcstmt.onion
+	[ru] адрес ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T08:35:45.614234  zulas@q3mcco35auwcstmt.onion
+	[ru] пинг
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:51:42.822841  zulas@q3mcco35auwcstmt.onion
+	[ru] [core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "master"]
+	rebase = true
+	remote = origin
+	merge = refs/heads/master
+[branch]
+	autosetuprebase = always
+[remote "origin"]
+	url = https://mb5fbvx72fbod2hkirfecc5nh7lwq6ke7xocn7j2u7raiwbytvevpbad.onion/begemot/dero.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[http]
+	proxy = socks5://localhost:9050
+[https]
+	proxy = socks5://localhost:9050
+
+
+прописал прокси в гитконфиг .. но он не может отресолвить домен .. ЧДНТ ? 
+браузер на 9050 порту работает ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:57:24.889049  zulas@q3mcco35auwcstmt.onion
+	[ru] (base) begemot@big-comp:~/erl/dero/.git$ git push
+fatal: «https://mb5fbvx72fbod2hkirfecc5nh7lwq6ke7xocn7j2u7raiwbytvevpbad.onion/begemot/dero.git/» недоступно: Could not resolve host: mb5fbvx72fbod2hkirfecc5nh7lwq6ke7xocn7j2u7raiwbytvevpbad.onion
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:59:27.427364  defender@q3mcco35auwcstmt.onion
+	[ru] привет сек
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:59:44.765858  defender@q3mcco35auwcstmt.onion
+	[ru] git config --global http.proxy 'socks5://127.0.0.1:9050'
+git config --global http.proxy 'socks5h://127.0.0.1:9050'
+git config --global http.sslverify false
+export GIT_SSL_NO_VERIFY=1
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T09:59:47.741288  defender@q3mcco35auwcstmt.onion
+	[ru] вот это выполни
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T10:26:09.703534  zulas@q3mcco35auwcstmt.onion
+	[ru] запушил
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T10:46:39.779377  defender@q3mcco35auwcstmt.onion
+	[ru] ага
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T10:46:42.656181  defender@q3mcco35auwcstmt.onion
+	[ru] отпиши в конфу
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T10:46:51.477718  defender@q3mcco35auwcstmt.onion
+	[ru] на сервер тоже выгрузи плиз
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T13:43:52.088017  zulas@q3mcco35auwcstmt.onion
+	[ru] на сервер сами как то уж ..
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T14:00:25.842618  defender@q3mcco35auwcstmt.onion
+	[ru] ты отвечай оперативно
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T14:00:31.211511  defender@q3mcco35auwcstmt.onion
+	[ru] драйвер будет выгружать
+	[en] <?>
+	[fr] <?>
+
+2021-09-03T14:01:28.815943  zulas@q3mcco35auwcstmt.onion
+	[ru] я отсутствовал
+	[en] <?>
+	[fr] <?>
+
+2021-09-09T09:28:33.726248  zulas@q3mcco35auwcstmt.onion
+	[ru] привет . что то решилось по серверу ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T11:56:40.615926  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T11:56:49.797882  defender@q3mcco35auwcstmt.onion
+	[ru] это я у тебя хотел спросить)
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T11:56:58.208092  defender@q3mcco35auwcstmt.onion
+	[ru] сейчас узнаю
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:15:29.444633  defender@q3mcco35auwcstmt.onion
+	[ru] драйвер говорит что все пока норм
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:15:47.337576  defender@q3mcco35auwcstmt.onion
+	[ru] скольо мы тебе должны?
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:55:13.461158  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:55:13.474389  defender@q3mcco35auwcstmt.onion
+	[ru] это я у тебя хотел спросить)
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:55:13.474834  defender@q3mcco35auwcstmt.onion
+	[ru] сейчас узнаю
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:55:13.475352  defender@q3mcco35auwcstmt.onion
+	[ru] драйвер говорит что все пока норм
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:55:13.476233  defender@q3mcco35auwcstmt.onion
+	[ru] скольо мы тебе должны?
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:56:40.382510  zulas@q3mcco35auwcstmt.onion
+	[ru] да хз .. ну давай 500$ штерну скажи чтобы переводил
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T12:58:26.872289  defender@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:02:46.921006  zulas@q3mcco35auwcstmt.onion
+	[ru] вам rustоманы не нужны ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:03:19.206134  zulas@q3mcco35auwcstmt.onion
+	[ru] которые в rust втыкают
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:14:17.461937  defender@q3mcco35auwcstmt.onion
+	[ru] это что      такое?
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:16:33.621240  zulas@q3mcco35auwcstmt.onion
+	[ru] https://ru.wikipedia.org/wiki/Rust_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:16:43.347328  zulas@q3mcco35auwcstmt.onion
+	[ru] там сейчас блокчейн пишут Solana называется
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:16:46.775512  zulas@q3mcco35auwcstmt.onion
+	[ru] на нём
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:19:32.168687  defender@q3mcco35auwcstmt.onion
+	[ru] а переговори со стерном
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:19:52.285968  defender@q3mcco35auwcstmt.onion
+	[ru] может ему интересно будет
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:19:56.882452  defender@q3mcco35auwcstmt.onion
+	[ru] и с бузой
+	[en] <?>
+	[fr] <?>
+
+2021-09-10T13:20:02.407202  zulas@q3mcco35auwcstmt.onion
+	[ru] ок хорошо
+	[en] <?>
+	[fr] <?>
+
+2021-09-15T17:09:01.613608  defender@q3mcco35auwcstmt.onion
+	[ru] напиши как будешь
+	[en] <?>
+	[fr] <?>
+
+2021-09-15T17:09:02.893517  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-15T22:57:04.264269  defender@q3mcco35auwcstmt.onion
+	[ru] нужен кош куда тебе скинуть
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T06:26:09.029738  defender@q3mcco35auwcstmt.onion
+	[ru] напиши как будешь
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T06:26:09.030886  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T06:26:09.034776  defender@q3mcco35auwcstmt.onion
+	[ru] нужен кош куда тебе скинуть
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T06:41:40.366483  zulas@q3mcco35auwcstmt.onion
+	[ru] привет .. кидай на 4276 5500 1763 7367 Сбер Ксения Л.
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:30:18.469580  defender@q3mcco35auwcstmt.onion
+	[ru] privet ok
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:30:36.600508  defender@q3mcco35auwcstmt.onion
+	[ru] spectr tebe napisal problemu?
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:30:58.665713  defender@q3mcco35auwcstmt.onion
+	[ru] est zapros konkretnyi otvet vydaet 403
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:32:13.984411  zulas@q3mcco35auwcstmt.onion
+	[ru] привет . я пока занят . вообще там какие-то проблемы с колонками в CSV
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:32:24.961891  zulas@q3mcco35auwcstmt.onion
+	[ru] и у меня нет доступов к серверу .. вкладки похерились
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:32:39.419821  defender@q3mcco35auwcstmt.onion
+	[ru] dostup k serveru est u tebya?
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:32:50.517576  defender@q3mcco35auwcstmt.onion
+	[ru] sek skinu
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:33:07.358241  defender@q3mcco35auwcstmt.onion
+	[ru] pomogi razobratsya, rabota stoit
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:34:17.652388  zulas@q3mcco35auwcstmt.onion
+	[ru] я пока занят . так что сорян . смогу только на след неделе
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:34:28.674277  zulas@q3mcco35auwcstmt.onion
+	[ru] у самого навалилось
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:35:00.981072  defender@q3mcco35auwcstmt.onion
+	[ru] eto pozdno uzhe budet
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:37:05.504275  zulas@q3mcco35auwcstmt.onion
+	[ru] ну давайд оступы
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:40:09.870466  defender@q3mcco35auwcstmt.onion
+	[ru] sek
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:42:10.754412  defender@q3mcco35auwcstmt.onion
+	[ru] https://privatty.com/en/n/DMDD4EQ0MO#t0XfzgYDJH
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:43:40.096366  defender@q3mcco35auwcstmt.onion
+	[ru] root pass https://1ty.me/S7K4A7gzF
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:43:54.563501  defender@q3mcco35auwcstmt.onion
+	[ru] sohrani u sebya
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:44:20.197726  defender@q3mcco35auwcstmt.onion
+	[ru] mozhet bitcoin kosh dash? ya tebe srazu zakinu
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:44:35.142569  zulas@q3mcco35auwcstmt.onion
+	[ru] нету у меня битока
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:44:47.229502  zulas@q3mcco35auwcstmt.onion
+	[ru] на него хлеб не купишь
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:45:21.790071  defender@q3mcco35auwcstmt.onion
+	[ru] ty v obmennike na kartu vyvedesh
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:45:41.006743  defender@q3mcco35auwcstmt.onion
+	[ru] tk ya po suti tozhe samoe budu delat
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:46:34.320318  defender@q3mcco35auwcstmt.onion
+	[ru] https://www.bestchange.ru/ luboi otsuda
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:50:41.024782  zulas@q3mcco35auwcstmt.onion
+	[ru] ну вот и выведешь  )
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:52:37.145907  defender@q3mcco35auwcstmt.onion
+	[ru] ok togda chut pozhe
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:52:45.494563  defender@q3mcco35auwcstmt.onion
+	[ru] na serv zashel?
+	[en] <?>
+	[fr] <?>
+
+2021-09-16T10:53:50.312013  zulas@q3mcco35auwcstmt.onion
+	[ru] да .. там шняга какая то
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T17:48:50.405120  defender@q3mcco35auwcstmt.onion
+	[ru] привет, ты так и не исправил
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T17:49:10.302178  defender@q3mcco35auwcstmt.onion
+	[ru] по сути я тебе за это деньги должен перевести, но по факту как не работало так и не работает
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T17:49:21.018587  defender@q3mcco35auwcstmt.onion
+	[ru] ты исправишь или нет?
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:41:50.198616  defender@q3mcco35auwcstmt.onion
+	[ru] привет, ты так и не исправил
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:41:50.200081  defender@q3mcco35auwcstmt.onion
+	[ru] по сути я тебе за это деньги должен перевести, но по факту как не работало так и не работает
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:41:50.203998  defender@q3mcco35auwcstmt.onion
+	[ru] ты исправишь или нет?
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:44:49.612602  zulas@q3mcco35auwcstmt.onion
+	[ru] привет .. я не знаю что там править . твои ребята меняют клиента . у них что то не работает .. а я должен выяснять это и у себя что то править . не находишь что, что-то не правильно ? 5 лет работало ок, и тут "сломалось на моей стороне" ...
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:51:08.037814  defender@q3mcco35auwcstmt.onion
+	[ru] там добавили поля
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:51:13.954222  defender@q3mcco35auwcstmt.onion
+	[ru] об этом писали в конфу
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:51:26.694166  defender@q3mcco35auwcstmt.onion
+	[ru] ты просто не хочешь погрузиться в проблему
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:51:56.704799  zulas@q3mcco35auwcstmt.onion
+	[ru] я поля добавил .
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:51:59.681067  defender@q3mcco35auwcstmt.onion
+	[ru] спишись с спектром
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:52:05.952078  defender@q3mcco35auwcstmt.onion
+	[ru] он тебе подробно расскажет
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:52:19.608083  defender@q3mcco35auwcstmt.onion
+	[ru] либо он не видит твои изменения
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:52:36.607659  defender@q3mcco35auwcstmt.onion
+	[ru] specter@
+	[en] <?>
+	[fr] <?>
+
+2021-09-20T18:52:41.720210  zulas@q3mcco35auwcstmt.onion
+	[ru] ок хорошо
+	[en] <?>
+	[fr] <?>
+
+2021-09-21T11:17:20.944703  defender@q3mcco35auwcstmt.onion
+	[ru] все понял
+	[en] <?>
+	[fr] <?>
+
+2021-09-21T11:17:26.659016  defender@q3mcco35auwcstmt.onion
+	[ru] сегодня скину
+	[en] <?>
+	[fr] <?>
+
+2021-09-23T04:33:26.427434  defender@q3mcco35auwcstmt.onion
+	[ru] все понял
+	[en] <?>
+	[fr] <?>
+
+2021-09-23T04:33:26.427773  defender@q3mcco35auwcstmt.onion
+	[ru] сегодня скину
+	[en] <?>
+	[fr] <?>
+
+2021-09-25T09:06:43.188981  zulas@q3mcco35auwcstmt.onion
+	[ru] ничего не приходило
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T12:37:49.185969  zulas@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T12:38:05.859135  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T12:39:01.770819  zulas@q3mcco35auwcstmt.onion
+	[ru] как оно  ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T12:39:08.816717  zulas@q3mcco35auwcstmt.onion
+	[ru] все работит на моей стороне ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T12:39:30.319061  defender@q3mcco35auwcstmt.onion
+	[ru] сейчас разгребусь перепроверим
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T12:39:55.715550  defender@q3mcco35auwcstmt.onion
+	[ru] я ж тебе оплатить должен, извини замотался
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T12:40:03.443387  defender@q3mcco35auwcstmt.onion
+	[ru] может все таки на бтц тебе скинуть?
+	[en] <?>
+	[fr] <?>
+
+2021-09-27T12:42:22.762146  zulas@q3mcco35auwcstmt.onion
+	[ru] на бтц хлеб не купишь . так что сорян
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:07:15.291909  zulas@q3mcco35auwcstmt.onion
+	[ru] тцы
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:07:18.261966  zulas@q3mcco35auwcstmt.onion
+	[ru] тыц
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:12:45.492277  defender@q3mcco35auwcstmt.onion
+	[ru] я тебе отправил
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:38:39.981934  defender@q3mcco35auwcstmt.onion
+	[ru] скажешл как придут
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:40:53.872866  zulas@q3mcco35auwcstmt.onion
+	[ru] нету ничего
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:40:57.459880  zulas@q3mcco35auwcstmt.onion
+	[ru] ты куда слал ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:41:53.756457  defender@q3mcco35auwcstmt.onion
+	[ru] на картууууууууууууууууууууууууууууууу
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:41:57.455027  defender@q3mcco35auwcstmt.onion
+	[ru] на карту
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T16:42:17.182792  defender@q3mcco35auwcstmt.onion
+	[ru] часа 2-3 могут идти
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T17:16:12.517584  zulas@q3mcco35auwcstmt.onion
+	[ru] все ок . пришло
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T17:16:14.419897  zulas@q3mcco35auwcstmt.onion
+	[ru] спасибо
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T17:20:27.968055  defender@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T17:20:44.550308  defender@q3mcco35auwcstmt.onion
+	[ru] готов на другие задачи?
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T17:20:46.593621  defender@q3mcco35auwcstmt.onion
+	[ru] или занят
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T17:33:31.782780  zulas@q3mcco35auwcstmt.onion
+	[ru] готов а  есть?
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T17:35:06.055680  defender@q3mcco35auwcstmt.onion
+	[ru] завтра обдумаем
+	[en] <?>
+	[fr] <?>
+
+2021-09-28T17:35:13.105503  zulas@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] <?>
+	[fr] <?>
+
+2021-09-29T17:44:28.610501  zulas@q3mcco35auwcstmt.onion
+	[ru] привет . обдумал ?
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T18:10:15.048520  defender@q3mcco35auwcstmt.onion
+	[ru] привет, есть срочное задание по деро
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T18:10:23.988602  defender@q3mcco35auwcstmt.onion
+	[ru] очень нужное
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T18:10:30.332325  defender@q3mcco35auwcstmt.onion
+	[ru] напиши как будешь
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:24:19.689526  defender@q3mcco35auwcstmt.onion
+	[ru] привет, есть срочное задание по деро
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:24:19.691450  defender@q3mcco35auwcstmt.onion
+	[ru] очень нужное
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:24:19.693745  defender@q3mcco35auwcstmt.onion
+	[ru] напиши как будешь
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:24:50.134785  zulas@q3mcco35auwcstmt.onion
+	[ru] привет ... написал
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:24:56.997060  zulas@q3mcco35auwcstmt.onion
+	[ru] ты сразу пиши что нужно .. и я прочитаю ..
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:51:40.321375  defender@q3mcco35auwcstmt.onion
+	[ru] в общем модуль шлет куки в таком формате
+
+dXNlcg==|IE|MXJ4Lmlv|X3J4dXVpZA==|JTdCJTIycnhfdXVpZCUyMiUzQSUyMlJYLTM5ZDgxY2M1LWU0NWUtNDQxNy1hY2Q1LWZkZmQ3MzJkMTVhOC0wMDUlMjIlN0Q=|1240428366|1240428366|Lw==||
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRmb3JtLm5ldA==|Qw==|MQ==|1240428624|1240428624|Lw==||
+dXNlcg==|IE|MTQwOTcyNDg4ODc5MDc3MzQ2NA==||dWlk|1240428502|1240428502|||
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRzLnNhbWJhLnR2|c2FtYmFweGlk|ZGQ0ZmZmMzExNGZkZGQ4Zg==|1240428391|1240428391|Lw==||
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRzLnN0aWNreWFkc3R2LmNvbQ==|VUlE|NzU1Yjg2MzEzNWUxYzVjODI0MmFlMjA4NGExODI5|1240428552|1240428552|Lw==||
+dXNlcg==|IE|MQ==||dWlkLWJwLTMwODMz|1240428502|1240428502|||
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRzcnZyLm9
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:51:55.534958  defender@q3mcco35auwcstmt.onion
+	[ru] вот например строка
+
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRmb3JtLm5ldA==|Qw==|MQ==|1240428624|1240428624|Lw==||
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:52:24.440186  defender@q3mcco35auwcstmt.onion
+	[ru] видишь тут модуль не поставил перевод строки перед dXNlcg==|IE
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:52:35.034578  defender@q3mcco35auwcstmt.onion
+	[ru] кодер модуля в отпуске а надо принимать данные уже сейчас
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:52:55.146024  defender@q3mcco35auwcstmt.onion
+	[ru] поэтому решили пока сделать на стороне сервера, то есть в деро
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:54:15.736968  defender@q3mcco35auwcstmt.onion
+	[ru] 1. берем в первой строке значение до первого разделителя | - это будет по моему имя юзера dXNlcg==
+2. далее заменяем все вхождения |dXNlcg== на |<перевод строки>dXNlcg==
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:54:19.594066  defender@q3mcco35auwcstmt.onion
+	[ru] и дальше обрабатываем
+	[en] <?>
+	[fr] <?>
+
+2021-09-30T20:54:25.155050  defender@q3mcco35auwcstmt.onion
+	[ru] вот такая задача
+	[en] <?>
+	[fr] <?>
+
+2021-10-01T11:06:20.311950  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-10-01T11:06:22.642777  defender@q3mcco35auwcstmt.onion
+	[ru] пока отбой
+	[en] <?>
+	[fr] <?>
+
+2021-10-01T11:06:26.116601  defender@q3mcco35auwcstmt.onion
+	[ru] вышел кодер модуля
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.178447  defender@q3mcco35auwcstmt.onion
+	[ru] в общем модуль шлет куки в таком формате
+
+dXNlcg==|IE|MXJ4Lmlv|X3J4dXVpZA==|JTdCJTIycnhfdXVpZCUyMiUzQSUyMlJYLTM5ZDgxY2M1LWU0NWUtNDQxNy1hY2Q1LWZkZmQ3MzJkMTVhOC0wMDUlMjIlN0Q=|1240428366|1240428366|Lw==||
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRmb3JtLm5ldA==|Qw==|MQ==|1240428624|1240428624|Lw==||
+dXNlcg==|IE|MTQwOTcyNDg4ODc5MDc3MzQ2NA==||dWlk|1240428502|1240428502|||
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRzLnNhbWJhLnR2|c2FtYmFweGlk|ZGQ0ZmZmMzExNGZkZGQ4Zg==|1240428391|1240428391|Lw==||
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRzLnN0aWNreWFkc3R2LmNvbQ==|VUlE|NzU1Yjg2MzEzNWUxYzVjODI0MmFlMjA4NGExODI5|1240428552|1240428552|Lw==||
+dXNlcg==|IE|MQ==||dWlkLWJwLTMwODMz|1240428502|1240428502|||
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRzcnZyLm9
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.179729  defender@q3mcco35auwcstmt.onion
+	[ru] вот например строка
+
+dXNlcg==|IE||||1240428288|1240428288|||dXNlcg==|IE|YWRmb3JtLm5ldA==|Qw==|MQ==|1240428624|1240428624|Lw==||
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.180897  defender@q3mcco35auwcstmt.onion
+	[ru] видишь тут модуль не поставил перевод строки перед dXNlcg==|IE
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.182467  defender@q3mcco35auwcstmt.onion
+	[ru] кодер модуля в отпуске а надо принимать данные уже сейчас
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.183707  defender@q3mcco35auwcstmt.onion
+	[ru] поэтому решили пока сделать на стороне сервера, то есть в деро
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.184868  defender@q3mcco35auwcstmt.onion
+	[ru] 1. берем в первой строке значение до первого разделителя | - это будет по моему имя юзера dXNlcg==
+2. далее заменяем все вхождения |dXNlcg== на |<перевод строки>dXNlcg==
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.187691  defender@q3mcco35auwcstmt.onion
+	[ru] и дальше обрабатываем
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.189060  defender@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.189454  defender@q3mcco35auwcstmt.onion
+	[ru] вот такая задача
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.189646  defender@q3mcco35auwcstmt.onion
+	[ru] пока отбой
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:41:58.192370  defender@q3mcco35auwcstmt.onion
+	[ru] вышел кодер модуля
+	[en] <?>
+	[fr] <?>
+
+2021-10-03T18:44:25.043458  zulas@q3mcco35auwcstmt.onion
+	[ru] причем тут кодер модуля ... что один человек только с языком работает на котором модуль написан ?
+	[en] <?>
+	[fr] <?>
+
+2021-10-22T14:15:17.726259  defender@q3mcco35auwcstmt.onion
+	[ru] ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК
+	[en] <?>
+	[fr] <?>
+
+2021-12-03T09:25:19.363214  defender@q3mcco35auwcstmt.onion
+	[ru] ЭТО НАДО СДЕЛАТЬ ВСЕМ, иначе жаба перестанет у вас работать
+
+новый домен жабы версии 3
+odw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion
+
+его прописываем в настройках аккаунта - соединение - сервер
+перед этим на это вкладке ставим галку Вручную указать адрес сервера и порт
+
+порт стандартный 5222 
+
+ВАЖНО, все остальное остается, аккаунт отстается со старым доменом... прописывается только домен для соединения 
+
+!!! Как сделаете, отпишите мне что все ОК
+	[en] <?>
+	[fr] <?>
+
+2021-12-03T09:28:43.226883  zulas@q3mcco35auwcstmt.onion
+	[ru] сделал . приконнектилось
+	[en] <?>
+	[fr] <?>
+

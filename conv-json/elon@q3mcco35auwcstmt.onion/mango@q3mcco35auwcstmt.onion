@@ -1,0 +1,89 @@
+{
+    "2021-04-13T08:07:29.250222": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "привет бро напоминаю про отчеты)",
+        "body_fr": "Salut Bro rappelle des rapports)",
+        "body_en": "Hi Bro remind about reports)"
+    },
+    "2021-04-26T09:19:41.724893": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "привет! напоминаю про пятничный отчет)"
+    },
+    "2021-05-26T14:55:46.709728": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Приветствую. Отчет за вторник\n[stanton]\n25.05.2021\n(криптер на билдмашине, на чистке)\n1, dll->exe, БК, 1\nвсего: 0\n\n[dane]\n25.05.2021\n1, dll->dll, лоадеры/боты Лео 64, 10\n2, dll->dll, локер 64, 4\n3, dll->dll, локер 32, 2\n4, dll->dll, rob 32, 2\n5, dll->dll, bk 64, 2\n6, dll->exe, bk 64, 2\nвсего: 22\n\n[elroy,basil]\n25.05.2021\nне криптовал (криптер на билдмашине, на чистке)\nвсего: 0\n\n[allen]\n25.05.2021\nразработка\nвсего: 0\n\n[hugo]\n25.05.2021\n1, dll->exe, generic(dl2_x64_g8_287), 1\nвсего: 1\n\n[collin]\n25.05.2021\nне криптовал\nвсего: 0\n\n[orval]\n25.05.2021\n(криптер на билдмашине, в работе)\n1, dll->dll, rundll (dl2_x64_g8_287.dll), 1\n2, dll->exe, rundll (dl2_x64_g8_287.dll), 1\nвсего: 2\n\n[carrol]\n25.05.2021\nне криптовал (криптер на билдмашине, в работе)\nвсего: 0\n\nИтого: 25"
+    },
+    "2021-05-26T14:56:12.862484": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "*Итого 26"
+    },
+    "2021-06-02T17:22:10.769592": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Приветствую. Отчет за вторник\n[stanton]\n01.06.2021\nне криптовал (криптер на билдмашине, в работе)\nвсего: 0\n\n[dane]\n01.06.2021\nподключение криптера к билдмашине\nвсего: 0\n\n[elroy,basil]\n01.06.2021\nне криптовал (криптер на билдмашине, в работе)\nвсего: 0\n\n[allen]\n01.06.2021\nразработка\nвсего: 0\n\n[hugo]\n01.06.2021\n1, dll->exe, generic(dl2_x64_g5_293), 2\nвсего: 2\n\n[collin]\n01.06.2021\n1, dll->dll, generic(rldr.16.4), 1\nвсего: 1\n\n[orval]\n01.06.2021\nне криптовал (криптер на билдмашине, в работе)\nвсего: 0\n\n[carrol]\n01.06.2021\nне криптовал (криптер на билдмашине, в работе)\nвсего: 0\n\nИтого: 3"
+    },
+    "2021-06-18T13:22:02.306511": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Приветствую.\nОтчет за вторник\n[stanton]\n15.06.2021\nне криптовал (криптер на билдмашине, на чистке)\nвсего: 0\n\n[dane]\n15.06.2021\nотпуск\nне криптовал (криптер на билдмашине, в работе)\nвсего: 0\n\n[elroy,basil]\n15.06.2021\n(криптер на билдмашине, в работе)\n1, dll->dll, bk, 1\nвсего: 1\n\n[allen]\n15.06.2021\nотпуск\nне криптовал (криптер на билдмашине, в работе)\nвсего: 0\n\n[hugo]\n15.06.2021\n1, dll->exe, generic(n), 1\nвсего: 1\n\n[collin]\n15.06.2021\nне криптовал\nвсего: 0\n\n[orval]\n15.06.2021\nне криптовал (криптер на билдмашине, в работе)\nвсего: 0\n\n[carrol]\n15.06.2021\n(криптер на билдмашине, в работе)\n1, dll->dll, rundll, 1\nвсего: 1\n\nИтого: 3"
+    },
+    "2021-07-09T21:39:45.645052": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "принял бро спс"
+    },
+    "2021-07-12T07:23:02.822902": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "принял бро спс"
+    },
+    "2021-11-15T13:19:09.310666": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "привет у тебя там в чате по прежнему все по зп? санкции или может люди новые есть?"
+    },
+    "2021-11-15T13:56:23.658890": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "привет у тебя там в чате по прежнему все по зп? санкции или может люди новые есть?"
+    },
+    "2022-01-10T08:40:46.514876": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Приветствую"
+    },
+    "2022-01-10T08:43:26.314335": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "хай"
+    },
+    "2022-01-20T10:25:28.531717": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "хай"
+    },
+    "2022-01-24T05:51:55.720295": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "привет рокет новичков же неактуален у нас? удаляю его?"
+    },
+    "2022-01-24T07:38:54.644005": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "привет рокет новичков же неактуален у нас? удаляю его?"
+    },
+    "2022-01-25T18:13:52.596986": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "elon@q3mcco35auwcstmt.onion",
+        "body": "[21:13:50] <mango> согласен, пусть работает"
+    },
+    "2022-01-26T13:11:01.713685": {
+        "src": "elon@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "Приветствую"
+    }
+}

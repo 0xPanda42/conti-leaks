@@ -1,0 +1,101 @@
+{
+    "2021-03-31T17:16:18.459527": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-31T17:16:25.685251": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "надо человеку браузер настроить и активировать",
+        "body_fr": "besoin d'un navigateur homme pour configurer et activer",
+        "body_en": "need a man browser to configure and activate"
+    },
+    "2021-03-31T17:16:39.822909": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "поможешь ему ?",
+        "body_fr": "Vous aidez-vous?",
+        "body_en": "Do you help him?"
+    },
+    "2021-03-31T17:16:42.450611": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "сделай ему сборку без подтверждения на сервере",
+        "body_fr": "Faites-en un montage sans confirmation sur le serveur",
+        "body_en": "make it an assembly without confirmation on the server"
+    },
+    "2021-03-31T17:16:44.000779": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "чтобы всегда работала",
+        "body_fr": "Toujours travaillé",
+        "body_en": "To always worked"
+    },
+    "2021-03-31T17:17:31.998164": {
+        "src": "tunri@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-31T17:17:42.767204": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "ну или с органичением на 1 год",
+        "body_fr": "Eh bien, ou avec l'organisation pendant 1 an",
+        "body_en": "Well, or with the Organization for 1 year"
+    },
+    "2021-03-31T17:17:55.554046": {
+        "src": "tunri@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "я насколько помню там сделано так, чтобы без сервера не работало",
+        "body_fr": "Je me souviens là-bas, il est fait pour que sans le serveur ne fonctionne pas",
+        "body_en": "I remember there it is done so that without the server it does not work"
+    },
+    "2021-03-31T17:18:08.250494": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "ну ладно ок",
+        "body_fr": "Bon ok",
+        "body_en": "Well, OK"
+    },
+    "2021-03-31T17:18:12.780632": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "сервер доступпен вобще сейчас?",
+        "body_fr": "Le serveur est disponible du tout maintenant?",
+        "body_en": "Server is available at all now?"
+    },
+    "2021-03-31T17:18:14.904304": {
+        "src": "tunri@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "надо допиливать тогда",
+        "body_fr": "Nous devons finir alors",
+        "body_en": "We must finish then"
+    },
+    "2021-03-31T17:18:31.457131": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "давай по серверу",
+        "body_fr": "Venir sur le serveur",
+        "body_en": "Come on the server"
+    },
+    "2021-06-08T09:31:49.327357": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-28T08:05:09.382313": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-07-06T19:20:49.744418": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "tunri@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

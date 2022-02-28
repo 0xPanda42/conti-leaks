@@ -1,0 +1,188 @@
+##################################################
+Conversation between:
+	- mushroom@q3mcco35auwcstmt.onion
+	- stern@q3mcco35auwcstmt.onion
+32 messages
+first: 2021-02-02T15:26:30.672479
+last:  2021-09-13T08:32:30.012060
+##################################################
+
+2021-02-02T15:26:30.672479  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] Hey
+	[fr] Hé
+
+2021-02-02T15:37:19.333832  mushroom@q3mcco35auwcstmt.onion
+	[ru] Привет.
+	[en] Hello.
+	[fr] Salut.
+
+2021-02-02T15:44:01.753064  stern@q3mcco35auwcstmt.onion
+	[ru] как у тебя с бк ?
+	[en] How are you from the BC?
+	[fr] Comment allez-vous de la BC?
+
+2021-02-02T15:45:27.501488  mushroom@q3mcco35auwcstmt.onion
+	[ru] Для первого и второго протокола работает.
+	[en] For the first and second protocol works.
+	[fr] Pour le premier et le deuxième protocole fonctionne.
+
+2021-02-02T15:45:50.346398  mushroom@q3mcco35auwcstmt.onion
+	[ru] Адреса ждём.
+	[en] Addresses waiting.
+	[fr] Adresses en attente.
+
+2021-02-02T15:45:54.568581  stern@q3mcco35auwcstmt.onion
+	[ru] какие адреса ?
+	[en] What are the addresses?
+	[fr] Quelles sont les adresses?
+
+2021-02-02T15:46:23.048421  mushroom@q3mcco35auwcstmt.onion
+	[ru] Чтобы прошить их в программе, на них запросы посылаются из бк.
+	[en] To flash them in the program, requests are sent to them from BC.
+	[fr] Pour les classer dans le programme, les demandes leur sont envoyées de la BC.
+
+2021-02-02T15:46:34.786087  mushroom@q3mcco35auwcstmt.onion
+	[ru] Они каждый раз разные.
+	[en] They are different every time.
+	[fr] Ils sont différents à chaque fois.
+
+2021-02-02T15:47:48.267700  mushroom@q3mcco35auwcstmt.onion
+	[ru] Их Green выдаёт.
+	[en] Their Green gives.
+	[fr] Leur vert donne.
+
+2021-02-03T15:54:21.130622  stern@q3mcco35auwcstmt.onion
+	[ru] Привет
+	[en] Hey
+	[fr] Hé
+
+2021-02-24T16:29:36.600032  stern@q3mcco35auwcstmt.onion
+	[ru] Кто сможет разобраться по уязвимости sonicwall
+И сделать рабочий сканер
+	[en] Who can figure out the SonicWall vulnerability
+And make a working scanner
+	[fr] Qui peut comprendre la vulnérabilité de SonicWall
+Et faire un scanner de travail
+
+2021-02-25T07:09:34.422869  stern@q3mcco35auwcstmt.onion
+	[ru] Кто сможет разобраться по уязвимости sonicwall
+И сделать рабочий сканер
+	[en] Who can figure out the SonicWall vulnerability
+And make a working scanner
+	[fr] Qui peut comprendre la vulnérabilité de SonicWall
+Et faire un scanner de travail
+
+2021-03-12T15:17:24.802756  stern@q3mcco35auwcstmt.onion
+	[ru] Привет, как у кого дела, пишите результаты, успехи или неудачи
+	[en] Hello, how are you doing, write results, successes or failures
+	[fr] Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs
+
+2021-03-12T15:58:40.861288  stern@q3mcco35auwcstmt.onion
+	[ru] привет принял
+	[en] Hello accepted
+	[fr] Bonjour accepté
+
+2021-03-15T07:20:48.862560  stern@q3mcco35auwcstmt.onion
+	[ru] привет принял
+	[en] Hello accepted
+	[fr] Bonjour accepté
+
+2021-04-01T14:39:52.038798  stern@q3mcco35auwcstmt.onion
+	[ru] как дела
+	[en] how are you
+	[fr] Comment vas-tu
+
+2021-04-01T15:53:19.935277  stern@q3mcco35auwcstmt.onion
+	[ru] как дела
+	[en] how are you
+	[fr] Comment vas-tu
+
+2021-04-01T15:54:09.786158  mushroom@q3mcco35auwcstmt.onion
+	[ru] Чищу сейчас загрузчики для спам админки по первому и второму протоколу.
+	[en] I now clean the loaders for spam admins on the first and second protocol.
+	[fr] Je nettoie maintenant les chargeurs pour les administrateurs de spam sur le premier et le deuxième protocole.
+
+2021-06-07T12:49:39.305870  stern@q3mcco35auwcstmt.onion
+	[ru] Привет. Как дела? 
+какие результаты у тебя? 
+Какие задачи стоят?
+Какие идеи есть что можно добавить и улучшить?
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:58:11.373595  mushroom@q3mcco35auwcstmt.onion
+	[ru] Привет. Я делаю каждый день сборки загрузчик/бот. Чищу их периодически. Периодически улучшаю/изменяю их. Когда не занимаюсь БК, занимаюсь доработкой крипта своего, чтобы его можно было использовать на сервере для автоматических сборок.
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:10:33.275761  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:10:34.183711  stern@q3mcco35auwcstmt.onion
+	[ru] как дела
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:10:36.324544  stern@q3mcco35auwcstmt.onion
+	[ru] с бк у тебя
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:10:40.487849  stern@q3mcco35auwcstmt.onion
+	[ru] их кто нибудь польззуется
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:13:48.969640  mushroom@q3mcco35auwcstmt.onion
+	[ru] Этим Kaktus заведует. Кому какой БК отдавать.
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:14:35.887877  mushroom@q3mcco35auwcstmt.onion
+	[ru] У него надо узнавать.
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:30:24.295387  stern@q3mcco35auwcstmt.onion
+	[ru] Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T08:05:57.540547  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T11:37:21.799792  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T07:59:59.794685  stern@q3mcco35auwcstmt.onion
+	[ru] Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T08:31:40.345322  mushroom@q3mcco35auwcstmt.onion
+	[ru] Привет. Сейчас делаю каждый день по несколько сборок загрузчик/бот чищу их по необходимости, дорабатываю.
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T08:32:30.012060  stern@q3mcco35auwcstmt.onion
+	[ru] Привет понял
+	[en] <?>
+	[fr] <?>
+

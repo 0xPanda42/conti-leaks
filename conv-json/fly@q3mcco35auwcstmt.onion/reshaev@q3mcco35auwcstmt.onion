@@ -1,0 +1,12 @@
+{
+    "2021-09-28T14:12:15.118665": {
+        "src": "fly@q3mcco35auwcstmt.onion",
+        "dst": "reshaev@q3mcco35auwcstmt.onion",
+        "body": "привет!"
+    },
+    "2021-09-28T14:12:21.920835": {
+        "src": "reshaev@q3mcco35auwcstmt.onion",
+        "dst": "fly@q3mcco35auwcstmt.onion",
+        "body": "hi"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "2021-05-10T20:02:54.106886": {
+        "src": "revers@q3mcco35auwcstmt.onion",
+        "dst": "vampire@q3mcco35auwcstmt.onion",
+        "body": "тут ?"
+    },
+    "2021-05-11T12:04:18.248862": {
+        "src": "vampire@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "Привет. Сегодня новый чат работал, сейчас нет. User not found or incorrect password"
+    },
+    "2021-05-11T12:17:24.857812": {
+        "src": "vampire@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "не пускает и все"
+    },
+    "2021-05-11T12:18:19.334922": {
+        "src": "vampire@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "user not found or incorrect password"
+    },
+    "2021-05-11T12:47:44.374172": {
+        "src": "vampire@q3mcco35auwcstmt.onion",
+        "dst": "revers@q3mcco35auwcstmt.onion",
+        "body": "все норм, спс"
+    }
+}

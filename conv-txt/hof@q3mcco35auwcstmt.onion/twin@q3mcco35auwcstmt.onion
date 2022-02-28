@@ -1,0 +1,29 @@
+##################################################
+Conversation between:
+	- hof@q3mcco35auwcstmt.onion
+	- twin@q3mcco35auwcstmt.onion
+4 messages
+first: 2021-03-16T08:55:47.891797
+last:  2021-03-16T08:56:28.544545
+##################################################
+
+2021-03-16T08:55:47.891797  hof@q3mcco35auwcstmt.onion
+	[ru] привет, там какой то косяк с фтп
+	[en] Hello, there is some kind of jamb with FTP
+	[fr] Bonjour, il y a une sorte de jambon avec ftp
+
+2021-03-16T08:56:05.407309  hof@q3mcco35auwcstmt.onion
+	[ru] с браузера качает, а через wget выдает 404
+	[en] From the browser shakes, and through WGET gives out 404
+	[fr] Depuis le navigateur Shakes, et à travers Wget Dit 404
+
+2021-03-16T08:56:15.884162  hof@q3mcco35auwcstmt.onion
+	[ru] и через бот тоже 404
+	[en] And through the bot, too, 404
+	[fr] Et à travers le bot, aussi 404
+
+2021-03-16T08:56:28.544545  hof@q3mcco35auwcstmt.onion
+	[ru] залил на нормальный фтп, все работает
+	[en] poured on a normal FTP, everything works
+	[fr] versé sur un ftp normal, tout fonctionne
+

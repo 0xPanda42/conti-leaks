@@ -1,0 +1,66 @@
+{
+    "2021-02-24T16:29:36.598064": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "globus@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-12T15:17:24.794530": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "globus@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-06-02T02:32:08.631701": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "globus@q3mcco35auwcstmt.onion",
+        "body": "Привет как дела"
+    },
+    "2021-06-02T08:20:16.961095": {
+        "src": "globus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-02T08:20:20.903483": {
+        "src": "globus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "нормально"
+    },
+    "2021-06-02T18:30:20.693777": {
+        "src": "globus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-02T18:30:20.696502": {
+        "src": "globus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "нормально"
+    },
+    "2021-06-07T12:49:39.301626": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "globus@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-08T09:30:16.543779": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "globus@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-28T08:05:49.350975": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "globus@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-09-13T08:00:07.959260": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "globus@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    },
+    "2021-11-16T12:44:07.380612": {
+        "src": "globus@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ага"
+    }
+}

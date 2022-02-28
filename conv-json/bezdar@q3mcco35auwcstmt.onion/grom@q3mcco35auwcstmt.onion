@@ -1,0 +1,42 @@
+{
+    "2021-12-05T18:05:19.387858": {
+        "src": "grom@q3mcco35auwcstmt.onion",
+        "dst": "bezdar@q3mcco35auwcstmt.onion",
+        "body": "отр"
+    },
+    "2021-12-17T08:36:02.131813": {
+        "src": "grom@q3mcco35auwcstmt.onion",
+        "dst": "bezdar@q3mcco35auwcstmt.onion",
+        "body": "отр тест"
+    },
+    "2021-12-22T08:21:02.112503": {
+        "src": "bezdar@q3mcco35auwcstmt.onion",
+        "dst": "grom@q3mcco35auwcstmt.onion",
+        "body": "у нас все гуд работает*"
+    },
+    "2022-01-10T08:16:08.418561": {
+        "src": "grom@q3mcco35auwcstmt.onion",
+        "dst": "bezdar@q3mcco35auwcstmt.onion",
+        "body": "hi"
+    },
+    "2022-01-14T07:52:28.239323": {
+        "src": "grom@q3mcco35auwcstmt.onion",
+        "dst": "bezdar@q3mcco35auwcstmt.onion",
+        "body": "hi man"
+    },
+    "2022-01-18T13:54:18.421404": {
+        "src": "grom@q3mcco35auwcstmt.onion",
+        "dst": "bezdar@q3mcco35auwcstmt.onion",
+        "body": " не вижу ничего"
+    },
+    "2022-01-18T13:54:26.133972": {
+        "src": "grom@q3mcco35auwcstmt.onion",
+        "dst": "bezdar@q3mcco35auwcstmt.onion",
+        "body": "т.е. сообщений нет"
+    },
+    "2022-01-24T07:56:24.945223": {
+        "src": "grom@q3mcco35auwcstmt.onion",
+        "dst": "bezdar@q3mcco35auwcstmt.onion",
+        "body": "hi man"
+    }
+}

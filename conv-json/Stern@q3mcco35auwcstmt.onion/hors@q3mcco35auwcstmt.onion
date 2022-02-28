@@ -1,0 +1,584 @@
+{
+    "2021-03-09T14:32:51.004101": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "1",
+        "body_fr": "une",
+        "body_en": "one"
+    },
+    "2021-03-09T18:13:44.469341": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "1",
+        "body_fr": "une",
+        "body_en": "one"
+    },
+    "2021-03-23T13:22:43.480412": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-24T11:01:16.724662": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-25T18:22:20.562588": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Дерека",
+        "body_fr": "Dreek",
+        "body_en": "Derek"
+    },
+    "2021-03-27T05:20:19.777009": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "да",
+        "body_fr": "Oui",
+        "body_en": "Yes"
+    },
+    "2021-03-27T23:36:24.757264": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-04-02T22:44:15.707649": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[02.04.2021 08:14:43] <swift> ааа, мне объяснили\n[02.04.2021 08:14:51] <swift> тебе ж нароботки наши нужны будут\n[02.04.2021 08:14:52] <swift> все\n[02.04.2021 08:16:46] <hors> Да, но и паралельно я не против себя опробовать в этом\n[02.04.2021 18:33:02] <swift> в чем хочешь себя попробовать?\n[02.04.2021 18:33:42] <hors> Да вообще в посиках уязвимостей и тд, что то новое \n[02.04.2021 18:34:09] <swift> могу прямо сейчас озадачить\n[02.04.2021 18:34:26] <swift> опыт работы с дизасмом есть?\n[02.04.2021 18:35:05] <hors> Нету \n[02.04.2021 18:35:40] <swift> понимание прав в виндовс?\n[02.04.2021 18:36:03] <hors> Имееться \n[02.04.2021 18:36:21] <swift> знаешь что такое dacl, acl?\n[02.04.2021 18:38:26] <hors> Нет\nЕсть какие нибудь мануалы  или какая нибудь информация с чего начать вообще\n[02.04.2021 18:39:01] <swift> > Нет\nзначит и о правах в винде не знаешь\n[02.04.2021 18:39:20] <swift> англ знаешь?\n[02.04.2021 18:40:28] <hors> +-\nЯ больше по инструментам - кобальт,метасплойт, поднятие прав, поиск уязвимостей через метасплойт,зерологон и тд\n[02.04.2021 18:40:40] <hors> Языки програмирования не знаю\n[02.04.2021 18:40:54] <swift> >поиск уязвимостей через метасплойт,зерологон и тд\nче?\n[02.04.2021 18:41:02] <hors> ))\n[02.04.2021 18:41:52] <swift> пропади на два годика за мануалами и книгами, и возвращайся\n[02.04.2021 18:42:01] <swift> просто тебе прям дохуя гриндить",
+        "body_fr": "[04/02/2021 08:14:43] <SWIFT> AAA, j'ai été expliqué\n[02.04.2021 08:14:51] <SWIFT> Vous tuez notre besoin\n[02.04.2021 08:14:52] <SWIFT> Tout\n[02.04.2021 08:16:46] <hors> oui, mais aussi parallèlement, je ne me dérange pas de vous-même dans cette\n[02.04.2021 18:33:02] <SWIFT> Que voulez-vous essayer?\n[02.04.2021 18:33:42] <hors> Oui, en général dans les vulnérabilités du pantalon, etc., quelque chose de nouveau\n[04/02/2021 18:34:09] <Swift> Je peux casse en ce moment\n[02.04.2021 18:34:26] <Swift> Expérience avec démontage est là?\n[02.04.2021 18:35:05] <hors> non\n[02.04.2021 18:35:40] <Swift> Comprendre les droits à Windows?\n[02.04.2021 18:36:03] <hors>\n[02.04.2021 18:36:21] <SWIFT> Vous savez ce que DACL, ACL est?\n[02.04.2021 18:38:26] <hors> non\nIl y a des manuels ou des informations sur lesquelles\n[02.04.2021 18:39:01] <Swift >> Non\nCela signifie que les droits dans Windows ne connaissent pas\n[02.04.2021 18:39:20] <Swift> English Savez-vous?\n[02.04.2021 18:40:28] <hors> + -\nJe suis plus dans les outils - Cobalt, Metadayt, Droits de levage, rechercher des vulnérabilités à travers Metadayt, Grasogone, etc.\n[02.04.2021 18:40:40] <hors> je ne connais pas les langues de la programmation\n[02.04.2021 18:40:54] <Swift >> Recherche de vulnérabilités via Metadayt, Cenogone et ainsi\nquelle?\n[02.04.2021 18:41:02] <hors>))\n[02.04.2021 18:41:52] <SWIFT> Perte de deux ans de deux ans derrière des manuels et des livres et revenir\n[02.04.2021 18:42:01] <SWIFT> JUSTE VOUS DOECHNK GRINST",
+        "body_en": "[04/02/2021 08:14:43] <SWIFT> AAA, I was explained\n[02.04.2021 08:14:51] <SWIFT> you are tumbling our need\n[02.04.2021 08:14:52] <SWIFT> All\n[02.04.2021 08:16:46] <HORS> Yes, but also parallelly I do not mind yourself in this\n[02.04.2021 18:33:02] <SWIFT> What do you want to try yourself?\n[02.04.2021 18:33:42] <HORS> Yes, in general in Pants vulnerabilities and so on, something new\n[04/02/2021 18:34:09] <SWIFT> I can puzzle right now\n[02.04.2021 18:34:26] <SWIFT> Experience with disassemble is there?\n[02.04.2021 18:35:05] <HORS> No\n[02.04.2021 18:35:40] <SWIFT> Understanding rights to windows?\n[02.04.2021 18:36:03] <HORS>\n[02.04.2021 18:36:21] <SWIFT> You know what DACL, ACL is?\n[02.04.2021 18:38:26] <HORS> no\nThere are any manuals or some information where to start at all\n[02.04.2021 18:39:01] <SWIFT>> no\nit means about the rights in Windows do not know\n[02.04.2021 18:39:20] <SWIFT> English Do you know?\n[02.04.2021 18:40:28] <HORS> + -\nI'm more in tools - cobalt, metadayt, lifting rights, search for vulnerabilities through metadayt, grasologone, etc.\n[02.04.2021 18:40:40] <HORS> I do not know the languages ​​of programming\n[02.04.2021 18:40:54] <SWIFT >> Search for vulnerabilities through metadayt, cerebral and so\nwhat?\n[02.04.2021 18:41:02] <HORS>))\n[02.04.2021 18:41:52] <SWIFT> Loss of two years behind manuals and books, and come back\n[02.04.2021 18:42:01] <SWIFT> just you just dohunk grinst"
+    },
+    "2021-04-03T08:17:03.239046": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[02.04.2021 08:14:43] <swift> ааа, мне объяснили\n[02.04.2021 08:14:51] <swift> тебе ж нароботки наши нужны будут\n[02.04.2021 08:14:52] <swift> все\n[02.04.2021 08:16:46] <hors> Да, но и паралельно я не против себя опробовать в этом\n[02.04.2021 18:33:02] <swift> в чем хочешь себя попробовать?\n[02.04.2021 18:33:42] <hors> Да вообще в посиках уязвимостей и тд, что то новое \n[02.04.2021 18:34:09] <swift> могу прямо сейчас озадачить\n[02.04.2021 18:34:26] <swift> опыт работы с дизасмом есть?\n[02.04.2021 18:35:05] <hors> Нету \n[02.04.2021 18:35:40] <swift> понимание прав в виндовс?\n[02.04.2021 18:36:03] <hors> Имееться \n[02.04.2021 18:36:21] <swift> знаешь что такое dacl, acl?\n[02.04.2021 18:38:26] <hors> Нет\nЕсть какие нибудь мануалы  или какая нибудь информация с чего начать вообще\n[02.04.2021 18:39:01] <swift> > Нет\nзначит и о правах в винде не знаешь\n[02.04.2021 18:39:20] <swift> англ знаешь?\n[02.04.2021 18:40:28] <hors> +-\nЯ больше по инструментам - кобальт,метасплойт, поднятие прав, поиск уязвимостей через метасплойт,зерологон и тд\n[02.04.2021 18:40:40] <hors> Языки програмирования не знаю\n[02.04.2021 18:40:54] <swift> >поиск уязвимостей через метасплойт,зерологон и тд\nче?\n[02.04.2021 18:41:02] <hors> ))\n[02.04.2021 18:41:52] <swift> пропади на два годика за мануалами и книгами, и возвращайся\n[02.04.2021 18:42:01] <swift> просто тебе прям дохуя гриндить",
+        "body_fr": "[04/02/2021 08:14:43] <SWIFT> AAA, j'ai été expliqué\n[02.04.2021 08:14:51] <SWIFT> Vous tuez notre besoin\n[02.04.2021 08:14:52] <SWIFT> Tout\n[02.04.2021 08:16:46] <hors> oui, mais aussi parallèlement, je ne me dérange pas de vous-même dans cette\n[02.04.2021 18:33:02] <SWIFT> Que voulez-vous essayer?\n[02.04.2021 18:33:42] <hors> Oui, en général dans les vulnérabilités du pantalon, etc., quelque chose de nouveau\n[04/02/2021 18:34:09] <Swift> Je peux casse en ce moment\n[02.04.2021 18:34:26] <Swift> Expérience avec démontage est là?\n[02.04.2021 18:35:05] <hors> non\n[02.04.2021 18:35:40] <Swift> Comprendre les droits à Windows?\n[02.04.2021 18:36:03] <hors>\n[02.04.2021 18:36:21] <SWIFT> Vous savez ce que DACL, ACL est?\n[02.04.2021 18:38:26] <hors> non\nIl y a des manuels ou des informations sur lesquelles\n[02.04.2021 18:39:01] <Swift >> Non\nCela signifie que les droits dans Windows ne connaissent pas\n[02.04.2021 18:39:20] <Swift> English Savez-vous?\n[02.04.2021 18:40:28] <hors> + -\nJe suis plus dans les outils - Cobalt, Metadayt, Droits de levage, rechercher des vulnérabilités à travers Metadayt, Grasogone, etc.\n[02.04.2021 18:40:40] <hors> je ne connais pas les langues de la programmation\n[02.04.2021 18:40:54] <Swift >> Recherche de vulnérabilités via Metadayt, Cenogone et ainsi\nquelle?\n[02.04.2021 18:41:02] <hors>))\n[02.04.2021 18:41:52] <SWIFT> Perte de deux ans de deux ans derrière des manuels et des livres et revenir\n[02.04.2021 18:42:01] <SWIFT> JUSTE VOUS DOECHNK GRINST",
+        "body_en": "[04/02/2021 08:14:43] <SWIFT> AAA, I was explained\n[02.04.2021 08:14:51] <SWIFT> you are tumbling our need\n[02.04.2021 08:14:52] <SWIFT> All\n[02.04.2021 08:16:46] <HORS> Yes, but also parallelly I do not mind yourself in this\n[02.04.2021 18:33:02] <SWIFT> What do you want to try yourself?\n[02.04.2021 18:33:42] <HORS> Yes, in general in Pants vulnerabilities and so on, something new\n[04/02/2021 18:34:09] <SWIFT> I can puzzle right now\n[02.04.2021 18:34:26] <SWIFT> Experience with disassemble is there?\n[02.04.2021 18:35:05] <HORS> No\n[02.04.2021 18:35:40] <SWIFT> Understanding rights to windows?\n[02.04.2021 18:36:03] <HORS>\n[02.04.2021 18:36:21] <SWIFT> You know what DACL, ACL is?\n[02.04.2021 18:38:26] <HORS> no\nThere are any manuals or some information where to start at all\n[02.04.2021 18:39:01] <SWIFT>> no\nit means about the rights in Windows do not know\n[02.04.2021 18:39:20] <SWIFT> English Do you know?\n[02.04.2021 18:40:28] <HORS> + -\nI'm more in tools - cobalt, metadayt, lifting rights, search for vulnerabilities through metadayt, grasologone, etc.\n[02.04.2021 18:40:40] <HORS> I do not know the languages ​​of programming\n[02.04.2021 18:40:54] <SWIFT >> Search for vulnerabilities through metadayt, cerebral and so\nwhat?\n[02.04.2021 18:41:02] <HORS>))\n[02.04.2021 18:41:52] <SWIFT> Loss of two years behind manuals and books, and come back\n[02.04.2021 18:42:01] <SWIFT> just you just dohunk grinst"
+    },
+    "2021-04-06T12:10:15.777392": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[08:06:21] <twin> Подскажи по кобе, почему могут не доходить боты,которых мне пассуют на кобу? \n[08:06:33] <twin> В чем может проблема быть? \n[08:07:01] <green> ну вот мне вчера по БК писали, что файлы битые \n[08:07:23] <green> сегодня написали чтото с ботами \n[08:08:29] <green> я точно не знаю, можешь написать kaktus, он тебе про БК расскажет \n[08:08:35] <twin> Когда кобу регаешь, там же ничего намудрить нельзя, коба же никак не криптуеться там и тд? \n[08:08:42] <green> вчера сильно глючила БК \n[08:08:52] <green> будем переносить на другой сервер \n[08:09:24] <green> ну да, там ничего такого",
+        "body_fr": "[08:06:21] <Twin> Dis-moi sur Kobe, pourquoi ne peut pas atteindre les bots qu'ils passent sur COBA?\n[08:06:33] <Twin> Que peut être le problème?\n[08:07:01] <Green> Eh bien, ici j'ai écrit à la Colombie-Britannique hier que des fichiers bits\n[08:07:23] <Green> aujourd'hui a écrit quelque chose avec des bots\n[08:08:29] <Green> Je ne sais pas exactement, vous pouvez écrire Kaktus, il vous en parlera de la BC\n[08:08:35] <Twin> Quand Kobu est en train de se retrouver, il est impossible de creuser quoi que ce soit, l'onglet ne pleure pas là-bas et ainsi de suite?\n[08:08:42] <Green> hier, j'ai fortement buggy bk\n[08:08:52] <Green> Nous allons transférer sur un autre serveur\n08:09:24] <vert> Eh bien, oui, il n'y a rien",
+        "body_en": "[08:06:21] <twin> tell me on Kobe, why may not reach the bots that they pass on Coba?\n[08:06:33] <twin> What can the problem be?\n[08:07:01] <green> Well, here I wrote on the BC yesterday that bit files\n[08:07:23] <Green> today wrote something with bots\n[08:08:29] <Green> I don't know exactly, you can write kaktus, he will tell you about the BC\n[08:08:35] <twin> When Kobu is regaining, it is impossible to dig anything there, the tab is not crying there and so on?\n[08:08:42] <Green> yesterday I strongly buggy bk\n[08:08:52] <Green> We will transfer to another server\n[08:09:24] <Green> Well, yes, there is nothing"
+    },
+    "2021-04-06T12:14:47.221415": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "green> да вот хуйня какая, у нас тоже месяц уже очень херово идут, разные крипты и т.д. и т.п., возможно дефендер все подряд блочит \n[08:14:43] <green> даже не знаю",
+        "body_fr": "Vert> Oui, qu'est-ce que la baise est ce que, nous aussi, le mois est déjà très tee, différentes cryptes, etc.etc., peut-être que le déficendeur est complètement audacieux\n[08:14:43] <vert> je ne sais même pas",
+        "body_en": "Green> Yes, what the fuck is what, we, too, the month is already very tee, different crypts, etc.etc., perhaps the deforender is completely bold\n[08:14:43] <Green> I do not even know"
+    },
+    "2021-04-06T12:16:28.570044": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<green> например на тестах ав все чисто, а нихера не идет, надо бро читсильщика искать, я думаю в этом все, чистить надо от арттфактов \ngreen> ав ловит чтото, даже если крипт чистый",
+        "body_fr": "<Green> Par exemple, sur les tests d'AB, tout est propre et putain ne va pas, il est nécessaire de rechercher un livre, je pense que tout est nécessaire pour nettoyer de l'Art Infact\nVert> Av attrape quelque chose, même si la crypte est propre",
+        "body_en": "<Green> For example, on the tests of AB, everything is clean, and fucking does not go, it is necessary to search for a book, I think everything is needed to clean from artt infacts\nGreen> AV catches something, even if the crypt is clean"
+    },
+    "2021-04-06T12:17:48.929174": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<green> я не понимаю почему не стучит, ниге никакой инфы нет, что чтото стали палить",
+        "body_fr": "<Vert> Je ne comprends pas pourquoi il ne frappe pas, aucune information NIGA n'est qu'ils ont commencé à remplir",
+        "body_en": "<Green> I do not understand why it does not knock, no information niga is that they began to fill"
+    },
+    "2021-04-06T16:15:20.154566": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[08:06:21] <twin> Подскажи по кобе, почему могут не доходить боты,которых мне пассуют на кобу? \n[08:06:33] <twin> В чем может проблема быть? \n[08:07:01] <green> ну вот мне вчера по БК писали, что файлы битые \n[08:07:23] <green> сегодня написали чтото с ботами \n[08:08:29] <green> я точно не знаю, можешь написать kaktus, он тебе про БК расскажет \n[08:08:35] <twin> Когда кобу регаешь, там же ничего намудрить нельзя, коба же никак не криптуеться там и тд? \n[08:08:42] <green> вчера сильно глючила БК \n[08:08:52] <green> будем переносить на другой сервер \n[08:09:24] <green> ну да, там ничего такого",
+        "body_fr": "[08:06:21] <Twin> Dis-moi sur Kobe, pourquoi ne peut pas atteindre les bots qu'ils passent sur COBA?\n[08:06:33] <Twin> Que peut être le problème?\n[08:07:01] <Green> Eh bien, ici j'ai écrit à la Colombie-Britannique hier que des fichiers bits\n[08:07:23] <Green> aujourd'hui a écrit quelque chose avec des bots\n[08:08:29] <Green> Je ne sais pas exactement, vous pouvez écrire Kaktus, il vous en parlera de la BC\n[08:08:35] <Twin> Quand Kobu est en train de se retrouver, il est impossible de creuser quoi que ce soit, l'onglet ne pleure pas là-bas et ainsi de suite?\n[08:08:42] <Green> hier, j'ai fortement buggy bk\n[08:08:52] <Green> Nous allons transférer sur un autre serveur\n08:09:24] <vert> Eh bien, oui, il n'y a rien",
+        "body_en": "[08:06:21] <twin> tell me on Kobe, why may not reach the bots that they pass on Coba?\n[08:06:33] <twin> What can the problem be?\n[08:07:01] <green> Well, here I wrote on the BC yesterday that bit files\n[08:07:23] <Green> today wrote something with bots\n[08:08:29] <Green> I don't know exactly, you can write kaktus, he will tell you about the BC\n[08:08:35] <twin> When Kobu is regaining, it is impossible to dig anything there, the tab is not crying there and so on?\n[08:08:42] <Green> yesterday I strongly buggy bk\n[08:08:52] <Green> We will transfer to another server\n[08:09:24] <Green> Well, yes, there is nothing"
+    },
+    "2021-04-06T16:15:20.155235": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "green> да вот хуйня какая, у нас тоже месяц уже очень херово идут, разные крипты и т.д. и т.п., возможно дефендер все подряд блочит \n[08:14:43] <green> даже не знаю",
+        "body_fr": "Vert> Oui, qu'est-ce que la baise est ce que, nous aussi, le mois est déjà très tee, différentes cryptes, etc.etc., peut-être que le déficendeur est complètement audacieux\n[08:14:43] <vert> je ne sais même pas",
+        "body_en": "Green> Yes, what the fuck is what, we, too, the month is already very tee, different crypts, etc.etc., perhaps the deforender is completely bold\n[08:14:43] <Green> I do not even know"
+    },
+    "2021-04-06T16:15:20.155703": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<green> например на тестах ав все чисто, а нихера не идет, надо бро читсильщика искать, я думаю в этом все, чистить надо от арттфактов \ngreen> ав ловит чтото, даже если крипт чистый",
+        "body_fr": "<Green> Par exemple, sur les tests d'AB, tout est propre et putain ne va pas, il est nécessaire de rechercher un livre, je pense que tout est nécessaire pour nettoyer de l'Art Infact\nVert> Av attrape quelque chose, même si la crypte est propre",
+        "body_en": "<Green> For example, on the tests of AB, everything is clean, and fucking does not go, it is necessary to search for a book, I think everything is needed to clean from artt infacts\nGreen> AV catches something, even if the crypt is clean"
+    },
+    "2021-04-06T16:15:20.156159": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "<green> я не понимаю почему не стучит, ниге никакой инфы нет, что чтото стали палить",
+        "body_fr": "<Vert> Je ne comprends pas pourquoi il ne frappe pas, aucune information NIGA n'est qu'ils ont commencé à remplir",
+        "body_en": "<Green> I do not understand why it does not knock, no information niga is that they began to fill"
+    },
+    "2021-04-16T23:00:51.557670": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "1"
+    },
+    "2021-04-26T20:34:46.297149": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-04-30T10:56:24.479494": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "ага привет"
+    },
+    "2021-04-30T10:56:31.758468": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "я думал ты с 10 тут будешь :-D ))"
+    },
+    "2021-04-30T10:56:37.917737": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "добавь к себе kagas@ это чел по набору еще"
+    },
+    "2021-04-30T10:57:08.907929": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "добавь cherry@ - он сгрузит свои таргеты с кобы и впны мелкие 10-50кк"
+    },
+    "2021-04-30T10:57:44.657950": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "и many@ он криптор. когда то пару раз тебе криптовал, у него должно лучше стать"
+    },
+    "2021-04-30T15:28:56.925104": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "\n[16:22:22] <cherry@q3mcco35auwcstmt.onion> клоун твой хорс,я дал цитриксов которы не получалось сделать и через 2 часа мне посредник их кидает в работу\n[16:22:26] <cherry@q3mcco35auwcstmt.onion> прикольну у тебя хакеры\n[16:22:33] <cherry@q3mcco35auwcstmt.onion> молодцы)"
+    },
+    "2021-04-30T15:33:36.383578": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Нетворку давал"
+    },
+    "2021-04-30T15:33:46.663972": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Потому что не умеет ч впнами никто воркать"
+    },
+    "2021-04-30T15:34:06.117719": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "И с цитриксами"
+    },
+    "2021-04-30T15:34:19.515815": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "а ты умеешь?"
+    },
+    "2021-04-30T15:34:36.286210": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "netwalker тоже не умеет"
+    },
+    "2021-04-30T15:34:38.145677": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "он посредник"
+    },
+    "2021-04-30T15:34:40.376638": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "оказалось"
+    },
+    "2021-04-30T15:34:44.274672": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "apeks ник его"
+    },
+    "2021-04-30T15:34:52.186600": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "он отдал их тому же челу кто давал"
+    },
+    "2021-04-30T15:34:53.490514": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "их"
+    },
+    "2021-04-30T15:35:29.309660": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Очень сложно, я больше не буду нетворку ничего давать, я ему давал, я хз кому он дал"
+    },
+    "2021-04-30T15:36:17.149128": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "\n[16:33:13] <cherry@q3mcco35auwcstmt.onion> а нормальыне то есть люди?)\n[16:33:24] <cherry@q3mcco35auwcstmt.onion> кто сами делают?)"
+    },
+    "2021-04-30T15:36:37.112687": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я ща разберусь с цитриксами"
+    },
+    "2021-04-30T15:36:48.822850": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я килияю нетворка с команда"
+    },
+    "2021-04-30T15:37:07.041452": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-05-07T16:52:33.141040": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "круто!"
+    },
+    "2021-05-12T12:38:17.479717": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[12.05.2021 08:34:29] <22> lf ltyrtu tot\n[12.05.2021 08:34:35] <22> еще\n[12.05.2021 08:34:42] <22> дай днег\n[12.05.2021 08:34:54] <22> прошу уже в долг\n[12.05.2021 08:35:01] <hors> Что случилось у тебя?\n[12.05.2021 08:35:05] <22> 300 мне надо\n[12.05.2021 08:35:22] <22> \\да с дечвуыцшкой2ц проблема\n[12.05.2021 08:35:50] <22> яне уговариваю\n[12.05.2021 08:35:50] <22> да да\n[12.05.2021 08:35:55] <22> не тнет\n[12.05.2021 08:36:07] <22> дашь\"?\n[12.05.2021 08:36:20] <22> vyt lj ujhjlfd tt yt [dfnf6tn ljt[fnm\n[12.05.2021 08:36:57] <hors> Тебе нужно завязывать пить, с твои потанциалом ты можешь нормально деньги косить, если я тебе дам, то ты купишь алко ведь\n[12.05.2021 08:37:35] <22> tckb ns lfim\n[12.05.2021 08:37:47] <22> е ли ты дашь\n[12.05.2021 08:38:02] <22> хорошо все будет\n[12.05.2021 08:38:09] <22> я остыну\n[12.05.2021 08:38:15] <22> повериь\n[12.05.2021 08:38:30] <22> да шь нет?"
+    },
+    "2021-05-12T12:39:15.002167": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[08:39:25] <22> z k,.,k. \n[08:39:29] <22> я люблю \n[08:39:35] <22> кто ценнит \n[08:39:48] <22> дашь щас \n[08:39:52] <22> и вчсе ок \n[08:39:55] <22> не дашь"
+    },
+    "2021-05-12T12:39:23.638754": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[08:40:02] <22> ты я тебя удал\\яю"
+    },
+    "2021-05-12T12:39:24.488515": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ахахаха"
+    },
+    "2021-05-12T17:30:44.900113": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[12.05.2021 08:34:29] <22> lf ltyrtu tot\n[12.05.2021 08:34:35] <22> еще\n[12.05.2021 08:34:42] <22> дай днег\n[12.05.2021 08:34:54] <22> прошу уже в долг\n[12.05.2021 08:35:01] <hors> Что случилось у тебя?\n[12.05.2021 08:35:05] <22> 300 мне надо\n[12.05.2021 08:35:22] <22> \\да с дечвуыцшкой2ц проблема\n[12.05.2021 08:35:50] <22> яне уговариваю\n[12.05.2021 08:35:50] <22> да да\n[12.05.2021 08:35:55] <22> не тнет\n[12.05.2021 08:36:07] <22> дашь\"?\n[12.05.2021 08:36:20] <22> vyt lj ujhjlfd tt yt [dfnf6tn ljt[fnm\n[12.05.2021 08:36:57] <hors> Тебе нужно завязывать пить, с твои потанциалом ты можешь нормально деньги косить, если я тебе дам, то ты купишь алко ведь\n[12.05.2021 08:37:35] <22> tckb ns lfim\n[12.05.2021 08:37:47] <22> е ли ты дашь\n[12.05.2021 08:38:02] <22> хорошо все будет\n[12.05.2021 08:38:09] <22> я остыну\n[12.05.2021 08:38:15] <22> повериь\n[12.05.2021 08:38:30] <22> да шь нет?"
+    },
+    "2021-05-12T17:30:44.905717": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[08:39:25] <22> z k,.,k. \n[08:39:29] <22> я люблю \n[08:39:35] <22> кто ценнит \n[08:39:48] <22> дашь щас \n[08:39:52] <22> и вчсе ок \n[08:39:55] <22> не дашь"
+    },
+    "2021-05-12T17:30:44.906046": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "[08:40:02] <22> ты я тебя удал\\яю"
+    },
+    "2021-05-12T17:30:44.906757": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ахахаха"
+    },
+    "2021-05-13T17:17:36.415560": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-05-13T21:35:46.133806": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-05-14T18:09:58.726074": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "бальзак и love жалуются что или тебя нет"
+    },
+    "2021-05-14T18:10:04.902473": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "или еще что-то и сетки некуда отправлять"
+    },
+    "2021-05-18T16:42:40.776439": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "\n[17:16:40] <balzak> а хоса нету когда боты идут)"
+    },
+    "2021-05-18T18:40:40.839215": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "\n[17:16:40] <balzak> а хоса нету когда боты идут)"
+    },
+    "2021-05-18T18:42:10.666488": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я дал им сапорта"
+    },
+    "2021-05-18T18:42:12.726252": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "2=х"
+    },
+    "2021-05-20T15:09:26.848807": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Я дал им сапорта"
+    },
+    "2021-05-20T15:09:26.854706": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "2=х"
+    },
+    "2021-05-20T20:51:31.459132": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-08T09:31:51.575105": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-08T15:53:43.633352": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-14T14:17:19.672232": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "тут?"
+    },
+    "2021-06-17T19:49:47.752821": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-22T19:56:36.648278": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "Привет как дела"
+    },
+    "2021-06-28T08:04:55.661816": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T08:05:17.078322": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-30T12:59:26.460737": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "привет как дела"
+    },
+    "2021-06-30T12:59:28.890854": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "что у вас с зевсом ?"
+    },
+    "2021-07-01T10:13:43.741082": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "Привет как дела по зевсу?"
+    },
+    "2021-07-01T19:26:07.413847": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет,очень много воркгруппы,из 16 старниц,13 страниц воркгруппов,галочку ставишь \"no wg\" отсаеться 3 старинцы, в основном сетки 1кк, бывают 11-15кк"
+    },
+    "2021-07-01T21:00:48.462778": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "он походу тестит пока,но уже бота на 600кк нашли"
+    },
+    "2021-07-01T21:01:02.818256": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "скоро там норм будет вечеринка,30 человек там ширудят"
+    },
+    "2021-07-01T22:24:14.358079": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это был тестовый прогруз\nЯ закупил серты,кобы через майкрософт,инструментов,отдел разработок работает,все стучит с трика,спамеры хотят работать со мной,человек 5-7,готовы к следущему прыжку"
+    },
+    "2021-07-02T09:19:01.389491": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет,очень много воркгруппы,из 16 старниц,13 страниц воркгруппов,галочку ставишь \"no wg\" отсаеться 3 старинцы, в основном сетки 1кк, бывают 11-15кк"
+    },
+    "2021-07-02T09:19:01.391636": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "он походу тестит пока,но уже бота на 600кк нашли"
+    },
+    "2021-07-02T09:19:01.393135": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "скоро там норм будет вечеринка,30 человек там ширудят"
+    },
+    "2021-07-02T09:19:01.394529": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Это был тестовый прогруз\nЯ закупил серты,кобы через майкрософт,инструментов,отдел разработок работает,все стучит с трика,спамеры хотят работать со мной,человек 5-7,готовы к следущему прыжку"
+    },
+    "2021-07-07T15:36:31.091305": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "а что за компания в админке PROSOL?"
+    },
+    "2021-07-13T13:40:39.450606": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "тут?"
+    },
+    "2021-07-19T11:11:33.080463": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-07-20T14:14:45.663438": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "ПРивет"
+    },
+    "2021-07-28T15:17:24.073181": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "ок"
+    },
+    "2021-08-02T21:12:55.066094": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-08-03T10:39:28.543364": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "мы скоро выйдем на обьем, и можно будет собирать еще карты с сеток, искать там и патчить"
+    },
+    "2021-08-03T14:30:41.407795": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "\n[15:22:00] <zevs@q3mcco35auwcstmt.onion> 30 сетей +\n[15:22:03] <zevs@q3mcco35auwcstmt.onion> бомба)"
+    },
+    "2021-08-03T14:30:42.989026": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "на связи ?"
+    },
+    "2021-08-26T08:42:51.554298": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": " [17.08.2021 15:08:02] <ford> кандидаты не дожидаются собеседования уходят, тяжело их потом в рокет опять завести\n\n[12:44:51] <ford>\nхорс же половину не отвечает и эльвире иногда игнорит\nс 18го числа от него ничего."
+    },
+    "2021-08-26T15:49:39.366225": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-08-27T14:20:36.150362": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "там том хочет к себе в лоадер добавтить определение домена и оттуда сразу грузить кобу"
+    },
+    "2021-08-27T14:20:39.265907": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "дай ему команду"
+    },
+    "2021-08-27T14:20:51.638164": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "чисто чтобы понять workstation или нет"
+    },
+    "2021-08-31T15:58:50.418319": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "\n[15:50:50] <tom> нужен кобальт под меня отдельно настроенный \n[15:50:53] <tom> мы лоадер написали ...\n[15:51:40] <tom> сервак кобальт отдельный под меня можете сделать ? \n[15:51:54] <tom> чтобы я туда грузил .. мы каждый день пока прогружаем"
+    },
+    "2021-08-31T15:59:03.234841": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "хочет грузить напрямую сам и давать тебе, так норм?"
+    },
+    "2021-09-03T16:37:13.375757": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "\n[18:45:34] <tom> Сегодня отгрузил много сеток\n[18:45:51] <tom> половина отмерла еслине больше \n[18:45:54] <tom> не понятно из-за чего \n[18:45:59] <tom> крипт \nсервак не понятно \n[18:46:07] <tom> пока паузу сделаем\n[18:46:12] <tom> так смысла нет работать"
+    },
+    "2021-09-12T18:50:35.714288": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "как у тебя по набору людей, может начнем опять набирать?"
+    },
+    "2021-09-13T08:20:34.161918": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "[09:19:49] <buza> хорс задал вопрос - что там с кодерами. Я говорю - есть команда, новички, обученные, бери"
+    },
+    "2021-09-21T20:04:13.171243": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\n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\nb3Av4oMJJoYPVsTT8CuUueEdYSaBA9pH\n=6GzH\n-----END PGP PUBLIC KEY BLOCK-----"
+    },
+    "2021-09-22T21:46:59.843868": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-10-06T15:35:39.592415": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-10-06T15:35:49.054836": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "нужен список в том виде компаний над которыми вы работаете"
+    },
+    "2021-10-11T16:20:21.242314": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-10-26T09:05:19.776225": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "\n[10:04:11] <mango> <gpbit@thesecure.biz> и кстати этот инвиз я просил у него файлы длл что бы прогрузить ему от 30кк [12:02:45] <gpbit@thesecure.biz> он мне ничо не скинул [12:02:56] <gpbit@thesecure.biz> а щас у него автостутм недоступн [12:02:58] <gpbit@thesecure.biz> как всегда ) [12:03:04] <gpbit@thesecure.biz> он наврено вооще не сидит в жабе \n[10:04:16] <mango> это про хорса)\n[10:04:59] <mango> тоже он расслабил булки, у него там какой то творческий кризис и ему не нравится что приходится бегать за адверами чтоб сеток дали) пендос новый тоже там жалуется, говорит ботов отправляет им не приходит ничего.."
+    },
+    "2021-10-26T09:05:23.382710": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "у верона старт еще 1 ноября"
+    },
+    "2021-11-04T14:11:08.530826": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "1"
+    },
+    "2021-11-04T17:45:59.277944": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "тут?"
+    },
+    "2021-11-08T15:01:49.692624": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "было тут https://continews.click"
+    },
+    "2021-11-18T13:12:34.488384": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-11-26T18:18:12.875570": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "выходи работать"
+    },
+    "2021-12-03T16:40:36.259736": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "выходи работать"
+    }
+}

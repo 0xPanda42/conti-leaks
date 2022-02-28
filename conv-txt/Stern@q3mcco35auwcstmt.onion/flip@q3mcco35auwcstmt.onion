@@ -1,0 +1,190 @@
+##################################################
+Conversation between:
+	- flip@q3mcco35auwcstmt.onion
+	- stern@q3mcco35auwcstmt.onion
+34 messages
+first: 2021-02-24T16:29:44.725958
+last:  2021-09-13T09:16:36.801755
+##################################################
+
+2021-02-24T16:29:44.725958  stern@q3mcco35auwcstmt.onion
+	[ru] Кто сможет разобраться по уязвимости sonicwall
+И сделать рабочий сканер
+	[en] Who can figure out the SonicWall vulnerability
+And make a working scanner
+	[fr] Qui peut comprendre la vulnérabilité de SonicWall
+Et faire un scanner de travail
+
+2021-03-12T15:17:24.832279  stern@q3mcco35auwcstmt.onion
+	[ru] Привет, как у кого дела, пишите результаты, успехи или неудачи
+	[en] Hello, how are you doing, write results, successes or failures
+	[fr] Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs
+
+2021-03-12T15:23:42.156737  flip@q3mcco35auwcstmt.onion
+	[ru] Добрый день. Поставили небольшую точку в wibinject. Залили релиз в админку.
+	[en] Good afternoon.Put a small point in Wibinject.Flooded release into the admin.
+	[fr] Bon après-midi.Mettre un petit point dans Wibinject.Libération inondée dans l'administrateur.
+
+2021-03-12T15:24:06.581264  flip@q3mcco35auwcstmt.onion
+	[ru] Делаю поддержку формата Зевса для настройки webinject
+	[en] I make support for the format of Zeus to configure WebInject
+	[fr] Je prends la prise en charge du format de Zeus pour configurer webinject
+
+2021-03-12T15:25:04.925868  flip@q3mcco35auwcstmt.onion
+	[ru] Работаю над контенером (vhd, vhdx) с Францем. Хочу нагрузку спрятать в неиспользованные сектора контейнера
+	[en] I work on the contenter (VHD, VHDX) with Franz.I want to hide the load in unused container sectors
+	[fr] Je travaille sur le conteneur (VHD, VHDX) avec Franz.Je veux cacher la charge dans les secteurs des conteneurs inutilisés
+
+2021-03-12T15:25:46.542214  flip@q3mcco35auwcstmt.onion
+	[ru] Еще несколько мыслей по запуску кода из текстового файла.
+	[en] A few more thoughts on the launch of the code from the text file.
+	[fr] Quelques réflexions supplémentaires sur le lancement du code du fichier texte.
+
+2021-03-12T15:26:01.951758  flip@q3mcco35auwcstmt.onion
+	[ru] Все в теме контейнера
+	[en] All in the subject of the container
+	[fr] Tout dans le sujet du conteneur
+
+2021-03-12T15:30:14.699634  stern@q3mcco35auwcstmt.onion
+	[ru] ок
+	[en] OK
+	[fr] d'accord
+
+2021-03-12T15:30:16.191192  stern@q3mcco35auwcstmt.onion
+	[ru] првет
+	[en] Hey
+	[fr] Hé
+
+2021-03-12T15:31:05.687926  flip@q3mcco35auwcstmt.onion
+	[ru]  Работаем по тихонько! :) заводу новые связи в коллективе.
+	[en] We work quietly!:) The plant is new ties in the team.
+	[fr] Nous travaillons tranquillement!:) La plante est de nouveaux liens de l'équipe.
+
+2021-03-12T15:31:15.185405  stern@q3mcco35auwcstmt.onion
+	[ru] отлично
+	[en] Great
+	[fr] Génial
+
+2021-03-12T15:31:16.097424  stern@q3mcco35auwcstmt.onion
+	[ru] с кем
+	[en] with whom
+	[fr] avec qui
+
+2021-03-12T15:32:27.772727  flip@q3mcco35auwcstmt.onion
+	[ru] weldon, jonnyboy77 :)
+	[en] WELDON, JONNYBOY77 :)
+	[fr] Weldon, jonnyboy77 :)
+
+2021-03-12T15:32:59.120591  flip@q3mcco35auwcstmt.onion
+	[ru] Да и с Францем больше общаемся
+	[en] Yes, and with Franz more communicate
+	[fr] Oui, et avec Franz plus communiquer
+
+2021-06-07T12:49:39.286265  stern@q3mcco35auwcstmt.onion
+	[ru] Привет. Как дела? 
+какие результаты у тебя? 
+Какие задачи стоят?
+Какие идеи есть что можно добавить и улучшить?
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:51:08.556103  flip@q3mcco35auwcstmt.onion
+	[ru] Привет.
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:51:45.491698  stern@q3mcco35auwcstmt.onion
+	[ru] привет
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:52:19.944076  flip@q3mcco35auwcstmt.onion
+	[ru] Знимаюсь  webinjeктом с возможностью модифицировать код страницы. На стадии тестирования,  но я бы уже внедрял.
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:52:55.899751  flip@q3mcco35auwcstmt.onion
+	[ru] Занимаюсь контейнером для доставки нагрузки, сделал билдер для упрощения сборки контейнера
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:53:19.164235  flip@q3mcco35auwcstmt.onion
+	[ru] Приобрел Циску ищу в ней потенциальные дырки
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:53:56.264983  flip@q3mcco35auwcstmt.onion
+	[ru] По просьбе Бузы разбирался с pupy
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:54:23.656226  flip@q3mcco35auwcstmt.onion
+	[ru] Вот пожалуй и все мои текущие задачи. :)
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:55:12.287076  flip@q3mcco35auwcstmt.onion
+	[ru] По больше бы организованности, но в силу особенности продакшина думаю это не реально. :)
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:55:46.116745  flip@q3mcco35auwcstmt.onion
+	[ru] Хочу вот еще заняться rtfом для досавки нагрузки
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:56:03.950425  stern@q3mcco35auwcstmt.onion
+	[ru] а что с pupy?
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:58:06.070184  flip@q3mcco35auwcstmt.onion
+	[ru] Запустил, посмотрел, в целом работает. Но все очень нестабильно, отсук бота не всегда доходит, многие модули вообще не работают, просто валят  pythonовские дампы. Вебки нет. Вот так просто взять и начать использовать не реально.
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T12:59:20.182115  flip@q3mcco35auwcstmt.onion
+	[ru] Умеет генерировать боты под разные платформы, завялено  linux, android. Смотрел только под Win
+	[en] <?>
+	[fr] <?>
+
+2021-06-07T13:05:42.862743  flip@q3mcco35auwcstmt.onion
+	[ru] А так все отлично все что нужно предоставляется, :) спасибо.
+	[en] <?>
+	[fr] <?>
+
+2021-06-08T09:30:16.521069  stern@q3mcco35auwcstmt.onion
+	[ru] Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи
+	[en] <?>
+	[fr] <?>
+
+2021-06-28T08:05:41.149151  stern@q3mcco35auwcstmt.onion
+	[ru] 1) мы хотим создать свою крипто систему по типу:
+etherium, polkadot и binance smart chain и тд
+
+2) Кто нибудь знает подробно про это?
+
+3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты.
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T16:17:16.417161  stern@q3mcco35auwcstmt.onion
+	[ru] Привет ты как
+	[en] <?>
+	[fr] <?>
+
+2021-07-07T16:17:17.265372  stern@q3mcco35auwcstmt.onion
+	[ru] какдела
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T07:59:59.777310  stern@q3mcco35auwcstmt.onion
+	[ru] Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?
+	[en] <?>
+	[fr] <?>
+
+2021-09-13T09:16:36.801755  flip@q3mcco35auwcstmt.onion
+	[ru] Добрый день. Объективно говоря решаю проблемы с webinject, в ходе наших проверок проблем выявлено не было. На машинах клиентов есть проблемы, не все сайты работают, по всей видимости из-за заполненного кэша сертификатов. Ищу решение. По поиску уязвимостей в Циско, отрабатываем версии, пока у меня нет результатов.
+	[en] <?>
+	[fr] <?>
+

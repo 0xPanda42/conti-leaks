@@ -1,0 +1,420 @@
+{
+    "2021-02-24T18:02:48.900552": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "https://bit-ly.ru/f9d4h"
+    },
+    "2021-02-25T08:18:04.804369": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "https://bit-ly.ru/f9d4h"
+    },
+    "2021-03-02T08:00:25.384153": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "салют бро",
+        "body_fr": "Salut Bro.",
+        "body_en": "Salute Bro."
+    },
+    "2021-04-09T15:19:25.488003": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "бро привет",
+        "body_fr": "Bro Bonjour.",
+        "body_en": "Bro Hi."
+    },
+    "2021-04-09T15:19:30.811484": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "спишись плз с решаевым",
+        "body_fr": "Sprink Plz avec Decishev",
+        "body_en": "Sprink plz with decishev"
+    },
+    "2021-04-09T15:35:56.357170": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-29T12:06:15.853698": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-07T19:00:04.923667": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "взаимно бро)"
+    },
+    "2021-05-10T07:38:41.250328": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "взаимно бро)"
+    },
+    "2021-05-26T21:17:01.004840": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Нам нужен человек, кто бы отслеживал фиксы от МС и подобные, чтоб знать какие изменения приходят после обновлений системы, офиса и тд. Как они отслеживают нас, так же и мы должны анализировать их и быть вкурсе всех текущих изменений сразу же. Что думаешь об этом?"
+    },
+    "2021-05-27T07:51:47.271095": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Нам нужен человек, кто бы отслеживал фиксы от МС и подобные, чтоб знать какие изменения приходят после обновлений системы, офиса и тд. Как они отслеживают нас, так же и мы должны анализировать их и быть вкурсе всех текущих изменений сразу же. Что думаешь об этом?"
+    },
+    "2021-06-01T15:43:20.490185": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нагрузка - ехе или длл, который лнк скачает и запустит"
+    },
+    "2021-06-01T21:43:53.175489": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "***  Непроверенная переписка возобновлена\n*** 2021-06-02\n[00:27:29] <mango> завел чела в нашу рокету - будет формировать отдел аналитики и шантажа :)\n[00:27:44] <mango> надо методику придумать как искать данные на цели, где и тд\n[00:28:04] <mango> если у вас есть какие то наработки - поделитесь по братски\n[00:28:09] <mango> для общего блага :)\n[00:33:59] <hors> Опыта мало, но могу сказать, что нужна жесткая политика и ограничивать по времени, а то они там уже начинают придумывать хуйню какуето , 3 кейса так слились\n[00:38:19] <mango> не не\n[00:38:31] <mango> я ща по поводу именно поиска контактов и сборе информации и человеке\n[00:38:36] <mango> пробив по соц сетям и тд\n[00:38:44] <mango> вот как нам анализировать\n[00:38:47] <mango> я смотри что вообще дума\n[00:39:29] <mango> надо как только кейс в работу пришел - сразу же собирать инфу, как только локнули - у нас уже были установленны нужные контакты, телефоны, их партнеры, и варианты как надавать на них\n[00:39:30] <hors> в ад_юзерс есть вся инфа, там все сотрудники и их почты, фамилии и тд\n[00:39:33] <hors> и должности\n[00:39:45] <mango> вот тогда надо так\n[00:39:58] <mango> если вы дату забирате - контакты эти предоставляйте нам хотя бы для изучения\n[00:40:27] <hors> Конечно\n[00:40:31] <hors> Сразу все выдавать будем\n[00:40:33] <mango> все что из сети возьмете - все что пригодиться нам для анализа было бы круто конечно\n[00:40:40] <mango> надо как то всех теперь скоординировать\n[00:40:45] <mango> чтоб в нас это все не упиралось)\n[00:41:17] <hors> в рокет добавишь меня?\n[00:41:19] <mango> надо кошмарить по жести. ты правильно написал по срокам\n[00:41:23] <mango> да сделаем завтра\n[00:41:39] <hors> кк\n[00:41:44] <mango> сроки это одно, надо чтоб они именно утечек боялись\n[00:41:49] <mango> надо более детально изучать сливы\n[00:42:03] <mango> и смотреть что там полезного, последние разработки и тд все что может стоить им бабок\n[00:42:05] <hors> да, детально изучать инфу которую мы выкачиваем у них\n[00:42:10] <mango> а не просто от болды заливат на мегу\n[00:42:21] <mango> надо людей дохуя\n[00:42:22] <mango> )\n[00:43:04] <mango> умные мысли записал, пойду спать\\переваривать)\n[00:43:06] <mango> доброй ночи бро\n[00:43:16] <hors> доброй)"
+    },
+    "2021-06-02T07:03:44.896628": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "нагрузка - ехе или длл, который лнк скачает и запустит"
+    },
+    "2021-06-02T07:03:44.910839": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "***  Непроверенная переписка возобновлена\n*** 2021-06-02\n[00:27:29] <mango> завел чела в нашу рокету - будет формировать отдел аналитики и шантажа :)\n[00:27:44] <mango> надо методику придумать как искать данные на цели, где и тд\n[00:28:04] <mango> если у вас есть какие то наработки - поделитесь по братски\n[00:28:09] <mango> для общего блага :)\n[00:33:59] <hors> Опыта мало, но могу сказать, что нужна жесткая политика и ограничивать по времени, а то они там уже начинают придумывать хуйню какуето , 3 кейса так слились\n[00:38:19] <mango> не не\n[00:38:31] <mango> я ща по поводу именно поиска контактов и сборе информации и человеке\n[00:38:36] <mango> пробив по соц сетям и тд\n[00:38:44] <mango> вот как нам анализировать\n[00:38:47] <mango> я смотри что вообще дума\n[00:39:29] <mango> надо как только кейс в работу пришел - сразу же собирать инфу, как только локнули - у нас уже были установленны нужные контакты, телефоны, их партнеры, и варианты как надавать на них\n[00:39:30] <hors> в ад_юзерс есть вся инфа, там все сотрудники и их почты, фамилии и тд\n[00:39:33] <hors> и должности\n[00:39:45] <mango> вот тогда надо так\n[00:39:58] <mango> если вы дату забирате - контакты эти предоставляйте нам хотя бы для изучения\n[00:40:27] <hors> Конечно\n[00:40:31] <hors> Сразу все выдавать будем\n[00:40:33] <mango> все что из сети возьмете - все что пригодиться нам для анализа было бы круто конечно\n[00:40:40] <mango> надо как то всех теперь скоординировать\n[00:40:45] <mango> чтоб в нас это все не упиралось)\n[00:41:17] <hors> в рокет добавишь меня?\n[00:41:19] <mango> надо кошмарить по жести. ты правильно написал по срокам\n[00:41:23] <mango> да сделаем завтра\n[00:41:39] <hors> кк\n[00:41:44] <mango> сроки это одно, надо чтоб они именно утечек боялись\n[00:41:49] <mango> надо более детально изучать сливы\n[00:42:03] <mango> и смотреть что там полезного, последние разработки и тд все что может стоить им бабок\n[00:42:05] <hors> да, детально изучать инфу которую мы выкачиваем у них\n[00:42:10] <mango> а не просто от болды заливат на мегу\n[00:42:21] <mango> надо людей дохуя\n[00:42:22] <mango> )\n[00:43:04] <mango> умные мысли записал, пойду спать\\переваривать)\n[00:43:06] <mango> доброй ночи бро\n[00:43:16] <hors> доброй)"
+    },
+    "2021-06-02T07:41:53.716521": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-03T20:51:57.031677": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да чото бальзак с ловом какие то долбаебы, 3 дня обьясняю что точка входа должна быть дллмейн, а они хуйню какую то делают, я уж усомнился, думаю может я дурак и что то не допонимаю.."
+    },
+    "2021-06-04T07:51:19.956843": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да чото бальзак с ловом какие то долбаебы, 3 дня обьясняю что точка входа должна быть дллмейн, а они хуйню какую то делают, я уж усомнился, думаю может я дурак и что то не допонимаю.."
+    },
+    "2021-06-17T14:16:54.499821": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "гы"
+    },
+    "2021-06-17T14:17:00.996868": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "он мне уже задает вопросов много ненужных"
+    },
+    "2021-06-17T14:17:06.452695": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "давно ли я работаю и тд.."
+    },
+    "2021-06-18T07:47:33.221091": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "гы"
+    },
+    "2021-06-18T07:47:33.223455": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "он мне уже задает вопросов много ненужных"
+    },
+    "2021-06-18T07:47:33.223940": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "давно ли я работаю и тд.."
+    },
+    "2021-06-22T06:41:59.946479": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[09:41:53] <mango> https://yadi.sk/d/ySGgFr0ksqAp3Q - примеры работ вэб художника"
+    },
+    "2021-06-22T07:55:33.873162": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "[09:41:53] <mango> https://yadi.sk/d/ySGgFr0ksqAp3Q - примеры работ вэб художника"
+    },
+    "2021-06-23T20:25:06.782749": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Тестовое задание 1\nС++14 и выше\nВсё как в ТЗ)\n\nhttps://www.sendspace.com/file/lnslmz\n\nhttps://www.sendspace.com/delete/lnslmz/55241facc5184bcaed9ba836cac99e15 \n\nrandman@thesecure.biz"
+    },
+    "2021-06-24T07:54:14.579808": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Тестовое задание 1\nС++14 и выше\nВсё как в ТЗ)\n\nhttps://www.sendspace.com/file/lnslmz\n\nhttps://www.sendspace.com/delete/lnslmz/55241facc5184bcaed9ba836cac99e15 \n\nrandman@thesecure.biz"
+    },
+    "2021-06-24T08:51:38.114730": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-06-24T10:39:30.883841": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-06-24T10:39:37.768990": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-29T09:02:14.139428": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет бро"
+    },
+    "2021-07-16T12:08:27.560806": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-07-20T14:32:05.568296": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "бро плиз не убегай"
+    },
+    "2021-07-20T14:32:10.506379": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "повтори что в рокете присылал"
+    },
+    "2021-07-20T14:32:17.012291": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "ебаный ноут завис"
+    },
+    "2021-07-20T14:32:24.754125": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "2 дня работы в трубу улетело..."
+    },
+    "2021-07-26T10:30:35.294827": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-08-03T16:17:31.601440": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": " давайте еще раз по пунктам обсудим функционал\n1\n2\n3\n4\nвот так\nфранц возьми на себя обсуди с бузой и в один лист опиши плиз\n15:35\nпонял сделаем"
+    },
+    "2021-08-04T07:57:50.656307": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": " давайте еще раз по пунктам обсудим функционал\n1\n2\n3\n4\nвот так\nфранц возьми на себя обсуди с бузой и в один лист опиши плиз\n15:35\nпонял сделаем"
+    },
+    "2021-08-11T15:12:15.940469": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "тут?"
+    },
+    "2021-08-11T16:35:44.628859": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да можно"
+    },
+    "2021-08-12T05:31:42.789548": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "да можно"
+    },
+    "2021-08-17T12:49:59.445095": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "re"
+    },
+    "2021-08-17T14:46:14.875648": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "re"
+    },
+    "2021-09-01T20:34:17.051244": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/50513/"
+    },
+    "2021-09-01T20:35:52.666450": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/55956/"
+    },
+    "2021-09-02T07:42:31.671810": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/50513/"
+    },
+    "2021-09-02T07:42:31.676118": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/55956/"
+    },
+    "2021-09-02T15:03:36.965793": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "меня завтра не будет"
+    },
+    "2021-09-03T09:40:23.964379": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "меня завтра не будет"
+    },
+    "2021-09-03T18:46:20.737692": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "carrol че делает у нас бро?"
+    },
+    "2021-09-03T19:34:59.228675": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "orval - тимлидит вместо коляна? а он чем занимается?"
+    },
+    "2021-09-06T08:12:30.865875": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "carrol че делает у нас бро?"
+    },
+    "2021-09-06T08:12:30.867841": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "orval - тимлидит вместо коляна? а он чем занимается?"
+    },
+    "2021-09-09T18:02:11.929554": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я видал"
+    },
+    "2021-09-10T07:17:07.461981": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я видал"
+    },
+    "2021-09-20T19:14:37.040574": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/56486/"
+    },
+    "2021-09-20T19:14:53.487847": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/56793/"
+    },
+    "2021-09-20T19:15:29.788634": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот этот чел у нас кстати в команде работает пентестером у хорса вроде"
+    },
+    "2021-09-21T07:53:51.868548": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/56486/"
+    },
+    "2021-09-21T07:53:51.870444": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "http://xssforumv3isucukbxhdhwz67hoa5e2voakcfkuieq4ch257vsburuid.onion/threads/56793/"
+    },
+    "2021-09-21T07:53:51.874451": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "вот этот чел у нас кстати в команде работает пентестером у хорса вроде"
+    },
+    "2021-09-21T19:30:40.278469": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "*** buza теперь Доступен [50]\n[18:27:30] *** The encrypted message received from buza@q3mcco35auwcstmt.onion is unreadable, as you are not currently communicating privately."
+    },
+    "2021-09-22T10:38:36.043062": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "*** buza теперь Доступен [50]\n[18:27:30] *** The encrypted message received from buza@q3mcco35auwcstmt.onion is unreadable, as you are not currently communicating privately."
+    },
+    "2021-10-25T08:01:45.833420": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет ты переключался на новый домен жаббы? у тебя работает?"
+    },
+    "2021-11-05T09:26:33.907587": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-11-11T08:23:33.493650": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "Хай! отписываю по результату по поводу аппх..\n\n\"Привет. Посмотрел формат appx нужна цифровая подпись :( смотрю что можно найти по этому вопросу, без подписи не заработает. А с подписью можно что угодно подписать, хоть драйвер\""
+    },
+    "2021-11-17T14:25:40.158892": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "забей, такие пидоры всегда будут"
+    },
+    "2021-11-17T14:25:47.050909": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "я даже знаю кто это"
+    },
+    "2021-11-17T14:25:56.237513": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "опять с нового ника к нам залез и начал что то вымучивать)"
+    },
+    "2021-11-17T14:26:17.408069": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "уж очень он похож на saymon которого я убрал в том месяце у реверса.."
+    },
+    "2021-12-01T08:12:35.978911": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-12-01T09:02:33.659074": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-12-09T09:04:38.607538": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-12-09T16:23:29.589355": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2021-12-10T07:58:41.538446": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "привет! ты чего вчера писал? порезало все"
+    },
+    "2021-12-10T07:58:47.839191": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "fuf"
+    },
+    "2021-12-10T07:58:52.270375": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "отр где твой ? )"
+    },
+    "2021-12-24T16:13:30.411961": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2022-01-12T16:09:29.526246": {
+        "src": "buza@q3mcco35auwcstmt.onion",
+        "dst": "mango@q3mcco35auwcstmt.onion",
+        "body": "ку"
+    },
+    "2022-01-12T16:33:17.182028": {
+        "src": "mango@q3mcco35auwcstmt.onion",
+        "dst": "buza@q3mcco35auwcstmt.onion",
+        "body": "спс бро, на связи"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "2021-12-27T12:04:33.116705": {
+        "src": "neo@q3mcco35auwcstmt.onion",
+        "dst": "bash@q3mcco35auwcstmt.onion",
+        "body": "1"
+    },
+    "2021-12-27T12:08:54.320145": {
+        "src": "neo@q3mcco35auwcstmt.onion",
+        "dst": "bash@q3mcco35auwcstmt.onion",
+        "body": "тут?"
+    },
+    "2021-12-27T12:42:33.421086": {
+        "src": "bash@q3mcco35auwcstmt.onion",
+        "dst": "neo@q3mcco35auwcstmt.onion",
+        "body": "тут"
+    }
+}

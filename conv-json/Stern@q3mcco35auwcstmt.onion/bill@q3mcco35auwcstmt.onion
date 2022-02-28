@@ -1,0 +1,208 @@
+{
+    "2021-02-01T18:49:05.744109": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "rfr ltkf",
+        "body_fr": "RFR LTKF.",
+        "body_en": "RFR LTKF."
+    },
+    "2021-02-01T18:49:09.296512": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "какдела, ты свободен?",
+        "body_fr": "Comment allez-vous, êtes-vous libre?",
+        "body_en": "How are you, are you free?"
+    },
+    "2021-02-01T22:26:19.611820": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "lf",
+        "body_fr": "Lf.",
+        "body_en": "LF."
+    },
+    "2021-02-01T22:26:20.493016": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "да",
+        "body_fr": "Oui",
+        "body_en": "Yes"
+    },
+    "2021-02-02T14:36:16.984158": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "lf",
+        "body_fr": "Lf.",
+        "body_en": "LF."
+    },
+    "2021-02-02T14:36:16.985027": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "да",
+        "body_fr": "Oui",
+        "body_en": "Yes"
+    },
+    "2021-02-02T14:36:36.339444": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "что нужно делать?",
+        "body_fr": "Qu'avons nous à faire?",
+        "body_en": "What do we have to do?"
+    },
+    "2021-02-02T15:13:14.973725": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "что нужно делать?",
+        "body_fr": "Qu'avons nous à faire?",
+        "body_en": "What do we have to do?"
+    },
+    "2021-03-23T20:23:59.939080": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-23T20:24:03.446889": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "как дела",
+        "body_fr": "Comment vas-tu",
+        "body_en": "how are you"
+    },
+    "2021-03-24T03:33:14.325045": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-24T03:33:14.325813": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "как дела",
+        "body_fr": "Comment vas-tu",
+        "body_en": "how are you"
+    },
+    "2021-03-24T07:10:42.783046": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет, я уже боюсь что-либо писать без ОТР",
+        "body_fr": "Salut, j'ai déjà peur d'écrire quelque chose sans",
+        "body_en": "Hi, I'm already afraid to write something without"
+    },
+    "2021-03-24T07:11:48.707850": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ща занимаюсь импортдлл и чищу шеллстартер (придумываю, как изменить код до неузнаваемости), уж больно быстро его пачкают :(",
+        "body_fr": "Schi je fais de l'importation et nettoie le shellstarter (inventant comment changer le code au-delà de la reconnaissance), ça le fait mal vite :(",
+        "body_en": "schi I am doing imported and clean the Shellstarter (inventing how to change the code beyond recognition), it hurts him quickly :("
+    },
+    "2021-03-24T10:12:40.336538": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет, я уже боюсь что-либо писать без ОТР",
+        "body_fr": "Salut, j'ai déjà peur d'écrire quelque chose sans",
+        "body_en": "Hi, I'm already afraid to write something without"
+    },
+    "2021-03-24T10:12:40.337091": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "ща занимаюсь импортдлл и чищу шеллстартер (придумываю, как изменить код до неузнаваемости), уж больно быстро его пачкают :(",
+        "body_fr": "Schi je fais de l'importation et nettoie le shellstarter (inventant comment changer le code au-delà de la reconnaissance), ça le fait mal vite :(",
+        "body_en": "schi I am doing imported and clean the Shellstarter (inventing how to change the code beyond recognition), it hurts him quickly :("
+    },
+    "2021-03-24T10:13:32.390723": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "понял, а там новых уязвимостей не было по размножению?",
+        "body_fr": "J'ai compris et il n'y avait pas de nouvelles vulnérabilités dans la reproduction?",
+        "body_en": "I understood, and there were no new vulnerabilities in reproduction?"
+    },
+    "2021-03-31T18:07:33.352567": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "Привет как у тебя дела?",
+        "body_fr": "Salut comment vas-tu?",
+        "body_en": "Hi how are you doing?"
+    },
+    "2021-06-08T09:31:51.578193": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-27T11:26:41.874138": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-27T11:26:46.265714": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "тысячу лет не общалис"
+    },
+    "2021-06-27T11:26:47.730354": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "как дела"
+    },
+    "2021-06-28T08:04:55.632208": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T08:05:17.062463": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T09:55:56.996953": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "У кого есть идеи по блокчейну? и криптовалютам, куда идти и что разрабатывать. Кто считает себя гуру в трендах крипты?"
+    },
+    "2021-06-28T09:55:56.998285": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-28T09:55:57.011438": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "тысячу лет не общалис"
+    },
+    "2021-06-28T09:55:57.011823": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "как дела"
+    },
+    "2021-06-28T09:55:57.012762": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-08-05T09:02:37.494565": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "ты тут?"
+    },
+    "2021-08-26T11:50:44.164150": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "ты тут?"
+    },
+    "2021-08-26T11:51:43.179501": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет, я в чате постоянно обитаю, здесь не очень  появляюсь"
+    },
+    "2021-08-26T15:37:05.874145": {
+        "src": "bill@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет, я в чате постоянно обитаю, здесь не очень  появляюсь"
+    },
+    "2021-11-02T08:45:27.012058": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bill@q3mcco35auwcstmt.onion",
+        "body": "куда ты уходить собрался ?"
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "2021-10-04T07:30:22.073467": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-10-04T07:31:33.071634": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Подскажешь, где можно прокдалки на модуль достать?\nАдминов нет пока."
+    },
+    "2021-10-04T09:32:55.762243": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-10-04T09:33:20.181327": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "уже наверное пришли"
+    },
+    "2021-10-04T09:33:40.687527": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Да, уже взял прокладки."
+    },
+    "2021-10-12T16:10:13.591685": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Лог есть?"
+    },
+    "2021-10-12T16:18:48.990746": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "не доходит до лога"
+    },
+    "2021-10-12T16:20:27.303901": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Т.е. при инжекте падает?"
+    },
+    "2021-10-12T16:23:53.346678": {
+        "src": "steller@q3mcco35auwcstmt.onion",
+        "dst": "hof@q3mcco35auwcstmt.onion",
+        "body": "Завтра с ботом тогда посмотрим."
+    },
+    "2021-10-15T12:43:46.218185": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "тестерам пиши, я сейчас не могу"
+    },
+    "2021-10-18T12:04:49.794445": {
+        "src": "hof@q3mcco35auwcstmt.onion",
+        "dst": "steller@q3mcco35auwcstmt.onion",
+        "body": "1"
+    }
+}

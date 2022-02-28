@@ -1,0 +1,12 @@
+{
+    "2021-12-22T07:40:26.829615": {
+        "src": "elvira@q3mcco35auwcstmt.onion",
+        "dst": "btdpnqwg2nqkqceetqnn7zlarduyjhvjwt",
+        "body": "привет"
+    },
+    "2021-12-22T07:40:26.852249": {
+        "src": "btdpnqwg2nqkqceetqnn7zlarduyjhvjwt",
+        "dst": "elvira@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    }
+}

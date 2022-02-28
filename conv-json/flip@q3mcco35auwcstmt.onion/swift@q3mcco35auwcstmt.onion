@@ -1,0 +1,12 @@
+{
+    "2021-12-03T17:43:10.112484": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Привет! А не знаешь из за чего может быть падение в memmove MoveSmall amd64 VisualStudio?"
+    },
+    "2021-12-03T17:44:14.966070": {
+        "src": "flip@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Все аргументы проверил все ок. При замене на memmove_s все ок"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "2021-06-25T15:00:23.449350": {
+        "src": "hors@q3mcco35auwcstmt.onion",
+        "dst": "dollar@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-25T16:15:43.955453": {
+        "src": "dollar@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "hey"
+    },
+    "2021-06-25T16:15:44.585405": {
+        "src": "dollar@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "yo"
+    },
+    "2021-06-25T16:15:49.426739": {
+        "src": "dollar@q3mcco35auwcstmt.onion",
+        "dst": "hors@q3mcco35auwcstmt.onion",
+        "body": "moya new jaba"
+    }
+}

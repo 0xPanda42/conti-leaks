@@ -1,0 +1,70 @@
+{
+    "2021-02-24T16:29:36.609998": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-12T15:17:24.810662": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-04-14T21:33:51.677291": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "привет как у тебя дела?",
+        "body_fr": "Salut comment vas-tu?",
+        "body_en": "Hi how are you doing?"
+    },
+    "2021-04-14T21:35:53.257342": {
+        "src": "bekeeper@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет как у тебя дела?",
+        "body_fr": "Salut comment vas-tu?",
+        "body_en": "Hi how are you doing?"
+    },
+    "2021-06-02T02:31:33.845088": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-06-02T02:31:38.329050": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "как дела у тебя?"
+    },
+    "2021-06-07T12:49:39.277158": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "Привет. Как дела? \nкакие результаты у тебя? \nКакие задачи стоят?\nКакие идеи есть что можно добавить и улучшить?"
+    },
+    "2021-06-07T13:05:12.438574": {
+        "src": "bekeeper@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "Привет , работаю вроде все основное получается, много нового у вас тут узнал , да и узнаю... парни всегда что то новое показывают , в целом все получается"
+    },
+    "2021-06-08T09:30:16.510813": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-28T08:05:57.539547": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-08-09T07:48:39.253821": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "привет как у тебя дела ?"
+    },
+    "2021-09-13T07:59:59.806321": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "bekeeper@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    }
+}

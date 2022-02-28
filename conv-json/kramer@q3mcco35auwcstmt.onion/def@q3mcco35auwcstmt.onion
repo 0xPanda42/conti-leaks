@@ -1,0 +1,16 @@
+{
+    "2021-03-03T13:14:15.313137": {
+        "src": "kramer@q3mcco35auwcstmt.onion",
+        "dst": "def@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-03-03T13:14:15.314362": {
+        "src": "def@q3mcco35auwcstmt.onion",
+        "dst": "kramer@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    }
+}

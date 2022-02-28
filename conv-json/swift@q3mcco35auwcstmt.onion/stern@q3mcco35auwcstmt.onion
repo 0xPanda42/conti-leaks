@@ -1,0 +1,235 @@
+{
+    "2021-02-03T16:00:32.086149": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-03T16:00:34.634260": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "как у тебя дела?",
+        "body_fr": "Comment allez vous?",
+        "body_en": "how are you doing?"
+    },
+    "2021-02-18T10:06:53.866987": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "sonicwall еще нужен",
+        "body_fr": "SonicWall a encore besoin",
+        "body_en": "Sonicwall still need"
+    },
+    "2021-02-18T10:06:55.221478": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "пока работает",
+        "body_fr": "en travaillant",
+        "body_en": "while working"
+    },
+    "2021-02-18T10:06:55.954191": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-02-23T10:22:26.460551": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "рпивет",
+        "body_fr": "Sévir",
+        "body_en": "RPIVIVE"
+    },
+    "2021-02-23T10:22:26.517286": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "рпивет",
+        "body_fr": "Sévir",
+        "body_en": "RPIVIVE"
+    },
+    "2021-02-24T16:29:36.567470": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Кто сможет разобраться по уязвимости sonicwall\nИ сделать рабочий сканер",
+        "body_fr": "Qui peut comprendre la vulnérabilité de SonicWall\nEt faire un scanner de travail",
+        "body_en": "Who can figure out the SonicWall vulnerability\nAnd make a working scanner"
+    },
+    "2021-03-12T15:17:24.802489": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Привет, как у кого дела, пишите результаты, успехи или неудачи",
+        "body_fr": "Bonjour, comment vas-tu, écrit des résultats, des succès ou des échecs",
+        "body_en": "Hello, how are you doing, write results, successes or failures"
+    },
+    "2021-03-24T10:52:34.182548": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Привет как у тебя дела по реверсам ?",
+        "body_fr": "Salut comment allez-vous en marche arrière?",
+        "body_en": "Hi how are you doing on reverse?"
+    },
+    "2021-03-24T10:52:46.159161": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "давай запустим уязвимость по впн, которая sonicwal",
+        "body_fr": "Commençons une vulnérabilité de NPN, qui est SonicWall",
+        "body_en": "Let's start a vulnerability of NPN, which is SonicWall"
+    },
+    "2021-03-24T10:52:54.758218": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "в интернете она есть описанная и может даже код можно найти",
+        "body_fr": "Sur Internet, il est décrit et peut même trouver le code",
+        "body_en": "On the Internet, it is described and can even find the code"
+    },
+    "2021-04-02T12:12:17.164734": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Привет",
+        "body_fr": "Hé",
+        "body_en": "Hey"
+    },
+    "2021-04-02T12:12:20.403208": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "как там твои гаврики?",
+        "body_fr": "Comment sont vos gabers?",
+        "body_en": "How are your gabers?"
+    },
+    "2021-05-06T06:44:34.715437": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "привет"
+    },
+    "2021-05-06T06:44:41.340519": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "он видимо сам уволится хочет"
+    },
+    "2021-05-06T06:44:44.768171": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "у него нет результата"
+    },
+    "2021-05-06T06:44:48.039290": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "уже месяца два"
+    },
+    "2021-05-06T06:44:54.163056": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "я ему дал задания искать кодеров, реверсов и админов"
+    },
+    "2021-05-06T06:44:57.489503": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "от него 0 человек"
+    },
+    "2021-05-06T06:45:02.673828": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "от вайпера уже человек 20 пришло"
+    },
+    "2021-05-06T06:45:04.484728": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "и работают"
+    },
+    "2021-06-02T02:32:00.475939": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Привет ка кдела"
+    },
+    "2021-06-07T12:45:53.287248": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Привет"
+    },
+    "2021-06-08T09:30:16.542176": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Кто нибудь из нас есть кто считает себя гуру блокчейна, и трендов. Кто может знает куда идти в этом направлении и что разрабатывать... Какие у кого идеи"
+    },
+    "2021-06-09T13:01:11.742881": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "да"
+    },
+    "2021-06-09T13:01:13.058734": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "получил"
+    },
+    "2021-06-09T13:01:16.635033": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "но ничего не понял"
+    },
+    "2021-06-09T13:01:24.005091": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "у нас цель 10 реверсов чтобы лаборатория была"
+    },
+    "2021-06-09T13:01:33.625546": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "как продвигаются поиски людей? сложно все ?"
+    },
+    "2021-06-09T13:01:39.340628": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "хотя бы до конца года собрать"
+    },
+    "2021-06-09T13:01:44.130117": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "и раздать задачи и получать результаты"
+    },
+    "2021-06-09T13:01:49.973670": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "если надо купить железо"
+    },
+    "2021-06-28T08:05:49.348112": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "1) мы хотим создать свою крипто систему по типу:\netherium, polkadot и binance smart chain и тд\n\n2) Кто нибудь знает подробно про это?\n\n3) Изучайте эти выше систему, код, принципы работы. Для построения нашей своей, куда уже можно будет воткнуть NFT, DEFI, DEX и все новые тренды которые есть и будут. Чтобы на нашей системе другие уже создавали свои монеты, биржи и проекты."
+    },
+    "2021-06-28T13:50:07.280024": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Привет там реверсеру надо 50к закинуть?"
+    },
+    "2021-06-28T13:50:10.102712": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "за тест задание"
+    },
+    "2021-06-28T13:50:39.986080": {
+        "src": "swift@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "привет. да. он выполнил задание с горем пополам. но в штат не могу взять его"
+    },
+    "2021-06-28T13:51:28.990255": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "почему"
+    },
+    "2021-06-28T13:53:35.033455": {
+        "src": "swift@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "буксует при решении задач. не хватает опыта и фантазии"
+    },
+    "2021-06-28T13:54:01.883335": {
+        "src": "swift@q3mcco35auwcstmt.onion",
+        "dst": "stern@q3mcco35auwcstmt.onion",
+        "body": "мб через пару месяцев наберется знаний и напишет"
+    },
+    "2021-09-13T07:59:59.779243": {
+        "src": "stern@q3mcco35auwcstmt.onion",
+        "dst": "swift@q3mcco35auwcstmt.onion",
+        "body": "Рассказывайте как у вас дела, какие успехи у кого, может какие-то идеи есть?"
+    }
+}

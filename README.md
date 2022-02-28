@@ -1,11 +1,21 @@
 # conti-leaks
 
-Project that aims to help the cybersecurity community #OSINT.
+Contains aggregated conversations from Conti leaks, translated from Russian to English and French with Google
+Translate (some can be missing).
 
-Contains aggregated conversations from Conti leaks, translated from Russian to English and French.
+Source: OSINT
+Aims to help the cybersecurity community.
+
+Available in JSON and TXT formats.
 
 
 # Overview
+
+At this moment:
+Total msg: 60694
+Total msg (translated fr): 6260
+Total msg (translated en): 6187
+
 
 | ACCOUNT                                                                | NB DST | TOTAL MSG |
 | ---------------------------------------------------------------------- |:------:|:---------:|

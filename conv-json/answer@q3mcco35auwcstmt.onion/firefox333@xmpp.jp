@@ -1,0 +1,12 @@
+{
+    "2021-04-16T09:08:34.450963": {
+        "src": "answer@q3mcco35auwcstmt.onion",
+        "dst": "firefox333@xmpp.jp",
+        "body": "Добрый день"
+    },
+    "2021-04-16T09:08:37.267615": {
+        "src": "firefox333@xmpp.jp",
+        "dst": "answer@q3mcco35auwcstmt.onion",
+        "body": "Добрый день"
+    }
+}
