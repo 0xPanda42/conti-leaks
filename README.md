@@ -4,6 +4,7 @@ Contains aggregated conversations from Conti leaks, translated from Russian to E
 Translate (some can be missing).
 
 Source: OSINT
+
 Aims to help the cybersecurity community.
 
 Available in JSON and TXT formats.
@@ -12,9 +13,9 @@ Available in JSON and TXT formats.
 # Overview
 
 At this moment:
-Total msg: 60694
-Total msg (translated fr): 6260
-Total msg (translated en): 6187
+- Total msg: 60694
+- Total msg (translated fr): 6260
+- Total msg (translated en): 6187
 
 
 | ACCOUNT                                                                | NB DST | TOTAL MSG |
